@@ -1,0 +1,1740 @@
+Bayes item #1 matches MA item #2
+########## Bayes title 1##########
+Risk of serious infection in biological treatment of patients with rheumatoid arthritis: a systematic review and meta-analysis.
+########## MA title 2##########
+Risk of serious infection in biological treatment of patients with rheumatoid arthritis: a systematic review and meta-analysis.
+
+Bayes item #2 matches MA item #18
+########## Bayes title 2##########
+Mortality in patients treated with extended duration dual antiplatelet therapy after drug-eluting stent implantation: a pairwise and Bayesian network meta-analysis of randomised trials.
+########## MA title 18##########
+Mortality in patients treated with extended duration dual antiplatelet therapy after drug-eluting stent implantation: a pairwise and Bayesian network meta-analysis of randomised trials.
+
+Bayes item #3 matches MA item #38
+########## Bayes title 3##########
+First-line treatments for chronic lymphocytic leukaemia: interpreting efficacy data by network meta-analysis.
+########## MA title 38##########
+First-line treatments for chronic lymphocytic leukaemia: interpreting efficacy data by network meta-analysis.
+
+Bayes item #4 matches MA item #110
+########## Bayes title 4##########
+A Bayesian network meta-analysis on the effect of inodilatory agents on mortality.
+########## MA title 110##########
+A Bayesian network meta-analysis on the effect of inodilatory agents on mortality.
+
+Bayes item #5 matches MA item #133
+########## Bayes title 5##########
+Comparative efficacy and safety of selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors in older adults: a network meta-analysis.
+########## MA title 133##########
+Comparative efficacy and safety of selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors in older adults: a network meta-analysis.
+
+Bayes item #7 matches MA item #202
+########## Bayes title 7##########
+Dynamic contrast-enhanced MRI for the detection of prostate cancer: meta-analysis.
+########## MA title 202##########
+Dynamic contrast-enhanced MRI for the detection of prostate cancer: meta-analysis.
+
+Bayes item #9 matches MA item #233
+########## Bayes title 9##########
+Meta-analysis of prognostic factors for amputation following surgical repair of lower extremity vascular trauma.
+########## MA title 233##########
+Meta-analysis of prognostic factors for amputation following surgical repair of lower extremity vascular trauma.
+
+Bayes item #10 matches MA item #389
+########## Bayes title 10##########
+Transcatheter reduction of paravalvular leaks: a systematic review and meta-analysis.
+########## MA title 389##########
+Transcatheter reduction of paravalvular leaks: a systematic review and meta-analysis.
+
+Bayes item #11 matches MA item #448
+########## Bayes title 11##########
+Interventions for treating displaced midshaft clavicular fractures: a Bayesian network meta-analysis of randomized controlled trials.
+########## MA title 448##########
+Interventions for treating displaced midshaft clavicular fractures: a Bayesian network meta-analysis of randomized controlled trials.
+
+Bayes item #12 matches MA item #451
+########## Bayes title 12##########
+Treatments for shoulder impingement syndrome: a PRISMA systematic review and network meta-analysis.
+########## MA title 451##########
+Treatments for shoulder impingement syndrome: a PRISMA systematic review and network meta-analysis.
+
+Bayes item #13 matches MA item #492
+########## Bayes title 13##########
+Extended duration dual antiplatelet therapy and mortality: a systematic review and meta-analysis.
+########## MA title 492##########
+Extended duration dual antiplatelet therapy and mortality: a systematic review and meta-analysis.
+
+Bayes item #14 matches MA item #516
+########## Bayes title 14##########
+Diagnostic accuracy of endoscopic ultrasonography (EUS) for the preoperative locoregional staging of primary gastric cancer.
+########## MA title 516##########
+Diagnostic accuracy of endoscopic ultrasonography (EUS) for the preoperative locoregional staging of primary gastric cancer.
+
+Bayes item #15 matches MA item #518
+########## Bayes title 15##########
+Labour induction with prostaglandins: a systematic review and network meta-analysis.
+########## MA title 518##########
+Labour induction with prostaglandins: a systematic review and network meta-analysis.
+
+Bayes item #16 matches MA item #548
+########## Bayes title 16##########
+A network meta-analysis of progression free survival and overall survival in first-line treatment of chronic lymphocytic leukemia.
+########## MA title 548##########
+A network meta-analysis of progression free survival and overall survival in first-line treatment of chronic lymphocytic leukemia.
+
+Bayes item #17 matches MA item #563
+########## Bayes title 17##########
+Comparative effectiveness of immunosuppressants and biologics for inducing and maintaining remission in Crohn's disease: a network meta-analysis.
+########## MA title 563##########
+Comparative effectiveness of immunosuppressants and biologics for inducing and maintaining remission in Crohn's disease: a network meta-analysis.
+
+Bayes item #19 matches MA item #673
+########## Bayes title 19##########
+Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis.
+########## MA title 673##########
+Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis.
+
+Bayes item #20 matches MA item #737
+########## Bayes title 20##########
+[Meta analysis of the use of Bayesian networks in breast cancer diagnosis].
+########## MA title 737##########
+[Meta analysis of the use of Bayesian networks in breast cancer diagnosis].
+
+Bayes item #21 matches MA item #781
+########## Bayes title 21##########
+Comparative efficacy of pharmacologic interventions in preventing relapse of Crohn's disease after surgery: a systematic review and network meta-analysis.
+########## MA title 781##########
+Comparative efficacy of pharmacologic interventions in preventing relapse of Crohn's disease after surgery: a systematic review and network meta-analysis.
+
+Bayes item #22 matches MA item #858
+########## Bayes title 22##########
+Spatial and temporal distribution of soil-transmitted helminth infection in sub-Saharan Africa: a systematic review and geostatistical meta-analysis.
+########## MA title 858##########
+Spatial and temporal distribution of soil-transmitted helminth infection in sub-Saharan Africa: a systematic review and geostatistical meta-analysis.
+
+Bayes item #23 matches MA item #917
+########## Bayes title 23##########
+Network meta-analysis: development of a three-level hierarchical modeling approach incorporating dose-related constraints.
+########## MA title 917##########
+Network meta-analysis: development of a three-level hierarchical modeling approach incorporating dose-related constraints.
+
+Bayes item #24 matches MA item #934
+########## Bayes title 24##########
+Trans-ethnic meta-analysis of white blood cell phenotypes.
+########## MA title 934##########
+Trans-ethnic meta-analysis of white blood cell phenotypes.
+
+Bayes item #26 matches MA item #1218
+########## Bayes title 26##########
+Comparative efficacy of biologic therapy in biologic-naïve patients with Crohn disease: a systematic review and network meta-analysis.
+########## MA title 1218##########
+Comparative efficacy of biologic therapy in biologic-naïve patients with Crohn disease: a systematic review and network meta-analysis.
+
+Bayes item #27 matches MA item #1251
+########## Bayes title 27##########
+Blast-related mild traumatic brain injury: a Bayesian random-effects meta-analysis on the cognitive outcomes of concussion among military personnel.
+########## MA title 1251##########
+Blast-related mild traumatic brain injury: a Bayesian random-effects meta-analysis on the cognitive outcomes of concussion among military personnel.
+
+Bayes item #28 matches MA item #1362
+########## Bayes title 28##########
+Management of chronic neuropathic pain: a protocol for a multiple treatment comparison meta-analysis of randomised controlled trials.
+########## MA title 1362##########
+Management of chronic neuropathic pain: a protocol for a multiple treatment comparison meta-analysis of randomised controlled trials.
+
+Bayes item #29 matches MA item #1368
+########## Bayes title 29##########
+Coronary revascularization in diabetic patients: a systematic review and Bayesian network meta-analysis.
+########## MA title 1368##########
+Coronary revascularization in diabetic patients: a systematic review and Bayesian network meta-analysis.
+
+Bayes item #30 matches MA item #1410
+########## Bayes title 30##########
+Efficacy, quality of life, and acceptability outcomes of atypical antipsychotic augmentation treatment for treatment-resistant depression: protocol for a systematic review and network meta-analysis.
+########## MA title 1410##########
+Efficacy, quality of life, and acceptability outcomes of atypical antipsychotic augmentation treatment for treatment-resistant depression: protocol for a systematic review and network meta-analysis.
+
+Bayes item #31 matches MA item #1538
+########## Bayes title 31##########
+Outdoor fine particles and nonfatal strokes: systematic review and meta-analysis.
+########## MA title 1538##########
+Outdoor fine particles and nonfatal strokes: systematic review and meta-analysis.
+
+Bayes item #33 matches MA item #1752
+########## Bayes title 33##########
+Impact of long-term lifestyle programmes on weight loss and cardiovascular risk factors in overweight/obese participants: a systematic review and network meta-analysis.
+########## MA title 1752##########
+Impact of long-term lifestyle programmes on weight loss and cardiovascular risk factors in overweight/obese participants: a systematic review and network meta-analysis.
+
+Bayes item #34 matches MA item #1878
+########## Bayes title 34##########
+Genetic variability of VEGF pathway genes in six randomized phase III trials assessing the addition of bevacizumab to standard therapy.
+########## MA title 1878##########
+Genetic variability of VEGF pathway genes in six randomized phase III trials assessing the addition of bevacizumab to standard therapy.
+
+Bayes item #35 matches MA item #2018
+########## Bayes title 35##########
+Sensitivity of diagnostic tests for human soil-transmitted helminth infections: a meta-analysis in the absence of a true gold standard.
+########## MA title 2018##########
+Sensitivity of diagnostic tests for human soil-transmitted helminth infections: a meta-analysis in the absence of a true gold standard.
+
+Bayes item #36 matches MA item #2045
+########## Bayes title 36##########
+A systematic review and Bayesian network meta-analysis of randomized clinical trials on non-surgical treatments for peri-implantitis.
+########## MA title 2045##########
+A systematic review and Bayesian network meta-analysis of randomized clinical trials on non-surgical treatments for peri-implantitis.
+
+Bayes item #37 matches MA item #2049
+########## Bayes title 37##########
+Mortality benefit of vasopressor and inotropic agents in septic shock: a Bayesian network meta-analysis of randomized controlled trials.
+########## MA title 2049##########
+Mortality benefit of vasopressor and inotropic agents in septic shock: a Bayesian network meta-analysis of randomized controlled trials.
+
+Bayes item #38 matches MA item #2100
+########## Bayes title 38##########
+A Bayesian mixed-treatment comparison meta-analysis of treatments for alcohol dependence and implications for planning future trials.
+########## MA title 2100##########
+A Bayesian mixed-treatment comparison meta-analysis of treatments for alcohol dependence and implications for planning future trials.
+
+Bayes item #39 matches MA item #2246
+########## Bayes title 39##########
+Comparative effectiveness of neoadjuvant therapy for HER2-positive breast cancer: a network meta-analysis.
+########## MA title 2246##########
+Comparative effectiveness of neoadjuvant therapy for HER2-positive breast cancer: a network meta-analysis.
+
+Bayes item #40 matches MA item #2266
+########## Bayes title 40##########
+Comparison of weight loss among named diet programs in overweight and obese adults: a meta-analysis.
+########## MA title 2266##########
+Comparison of weight loss among named diet programs in overweight and obese adults: a meta-analysis.
+
+Bayes item #43 matches MA item #2468
+########## Bayes title 43##########
+Effect of odanacatib on BMD and fractures: estimates from Bayesian univariate and bivariate meta-analyses.
+########## MA title 2468##########
+Effect of odanacatib on BMD and fractures: estimates from Bayesian univariate and bivariate meta-analyses.
+
+Bayes item #44 matches MA item #2822
+########## Bayes title 44##########
+Comparative efficacy and risk of harms of immediate- versus extended-release second-generation antidepressants: a systematic review with network meta-analysis.
+########## MA title 2822##########
+Comparative efficacy and risk of harms of immediate- versus extended-release second-generation antidepressants: a systematic review with network meta-analysis.
+
+Bayes item #45 matches MA item #2835
+########## Bayes title 45##########
+A network meta-analysis of the efficacy of belatacept, cyclosporine and tacrolimus for immunosuppression therapy in adult renal transplant recipients.
+########## MA title 2835##########
+A network meta-analysis of the efficacy of belatacept, cyclosporine and tacrolimus for immunosuppression therapy in adult renal transplant recipients.
+
+Bayes item #46 matches MA item #3010
+########## Bayes title 46##########
+Afatinib in the treatment of EGFR mutation-positive NSCLC--a network meta-analysis.
+########## MA title 3010##########
+Afatinib in the treatment of EGFR mutation-positive NSCLC--a network meta-analysis.
+
+Bayes item #47 matches MA item #3033
+########## Bayes title 47##########
+Effectiveness of continuous and pulsed ultrasound for the management of knee osteoarthritis: a systematic review and network meta-analysis.
+########## MA title 3033##########
+Effectiveness of continuous and pulsed ultrasound for the management of knee osteoarthritis: a systematic review and network meta-analysis.
+
+Bayes item #48 matches MA item #3182
+########## Bayes title 48##########
+Comparative efficacy of biologics as monotherapy and in combination with methotrexate on patient reported outcomes (PROs) in rheumatoid arthritis patients with an inadequate response to conventional DMARDs--a systematic review and network meta-analysis.
+########## MA title 3182##########
+Comparative efficacy of biologics as monotherapy and in combination with methotrexate on patient reported outcomes (PROs) in rheumatoid arthritis patients with an inadequate response to conventional DMARDs--a systematic review and network meta-analysis.
+
+Bayes item #49 matches MA item #3367
+########## Bayes title 49##########
+Adalimumab versus infliximab for the treatment of moderate to severe ulcerative colitis in adult patients naïve to anti-TNF therapy: an indirect treatment comparison meta-analysis.
+########## MA title 3367##########
+Adalimumab versus infliximab for the treatment of moderate to severe ulcerative colitis in adult patients naïve to anti-TNF therapy: an indirect treatment comparison meta-analysis.
+
+Bayes item #50 matches MA item #3397
+########## Bayes title 50##########
+Non-biologic remission maintenance therapy in adult patients with ANCA-associated vasculitis: a systematic review and network meta-analysis.
+########## MA title 3397##########
+Non-biologic remission maintenance therapy in adult patients with ANCA-associated vasculitis: a systematic review and network meta-analysis.
+
+Bayes item #51 matches MA item #3534
+########## Bayes title 51##########
+Chemotherapy regimens for advanced pancreatic cancer: a systematic review and network meta-analysis.
+########## MA title 3534##########
+Chemotherapy regimens for advanced pancreatic cancer: a systematic review and network meta-analysis.
+
+Bayes item #52 matches MA item #3546
+########## Bayes title 52##########
+Revascularisation versus medical treatment in patients with stable coronary artery disease: network meta-analysis.
+########## MA title 3546##########
+Revascularisation versus medical treatment in patients with stable coronary artery disease: network meta-analysis.
+
+Bayes item #53 matches MA item #3598
+########## Bayes title 53##########
+Systematic review with network meta-analysis: the efficacy of anti-TNF agents for the treatment of Crohn's disease.
+########## MA title 3598##########
+Systematic review with network meta-analysis: the efficacy of anti-TNF agents for the treatment of Crohn's disease.
+
+Bayes item #54 matches MA item #3662
+########## Bayes title 54##########
+Use of inhaled corticosteroids in patients with COPD and the risk of TB and influenza: A systematic review and meta-analysis of randomized controlled trials. a systematic review and meta-analysis of randomized controlled trials.
+########## MA title 3662##########
+Use of inhaled corticosteroids in patients with COPD and the risk of TB and influenza: A systematic review and meta-analysis of randomized controlled trials. a systematic review and meta-analysis of randomized controlled trials.
+
+Bayes item #55 matches MA item #3698
+########## Bayes title 55##########
+Comparative efficacy, acceptability, and safety of medicinal, cognitive-behavioral therapy, and placebo treatments for acute major depressive disorder in children and adolescents: a multiple-treatments meta-analysis.
+########## MA title 3698##########
+Comparative efficacy, acceptability, and safety of medicinal, cognitive-behavioral therapy, and placebo treatments for acute major depressive disorder in children and adolescents: a multiple-treatments meta-analysis.
+
+Bayes item #56 matches MA item #3817
+########## Bayes title 56##########
+A Mediterranean diet improves HbA1c but not fasting blood glucose compared to alternative dietary strategies: a network meta-analysis.
+########## MA title 3817##########
+A Mediterranean diet improves HbA1c but not fasting blood glucose compared to alternative dietary strategies: a network meta-analysis.
+
+Bayes item #57 matches MA item #3895
+########## Bayes title 57##########
+Discordance in hormone receptor status among primary, metastatic, and second primary breast cancers: biological difference or misclassification?
+########## MA title 3895##########
+Discordance in hormone receptor status among primary, metastatic, and second primary breast cancers: biological difference or misclassification?
+
+Bayes item #58 matches MA item #4054
+########## Bayes title 58##########
+Comparative effectiveness of long term drug treatment strategies to prevent asthma exacerbations: network meta-analysis.
+########## MA title 4054##########
+Comparative effectiveness of long term drug treatment strategies to prevent asthma exacerbations: network meta-analysis.
+
+Bayes item #59 matches MA item #4174
+########## Bayes title 59##########
+Dapagliflozin compared with other oral anti-diabetes treatments when added to metformin monotherapy: a systematic review and network meta-analysis.
+########## MA title 4174##########
+Dapagliflozin compared with other oral anti-diabetes treatments when added to metformin monotherapy: a systematic review and network meta-analysis.
+
+Bayes item #60 matches MA item #4193
+########## Bayes title 60##########
+Biodegradable-polymer drug-eluting stents vs. bare metal stents vs. durable-polymer drug-eluting stents: a systematic review and Bayesian approach network meta-analysis.
+########## MA title 4193##########
+Biodegradable-polymer drug-eluting stents vs. bare metal stents vs. durable-polymer drug-eluting stents: a systematic review and Bayesian approach network meta-analysis.
+
+Bayes item #61 matches MA item #4203
+########## Bayes title 61##########
+Comparative efficacy and safety of biosimilar infliximab and other biological treatments in ankylosing spondylitis: systematic literature review and meta-analysis.
+########## MA title 4203##########
+Comparative efficacy and safety of biosimilar infliximab and other biological treatments in ankylosing spondylitis: systematic literature review and meta-analysis.
+
+Bayes item #62 matches MA item #4406
+########## Bayes title 62##########
+Bayesian test for colocalisation between pairs of genetic association studies using summary statistics.
+########## MA title 4406##########
+Bayesian test for colocalisation between pairs of genetic association studies using summary statistics.
+
+Bayes item #63 matches MA item #4529
+########## Bayes title 63##########
+Relations of change in plasma levels of LDL-C, non-HDL-C and apoB with risk reduction from statin therapy: a meta-analysis of randomized trials.
+########## MA title 4529##########
+Relations of change in plasma levels of LDL-C, non-HDL-C and apoB with risk reduction from statin therapy: a meta-analysis of randomized trials.
+
+Bayes item #64 matches MA item #4569
+########## Bayes title 64##########
+Systematic review with network meta-analysis: the efficacy of anti-tumour necrosis factor-alpha agents for the treatment of ulcerative colitis.
+########## MA title 4569##########
+Systematic review with network meta-analysis: the efficacy of anti-tumour necrosis factor-alpha agents for the treatment of ulcerative colitis.
+
+Bayes item #65 matches MA item #4622
+########## Bayes title 65##########
+Comparative efficacy of triptans for the abortive treatment of migraine: a multiple treatment comparison meta-analysis.
+########## MA title 4622##########
+Comparative efficacy of triptans for the abortive treatment of migraine: a multiple treatment comparison meta-analysis.
+
+Bayes item #66 matches MA item #4769
+########## Bayes title 66##########
+Diagnosing flow residuals in coiled cerebral aneurysms by MR angiography: meta-analysis.
+########## MA title 4769##########
+Diagnosing flow residuals in coiled cerebral aneurysms by MR angiography: meta-analysis.
+
+Bayes item #67 matches MA item #4787
+########## Bayes title 67##########
+Bayesian network meta-analysis of nitinol stents, covered stents, drug-eluting stents, and drug-coated balloons in the femoropopliteal artery.
+########## MA title 4787##########
+Bayesian network meta-analysis of nitinol stents, covered stents, drug-eluting stents, and drug-coated balloons in the femoropopliteal artery.
+
+Bayes item #68 matches MA item #4824
+########## Bayes title 68##########
+Comparative gastrointestinal safety of bisphosphonates in primary osteoporosis: a network meta-analysis.
+########## MA title 4824##########
+Comparative gastrointestinal safety of bisphosphonates in primary osteoporosis: a network meta-analysis.
+
+Bayes item #69 matches MA item #4932
+########## Bayes title 69##########
+Selective digestive or oropharyngeal decontamination and topical oropharyngeal chlorhexidine for prevention of death in general intensive care: systematic review and network meta-analysis.
+########## MA title 4932##########
+Selective digestive or oropharyngeal decontamination and topical oropharyngeal chlorhexidine for prevention of death in general intensive care: systematic review and network meta-analysis.
+
+Bayes item #70 matches MA item #4974
+########## Bayes title 70##########
+Inferring primary tumor sites from mutation spectra: a meta-analysis of histology-specific aberrations in cancer-derived cell lines.
+########## MA title 4974##########
+Inferring primary tumor sites from mutation spectra: a meta-analysis of histology-specific aberrations in cancer-derived cell lines.
+
+Bayes item #71 matches MA item #4976
+########## Bayes title 71##########
+Nephropathy after administration of iso-osmolar and low-osmolar contrast media: evidence from a network meta-analysis.
+########## MA title 4976##########
+Nephropathy after administration of iso-osmolar and low-osmolar contrast media: evidence from a network meta-analysis.
+
+Bayes item #72 matches MA item #4994
+########## Bayes title 72##########
+The efficacy of duloxetine, non-steroidal anti-inflammatory drugs, and opioids in osteoarthritis: a systematic literature review and meta-analysis.
+########## MA title 4994##########
+The efficacy of duloxetine, non-steroidal anti-inflammatory drugs, and opioids in osteoarthritis: a systematic literature review and meta-analysis.
+
+Bayes item #73 matches MA item #5134
+########## Bayes title 73##########
+Comparison of the efficacy and safety of low molecular weight heparins for venous thromboembolism prophylaxis in medically ill patients.
+########## MA title 5134##########
+Comparison of the efficacy and safety of low molecular weight heparins for venous thromboembolism prophylaxis in medically ill patients.
+
+Bayes item #74 matches MA item #5169
+########## Bayes title 74##########
+[Clinical evaluation of lapatinib therapy in metastatic breast cancer using the Bayes meta-analysis].
+########## MA title 5169##########
+[Clinical evaluation of lapatinib therapy in metastatic breast cancer using the Bayes meta-analysis].
+
+Bayes item #75 matches MA item #5180
+########## Bayes title 75##########
+Current and new oral antithrombotics in non-valvular atrial fibrillation: a network meta-analysis of 79 808 patients.
+########## MA title 5180##########
+Current and new oral antithrombotics in non-valvular atrial fibrillation: a network meta-analysis of 79 808 patients.
+
+Bayes item #76 matches MA item #5232
+########## Bayes title 76##########
+The incidence and prevalence of thyroid dysfunction in Europe: a meta-analysis.
+########## MA title 5232##########
+The incidence and prevalence of thyroid dysfunction in Europe: a meta-analysis.
+
+Bayes item #77 matches MA item #5234
+########## Bayes title 77##########
+Efficacy of vitamin D supplementation in depression in adults: a systematic review.
+########## MA title 5234##########
+Efficacy of vitamin D supplementation in depression in adults: a systematic review.
+
+Bayes item #78 matches MA item #5506
+########## Bayes title 78##########
+HHV-8 seroprevalence: a global view.
+########## MA title 5506##########
+HHV-8 seroprevalence: a global view.
+
+Bayes item #79 matches MA item #5677
+########## Bayes title 79##########
+A systematic review and meta-analysis of surgical outcomes following mitral valve surgery in octogenarians: implications for transcatheter mitral valve interventions.
+########## MA title 5677##########
+A systematic review and meta-analysis of surgical outcomes following mitral valve surgery in octogenarians: implications for transcatheter mitral valve interventions.
+
+Bayes item #80 matches MA item #5834
+########## Bayes title 80##########
+Systematic review and meta-analysis of pharmacological therapies for painful diabetic peripheral neuropathy.
+########## MA title 5834##########
+Systematic review and meta-analysis of pharmacological therapies for painful diabetic peripheral neuropathy.
+
+Bayes item #81 matches MA item #5965
+########## Bayes title 81##########
+Systematic review, network meta-analysis and economic evaluation of biological therapy for the management of active psoriatic arthritis.
+########## MA title 5965##########
+Systematic review, network meta-analysis and economic evaluation of biological therapy for the management of active psoriatic arthritis.
+
+Bayes item #82 matches MA item #6031
+########## Bayes title 82##########
+Prevalence of G6PD deficiency in Iran, a mata-analysis.
+########## MA title 6031##########
+Prevalence of G6PD deficiency in Iran, a mata-analysis.
+
+Bayes item #83 matches MA item #6282
+########## Bayes title 83##########
+Comparative efficacy of everolimus plus exemestane versus fulvestrant for hormone-receptor-positive advanced breast cancer following progression/recurrence after endocrine therapy: a network meta-analysis.
+########## MA title 6282##########
+Comparative efficacy of everolimus plus exemestane versus fulvestrant for hormone-receptor-positive advanced breast cancer following progression/recurrence after endocrine therapy: a network meta-analysis.
+
+Bayes item #85 matches MA item #6501
+########## Bayes title 85##########
+Bayesian network meta-analysis suggests a similar effectiveness between a monovalent and a pentavalent rotavirus vaccine: a preliminary report of re-analyses of data from a Cochrane Database Systematic Review.
+########## MA title 6501##########
+Bayesian network meta-analysis suggests a similar effectiveness between a monovalent and a pentavalent rotavirus vaccine: a preliminary report of re-analyses of data from a Cochrane Database Systematic Review.
+
+Bayes item #86 matches MA item #6523
+########## Bayes title 86##########
+Comparative efficacy of inhaled corticosteroid and long-acting beta agonist combinations in preventing COPD exacerbations: a Bayesian network meta-analysis.
+########## MA title 6523##########
+Comparative efficacy of inhaled corticosteroid and long-acting beta agonist combinations in preventing COPD exacerbations: a Bayesian network meta-analysis.
+
+Bayes item #87 matches MA item #6568
+########## Bayes title 87##########
+A network meta-analysis on the efficacy of 5-aminosalicylates, immunomodulators and biologics for the prevention of postoperative recurrence in Crohn's disease.
+########## MA title 6568##########
+A network meta-analysis on the efficacy of 5-aminosalicylates, immunomodulators and biologics for the prevention of postoperative recurrence in Crohn's disease.
+
+Bayes item #88 matches MA item #6636
+########## Bayes title 88##########
+SSRIs for hot flashes: a systematic review and meta-analysis of randomized trials.
+########## MA title 6636##########
+SSRIs for hot flashes: a systematic review and meta-analysis of randomized trials.
+
+Bayes item #89 matches MA item #6846
+########## Bayes title 89##########
+A Bayesian meta-analysis of multiple treatment comparisons of systemic regimens for advanced pancreatic cancer.
+########## MA title 6846##########
+A Bayesian meta-analysis of multiple treatment comparisons of systemic regimens for advanced pancreatic cancer.
+
+Bayes item #90 matches MA item #6849
+########## Bayes title 90##########
+Chemotherapy or targeted therapy as second-line treatment of advanced gastric cancer. A systematic review and meta-analysis of published studies.
+########## MA title 6849##########
+Chemotherapy or targeted therapy as second-line treatment of advanced gastric cancer. A systematic review and meta-analysis of published studies.
+
+Bayes item #91 matches MA item #6880
+########## Bayes title 91##########
+48-week efficacy and safety of dolutegravir relative to commonly used third agents in treatment-naive HIV-1-infected patients: a systematic review and network meta-analysis.
+########## MA title 6880##########
+48-week efficacy and safety of dolutegravir relative to commonly used third agents in treatment-naive HIV-1-infected patients: a systematic review and network meta-analysis.
+
+Bayes item #92 matches MA item #6948
+########## Bayes title 92##########
+A network meta-analysis of the relative efficacy of treatments for actinic keratosis of the face or scalp in Europe.
+########## MA title 6948##########
+A network meta-analysis of the relative efficacy of treatments for actinic keratosis of the face or scalp in Europe.
+
+Bayes item #93 matches MA item #7150
+########## Bayes title 93##########
+Efficacy and safety of therapies for acute ischemic stroke in China: a network meta-analysis of 13289 patients from 145 randomized controlled trials.
+########## MA title 7150##########
+Efficacy and safety of therapies for acute ischemic stroke in China: a network meta-analysis of 13289 patients from 145 randomized controlled trials.
+
+Bayes item #95 matches MA item #7213
+########## Bayes title 95##########
+Age-dependent prevalence of nasopharyngeal carriage of streptococcus pneumoniae before conjugate vaccine introduction: a prediction model based on a meta-analysis.
+########## MA title 7213##########
+Age-dependent prevalence of nasopharyngeal carriage of streptococcus pneumoniae before conjugate vaccine introduction: a prediction model based on a meta-analysis.
+
+Bayes item #96 matches MA item #7403
+########## Bayes title 96##########
+Bayesian meta-analysis of diagnostic tests allowing for imperfect reference standards.
+########## MA title 7403##########
+Bayesian meta-analysis of diagnostic tests allowing for imperfect reference standards.
+
+Bayes item #97 matches MA item #7490
+########## Bayes title 97##########
+Systematic review with network meta-analysis: pharmacological prophylaxis against post-ERCP pancreatitis.
+########## MA title 7490##########
+Systematic review with network meta-analysis: pharmacological prophylaxis against post-ERCP pancreatitis.
+
+Bayes item #98 matches MA item #7521
+########## Bayes title 98##########
+Anaesthetic drugs and survival: a Bayesian network meta-analysis of randomized trials in cardiac surgery.
+########## MA title 7521##########
+Anaesthetic drugs and survival: a Bayesian network meta-analysis of randomized trials in cardiac surgery.
+
+Bayes item #100 matches MA item #7719
+########## Bayes title 100##########
+ENERgized vessel sealing systems versus CONventional hemostasis techniques in thyroid surgery--the ENERCON systematic review and network meta-analysis.
+########## MA title 7719##########
+ENERgized vessel sealing systems versus CONventional hemostasis techniques in thyroid surgery--the ENERCON systematic review and network meta-analysis.
+
+Bayes item #101 matches MA item #7908
+########## Bayes title 101##########
+Diagnostic indicators of non-cardiovascular chest pain: a systematic review and meta-analysis.
+########## MA title 7908##########
+Diagnostic indicators of non-cardiovascular chest pain: a systematic review and meta-analysis.
+
+Bayes item #103 matches MA item #8109
+########## Bayes title 103##########
+Safety of off-label erythropoiesis stimulating agents in critically ill patients: a meta-analysis.
+########## MA title 8109##########
+Safety of off-label erythropoiesis stimulating agents in critically ill patients: a meta-analysis.
+
+Bayes item #104 matches MA item #8116
+########## Bayes title 104##########
+Antibiotic prophylaxis for the prevention of surgical site infection after tension-free hernia repair: a Bayesian and frequentist meta-analysis.
+########## MA title 8116##########
+Antibiotic prophylaxis for the prevention of surgical site infection after tension-free hernia repair: a Bayesian and frequentist meta-analysis.
+
+Bayes item #105 matches MA item #8194
+########## Bayes title 105##########
+The SH2B1 obesity locus and abnormal glucose homeostasis: lack of evidence for association from a meta-analysis in individuals of European ancestry.
+########## MA title 8194##########
+The SH2B1 obesity locus and abnormal glucose homeostasis: lack of evidence for association from a meta-analysis in individuals of European ancestry.
+
+Bayes item #108 matches MA item #8380
+########## Bayes title 108##########
+Comparative efficacy of long-acting bronchodilators for COPD: a network meta-analysis.
+########## MA title 8380##########
+Comparative efficacy of long-acting bronchodilators for COPD: a network meta-analysis.
+
+Bayes item #109 matches MA item #8492
+########## Bayes title 109##########
+Flexible sigmoidoscopy versus faecal occult blood testing for colorectal cancer screening in asymptomatic individuals.
+########## MA title 8492##########
+Flexible sigmoidoscopy versus faecal occult blood testing for colorectal cancer screening in asymptomatic individuals.
+
+Bayes item #110 matches MA item #8570
+########## Bayes title 110##########
+Evaluating the efficacy and safety of apixaban, a new oral anticoagulant, using Bayesian meta-analysis.
+########## MA title 8570##########
+Evaluating the efficacy and safety of apixaban, a new oral anticoagulant, using Bayesian meta-analysis.
+
+Bayes item #111 matches MA item #8796
+########## Bayes title 111##########
+Multivariate meta-analysis of mixed outcomes: a Bayesian approach.
+########## MA title 8796##########
+Multivariate meta-analysis of mixed outcomes: a Bayesian approach.
+
+Bayes item #112 matches MA item #8818
+########## Bayes title 112##########
+Exercise for lower limb osteoarthritis: systematic review incorporating trial sequential analysis and network meta-analysis.
+########## MA title 8818##########
+Exercise for lower limb osteoarthritis: systematic review incorporating trial sequential analysis and network meta-analysis.
+
+Bayes item #113 matches MA item #8848
+########## Bayes title 113##########
+Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis.
+########## MA title 8848##########
+Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis.
+
+Bayes item #116 matches MA item #9117
+########## Bayes title 116##########
+Preventive pharmacologic treatments for episodic migraine in adults.
+########## MA title 9117##########
+Preventive pharmacologic treatments for episodic migraine in adults.
+
+Bayes item #117 matches MA item #9122
+########## Bayes title 117##########
+Estimating the probability of IQ impairment from blood phenylalanine for phenylketonuria patients: a hierarchical meta-analysis.
+########## MA title 9122##########
+Estimating the probability of IQ impairment from blood phenylalanine for phenylketonuria patients: a hierarchical meta-analysis.
+
+Bayes item #119 matches MA item #9242
+########## Bayes title 119##########
+Which hemostatic device in thyroid surgery? A network meta-analysis of surgical technologies.
+########## MA title 9242##########
+Which hemostatic device in thyroid surgery? A network meta-analysis of surgical technologies.
+
+Bayes item #120 matches MA item #9361
+########## Bayes title 120##########
+Risk of pelvic inflammatory disease following Chlamydia trachomatis infection: analysis of prospective studies with a multistate model.
+########## MA title 9361##########
+Risk of pelvic inflammatory disease following Chlamydia trachomatis infection: analysis of prospective studies with a multistate model.
+
+Bayes item #122 matches MA item #9452
+########## Bayes title 122##########
+The efficacy and tolerability of perampanel and other recently approved anti-epileptic drugs for the treatment of refractory partial onset seizure: a systematic review and Bayesian network meta-analysis.
+########## MA title 9452##########
+The efficacy and tolerability of perampanel and other recently approved anti-epileptic drugs for the treatment of refractory partial onset seizure: a systematic review and Bayesian network meta-analysis.
+
+Bayes item #123 matches MA item #9478
+########## Bayes title 123##########
+Dose-comparative effects of different statins on serum lipid levels: a network meta-analysis of 256,827 individuals in 181 randomized controlled trials.
+########## MA title 9478##########
+Dose-comparative effects of different statins on serum lipid levels: a network meta-analysis of 256,827 individuals in 181 randomized controlled trials.
+
+Bayes item #124 matches MA item #9923
+########## Bayes title 124##########
+Progression rates from HbA1c 6.0-6.4% and other prediabetes definitions to type 2 diabetes: a meta-analysis.
+########## MA title 9923##########
+Progression rates from HbA1c 6.0-6.4% and other prediabetes definitions to type 2 diabetes: a meta-analysis.
+
+Bayes item #125 matches MA item #10192
+########## Bayes title 125##########
+Use of mixed-treatment-comparison methods in estimating efficacy of treatments for heavy menstrual bleeding.
+########## MA title 10192##########
+Use of mixed-treatment-comparison methods in estimating efficacy of treatments for heavy menstrual bleeding.
+
+Bayes item #126 matches MA item #10198
+########## Bayes title 126##########
+Impact of statin dose on major cardiovascular events: a mixed treatment comparison meta-analysis involving more than 175,000 patients.
+########## MA title 10198##########
+Impact of statin dose on major cardiovascular events: a mixed treatment comparison meta-analysis involving more than 175,000 patients.
+
+Bayes item #127 matches MA item #10257
+########## Bayes title 127##########
+Immunomodulators and immunosuppressants for multiple sclerosis: a network meta-analysis.
+########## MA title 10257##########
+Immunomodulators and immunosuppressants for multiple sclerosis: a network meta-analysis.
+
+Bayes item #130 matches MA item #10435
+########## Bayes title 130##########
+Survival benefit of primary prevention implantable cardioverter-defibrillator therapy after myocardial infarction: does time to implant matter? A meta-analysis using patient-level data from 4 clinical trials.
+########## MA title 10435##########
+Survival benefit of primary prevention implantable cardioverter-defibrillator therapy after myocardial infarction: does time to implant matter? A meta-analysis using patient-level data from 4 clinical trials.
+
+Bayes item #131 matches MA item #10525
+########## Bayes title 131##########
+Soil-transmitted helminth infection in South America: a systematic review and geostatistical meta-analysis.
+########## MA title 10525##########
+Soil-transmitted helminth infection in South America: a systematic review and geostatistical meta-analysis.
+
+Bayes item #132 matches MA item #10575
+########## Bayes title 132##########
+Magnetic resonance imaging for locating nonpalpable undescended testicles: a meta-analysis.
+########## MA title 10575##########
+Magnetic resonance imaging for locating nonpalpable undescended testicles: a meta-analysis.
+
+Bayes item #133 matches MA item #10617
+########## Bayes title 133##########
+Meta-analysis of the accuracy of two diagnostic tests used in combination: application to the ddimer test and the wells score for the diagnosis of deep vein thrombosis.
+########## MA title 10617##########
+Meta-analysis of the accuracy of two diagnostic tests used in combination: application to the ddimer test and the wells score for the diagnosis of deep vein thrombosis.
+
+Bayes item #134 matches MA item #10832
+########## Bayes title 134##########
+Three polymorphisms in the IL-10 gene and the risk of HCV infection: a meta-analysis plus a Chinese Association Study involving 1140 subjects.
+########## MA title 10832##########
+Three polymorphisms in the IL-10 gene and the risk of HCV infection: a meta-analysis plus a Chinese Association Study involving 1140 subjects.
+
+Bayes item #135 matches MA item #10865
+########## Bayes title 135##########
+Blood pressure targets in patients with coronary artery disease: observations from traditional and Bayesian random effects meta-analysis of randomised trials.
+########## MA title 10865##########
+Blood pressure targets in patients with coronary artery disease: observations from traditional and Bayesian random effects meta-analysis of randomised trials.
+
+Bayes item #136 matches MA item #10989
+########## Bayes title 136##########
+Imputation-based meta-analysis of severe malaria in three African populations.
+########## MA title 10989##########
+Imputation-based meta-analysis of severe malaria in three African populations.
+
+Bayes item #137 matches MA item #11256
+########## Bayes title 137##########
+Heart-type fatty acid binding protein as an early marker for myocardial infarction: systematic review and meta-analysis.
+########## MA title 11256##########
+Heart-type fatty acid binding protein as an early marker for myocardial infarction: systematic review and meta-analysis.
+
+Bayes item #138 matches MA item #11297
+########## Bayes title 138##########
+Apolipoprotein E genotype, cardiovascular biomarkers and risk of stroke: systematic review and meta-analysis of 14,015 stroke cases and pooled analysis of primary biomarker data from up to 60,883 individuals.
+########## MA title 11297##########
+Apolipoprotein E genotype, cardiovascular biomarkers and risk of stroke: systematic review and meta-analysis of 14,015 stroke cases and pooled analysis of primary biomarker data from up to 60,883 individuals.
+
+Bayes item #142 matches MA item #11684
+########## Bayes title 142##########
+Dealing with clinical heterogeneity in meta-analysis. Assumptions, methods, interpretation.
+########## MA title 11684##########
+Dealing with clinical heterogeneity in meta-analysis. Assumptions, methods, interpretation.
+
+Bayes item #143 matches MA item #11744
+########## Bayes title 143##########
+Efficacy of topical antifungals in the treatment of dermatophytosis: a mixed-treatment comparison meta-analysis involving 14 treatments.
+########## MA title 11744##########
+Efficacy of topical antifungals in the treatment of dermatophytosis: a mixed-treatment comparison meta-analysis involving 14 treatments.
+
+Bayes item #144 matches MA item #11829
+########## Bayes title 144##########
+Progression-free survival with fulvestrant 500 mg and alternative endocrine therapies as second-line treatment for advanced breast cancer: a network meta-analysis with parametric survival models.
+########## MA title 11829##########
+Progression-free survival with fulvestrant 500 mg and alternative endocrine therapies as second-line treatment for advanced breast cancer: a network meta-analysis with parametric survival models.
+
+Bayes item #145 matches MA item #11987
+########## Bayes title 145##########
+Effect of gastric versus post-pyloric feeding on the incidence of pneumonia in critically ill patients: observations from traditional and Bayesian random-effects meta-analysis.
+########## MA title 11987##########
+Effect of gastric versus post-pyloric feeding on the incidence of pneumonia in critically ill patients: observations from traditional and Bayesian random-effects meta-analysis.
+
+Bayes item #146 matches MA item #12213
+########## Bayes title 146##########
+Direct-acting antiviral therapies for hepatitis C genotype 1 infection: a multiple treatment comparison meta-analysis.
+########## MA title 12213##########
+Direct-acting antiviral therapies for hepatitis C genotype 1 infection: a multiple treatment comparison meta-analysis.
+
+Bayes item #147 matches MA item #12292
+########## Bayes title 147##########
+Benefits of β blockers in patients with heart failure and reduced ejection fraction: network meta-analysis.
+########## MA title 12292##########
+Benefits of β blockers in patients with heart failure and reduced ejection fraction: network meta-analysis.
+
+Bayes item #148 matches MA item #12502
+########## Bayes title 148##########
+Efficacy of adding clonidine to intrathecal morphine in acute postoperative pain: meta-analysis.
+########## MA title 12502##########
+Efficacy of adding clonidine to intrathecal morphine in acute postoperative pain: meta-analysis.
+
+Bayes item #149 matches MA item #12635
+########## Bayes title 149##########
+Second-line treatments for the management of advanced renal cell carcinoma: systematic review and meta-analysis.
+########## MA title 12635##########
+Second-line treatments for the management of advanced renal cell carcinoma: systematic review and meta-analysis.
+
+Bayes item #151 matches MA item #12680
+########## Bayes title 151##########
+Comparative efficacy of aclidinium versus glycopyrronium and tiotropium, as maintenance treatment of moderate to severe COPD patients: a systematic review and network meta-analysis.
+########## MA title 12680##########
+Comparative efficacy of aclidinium versus glycopyrronium and tiotropium, as maintenance treatment of moderate to severe COPD patients: a systematic review and network meta-analysis.
+
+Bayes item #154 matches MA item #12969
+########## Bayes title 154##########
+Impact of different training modalities on anthropometric and metabolic characteristics in overweight/obese subjects: a systematic review and network meta-analysis.
+########## MA title 12969##########
+Impact of different training modalities on anthropometric and metabolic characteristics in overweight/obese subjects: a systematic review and network meta-analysis.
+
+Bayes item #155 matches MA item #13059
+########## Bayes title 155##########
+A Bayesian meta-analysis on prevalence of hepatitis B virus infection among Chinese volunteer blood donors.
+########## MA title 13059##########
+A Bayesian meta-analysis on prevalence of hepatitis B virus infection among Chinese volunteer blood donors.
+
+Bayes item #156 matches MA item #13095
+########## Bayes title 156##########
+The global epidemiology and contribution of cannabis use and dependence to the global burden of disease: results from the GBD 2010 study.
+########## MA title 13095##########
+The global epidemiology and contribution of cannabis use and dependence to the global burden of disease: results from the GBD 2010 study.
+
+Bayes item #157 matches MA item #13162
+########## Bayes title 157##########
+Long-term survival of dental implants placed in the grafted maxillary sinus: systematic review and meta-analysis of treatment modalities.
+########## MA title 13162##########
+Long-term survival of dental implants placed in the grafted maxillary sinus: systematic review and meta-analysis of treatment modalities.
+
+Bayes item #158 matches MA item #13174
+########## Bayes title 158##########
+Antiplatelets versus anticoagulants for the treatment of cervical artery dissection: Bayesian meta-analysis.
+########## MA title 13174##########
+Antiplatelets versus anticoagulants for the treatment of cervical artery dissection: Bayesian meta-analysis.
+
+Bayes item #159 matches MA item #13288
+########## Bayes title 159##########
+Are Treponema pallidum specific rapid and point-of-care tests for syphilis accurate enough for screening in resource limited settings? Evidence from a meta-analysis.
+########## MA title 13288##########
+Are Treponema pallidum specific rapid and point-of-care tests for syphilis accurate enough for screening in resource limited settings? Evidence from a meta-analysis.
+
+Bayes item #160 matches MA item #13570
+########## Bayes title 160##########
+Should perioperative supplemental oxygen be routinely recommended for surgery patients? A Bayesian meta-analysis.
+########## MA title 13570##########
+Should perioperative supplemental oxygen be routinely recommended for surgery patients? A Bayesian meta-analysis.
+
+Bayes item #161 matches MA item #13686
+########## Bayes title 161##########
+A network meta-analysis of antibiotics for treatment of hospitalised patients with suspected or proven meticillin-resistant Staphylococcus aureus infection.
+########## MA title 13686##########
+A network meta-analysis of antibiotics for treatment of hospitalised patients with suspected or proven meticillin-resistant Staphylococcus aureus infection.
+
+Bayes item #163 matches MA item #13949
+########## Bayes title 163##########
+Unraveling multiple MHC gene associations with systemic lupus erythematosus: model choice indicates a role for HLA alleles and non-HLA genes in Europeans.
+########## MA title 13949##########
+Unraveling multiple MHC gene associations with systemic lupus erythematosus: model choice indicates a role for HLA alleles and non-HLA genes in Europeans.
+
+Bayes item #164 matches MA item #14002
+########## Bayes title 164##########
+Association between beta-blockers and fracture risk: a Bayesian meta-analysis.
+########## MA title 14002##########
+Association between beta-blockers and fracture risk: a Bayesian meta-analysis.
+
+Bayes item #165 matches MA item #14045
+########## Bayes title 165##########
+Efficacy of telaprevir and boceprevir in treatment-naïve and treatment-experienced genotype 1 chronic hepatitis C patients: an indirect comparison using Bayesian network meta-analysis.
+########## MA title 14045##########
+Efficacy of telaprevir and boceprevir in treatment-naïve and treatment-experienced genotype 1 chronic hepatitis C patients: an indirect comparison using Bayesian network meta-analysis.
+
+Bayes item #166 matches MA item #14053
+########## Bayes title 166##########
+Mortality in diabetes compared with previous cardiovascular disease: a gender-specific meta-analysis.
+########## MA title 14053##########
+Mortality in diabetes compared with previous cardiovascular disease: a gender-specific meta-analysis.
+
+Bayes item #167 matches MA item #14057
+########## Bayes title 167##########
+Sedentary time in adults and the association with diabetes, cardiovascular disease and death: systematic review and meta-analysis.
+########## MA title 14057##########
+Sedentary time in adults and the association with diabetes, cardiovascular disease and death: systematic review and meta-analysis.
+
+Bayes item #168 matches MA item #14326
+########## Bayes title 168##########
+Systematic meta-analyses and field synopsis of genetic association studies in colorectal cancer.
+########## MA title 14326##########
+Systematic meta-analyses and field synopsis of genetic association studies in colorectal cancer.
+
+Bayes item #169 matches MA item #14337
+########## Bayes title 169##########
+Diffusion-weighted MRI in the detection of prostate cancer: meta-analysis.
+########## MA title 14337##########
+Diffusion-weighted MRI in the detection of prostate cancer: meta-analysis.
+
+Bayes item #170 matches MA item #14353
+########## Bayes title 170##########
+The role of sentinel lymph node biopsy in select sarcoma patients: a meta-analysis.
+########## MA title 14353##########
+The role of sentinel lymph node biopsy in select sarcoma patients: a meta-analysis.
+
+Bayes item #171 matches MA item #14396
+########## Bayes title 171##########
+Balloon dilation with adequate duration is safer than sphincterotomy for extracting bile duct stones: a systematic review and meta-analyses.
+########## MA title 14396##########
+Balloon dilation with adequate duration is safer than sphincterotomy for extracting bile duct stones: a systematic review and meta-analyses.
+
+Bayes item #172 matches MA item #14525
+########## Bayes title 172##########
+Pediatric anesthesia and neurodevelopmental impairments: a Bayesian meta-analysis.
+########## MA title 14525##########
+Pediatric anesthesia and neurodevelopmental impairments: a Bayesian meta-analysis.
+
+Bayes item #173 matches MA item #14580
+########## Bayes title 173##########
+Progestogens for preterm birth prevention: a systematic review and meta-analysis.
+########## MA title 14580##########
+Progestogens for preterm birth prevention: a systematic review and meta-analysis.
+
+Bayes item #174 matches MA item #14740
+########## Bayes title 174##########
+Rapid point-of-care first-line screening tests for hepatitis B infection: a meta-analysis of diagnostic accuracy (1980-2010).
+########## MA title 14740##########
+Rapid point-of-care first-line screening tests for hepatitis B infection: a meta-analysis of diagnostic accuracy (1980-2010).
+
+Bayes item #175 matches MA item #14754
+########## Bayes title 175##########
+Comparisons of high-dose and combination nicotine replacement therapy, varenicline, and bupropion for smoking cessation: a systematic review and multiple treatment meta-analysis.
+########## MA title 14754##########
+Comparisons of high-dose and combination nicotine replacement therapy, varenicline, and bupropion for smoking cessation: a systematic review and multiple treatment meta-analysis.
+
+Bayes item #176 matches MA item #14816
+########## Bayes title 176##########
+Effect of antidiabetic agents added to metformin on glycaemic control, hypoglycaemia and weight change in patients with type 2 diabetes: a network meta-analysis.
+########## MA title 14816##########
+Effect of antidiabetic agents added to metformin on glycaemic control, hypoglycaemia and weight change in patients with type 2 diabetes: a network meta-analysis.
+
+Bayes item #177 matches MA item #15112
+########## Bayes title 177##########
+Bayesian enhanced meta-analysis of post-operative analgesic efficacy of additives for caudal analgesia in children.
+########## MA title 15112##########
+Bayesian enhanced meta-analysis of post-operative analgesic efficacy of additives for caudal analgesia in children.
+
+Bayes item #178 matches MA item #15402
+########## Bayes title 178##########
+Revisiting the effectiveness of interventions to decrease surgical site infections in colorectal surgery: A Bayesian perspective.
+########## MA title 15402##########
+Revisiting the effectiveness of interventions to decrease surgical site infections in colorectal surgery: A Bayesian perspective.
+
+Bayes item #179 matches MA item #15403
+########## Bayes title 179##########
+Network meta-analysis of prasugrel, ticagrelor, high- and standard-dose clopidogrel in patients scheduled for percutaneous coronary interventions.
+########## MA title 15403##########
+Network meta-analysis of prasugrel, ticagrelor, high- and standard-dose clopidogrel in patients scheduled for percutaneous coronary interventions.
+
+Bayes item #180 matches MA item #15476
+########## Bayes title 180##########
+Impact of intraoperative stimulation brain mapping on glioma surgery outcome: a meta-analysis.
+########## MA title 15476##########
+Impact of intraoperative stimulation brain mapping on glioma surgery outcome: a meta-analysis.
+
+Bayes item #181 matches MA item #15551
+########## Bayes title 181##########
+Meta-analysis of complications in aortic valve replacement: comparison of Medtronic-Corevalve, Edwards-Sapien and surgical aortic valve replacement in 8,536 patients.
+########## MA title 15551##########
+Meta-analysis of complications in aortic valve replacement: comparison of Medtronic-Corevalve, Edwards-Sapien and surgical aortic valve replacement in 8,536 patients.
+
+Bayes item #182 matches MA item #15577
+########## Bayes title 182##########
+Effectiveness of interventions for reducing diabetes and cardiovascular disease risk in people with metabolic syndrome: systematic review and mixed treatment comparison meta-analysis.
+########## MA title 15577##########
+Effectiveness of interventions for reducing diabetes and cardiovascular disease risk in people with metabolic syndrome: systematic review and mixed treatment comparison meta-analysis.
+
+Bayes item #183 matches MA item #15586
+########## Bayes title 183##########
+Ambient temperature and cardiorespiratory morbidity: a systematic review and meta-analysis.
+########## MA title 15586##########
+Ambient temperature and cardiorespiratory morbidity: a systematic review and meta-analysis.
+
+Bayes item #184 matches MA item #15628
+########## Bayes title 184##########
+Daily average temperature and mortality among the elderly: a meta-analysis and systematic review of epidemiological evidence.
+########## MA title 15628##########
+Daily average temperature and mortality among the elderly: a meta-analysis and systematic review of epidemiological evidence.
+
+Bayes item #185 matches MA item #15715
+########## Bayes title 185##########
+Imputation of missing variance data using non-linear mixed effects modelling to enable an inverse variance weighted meta-analysis of summary-level longitudinal data: a case study.
+########## MA title 15715##########
+Imputation of missing variance data using non-linear mixed effects modelling to enable an inverse variance weighted meta-analysis of summary-level longitudinal data: a case study.
+
+Bayes item #187 matches MA item #15796
+########## Bayes title 187##########
+Detection of cervical lymph node metastasis in head and neck cancer patients with clinically N0 neck-a meta-analysis comparing different imaging modalities.
+########## MA title 15796##########
+Detection of cervical lymph node metastasis in head and neck cancer patients with clinically N0 neck-a meta-analysis comparing different imaging modalities.
+
+Bayes item #189 matches MA item #16170
+########## Bayes title 189##########
+A meta-analysis of comparative outcomes following cervical arthroplasty or anterior cervical fusion: results from 4 prospective multicenter randomized clinical trials and up to 1226 patients.
+########## MA title 16170##########
+A meta-analysis of comparative outcomes following cervical arthroplasty or anterior cervical fusion: results from 4 prospective multicenter randomized clinical trials and up to 1226 patients.
+
+Bayes item #190 matches MA item #16195
+########## Bayes title 190##########
+Multiple treatment comparisons in a series of anti-malarial trials with an ordinal primary outcome and repeated treatment evaluations.
+########## MA title 16195##########
+Multiple treatment comparisons in a series of anti-malarial trials with an ordinal primary outcome and repeated treatment evaluations.
+
+Bayes item #191 matches MA item #16210
+########## Bayes title 191##########
+Growth hormone receptor polymorphism and growth hormone therapy response in children: a Bayesian meta-analysis.
+########## MA title 16210##########
+Growth hormone receptor polymorphism and growth hormone therapy response in children: a Bayesian meta-analysis.
+
+Bayes item #192 matches MA item #16343
+########## Bayes title 192##########
+Robust meta-analytic conclusions mandate the provision of prediction intervals in meta-analysis summaries.
+########## MA title 16343##########
+Robust meta-analytic conclusions mandate the provision of prediction intervals in meta-analysis summaries.
+
+Bayes item #193 matches MA item #16380
+########## Bayes title 193##########
+Treatment of acute iliofemoral deep vein thrombosis.
+########## MA title 16380##########
+Treatment of acute iliofemoral deep vein thrombosis.
+
+Bayes item #194 matches MA item #16384
+########## Bayes title 194##########
+Head-to-head comparison of accuracy of a rapid point-of-care HIV test with oral versus whole-blood specimens: a systematic review and meta-analysis.
+########## MA title 16384##########
+Head-to-head comparison of accuracy of a rapid point-of-care HIV test with oral versus whole-blood specimens: a systematic review and meta-analysis.
+
+Bayes item #195 matches MA item #16510
+########## Bayes title 195##########
+Network meta-analysis of margin threshold for women with ductal carcinoma in situ.
+########## MA title 16510##########
+Network meta-analysis of margin threshold for women with ductal carcinoma in situ.
+
+Bayes item #196 matches MA item #16524
+########## Bayes title 196##########
+Comparison of transradial and femoral approaches for percutaneous coronary interventions: a systematic review and hierarchical Bayesian meta-analysis.
+########## MA title 16524##########
+Comparison of transradial and femoral approaches for percutaneous coronary interventions: a systematic review and hierarchical Bayesian meta-analysis.
+
+Bayes item #197 matches MA item #16567
+########## Bayes title 197##########
+Systematic review and meta-analysis of the efficacy of cardioversion by vernakalant and comparators in patients with atrial fibrillation.
+########## MA title 16567##########
+Systematic review and meta-analysis of the efficacy of cardioversion by vernakalant and comparators in patients with atrial fibrillation.
+
+Bayes item #198 matches MA item #16649
+########## Bayes title 198##########
+Bayesian meta-analysis on medical devices: application to implantable cardioverter defibrillators.
+########## MA title 16649##########
+Bayesian meta-analysis on medical devices: application to implantable cardioverter defibrillators.
+
+Bayes item #199 matches MA item #16899
+########## Bayes title 199##########
+Longevity of materials for pit and fissure sealing--results from a meta-analysis.
+########## MA title 16899##########
+Longevity of materials for pit and fissure sealing--results from a meta-analysis.
+
+Bayes item #200 matches MA item #16910
+########## Bayes title 200##########
+Traditional endonasal and microscopic sinus surgery complications versus endoscopic sinus surgery complications: a meta-analysis.
+########## MA title 16910##########
+Traditional endonasal and microscopic sinus surgery complications versus endoscopic sinus surgery complications: a meta-analysis.
+
+Bayes item #201 matches MA item #16969
+########## Bayes title 201##########
+A Bayesian network meta-analysis on comparisons of enamel matrix derivatives, guided tissue regeneration and their combination therapies.
+########## MA title 16969##########
+A Bayesian network meta-analysis on comparisons of enamel matrix derivatives, guided tissue regeneration and their combination therapies.
+
+Bayes item #202 matches MA item #17033
+########## Bayes title 202##########
+Exposure to isoflavone-containing soy products and endothelial function: a Bayesian meta-analysis of randomized controlled trials.
+########## MA title 17033##########
+Exposure to isoflavone-containing soy products and endothelial function: a Bayesian meta-analysis of randomized controlled trials.
+
+Bayes item #203 matches MA item #17035
+########## Bayes title 203##########
+Age and gender variations in age-related macular degeneration prevalence in populations of European ancestry: a meta-analysis.
+########## MA title 17035##########
+Age and gender variations in age-related macular degeneration prevalence in populations of European ancestry: a meta-analysis.
+
+Bayes item #205 matches MA item #17440
+########## Bayes title 205##########
+Meta-analysis of observational studies with unmeasured confounders.
+########## MA title 17440##########
+Meta-analysis of observational studies with unmeasured confounders.
+
+Bayes item #206 matches MA item #17591
+########## Bayes title 206##########
+Efficacy of biologics in the treatment of moderate to severe psoriasis: a network meta-analysis of randomized controlled trials.
+########## MA title 17591##########
+Efficacy of biologics in the treatment of moderate to severe psoriasis: a network meta-analysis of randomized controlled trials.
+
+Bayes item #207 matches MA item #17651
+########## Bayes title 207##########
+Roadway characteristics and pediatric pedestrian injury.
+########## MA title 17651##########
+Roadway characteristics and pediatric pedestrian injury.
+
+Bayes item #208 matches MA item #17683
+########## Bayes title 208##########
+Effectiveness and cost-effectiveness of computer and other electronic aids for smoking cessation: a systematic review and network meta-analysis.
+########## MA title 17683##########
+Effectiveness and cost-effectiveness of computer and other electronic aids for smoking cessation: a systematic review and network meta-analysis.
+
+Bayes item #209 matches MA item #17699
+########## Bayes title 209##########
+Efficacy of indacaterol 75 μg versus fixed-dose combinations of formoterol-budesonide or salmeterol-fluticasone for COPD: a network meta-analysis.
+########## MA title 17699##########
+Efficacy of indacaterol 75 μg versus fixed-dose combinations of formoterol-budesonide or salmeterol-fluticasone for COPD: a network meta-analysis.
+
+Bayes item #210 matches MA item #17867
+########## Bayes title 210##########
+Systematic review and network meta-analysis of overall survival comparing 3 mg/kg ipilimumab with alternative therapies in the management of pretreated patients with unresectable stage III or IV melanoma.
+########## MA title 17867##########
+Systematic review and network meta-analysis of overall survival comparing 3 mg/kg ipilimumab with alternative therapies in the management of pretreated patients with unresectable stage III or IV melanoma.
+
+Bayes item #211 matches MA item #18010
+########## Bayes title 211##########
+Timing matters in hip fracture surgery: patients operated within 48 hours have better outcomes. A meta-analysis and meta-regression of over 190,000 patients.
+########## MA title 18010##########
+Timing matters in hip fracture surgery: patients operated within 48 hours have better outcomes. A meta-analysis and meta-regression of over 190,000 patients.
+
+Bayes item #212 matches MA item #18443
+########## Bayes title 212##########
+A review and Bayesian meta-analysis of clinical efficacy and adverse effects of 4 atypical neuroleptic drugs compared with haloperidol and placebo.
+########## MA title 18443##########
+A review and Bayesian meta-analysis of clinical efficacy and adverse effects of 4 atypical neuroleptic drugs compared with haloperidol and placebo.
+
+Bayes item #213 matches MA item #18566
+########## Bayes title 213##########
+A systematic review on the effect of sweeteners on glycemic response and clinically relevant outcomes.
+########## MA title 18566##########
+A systematic review on the effect of sweeteners on glycemic response and clinically relevant outcomes.
+
+Bayes item #214 matches MA item #18657
+########## Bayes title 214##########
+Coronary artery perforation during percutaneous coronary intervention: a systematic review and meta-analysis.
+########## MA title 18657##########
+Coronary artery perforation during percutaneous coronary intervention: a systematic review and meta-analysis.
+
+Bayes item #215 matches MA item #19501
+########## Bayes title 215##########
+Dosing frequency of unfractionated heparin thromboprophylaxis: a meta-analysis.
+########## MA title 19501##########
+Dosing frequency of unfractionated heparin thromboprophylaxis: a meta-analysis.
+
+Bayes item #216 matches MA item #19616
+########## Bayes title 216##########
+Bariatric surgery: a systematic review and network meta-analysis of randomized trials.
+########## MA title 19616##########
+Bariatric surgery: a systematic review and network meta-analysis of randomized trials.
+
+Bayes item #217 matches MA item #19800
+########## Bayes title 217##########
+Comparative effectiveness of efavirenz, protease inhibitors, and raltegravir-based regimens as first-line treatment for HIV-infected adults: a mixed treatment comparison.
+########## MA title 19800##########
+Comparative effectiveness of efavirenz, protease inhibitors, and raltegravir-based regimens as first-line treatment for HIV-infected adults: a mixed treatment comparison.
+
+Bayes item #218 matches MA item #19914
+########## Bayes title 218##########
+A Bayesian evidence synthesis for estimating campylobacteriosis prevalence.
+########## MA title 19914##########
+A Bayesian evidence synthesis for estimating campylobacteriosis prevalence.
+
+Bayes item #219 matches MA item #20081
+########## Bayes title 219##########
+EUS for the staging of gastric cancer: a meta-analysis.
+########## MA title 20081##########
+EUS for the staging of gastric cancer: a meta-analysis.
+
+Bayes item #220 matches MA item #20172
+########## Bayes title 220##########
+Therapeutic trajectory following intra-articular hyaluronic acid injection in knee osteoarthritis--meta-analysis.
+########## MA title 20172##########
+Therapeutic trajectory following intra-articular hyaluronic acid injection in knee osteoarthritis--meta-analysis.
+
+Bayes item #221 matches MA item #20207
+########## Bayes title 221##########
+Enhanced recovery pathways optimize health outcomes and resource utilization: a meta-analysis of randomized controlled trials in colorectal surgery.
+########## MA title 20207##########
+Enhanced recovery pathways optimize health outcomes and resource utilization: a meta-analysis of randomized controlled trials in colorectal surgery.
+
+Bayes item #222 matches MA item #20281
+########## Bayes title 222##########
+The predictive value of preoperative natriuretic peptide concentrations in adults undergoing surgery: a systematic review and meta-analysis.
+########## MA title 20281##########
+The predictive value of preoperative natriuretic peptide concentrations in adults undergoing surgery: a systematic review and meta-analysis.
+
+Bayes item #223 matches MA item #20307
+########## Bayes title 223##########
+Addressing the incremental benefit of histamine dihydrochloride when added to interleukin-2 in treating acute myeloid leukemia: a Bayesian meta-analysis.
+########## MA title 20307##########
+Addressing the incremental benefit of histamine dihydrochloride when added to interleukin-2 in treating acute myeloid leukemia: a Bayesian meta-analysis.
+
+Bayes item #224 matches MA item #20523
+########## Bayes title 224##########
+Steroids and bronchodilators for acute bronchiolitis in the first two years of life: systematic review and meta-analysis.
+########## MA title 20523##########
+Steroids and bronchodilators for acute bronchiolitis in the first two years of life: systematic review and meta-analysis.
+
+Bayes item #226 matches MA item #20771
+########## Bayes title 226##########
+Efficacy of drug treatments for generalised anxiety disorder: systematic review and meta-analysis.
+########## MA title 20771##########
+Efficacy of drug treatments for generalised anxiety disorder: systematic review and meta-analysis.
+
+Bayes item #227 matches MA item #20895
+########## Bayes title 227##########
+Imageless computer assisted versus conventional total knee replacement. A Bayesian meta-analysis of 23 comparative studies.
+########## MA title 20895##########
+Imageless computer assisted versus conventional total knee replacement. A Bayesian meta-analysis of 23 comparative studies.
+
+Bayes item #228 matches MA item #20975
+########## Bayes title 228##########
+Early vs. delayed invasive strategy in patients with acute coronary syndromes without ST-segment elevation: a meta-analysis of randomized studies.
+########## MA title 20975##########
+Early vs. delayed invasive strategy in patients with acute coronary syndromes without ST-segment elevation: a meta-analysis of randomized studies.
+
+Bayes item #229 matches MA item #21095
+########## Bayes title 229##########
+Accounting for model uncertainty in estimating global burden of disease.
+########## MA title 21095##########
+Accounting for model uncertainty in estimating global burden of disease.
+
+Bayes item #231 matches MA item #21207
+########## Bayes title 231##########
+Cancer risk with tumor necrosis factor alpha (TNF) inhibitors: meta-analysis of randomized controlled trials of adalimumab, etanercept, and infliximab using patient level data.
+########## MA title 21207##########
+Cancer risk with tumor necrosis factor alpha (TNF) inhibitors: meta-analysis of randomized controlled trials of adalimumab, etanercept, and infliximab using patient level data.
+
+Bayes item #232 matches MA item #21213
+########## Bayes title 232##########
+Efficacy and safety of statin treatment for cardiovascular disease: a network meta-analysis of 170,255 patients from 76 randomized trials.
+########## MA title 21213##########
+Efficacy and safety of statin treatment for cardiovascular disease: a network meta-analysis of 170,255 patients from 76 randomized trials.
+
+Bayes item #233 matches MA item #21222
+########## Bayes title 233##########
+The efficacy of bisphosphonates in the prevention of vertebral, hip, and nonvertebral-nonhip fractures in osteoporosis: a network meta-analysis.
+########## MA title 21222##########
+The efficacy of bisphosphonates in the prevention of vertebral, hip, and nonvertebral-nonhip fractures in osteoporosis: a network meta-analysis.
+
+Bayes item #234 matches MA item #21265
+########## Bayes title 234##########
+Contemporary diagnostic imaging modalities for the staging and surveillance of melanoma patients: a meta-analysis.
+########## MA title 21265##########
+Contemporary diagnostic imaging modalities for the staging and surveillance of melanoma patients: a meta-analysis.
+
+Bayes item #236 matches MA item #21392
+########## Bayes title 236##########
+Efficacy comparison of trimetazidine with therapeutic alternatives in stable angina pectoris: a network meta-analysis.
+########## MA title 21392##########
+Efficacy comparison of trimetazidine with therapeutic alternatives in stable angina pectoris: a network meta-analysis.
+
+Bayes item #237 matches MA item #21424
+########## Bayes title 237##########
+Mixed treatment comparison of a two-compound formulation (TCF) product containing calcipotriol and betamethasone dipropionate with other topical treatments in psoriasis vulgaris.
+########## MA title 21424##########
+Mixed treatment comparison of a two-compound formulation (TCF) product containing calcipotriol and betamethasone dipropionate with other topical treatments in psoriasis vulgaris.
+
+Bayes item #238 matches MA item #21487
+########## Bayes title 238##########
+Comparative efficacy of indacaterol 150 μg and 300 μg versus fixed-dose combinations of formoterol + budesonide or salmeterol + fluticasone for the treatment of chronic obstructive pulmonary disease--a network meta-analysis.
+########## MA title 21487##########
+Comparative efficacy of indacaterol 150 μg and 300 μg versus fixed-dose combinations of formoterol + budesonide or salmeterol + fluticasone for the treatment of chronic obstructive pulmonary disease--a network meta-analysis.
+
+Bayes item #239 matches MA item #21682
+########## Bayes title 239##########
+Cost-effectiveness analysis of LHRH agonists in the treatment of metastatic prostate cancer in Italy.
+########## MA title 21682##########
+Cost-effectiveness analysis of LHRH agonists in the treatment of metastatic prostate cancer in Italy.
+
+Bayes item #240 matches MA item #21695
+########## Bayes title 240##########
+Meta-analysis of diagnostic test data: a bivariate Bayesian modeling approach.
+########## MA title 21695##########
+Meta-analysis of diagnostic test data: a bivariate Bayesian modeling approach.
+
+Bayes item #241 matches MA item #21781
+########## Bayes title 241##########
+Drug-eluting or bare metal stents for the treatment of saphenous vein graft disease: a Bayesian meta-analysis.
+########## MA title 21781##########
+Drug-eluting or bare metal stents for the treatment of saphenous vein graft disease: a Bayesian meta-analysis.
+
+Bayes item #242 matches MA item #21808
+########## Bayes title 242##########
+Sacral neuromodulation for neurogenic lower urinary tract dysfunction: systematic review and meta-analysis.
+########## MA title 21808##########
+Sacral neuromodulation for neurogenic lower urinary tract dysfunction: systematic review and meta-analysis.
+
+Bayes item #243 matches MA item #21913
+########## Bayes title 243##########
+Mixed treatment comparison meta-analysis evaluating the relative efficacy of nucleos(t)ides for treatment of nucleos(t)ide-naive patients with chronic hepatitis B.
+########## MA title 21913##########
+Mixed treatment comparison meta-analysis evaluating the relative efficacy of nucleos(t)ides for treatment of nucleos(t)ide-naive patients with chronic hepatitis B.
+
+Bayes item #244 matches MA item #21932
+########## Bayes title 244##########
+Lymphedema beyond breast cancer: a systematic review and meta-analysis of cancer-related secondary lymphedema.
+########## MA title 21932##########
+Lymphedema beyond breast cancer: a systematic review and meta-analysis of cancer-related secondary lymphedema.
+
+Bayes item #245 matches MA item #22152
+########## Bayes title 245##########
+Meta-analysis of incidence, clinical characteristics and implications of stent fracture.
+########## MA title 22152##########
+Meta-analysis of incidence, clinical characteristics and implications of stent fracture.
+
+Bayes item #246 matches MA item #22377
+########## Bayes title 246##########
+Effects of glucosamine, chondroitin, or placebo in patients with osteoarthritis of hip or knee: network meta-analysis.
+########## MA title 22377##########
+Effects of glucosamine, chondroitin, or placebo in patients with osteoarthritis of hip or knee: network meta-analysis.
+
+Bayes item #247 matches MA item #22520
+########## Bayes title 247##########
+Effectiveness of different central venous catheters for catheter-related infections: a network meta-analysis.
+########## MA title 22520##########
+Effectiveness of different central venous catheters for catheter-related infections: a network meta-analysis.
+
+Bayes item #250 matches MA item #22878
+########## Bayes title 250##########
+Comparative effectiveness of antibiotics for the treatment of MRSA complicated skin and soft tissue infections.
+########## MA title 22878##########
+Comparative effectiveness of antibiotics for the treatment of MRSA complicated skin and soft tissue infections.
+
+Bayes item #251 matches MA item #23046
+########## Bayes title 251##########
+Omega-3 fatty acids in high-risk cardiovascular patients: a meta-analysis of randomized controlled trials.
+########## MA title 23046##########
+Omega-3 fatty acids in high-risk cardiovascular patients: a meta-analysis of randomized controlled trials.
+
+Bayes item #253 matches MA item #23393
+########## Bayes title 253##########
+Effect of preoperative single-dose corticosteroid administration on postoperative morbidity following esophagectomy.
+########## MA title 23393##########
+Effect of preoperative single-dose corticosteroid administration on postoperative morbidity following esophagectomy.
+
+Bayes item #254 matches MA item #23623
+########## Bayes title 254##########
+Immune reconstitution inflammatory syndrome in patients starting antiretroviral therapy for HIV infection: a systematic review and meta-analysis.
+########## MA title 23623##########
+Immune reconstitution inflammatory syndrome in patients starting antiretroviral therapy for HIV infection: a systematic review and meta-analysis.
+
+Bayes item #255 matches MA item #23893
+########## Bayes title 255##########
+Statistical modeling of average and variability of time to extubation for meta-analysis comparing desflurane to sevoflurane.
+########## MA title 23893##########
+Statistical modeling of average and variability of time to extubation for meta-analysis comparing desflurane to sevoflurane.
+
+Bayes item #256 matches MA item #23923
+########## Bayes title 256##########
+Adjunctive thrombectomy for acute myocardial infarction: A bayesian meta-analysis.
+########## MA title 23923##########
+Adjunctive thrombectomy for acute myocardial infarction: A bayesian meta-analysis.
+
+Bayes item #257 matches MA item #24002
+########## Bayes title 257##########
+Interleukin-1 region meta-analysis with osteoarthritis phenotypes.
+########## MA title 24002##########
+Interleukin-1 region meta-analysis with osteoarthritis phenotypes.
+
+Bayes item #259 matches MA item #24299
+########## Bayes title 259##########
+Do primary care physicians have particular difficulty identifying late-life depression? A meta-analysis stratified by age.
+########## MA title 24299##########
+Do primary care physicians have particular difficulty identifying late-life depression? A meta-analysis stratified by age.
+
+Bayes item #260 matches MA item #24427
+########## Bayes title 260##########
+An assessment of a TNF polymorphic marker for the risk of HCV infection: meta-analysis and a new clinical study design.
+########## MA title 24427##########
+An assessment of a TNF polymorphic marker for the risk of HCV infection: meta-analysis and a new clinical study design.
+
+Bayes item #261 matches MA item #24511
+########## Bayes title 261##########
+Meta-analysis of the impact of 9 medication classes on falls in elderly persons.
+########## MA title 24511##########
+Meta-analysis of the impact of 9 medication classes on falls in elderly persons.
+
+Bayes item #262 matches MA item #24541
+########## Bayes title 262##########
+Bayesian meta-analysis of hormone therapy and mortality in younger postmenopausal women.
+########## MA title 24541##########
+Bayesian meta-analysis of hormone therapy and mortality in younger postmenopausal women.
+
+Bayes item #263 matches MA item #24553
+########## Bayes title 263##########
+Comparative survival with diverse chemotherapy regimens for cancer of unknown primary site: multiple-treatments meta-analysis.
+########## MA title 24553##########
+Comparative survival with diverse chemotherapy regimens for cancer of unknown primary site: multiple-treatments meta-analysis.
+
+Bayes item #264 matches MA item #24562
+########## Bayes title 264##########
+Baseline differences in A1C explain apparent differences in efficacy of sitagliptin, rosiglitazone and pioglitazone.
+########## MA title 24562##########
+Baseline differences in A1C explain apparent differences in efficacy of sitagliptin, rosiglitazone and pioglitazone.
+
+Bayes item #265 matches MA item #24708
+########## Bayes title 265##########
+Effect of vegetarian diets on bone mineral density: a Bayesian meta-analysis.
+########## MA title 24708##########
+Effect of vegetarian diets on bone mineral density: a Bayesian meta-analysis.
+
+Bayes item #266 matches MA item #24735
+########## Bayes title 266##########
+Double versus single stenting for coronary bifurcation lesions: a meta-analysis.
+########## MA title 24735##########
+Double versus single stenting for coronary bifurcation lesions: a meta-analysis.
+
+Bayes item #267 matches MA item #24761
+########## Bayes title 267##########
+Risk of mortality associated with formoterol: a systematic review and meta-analysis.
+########## MA title 24761##########
+Risk of mortality associated with formoterol: a systematic review and meta-analysis.
+
+Bayes item #268 matches MA item #24808
+########## Bayes title 268##########
+Modeling the value for money of changing clinical practice change: a stochastic application in diabetes care.
+########## MA title 24808##########
+Modeling the value for money of changing clinical practice change: a stochastic application in diabetes care.
+
+Bayes item #269 matches MA item #24847
+########## Bayes title 269##########
+Bisphosphonates and atrial fibrillation: Bayesian meta-analyses of randomized controlled trials and observational studies.
+########## MA title 24847##########
+Bisphosphonates and atrial fibrillation: Bayesian meta-analyses of randomized controlled trials and observational studies.
+
+Bayes item #270 matches MA item #24871
+########## Bayes title 270##########
+Underlying genetic models of inheritance in established type 2 diabetes associations.
+########## MA title 24871##########
+Underlying genetic models of inheritance in established type 2 diabetes associations.
+
+Bayes item #271 matches MA item #25371
+########## Bayes title 271##########
+Antifungal treatment for invasive Candida infections: a mixed treatment comparison meta-analysis.
+########## MA title 25371##########
+Antifungal treatment for invasive Candida infections: a mixed treatment comparison meta-analysis.
+
+Bayes item #272 matches MA item #25399
+########## Bayes title 272##########
+Substance use and misuse in the aftermath of terrorism. A Bayesian meta-analysis.
+########## MA title 25399##########
+Substance use and misuse in the aftermath of terrorism. A Bayesian meta-analysis.
+
+Bayes item #273 matches MA item #25458
+########## Bayes title 273##########
+ATG16L1 T300A polymorphism and Crohn's disease susceptibility: evidence from 13,022 cases and 17,532 controls.
+########## MA title 25458##########
+ATG16L1 T300A polymorphism and Crohn's disease susceptibility: evidence from 13,022 cases and 17,532 controls.
+
+Bayes item #274 matches MA item #25559
+########## Bayes title 274##########
+Multilocus Bayesian meta-analysis of gene-disease associations.
+########## MA title 25559##########
+Multilocus Bayesian meta-analysis of gene-disease associations.
+
+Bayes item #275 matches MA item #25781
+########## Bayes title 275##########
+Cost-effectiveness of radiofrequency catheter ablation for the treatment of atrial fibrillation in the United Kingdom.
+########## MA title 25781##########
+Cost-effectiveness of radiofrequency catheter ablation for the treatment of atrial fibrillation in the United Kingdom.
+
+Bayes item #276 matches MA item #25911
+########## Bayes title 276##########
+Behavioural interventions for smoking cessation: a meta-analysis of randomized controlled trials.
+########## MA title 25911##########
+Behavioural interventions for smoking cessation: a meta-analysis of randomized controlled trials.
+
+Bayes item #277 matches MA item #25915
+########## Bayes title 277##########
+Spontaneous regression of hepatocellular carcinoma: a systematic review.
+########## MA title 25915##########
+Spontaneous regression of hepatocellular carcinoma: a systematic review.
+
+Bayes item #278 matches MA item #25962
+########## Bayes title 278##########
+Treatment outcomes among patients with multidrug-resistant tuberculosis: systematic review and meta-analysis.
+########## MA title 25962##########
+Treatment outcomes among patients with multidrug-resistant tuberculosis: systematic review and meta-analysis.
+
+Bayes item #279 matches MA item #26008
+########## Bayes title 279##########
+Association between TCF7L2 gene polymorphisms and susceptibility to type 2 diabetes mellitus: a large Human Genome Epidemiology (HuGE) review and meta-analysis.
+########## MA title 26008##########
+Association between TCF7L2 gene polymorphisms and susceptibility to type 2 diabetes mellitus: a large Human Genome Epidemiology (HuGE) review and meta-analysis.
+
+Bayes item #280 matches MA item #26011
+########## Bayes title 280##########
+Cancer survivors and unemployment: a meta-analysis and meta-regression.
+########## MA title 26011##########
+Cancer survivors and unemployment: a meta-analysis and meta-regression.
+
+Bayes item #281 matches MA item #26024
+########## Bayes title 281##########
+Meta-analysis of duloxetine vs. pregabalin and gabapentin in the treatment of diabetic peripheral neuropathic pain.
+########## MA title 26024##########
+Meta-analysis of duloxetine vs. pregabalin and gabapentin in the treatment of diabetic peripheral neuropathic pain.
+
+Bayes item #283 matches MA item #26147
+########## Bayes title 283##########
+Meta-analysis of the relationship between non-high-density lipoprotein cholesterol reduction and coronary heart disease risk.
+########## MA title 26147##########
+Meta-analysis of the relationship between non-high-density lipoprotein cholesterol reduction and coronary heart disease risk.
+
+Bayes item #284 matches MA item #26447
+########## Bayes title 284##########
+How much does pharmacologic prophylaxis reduce postoperative vomiting in children? Calculation of prophylaxis effectiveness and expected incidence of vomiting under treatment using Bayesian meta-analysis.
+########## MA title 26447##########
+How much does pharmacologic prophylaxis reduce postoperative vomiting in children? Calculation of prophylaxis effectiveness and expected incidence of vomiting under treatment using Bayesian meta-analysis.
+
+Bayes item #285 matches MA item #26520
+########## Bayes title 285##########
+A Bayesian meta-analysis comparing AngioJet thrombectomy to percutaneous coronary intervention alone in acute myocardial infarction.
+########## MA title 26520##########
+A Bayesian meta-analysis comparing AngioJet thrombectomy to percutaneous coronary intervention alone in acute myocardial infarction.
+
+Bayes item #286 matches MA item #26818
+########## Bayes title 286##########
+Meta-analysis of the efficacy and tolerability of pramipexole versus ropinirole in the treatment of restless legs syndrome.
+########## MA title 26818##########
+Meta-analysis of the efficacy and tolerability of pramipexole versus ropinirole in the treatment of restless legs syndrome.
+
+Bayes item #287 matches MA item #27010
+########## Bayes title 287##########
+Sunburns and risk of cutaneous melanoma: does age matter? A comprehensive meta-analysis.
+########## MA title 27010##########
+Sunburns and risk of cutaneous melanoma: does age matter? A comprehensive meta-analysis.
+
+Bayes item #288 matches MA item #27106
+########## Bayes title 288##########
+Pharmacotherapies for smoking cessation: a meta-analysis of randomized controlled trials.
+########## MA title 27106##########
+Pharmacotherapies for smoking cessation: a meta-analysis of randomized controlled trials.
+
+Bayes item #289 matches MA item #27223
+########## Bayes title 289##########
+Association between LRP5 polymorphism and bone mineral density: a Bayesian meta-analysis.
+########## MA title 27223##########
+Association between LRP5 polymorphism and bone mineral density: a Bayesian meta-analysis.
+
+Bayes item #290 matches MA item #27233
+########## Bayes title 290##########
+Are one or two simple questions sufficient to detect depression in cancer and palliative care? A Bayesian meta-analysis.
+########## MA title 27233##########
+Are one or two simple questions sufficient to detect depression in cancer and palliative care? A Bayesian meta-analysis.
+
+Bayes item #291 matches MA item #27321
+########## Bayes title 291##########
+Suprarenal endograft fixation and medium-term renal function: systematic review and meta-analysis.
+########## MA title 27321##########
+Suprarenal endograft fixation and medium-term renal function: systematic review and meta-analysis.
+
+Bayes item #292 matches MA item #27363
+########## Bayes title 292##########
+Corticosteroids in the prevention and treatment of acute respiratory distress syndrome (ARDS) in adults: meta-analysis.
+########## MA title 27363##########
+Corticosteroids in the prevention and treatment of acute respiratory distress syndrome (ARDS) in adults: meta-analysis.
+
+Bayes item #293 matches MA item #27534
+########## Bayes title 293##########
+Bayesian meta-analysis of genetic association studies with different sets of markers.
+########## MA title 27534##########
+Bayesian meta-analysis of genetic association studies with different sets of markers.
+
+Bayes item #294 matches MA item #27720
+########## Bayes title 294##########
+A non-parametric meta-analysis approach for combining independent microarray datasets: application using two microarray datasets pertaining to chronic allograft nephropathy.
+########## MA title 27720##########
+A non-parametric meta-analysis approach for combining independent microarray datasets: application using two microarray datasets pertaining to chronic allograft nephropathy.
+
+Bayes item #295 matches MA item #28010
+########## Bayes title 295##########
+Statins for secondary prevention in elderly patients: a hierarchical bayesian meta-analysis.
+########## MA title 28010##########
+Statins for secondary prevention in elderly patients: a hierarchical bayesian meta-analysis.
+
+Bayes item #296 matches MA item #28017
+########## Bayes title 296##########
+A Bayesian meta-analysis on published sample mean and variance pharmacokinetic data with application to drug-drug interaction prediction.
+########## MA title 28017##########
+A Bayesian meta-analysis on published sample mean and variance pharmacokinetic data with application to drug-drug interaction prediction.
+
+Bayes item #297 matches MA item #28021
+########## Bayes title 297##########
+Bayesian meta-analysis of tissue angiotensin-converting enzyme inhibitors for reduction of adverse cardiovascular events in patients with diabetes mellitus and preserved left ventricular function.
+########## MA title 28021##########
+Bayesian meta-analysis of tissue angiotensin-converting enzyme inhibitors for reduction of adverse cardiovascular events in patients with diabetes mellitus and preserved left ventricular function.
+
+Bayes item #298 matches MA item #28145
+########## Bayes title 298##########
+Assessment of the relative advantage of various artesunate-based combination therapies by a multi-treatment Bayesian random-effects meta-analysis.
+########## MA title 28145##########
+Assessment of the relative advantage of various artesunate-based combination therapies by a multi-treatment Bayesian random-effects meta-analysis.
+
+Bayes item #301 matches MA item #28448
+########## Bayes title 301##########
+Bayesian meta-analysis of Papanicolaou smear accuracy.
+########## MA title 28448##########
+Bayesian meta-analysis of Papanicolaou smear accuracy.
+
+Bayes item #302 matches MA item #28449
+########## Bayes title 302##########
+Assessing the effectiveness of primary angioplasty compared with thrombolysis and its relationship to time delay: a Bayesian evidence synthesis.
+########## MA title 28449##########
+Assessing the effectiveness of primary angioplasty compared with thrombolysis and its relationship to time delay: a Bayesian evidence synthesis.
+
+Bayes item #303 matches MA item #28488
+########## Bayes title 303##########
+Estimating the relative risk of pancreatic cancer associated with exposure agents in job title data in a hierarchical Bayesian meta-analysis.
+########## MA title 28488##########
+Estimating the relative risk of pancreatic cancer associated with exposure agents in job title data in a hierarchical Bayesian meta-analysis.
+
+Bayes item #304 matches MA item #28515
+########## Bayes title 304##########
+Drug-drug interaction prediction: a Bayesian meta-analysis approach.
+########## MA title 28515##########
+Drug-drug interaction prediction: a Bayesian meta-analysis approach.
+
+Bayes item #305 matches MA item #28516
+########## Bayes title 305##########
+Meta-analysis of mixed treatment comparisons at multiple follow-up times.
+########## MA title 28516##########
+Meta-analysis of mixed treatment comparisons at multiple follow-up times.
+
+Bayes item #306 matches MA item #28547
+########## Bayes title 306##########
+Comparison of pegfilgrastim with filgrastim on febrile neutropenia, grade IV neutropenia and bone pain: a meta-analysis of randomized controlled trials.
+########## MA title 28547##########
+Comparison of pegfilgrastim with filgrastim on febrile neutropenia, grade IV neutropenia and bone pain: a meta-analysis of randomized controlled trials.
+
+Bayes item #307 matches MA item #28600
+########## Bayes title 307##########
+Maternal obesity and risk of cesarean delivery: a meta-analysis.
+########## MA title 28600##########
+Maternal obesity and risk of cesarean delivery: a meta-analysis.
+
+Bayes item #309 matches MA item #28667
+########## Bayes title 309##########
+Maternal obesity and risk of gestational diabetes mellitus.
+########## MA title 28667##########
+Maternal obesity and risk of gestational diabetes mellitus.
+
+Bayes item #310 matches MA item #29010
+########## Bayes title 310##########
+Evidence synthesis combining individual patient data and aggregate data: a systematic review identified current practice and possible methods.
+########## MA title 29010##########
+Evidence synthesis combining individual patient data and aggregate data: a systematic review identified current practice and possible methods.
+
+Bayes item #311 matches MA item #29096
+########## Bayes title 311##########
+On the association between statin and fracture: a Bayesian consideration.
+########## MA title 29096##########
+On the association between statin and fracture: a Bayesian consideration.
+
+Bayes item #312 matches MA item #29121
+########## Bayes title 312##########
+Hip protectors decrease hip fracture risk in elderly nursing home residents: a Bayesian meta-analysis.
+########## MA title 29121##########
+Hip protectors decrease hip fracture risk in elderly nursing home residents: a Bayesian meta-analysis.
+
+Bayes item #314 matches MA item #29849
+########## Bayes title 314##########
+Diagnostic accuracy of noninvasive fetal Rh genotyping from maternal blood--a meta-analysis.
+########## MA title 29849##########
+Diagnostic accuracy of noninvasive fetal Rh genotyping from maternal blood--a meta-analysis.
+
+Bayes item #315 matches MA item #29891
+########## Bayes title 315##########
+Reanalysis of systematic reviews: the case of invasive strategies for acute coronary syndromes.
+########## MA title 29891##########
+Reanalysis of systematic reviews: the case of invasive strategies for acute coronary syndromes.
+
+Bayes item #317 matches MA item #29942
+########## Bayes title 317##########
+Estimating transitions between symptom severity states over time in schizophrenia: a Bayesian meta-analytic approach.
+########## MA title 29942##########
+Estimating transitions between symptom severity states over time in schizophrenia: a Bayesian meta-analytic approach.
+
+Bayes item #318 matches MA item #30031
+########## Bayes title 318##########
+Adherence to antiretroviral therapy in sub-Saharan Africa and North America: a meta-analysis.
+########## MA title 30031##########
+Adherence to antiretroviral therapy in sub-Saharan Africa and North America: a meta-analysis.
+
+Bayes item #319 matches MA item #30100
+########## Bayes title 319##########
+Frequency of adverse events after vaccination with different vaccinia strains.
+########## MA title 30100##########
+Frequency of adverse events after vaccination with different vaccinia strains.
+
+Bayes item #320 matches MA item #30321
+########## Bayes title 320##########
+A Bayesian meta-analysis of prophylactic granulocyte colony-stimulating factor and granulocyte-macrophage colony-stimulating factor in children with cancer.
+########## MA title 30321##########
+A Bayesian meta-analysis of prophylactic granulocyte colony-stimulating factor and granulocyte-macrophage colony-stimulating factor in children with cancer.
+
+Bayes item #321 matches MA item #30336
+########## Bayes title 321##########
+Meta-analysis of sentinel lymph node biopsy after preoperative chemotherapy in patients with breast cancer.
+########## MA title 30336##########
+Meta-analysis of sentinel lymph node biopsy after preoperative chemotherapy in patients with breast cancer.
+
+Bayes item #323 matches MA item #30462
+########## Bayes title 323##########
+Effect of early and late GB virus C viraemia on survival of HIV-infected individuals: a meta-analysis.
+########## MA title 30462##########
+Effect of early and late GB virus C viraemia on survival of HIV-infected individuals: a meta-analysis.
+
+Bayes item #324 matches MA item #30618
+########## Bayes title 324##########
+Anti-hip fracture efficacy of biophosphonates: a Bayesian analysis of clinical trials.
+########## MA title 30618##########
+Anti-hip fracture efficacy of biophosphonates: a Bayesian analysis of clinical trials.
+
+Bayes item #325 matches MA item #30680
+########## Bayes title 325##########
+Efficacy of inactivated hepatitis A vaccine in HIV-infected patients: a hierarchical bayesian meta-analysis.
+########## MA title 30680##########
+Efficacy of inactivated hepatitis A vaccine in HIV-infected patients: a hierarchical bayesian meta-analysis.
+
+Bayes item #326 matches MA item #30736
+########## Bayes title 326##########
+Do antidepressants cause suicidality in children? A Bayesian meta-analysis.
+########## MA title 30736##########
+Do antidepressants cause suicidality in children? A Bayesian meta-analysis.
+
+Bayes item #327 matches MA item #30789
+########## Bayes title 327##########
+Cancer incidence among female flight attendants: a meta-analysis of published data.
+########## MA title 30789##########
+Cancer incidence among female flight attendants: a meta-analysis of published data.
+
+Bayes item #328 matches MA item #30831
+########## Bayes title 328##########
+Meta-analysis of heterogeneously reported trials assessing change from baseline.
+########## MA title 30831##########
+Meta-analysis of heterogeneously reported trials assessing change from baseline.
+
+Bayes item #330 matches MA item #31260
+########## Bayes title 330##########
+Does alendronate reduce the risk of fracture in men? A meta-analysis incorporating prior knowledge of anti-fracture efficacy in women.
+########## MA title 31260##########
+Does alendronate reduce the risk of fracture in men? A meta-analysis incorporating prior knowledge of anti-fracture efficacy in women.
+
+Bayes item #331 matches MA item #31265
+########## Bayes title 331##########
+Are antifibrinolytic drugs equivalent in reducing blood loss and transfusion in cardiac surgery? A meta-analysis of randomized head-to-head trials.
+########## MA title 31265##########
+Are antifibrinolytic drugs equivalent in reducing blood loss and transfusion in cardiac surgery? A meta-analysis of randomized head-to-head trials.
+
+Bayes item #332 matches MA item #31279
+########## Bayes title 332##########
+Accuracy of MSI testing in predicting germline mutations of MSH2 and MLH1: a case study in Bayesian meta-analysis of diagnostic tests without a gold standard.
+########## MA title 31279##########
+Accuracy of MSI testing in predicting germline mutations of MSH2 and MLH1: a case study in Bayesian meta-analysis of diagnostic tests without a gold standard.
+
+Bayes item #333 matches MA item #31325
+########## Bayes title 333##########
+Indeterminate ovarian mass at US: incremental value of second imaging test for characterization--meta-analysis and Bayesian analysis.
+########## MA title 31325##########
+Indeterminate ovarian mass at US: incremental value of second imaging test for characterization--meta-analysis and Bayesian analysis.
+
+Bayes item #334 matches MA item #31597
+########## Bayes title 334##########
+Investigating heterogeneity in studies of resting energy expenditure in persons with HIV/AIDS: a meta-analysis.
+########## MA title 31597##########
+Investigating heterogeneity in studies of resting energy expenditure in persons with HIV/AIDS: a meta-analysis.
+

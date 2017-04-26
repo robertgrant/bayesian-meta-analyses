@@ -1,0 +1,217 @@
+==
+4
+2a no
+2b yes
+2c not stated
+3 Dias Sutton & Ades. Med Decis Mak  2013
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b not clear
+==
+5
+2a yes
+2b yes
+2c WinBUGS 1.4.3
+3 Salanti et al. 2008 ; Lu & Ades, 2004 ; Glenny et al. 2005
+4 nma
+5 yes
+6 nma
+7 U(0,1.1) for heterogeneity. study placebo effects are N(0,10^5) but one is N(0,10^(-6)), not sure why. Tx effects are not clear, even in the code!
+8a no
+8b
+==
+9
+2a no; maybe in appendix
+2b no; maybe in appendix
+2c WinBUGS 1.4.7 (sic)
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23(20):3105-24. ; CaldwellDM,AdesAE,HigginsJP.Simultaneouscomparisonof multiple treatments: combining direct and indirect evidence. BMJ 2005;331(7521):897-900. ; Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, et al. Assessing the quality of reports of randomized clinical trials: is blinding necessary? Control Clin Trials 1996; 17(1):1-12. ; Tugwell P, Boers M, Brooks P, Simon L, Strand V, Idzerda L. OMERACT: An international initiative to improve outcome measurement in rheumatology. Trials 2007;8:38. ; Jansen JP, Crawford B, Bergman G, Stam W. Bayesian meta- analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health 2008;11(5):956-64. ; Ades AE, Sculpher M, Sutton A, Abrams K, Cooper N, Welton N, et al. Bayesian methods for evidence synthesis in cost-effective- ness analysis. Pharmacoeconomics 2006;24(1):1-19. ; National Institute of Clinical Excellence. Guide to the Methods of Technology Appraisal June 2008. Available at http://www. nice.org.uk/media/B52/A7/TAMethodsGuideUpdatedJune2008. pdf. ; Cooper NJ, Sutton AJ, Lu G, Khunti K. Mixed comparison of stroke prevention treatments in individuals with nonrheumatic atrial fibrillation. Arch Intern Med 2006;166(12):1269-75. ; Salanti G, Higgins JP, Ades AE, Ioannidis JP. Evaluation of net- works of randomized trials. Stat Methods Med Res 2008; 17(3):279-301.
+4 mtc
+5 yes
+6 mtc
+7 not stated; maybe in appendix
+8a no
+8b
+==
+11
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Ades AE, Sculpher M, Sutton A, et al. Bayesian methods for 30 evidence synthesis in cost-effectiveness analysis. Pharmacoeconomics 2006; 24: 1–19. ; Sutton A, Ades AE, Cooper N, Abrams K. Use of indirect and mixed 31 treatment comparisons for technology assessment. Pharmacoeconomics 2008; 26: 753–67. ; Song F, Altman DG, Glenny AM, Deeks JJ. Validity of indirect 32 comparison for estimating efficacy of competing interventions: empirical evidence from published meta-analyses. BMJ 2003; 326: 472–76. Ann Surg Oncol 2011; 18: 1319–26. ; Neoptolemos JP, Stocken DD, Tudur Smith C, et al. Adjuvant 5-fluorouracil and folinic acid vs observation for pancreatic cancer: composite data from the ESPAC-1 and -3(v1) trials. Br J Cancer 2009; 100: 246–50. ; Neoptolemos JP, Stocken DD, Bassi C, et al. Adjuvant chemotherapy with fluorouracil plus folinic acid vs gemcitabine following pancreatic cancer resection: a randomized controlled trial. JAMA 2010; 304: 1073–81. ; Roy R, Maraveyas A. Chemoradiation in pancreatic adenocarcinoma: a literature review. Oncologist 2010; 15: 259–69. Hutchins LF, Unger JM, Crowley JJ, Coltman CA Jr, Albain KS. Underrepresentation of patients 65 years of age or older in cancer- treatment trials. N Engl J Med 1999; 341: 2061–67. ; Talarico L, Chen G, Pazdur R. Enrollment of elderly patients in clinical trials for cancer drug registration: a 7-year experience by the US Food and Drug Administration. J Clin Oncol 2004; 22: 4626–31. Hurria A, Togawa K, Mohile SG, et al. Predicting chemotherapy toxicity in older adults with cancer: a prospective multicenter study. J Clin Oncol 2011; 29: 3457–65. ; Woods BS, Hawkins N, Scott DA. Network meta-analysis on the log-hazard scale, combining count and hazard ratio statistics accounting for multi-arm trials: a tutorial. BMC Med Res Methodol 2010; 10: 54–62.
+4 nma
+5 yes
+6 nma
+7 not stated
+8a no
+8b
+==
+13
+2a no
+2b no
+2c WinBUGS 1.4
+3 none
+4 Random-effects meta-analysis and Bayesian logistic regression
+5 yes
+6 Random-effects meta-analysis and Bayesian logistic regression
+7 not stated
+8a no
+8b
+==
+19
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 NICE DSU
+4 nma
+5 mixed
+6 nma
+7 N(0,10000) "For the heteroge- neity of the random-effects model, we used a uniform prior distribution centered at zero with sufficiently large variance"
+8a no
+8b
+==
+22
+2a no
+2b yes
+2c GeMTC
+3 none
+4 nma
+5 yes
+6 nma
+7 "A noninformative uniform prior distribution of effect sizes and precision was used."
+8a yes
+8b direct and indirect
+==
+24
+2a no
+2b no
+2c no
+3 none
+4 nma
+5 yes
+6 not clear
+7 not stated
+8a not clear
+8b
+==
+30
+2a yes
+2b yes
+2c WinBUGS
+3 none
+4 nma
+5 yes
+6 nma
+7 N(0,1000) log-sigma2~U(-50,50) tau2~U(0,50)
+8a no
+8b
+==
+33
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lu, G. & Ades, A. E. (2004) Combination of direct and indirect evidence in mixed treatment comparisons. Statistics in Medicine 23, 3105– 3124. ; Lu, G. & Ades, A. E. (2006) Assessing evidence inconsistency in mixed treatment comparisons. Journal of the American Statistical Association 101, 447–459. ; Buti, J., Glenny, A.-M., Worthington, H. V., Nieri, M. & Baccini, M. (2011) Network meta-analysis of randomised controlled trials: direct and indirect treatment comparisons. European Journal of Oral Implantology 4, 55– 62.
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+35
+2a no
+2b yes
+2c no
+3  Sutton AJ, Abrams KR. Bayesian methods in meta-analysis and evidence synthesis. Statistical Methods in Medical Research 2001;10(August (4)):277–303.
+4 standard MA, somewhat methodological comparison of freq and Bayes
+5 yes but only two studies
+6 fixed effects
+7 informative by expert survey and arithmetic pooling
+8a yes
+8b yes
+==
+37
+2a no, maybe appendix
+2b not clear if everything or maybe in appendix
+2c OpenBUGS
+3 none relevant
+4 MA & meta-regression
+5 yes
+6 "Bayesian meta-analysis and meta-regression"
+7 not stated
+8a no
+8b
+==
+44
+2a yes
+2b yes
+2c WinBUGS 1.4
+3 NICE DSU
+4 nma
+5 yes
+6 nma
+7 N(0,10000) U(0,5)
+8a yes
+8b direct and indirect
+==
+47
+2a no
+2b no
+2c WinBUGS 1.4.3 and GeMTC and ADDIS 1.16.5 (???)
+3 none relevant
+4 nma
+5 yes
+6 nma
+7 "vague"
+8a yes
+8b no
+==
+48
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Lu & Ades
+4 mtc
+5 yes
+6 mtc
+7 "vague"
+8a no
+8b
+==
+51
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Lu & Ades 2004 ; Ades et al. 2006 ; Sutton et al. 2008 ; https://www.bris.ac.uk/cobm/research/mpes/mtc.html
+4 nma
+5 yes
+6 https://www.bris.ac.uk/cobm/research/mpes/mtc.html
+7 "Non-informative"
+8a yes
+8b direct and indirect
+==
+52
+2a no
+2b
+2c WinBUGS 1.4.3
+3 none
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+53
+2a no
+2b no
+2c WinBUGS
+3 none
+4 probabilities of error in a markov-type model of patient pathways
+5 yes
+6 oddly simple logit model
+7 "Our prior distributions were derived by mixing expert opinion with generic human error probability at each substage to form a ‘mixture prior’ in 60:40 ratio (expert opinion: generic human error) (appendix 2)." But not fully explained in appendix
+8a no
+8b
+==

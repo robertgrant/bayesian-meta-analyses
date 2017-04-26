@@ -1,0 +1,200 @@
+CINAHL item #176 matches MEDLINE item #31013
+########## CINAHL line 176##########
+Cancer risk in asthmatic populations.
+Tennis P; Sherrill B; Fernandez C; Dolan C; Annals of Allergy, Asthma & Immunology, 2005 Oct; 95 (4): 354-60. (journal article - research, systematic review, tables/charts) ISSN: 1081-1206 PMID: 16279566 CINAHL AN: 200958118
+########## MEDLINE line 31013##########
+Cancer risk in asthmatic populations.
+Tennis P(1), Sherrill B, Fernandez C, Dolan C.
+
+CINAHL item #289 matches MEDLINE item #29822
+########## CINAHL line 289##########
+Soy formula for prevention of allergy and food intolerance in infants.
+Osborn DA; Sinn JK; Cochrane Database of Systematic Reviews, 2006: N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 17054183 CINAHL AN: 200982418
+########## MEDLINE line 29822##########
+Soy formula for prevention of allergy and food intolerance in infants.
+Osborn DA(1), Sinn J.
+
+CINAHL item #582 matches MEDLINE item #28350
+########## CINAHL line 582##########
+Probiotics in infants for prevention of allergic disease and food hypersensitivity.
+Osborn DA; Sinn JK; Cochrane Database of Systematic Reviews, 2007: N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 17943912 CINAHL AN: 200982518
+########## MEDLINE line 28350##########
+Probiotics in infants for prevention of allergic disease and food hypersensitivity.
+Osborn DA(1), Sinn JK.
+
+CINAHL item #1210 matches MEDLINE item #29813
+########## CINAHL line 1210##########
+Different dosage schedules for reducing cardiotoxicity in cancer patients receiving anthracycline chemotherapy.
+van Dalen EC; van der Pal HJH; Caron HN; Kremer LC; Cochrane Database of Systematic Reviews, 2009: N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 19821337 CINAHL AN: 200982496
+########## MEDLINE line 29813##########
+Different dosage schedules for reducing cardiotoxicity in cancer patients receiving anthracycline chemotherapy.
+van Dalen EC(1), Michiels EM, Caron HN, Kremer LC.
+
+CINAHL item #1215 matches MEDLINE item #24693
+########## CINAHL line 1215##########
+Enamel matrix derivative (Emdogain(R)) for periodontal tissue regeneration in intrabony defects.
+Esposito M; Grusovin MG; Papanikolaou N; Coulthard P; Worthington HV; Cochrane Database of Systematic Reviews, 2009: N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 19821315 CINAHL AN: 200982380
+########## MEDLINE line 24693##########
+Enamel matrix derivative (Emdogain(R)) for periodontal tissue regeneration in intrabony defects.
+Esposito M(1), Grusovin MG, Felice P, Karatzopoulos G, Worthington HV, Coulthard  P.
+
+CINAHL item #1257 matches MEDLINE item #25196
+########## CINAHL line 1257##########
+Therapeutic interventions for symptomatic treatment in Huntington's disease.
+Mestre T; Ferreira J; Coelho MM; Rosa M; Sampaio C; Cochrane Database of Systematic Reviews, 2009: N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 19588393 CINAHL AN: 201034888
+########## MEDLINE line 25196##########
+Therapeutic interventions for symptomatic treatment in Huntington's disease.
+Mestre T(1), Ferreira J, Coelho MM, Rosa M, Sampaio C.
+
+CINAHL item #1661 matches MEDLINE item #22167
+########## CINAHL line 1661##########
+Opiate treatment for opiate withdrawal in newborn infants.
+Osborn DA; Jeffery HE; Cole MJ; Cochrane Database of Systematic Reviews, 2010: N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 20927730 CINAHL AN: 200982350
+########## MEDLINE line 22167##########
+Opiate treatment for opiate withdrawal in newborn infants.
+Osborn DA(1), Jeffery HE, Cole MJ.
+
+CINAHL item #1668 matches MEDLINE item #21729
+########## CINAHL line 1668##########
+Prophylactic methylxanthine for prevention of apnoea in preterm infants.
+Henderson-Smart DJ; De Paoli AG; Cochrane Database of Systematic Reviews, 2010: N.PAG. (journal article - meta analysis, research, systematic review) ISSN: 1469-493X PMID: 21154344 CINAHL AN: 200982250
+########## MEDLINE line 21729##########
+Prophylactic methylxanthine for prevention of apnoea in preterm infants.
+Henderson-Smart DJ(1), De Paoli AG.
+
+CINAHL item #1907 matches MEDLINE item #22412
+########## CINAHL line 1907##########
+Screening and case finding tools for the detection of dementia. Part I: evidence-based meta-analysis of multidomain tests.
+Mitchell AJ; Malladi S; American Journal of Geriatric Psychiatry, 2010 Sep; 18 (9): 759-82. (journal article - meta analysis, research, systematic review) ISSN: 1064-7481 PMID: 20808118 CINAHL AN: 201082717
+########## MEDLINE line 22412##########
+Screening and case finding tools for the detection of dementia. Part I: evidence-based meta-analysis of multidomain tests.
+Mitchell AJ(1), Malladi S.
+
+CINAHL item #2101 matches MEDLINE item #27873
+########## CINAHL line 2101##########
+Long-chain polyunsaturated fatty acid supplementation in infants born at term.
+Simmer K; Patole SK; Rao SC; Cochrane Database of Systematic Reviews, 2011: N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 22161363 CINAHL AN: 200982247
+########## MEDLINE line 27873##########
+Long-chain polyunsaturated fatty acid supplementation in infants born at term.
+Simmer K; Patole SK; Rao SC.
+
+CINAHL item #2194 matches MEDLINE item #21143
+########## CINAHL line 2194##########
+A meta-analysis of the relation of polymorphism at sites −1082 and −592 of the IL-10 gene promoter with susceptibility and clearance to persistent hepatitis B virus infection in the Chinese population.
+Zhang, T.-C.; Pan, F.-M.; Zhang, L.-Z.; Gao, Y.-F.; Zhang, Z.-H.; Gao, J.; Ge, R.; Mei, Y.; Shen, B.-B.; Duan, Z.-H.; et al.; Infection, 2011 Feb; 39 (1): 21-7. (journal article - meta analysis, research, systematic review, tables/charts) ISSN: 0300-8126 CINAHL AN: 201095278
+########## MEDLINE line 21143##########
+A meta-analysis of the relation of polymorphism at sites -1082 and -592 of the IL-10 gene promoter with susceptibility and clearance to persistent hepatitis B virus infection in the Chinese population.
+Zhang, T.-C.; Pan, F.-M.; Zhang, L.-Z.; Gao, Y.-F.; Zhang, Z.-H.; Gao, J.; Ge, R.; Mei, Y.; Shen, B.-B.; Duan, Z.-H.; et al..
+
+CINAHL item #2286 matches MEDLINE item #20034
+########## CINAHL line 2286##########
+Risk of cardiac dysfunction with trastuzumab in breast cancer patients: A meta-analysis.
+Chen T; Xu T; Li Y; Liang C; Chen J; Lu Y; Wu Z; Wu S; Cancer Treatment Reviews, 2011 Jun; 37 (4): 312-20. (journal article - meta analysis, research, systematic review) ISSN: 0305-7372 PMID: 20952131 CINAHL AN: 201099853
+########## MEDLINE line 20034##########
+Risk of cardiac dysfunction with trastuzumab in breast cancer patients: a meta-analysis.
+Chen T; Xu T; Li Y; Liang C; Chen J; Lu Y; Wu Z; Wu S.
+
+CINAHL item #2491 matches MEDLINE item #17421
+########## CINAHL line 2491##########
+Steroids for acute spinal cord injury.
+Bracken MB; Cochrane Database of Systematic Reviews, 2012; (1): N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 22258943 CINAHL AN: 200982266
+########## MEDLINE line 17421##########
+Self-monitoring of blood glucose in patients with type 2 diabetes mellitus who are not using insulin.
+Bracken MB(1).
+
+CINAHL item #2692 matches MEDLINE item #16148
+########## CINAHL line 2692##########
+Inhaled versus systemic corticosteroids for the treatment of chronic lung disease in ventilated very low birth weight preterm infants.
+Shah SS; Ohlsson A; Halliday HL; Shah VS; Cochrane Database of Systematic Reviews, 2012; (5): N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 22592682 CINAHL AN: 200982375
+########## MEDLINE line 16148##########
+Inhaled versus systemic corticosteroids for the treatment of chronic lung disease in ventilated very low birth weight preterm infants.
+Shah VS(1), Ohlsson A, Halliday HL, Shah VS.
+
+CINAHL item #2739 matches MEDLINE item #15827
+########## CINAHL line 2739##########
+Regional citrate versus heparin anticoagulation for continuous renal replacement therapy: a meta-analysis of randomized controlled trials.
+Wu MY; Hsu YH; Bai CH; Lin YF; Wu CH; Tam KW; American Journal of Kidney Diseases, 2012 Jun; 59 (6): 810-8. (journal article - meta analysis, research, systematic review) ISSN: 0272-6386 PMID: 22226564 CINAHL AN: 201156054
+########## MEDLINE line 15827##########
+Regional citrate versus heparin anticoagulation for continuous renal replacement  therapy: a meta-analysis of randomized controlled trials.
+Wu MY; Hsu YH; Bai CH; Lin YF; Wu CH; Tam KW.
+
+CINAHL item #2748 matches MEDLINE item #15794
+########## CINAHL line 2748##########
+Cromolyn sodium for the prevention of chronic lung disease in preterm infants.
+Ng G; Ohlsson A; Cochrane Database of Systematic Reviews, 2012; (6): N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 22696332 CINAHL AN: 200982337
+########## MEDLINE line 15794##########
+Cromolyn sodium for the prevention of chronic lung disease in preterm infants.
+Ng E(1), Taddio A, Ohlsson A.
+
+CINAHL item #2773 matches MEDLINE item #15917
+########## CINAHL line 2773##########
+Source attribution of human campylobacteriosis using a meta-analysis of case-control studies of sporadic infections.
+Domingues AR; Pires SM; Halasa T; Hald T; Epidemiology & Infection, 2012 Jun; 140 (6): 970-81. (journal article - meta analysis, research, systematic review) ISSN: 0950-2688 PMID: 22214729 CINAHL AN: 201154283
+########## MEDLINE line 15917##########
+Source attribution of human campylobacteriosis using a meta-analysis of case-control studies of sporadic infections.
+Domingues AR(1), Pires SM, Halasa T, Hald T.
+
+CINAHL item #2954 matches MEDLINE item #23026
+########## CINAHL line 2954##########
+Techniques of intrauterine fetal transfusion for women with red-cell isoimmunisation for improving health outcomes.
+Dodd JM; Windrim RC; van Kamp IL; Cochrane Database of Systematic Reviews, 2012; (9): N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 22972102 CINAHL AN: 201084153
+########## MEDLINE line 23026##########
+Techniques of intrauterine fetal transfusion for women with red-cell isoimmunisation for improving health outcomes.
+Dodd JM; Windrim RC; van Kamp IL.
+
+CINAHL item #3427 matches MEDLINE item #11261
+########## CINAHL line 3427##########
+Infections of Helicobacter spp. in the biliary system are associated with biliary tract cancer: a meta-analysis.
+Zhou, Di; Wang, Jian-Dong; Weng, Ming-Zhe; Zhang, Yong; Wang, Xue-Feng; Gong, Wei; Quan, Zhi-Wei; European Journal of Gastroenterology & Hepatology, 2013 Apr; 25 (4): 447-54. (journal article - meta analysis, research, systematic review) ISSN: 0954-691X PMID: 23470268 CINAHL AN: 201203617
+########## MEDLINE line 11261##########
+Infections of Helicobacter spp. in the biliary system are associated with biliary tract cancer: a meta-analysis.
+Zhou, Di; Wang, Jian-Dong; Weng, Ming-Zhe; Zhang, Yong; Wang, Xue-Feng; Gong, Wei; Quan, Zhi-Wei.
+
+CINAHL item #3509 matches MEDLINE item #17104
+########## CINAHL line 3509##########
+Alginate dressings for healing diabetic foot ulcers.
+Dumville JC; O'Meara S; Deshpande S; Speak K; Cochrane Database of Systematic Reviews, 2013; (6): N.PAG. (journal article - meta analysis, research, systematic review) ISSN: 1469-493X PMID: 23799857 CINAHL AN: 201146881
+########## MEDLINE line 17104##########
+Alginate dressings for healing diabetic foot ulcers.
+Dumville JC; O'Meara S; Deshpande S; Speak K.
+
+CINAHL item #3520 matches MEDLINE item #19185
+########## CINAHL line 3520##########
+Foam dressings for healing diabetic foot ulcers.
+Dumville JC; Deshpande S; O'Meara S; Speak K; Cochrane Database of Systematic Reviews, 2013; (6): N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 23740766 CINAHL AN: 201127039
+########## MEDLINE line 19185##########
+Foam dressings for healing diabetic foot ulcers.
+Dumville JC; Deshpande S; O'Meara S; Speak K.
+
+CINAHL item #3657 matches MEDLINE item #9281
+########## CINAHL line 3657##########
+Oral deferiprone for iron chelation in people with thalassaemia.
+Fisher SA; Brunskill SJ; Doree C; Chowdhury O; Gooding S; Roberts DJ; Cochrane Database of Systematic Reviews, 2013; (8): N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 23966105 CINAHL AN: 200982295
+########## MEDLINE line 9281##########
+Oral deferiprone for iron chelation in people with thalassaemia.
+Fisher SA; Brunskill SJ; Doree C; Chowdhury O; Gooding S; Roberts DJ.
+
+CINAHL item #4167 matches MEDLINE item #6439
+########## CINAHL line 4167##########
+Acute effects of high-protein versus normal-protein isocaloric meals on satiety and ghrelin.
+Yang, Dan; Liu, Zhihong; Yang, Haixing; Jue, Ye; European Journal of Nutrition, 2014 Mar; 53 (2): 493-500. (journal article - meta analysis, research, systematic review, tables/charts) ISSN: 1436-6207 PMID: 23824257 CINAHL AN: 201247570
+########## MEDLINE line 6439##########
+Acute effects of high-protein versus normal-protein isocaloric meals on satiety and ghrelin.
+Yang, Dan; Liu, Zhihong; Yang, Haixing; Jue, Ye.
+
+CINAHL item #4372 matches MEDLINE item #3700
+########## CINAHL line 4372##########
+Breakthrough cancer pain.
+Davies, Andrew N; Current Pain & Headache Reports, 2014 Jun; 18 (6): 420. (journal article - review) ISSN: 1531-3433 PMID: 24760489 CINAHL AN: 201255811
+########## MEDLINE line 3700##########
+Breakthrough cancer pain.
+Davies, Andrew N
+
+CINAHL item #4433 matches MEDLINE item #19958
+########## CINAHL line 4433##########
+Anticoagulation for the long-term treatment of venous thromboembolism in patients with cancer.
+Akl EA; Labedi N; Barba M; Terrenato I; Sperati F; Muti P; Schünemann H; Cochrane Database of Systematic Reviews, 2014; (7): N.PAG. (journal article - research, systematic review) ISSN: 1469-493X PMID: 25004410 CINAHL AN: 200994254
+########## MEDLINE line 19958##########
+Anticoagulation for the long-term treatment of venous thromboembolism in patients with cancer.
+Akl EA; Labedi N; Barba M; Terrenato I; Sperati F; Muti P; Schünemann H.
+

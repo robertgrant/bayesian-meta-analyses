@@ -1,0 +1,334 @@
+Risk of serious infection in biological treatment of patients with rheumatoid arthritis: a systematic review and meta-analysis.
+Mortality in patients treated with extended duration dual antiplatelet therapy after drug-eluting stent implantation: a pairwise and Bayesian network meta-analysis of randomised trials.
+First-line treatments for chronic lymphocytic leukaemia: interpreting efficacy data by network meta-analysis.
+A Bayesian network meta-analysis on the effect of inodilatory agents on mortality.
+Comparative efficacy and safety of selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors in older adults: a network meta-analysis.
+Nonsteroidal Anti-inflammatory Drugs as Prophylaxis for Heterotopic Ossification after Total Hip Arthroplasty: A Systematic Review and Meta-Analysis.
+Dynamic contrast-enhanced MRI for the detection of prostate cancer: meta-analysis.
+Immunoenhancing enteral and parenteral nutrition for gastrointestinal surgery: a multiple-treatments meta-analysis.
+Meta-analysis of prognostic factors for amputation following surgical repair of lower extremity vascular trauma.
+Transcatheter reduction of paravalvular leaks: a systematic review and meta-analysis.
+Interventions for treating displaced midshaft clavicular fractures: a Bayesian network meta-analysis of randomized controlled trials.
+Treatments for shoulder impingement syndrome: a PRISMA systematic review and network meta-analysis.
+Extended duration dual antiplatelet therapy and mortality: a systematic review and meta-analysis.
+Diagnostic accuracy of endoscopic ultrasonography (EUS) for the preoperative locoregional staging of primary gastric cancer.
+Labour induction with prostaglandins: a systematic review and network meta-analysis.
+A network meta-analysis of progression free survival and overall survival in first-line treatment of chronic lymphocytic leukemia.
+Comparative effectiveness of immunosuppressants and biologics for inducing and maintaining remission in Crohn's disease: a network meta-analysis.
+Electrical stimulation for pain relief in knee osteoarthritis: systematic review and network meta-analysis.
+Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis.
+[Meta analysis of the use of Bayesian networks in breast cancer diagnosis].
+Comparative efficacy of pharmacologic interventions in preventing relapse of Crohn's disease after surgery: a systematic review and network meta-analysis.
+Spatial and temporal distribution of soil-transmitted helminth infection in sub-Saharan Africa: a systematic review and geostatistical meta-analysis.
+Network meta-analysis: development of a three-level hierarchical modeling approach incorporating dose-related constraints.
+Trans-ethnic meta-analysis of white blood cell phenotypes.
+Antifungal prophylaxis in liver transplantation: a systematic review and network meta-analysis.
+Comparative efficacy of biologic therapy in biologic-naïve patients with Crohn disease: a systematic review and network meta-analysis.
+Blast-related mild traumatic brain injury: a Bayesian random-effects meta-analysis on the cognitive outcomes of concussion among military personnel.
+Management of chronic neuropathic pain: a protocol for a multiple treatment comparison meta-analysis of randomised controlled trials.
+Coronary revascularization in diabetic patients: a systematic review and Bayesian network meta-analysis.
+Efficacy, quality of life, and acceptability outcomes of atypical antipsychotic augmentation treatment for treatment-resistant depression: protocol for a systematic review and network meta-analysis.
+Outdoor fine particles and nonfatal strokes: systematic review and meta-analysis.
+Global prevalence of glaucoma and projections of glaucoma burden through 2040: a systematic review and meta-analysis.
+Impact of long-term lifestyle programmes on weight loss and cardiovascular risk factors in overweight/obese participants: a systematic review and network meta-analysis.
+Genetic variability of VEGF pathway genes in six randomized phase III trials assessing the addition of bevacizumab to standard therapy.
+Sensitivity of diagnostic tests for human soil-transmitted helminth infections: a meta-analysis in the absence of a true gold standard.
+A systematic review and Bayesian network meta-analysis of randomized clinical trials on non-surgical treatments for peri-implantitis.
+Mortality benefit of vasopressor and inotropic agents in septic shock: a Bayesian network meta-analysis of randomized controlled trials.
+A Bayesian mixed-treatment comparison meta-analysis of treatments for alcohol dependence and implications for planning future trials.
+Comparative effectiveness of neoadjuvant therapy for HER2-positive breast cancer: a network meta-analysis.
+Comparison of weight loss among named diet programs in overweight and obese adults: a meta-analysis.
+Cardiovascular disease and vitamin D supplementation: trial analysis, systematic review, and meta-analysis.
+Impact of different training modalities on glycaemic control and blood lipids in patients with type 2 diabetes: a systematic review and network meta-analysis.
+Effect of odanacatib on BMD and fractures: estimates from Bayesian univariate and bivariate meta-analyses.
+Comparative efficacy and risk of harms of immediate- versus extended-release second-generation antidepressants: a systematic review with network meta-analysis.
+A network meta-analysis of the efficacy of belatacept, cyclosporine and tacrolimus for immunosuppression therapy in adult renal transplant recipients.
+Afatinib in the treatment of EGFR mutation-positive NSCLC--a network meta-analysis.
+Effectiveness of continuous and pulsed ultrasound for the management of knee osteoarthritis: a systematic review and network meta-analysis.
+Comparative efficacy of biologics as monotherapy and in combination with methotrexate on patient reported outcomes (PROs) in rheumatoid arthritis patients with an inadequate response to conventional DMARDs--a systematic review and network meta-analysis.
+Adalimumab versus infliximab for the treatment of moderate to severe ulcerative colitis in adult patients naïve to anti-TNF therapy: an indirect treatment comparison meta-analysis.
+Non-biologic remission maintenance therapy in adult patients with ANCA-associated vasculitis: a systematic review and network meta-analysis.
+Chemotherapy regimens for advanced pancreatic cancer: a systematic review and network meta-analysis.
+Revascularisation versus medical treatment in patients with stable coronary artery disease: network meta-analysis.
+Systematic review with network meta-analysis: the efficacy of anti-TNF agents for the treatment of Crohn's disease.
+Use of inhaled corticosteroids in patients with COPD and the risk of TB and influenza: A systematic review and meta-analysis of randomized controlled trials. a systematic review and meta-analysis of randomized controlled trials.
+Comparative efficacy, acceptability, and safety of medicinal, cognitive-behavioral therapy, and placebo treatments for acute major depressive disorder in children and adolescents: a multiple-treatments meta-analysis.
+A Mediterranean diet improves HbA1c but not fasting blood glucose compared to alternative dietary strategies: a network meta-analysis.
+Discordance in hormone receptor status among primary, metastatic, and second primary breast cancers: biological difference or misclassification?
+Comparative effectiveness of long term drug treatment strategies to prevent asthma exacerbations: network meta-analysis.
+Dapagliflozin compared with other oral anti-diabetes treatments when added to metformin monotherapy: a systematic review and network meta-analysis.
+Biodegradable-polymer drug-eluting stents vs. bare metal stents vs. durable-polymer drug-eluting stents: a systematic review and Bayesian approach network meta-analysis.
+Comparative efficacy and safety of biosimilar infliximab and other biological treatments in ankylosing spondylitis: systematic literature review and meta-analysis.
+Bayesian test for colocalisation between pairs of genetic association studies using summary statistics.
+Relations of change in plasma levels of LDL-C, non-HDL-C and apoB with risk reduction from statin therapy: a meta-analysis of randomized trials.
+Systematic review with network meta-analysis: the efficacy of anti-tumour necrosis factor-alpha agents for the treatment of ulcerative colitis.
+Comparative efficacy of triptans for the abortive treatment of migraine: a multiple treatment comparison meta-analysis.
+Diagnosing flow residuals in coiled cerebral aneurysms by MR angiography: meta-analysis.
+Bayesian network meta-analysis of nitinol stents, covered stents, drug-eluting stents, and drug-coated balloons in the femoropopliteal artery.
+Comparative gastrointestinal safety of bisphosphonates in primary osteoporosis: a network meta-analysis.
+Selective digestive or oropharyngeal decontamination and topical oropharyngeal chlorhexidine for prevention of death in general intensive care: systematic review and network meta-analysis.
+Inferring primary tumor sites from mutation spectra: a meta-analysis of histology-specific aberrations in cancer-derived cell lines.
+Nephropathy after administration of iso-osmolar and low-osmolar contrast media: evidence from a network meta-analysis.
+The efficacy of duloxetine, non-steroidal anti-inflammatory drugs, and opioids in osteoarthritis: a systematic literature review and meta-analysis.
+Comparison of the efficacy and safety of low molecular weight heparins for venous thromboembolism prophylaxis in medically ill patients.
+[Clinical evaluation of lapatinib therapy in metastatic breast cancer using the Bayes meta-analysis].
+Current and new oral antithrombotics in non-valvular atrial fibrillation: a network meta-analysis of 79 808 patients.
+The incidence and prevalence of thyroid dysfunction in Europe: a meta-analysis.
+Efficacy of vitamin D supplementation in depression in adults: a systematic review.
+HHV-8 seroprevalence: a global view.
+A systematic review and meta-analysis of surgical outcomes following mitral valve surgery in octogenarians: implications for transcatheter mitral valve interventions.
+Systematic review and meta-analysis of pharmacological therapies for painful diabetic peripheral neuropathy.
+Systematic review, network meta-analysis and economic evaluation of biological therapy for the management of active psoriatic arthritis.
+Prevalence of G6PD deficiency in Iran, a mata-analysis.
+Comparative efficacy of everolimus plus exemestane versus fulvestrant for hormone-receptor-positive advanced breast cancer following progression/recurrence after endocrine therapy: a network meta-analysis.
+Sexual dysfunction associated with second-generation antidepressants in patients with major depressive disorder: results from a systematic review with network meta-analysis.
+Bayesian network meta-analysis suggests a similar effectiveness between a monovalent and a pentavalent rotavirus vaccine: a preliminary report of re-analyses of data from a Cochrane Database Systematic Review.
+Comparative efficacy of inhaled corticosteroid and long-acting beta agonist combinations in preventing COPD exacerbations: a Bayesian network meta-analysis.
+A network meta-analysis on the efficacy of 5-aminosalicylates, immunomodulators and biologics for the prevention of postoperative recurrence in Crohn's disease.
+SSRIs for hot flashes: a systematic review and meta-analysis of randomized trials.
+A Bayesian meta-analysis of multiple treatment comparisons of systemic regimens for advanced pancreatic cancer.
+Chemotherapy or targeted therapy as second-line treatment of advanced gastric cancer. A systematic review and meta-analysis of published studies.
+48-week efficacy and safety of dolutegravir relative to commonly used third agents in treatment-naive HIV-1-infected patients: a systematic review and network meta-analysis.
+A network meta-analysis of the relative efficacy of treatments for actinic keratosis of the face or scalp in Europe.
+Efficacy and safety of therapies for acute ischemic stroke in China: a network meta-analysis of 13289 patients from 145 randomized controlled trials.
+Network meta-analysis of erlotinib, gefitinib, afatinib and icotinib in patients with advanced non-small-cell lung cancer harboring EGFR mutations.
+Age-dependent prevalence of nasopharyngeal carriage of streptococcus pneumoniae before conjugate vaccine introduction: a prediction model based on a meta-analysis.
+Bayesian meta-analysis of diagnostic tests allowing for imperfect reference standards.
+Systematic review with network meta-analysis: pharmacological prophylaxis against post-ERCP pancreatitis.
+Anaesthetic drugs and survival: a Bayesian network meta-analysis of randomized trials in cardiac surgery.
+New oral anticoagulants and the risk of intracranial hemorrhage: traditional and Bayesian meta-analysis and mixed treatment comparison of randomized trials of new oral anticoagulants in atrial fibrillation.
+ENERgized vessel sealing systems versus CONventional hemostasis techniques in thyroid surgery--the ENERCON systematic review and network meta-analysis.
+Diagnostic indicators of non-cardiovascular chest pain: a systematic review and meta-analysis.
+Safety and efficacy outcomes of first and second generation durable polymer drug eluting stents and biodegradable polymer biolimus eluting stents in clinical practice: comprehensive network meta-analysis.
+Safety of off-label erythropoiesis stimulating agents in critically ill patients: a meta-analysis.
+Antibiotic prophylaxis for the prevention of surgical site infection after tension-free hernia repair: a Bayesian and frequentist meta-analysis.
+The SH2B1 obesity locus and abnormal glucose homeostasis: lack of evidence for association from a meta-analysis in individuals of European ancestry.
+Comparative effectiveness of renin-angiotensin system blockers and other antihypertensive drugs in patients with diabetes: systematic review and bayesian network meta-analysis.
+Can we predict which patients with ST-elevation myocardial infarction benefit most from radial access? Evidence from frequentist and Bayesian meta-regressions of randomized trials.
+Comparative efficacy of long-acting bronchodilators for COPD: a network meta-analysis.
+Flexible sigmoidoscopy versus faecal occult blood testing for colorectal cancer screening in asymptomatic individuals.
+Evaluating the efficacy and safety of apixaban, a new oral anticoagulant, using Bayesian meta-analysis.
+Multivariate meta-analysis of mixed outcomes: a Bayesian approach.
+Exercise for lower limb osteoarthritis: systematic review incorporating trial sequential analysis and network meta-analysis.
+Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis.
+Systematic review, meta-analysis and meta-regression of the effect of tranexamic acid on surgical blood loss.
+Relative survival benefit and morbidity with fluids in severe sepsis - a network meta-analysis of alternative therapies.
+Preventive pharmacologic treatments for episodic migraine in adults.
+Estimating the probability of IQ impairment from blood phenylalanine for phenylketonuria patients: a hierarchical meta-analysis.
+Effect of initial treatment strategy on survival of patients with advanced-stage Hodgkin's lymphoma: a systematic review and network meta-analysis.
+Which hemostatic device in thyroid surgery? A network meta-analysis of surgical technologies.
+Risk of pelvic inflammatory disease following Chlamydia trachomatis infection: analysis of prospective studies with a multistate model.
+Network meta-analysis of the outcome 'participant complete clearance' in nonimmunosuppressed participants of eight interventions for actinic keratosis: a follow-up on a Cochrane review.
+The efficacy and tolerability of perampanel and other recently approved anti-epileptic drugs for the treatment of refractory partial onset seizure: a systematic review and Bayesian network meta-analysis.
+Dose-comparative effects of different statins on serum lipid levels: a network meta-analysis of 256,827 individuals in 181 randomized controlled trials.
+Progression rates from HbA1c 6.0-6.4% and other prediabetes definitions to type 2 diabetes: a meta-analysis.
+Use of mixed-treatment-comparison methods in estimating efficacy of treatments for heavy menstrual bleeding.
+Impact of statin dose on major cardiovascular events: a mixed treatment comparison meta-analysis involving more than 175,000 patients.
+Immunomodulators and immunosuppressants for multiple sclerosis: a network meta-analysis.
+Bayesian methods affirm the use of percutaneous coronary intervention to improve survival in patients with unprotected left main coronary artery disease.
+Progestogens for preterm birth prevention: a systematic review and meta-analysis by drug route.
+Survival benefit of primary prevention implantable cardioverter-defibrillator therapy after myocardial infarction: does time to implant matter? A meta-analysis using patient-level data from 4 clinical trials.
+Soil-transmitted helminth infection in South America: a systematic review and geostatistical meta-analysis.
+Magnetic resonance imaging for locating nonpalpable undescended testicles: a meta-analysis.
+Meta-analysis of the accuracy of two diagnostic tests used in combination: application to the ddimer test and the wells score for the diagnosis of deep vein thrombosis.
+Three polymorphisms in the IL-10 gene and the risk of HCV infection: a meta-analysis plus a Chinese Association Study involving 1140 subjects.
+Blood pressure targets in patients with coronary artery disease: observations from traditional and Bayesian random effects meta-analysis of randomised trials.
+Imputation-based meta-analysis of severe malaria in three African populations.
+Heart-type fatty acid binding protein as an early marker for myocardial infarction: systematic review and meta-analysis.
+Apolipoprotein E genotype, cardiovascular biomarkers and risk of stroke: systematic review and meta-analysis of 14,015 stroke cases and pooled analysis of primary biomarker data from up to 60,883 individuals.
+Bayesian network meta-analysis of root coverage procedures: ranking efficacy and identification of best treatment.
+Systematic review and network meta-analysis of interventions for fibromyalgia: a protocol.
+Ranking antireabsorptive agents to prevent vertebral fractures in postmenopausal osteoporosis by mixed treatment comparison meta-analysis.
+Dealing with clinical heterogeneity in meta-analysis. Assumptions, methods, interpretation.
+Efficacy of topical antifungals in the treatment of dermatophytosis: a mixed-treatment comparison meta-analysis involving 14 treatments.
+Progression-free survival with fulvestrant 500 mg and alternative endocrine therapies as second-line treatment for advanced breast cancer: a network meta-analysis with parametric survival models.
+Effect of gastric versus post-pyloric feeding on the incidence of pneumonia in critically ill patients: observations from traditional and Bayesian random-effects meta-analysis.
+Direct-acting antiviral therapies for hepatitis C genotype 1 infection: a multiple treatment comparison meta-analysis.
+Benefits of β blockers in patients with heart failure and reduced ejection fraction: network meta-analysis.
+Efficacy of adding clonidine to intrathecal morphine in acute postoperative pain: meta-analysis.
+Second-line treatments for the management of advanced renal cell carcinoma: systematic review and meta-analysis.
+Systematic review, meta-analysis and economic modelling of diagnostic strategies for suspected acute coronary syndrome.
+Comparative efficacy of aclidinium versus glycopyrronium and tiotropium, as maintenance treatment of moderate to severe COPD patients: a systematic review and network meta-analysis.
+Protective effects of vitamin E on chemotherapy-induced peripheral neuropathy: a meta-analysis of randomized controlled trials.
+In-office treatment for dentin hypersensitivity: a systematic review and network meta-analysis.
+Impact of different training modalities on anthropometric and metabolic characteristics in overweight/obese subjects: a systematic review and network meta-analysis.
+A Bayesian meta-analysis on prevalence of hepatitis B virus infection among Chinese volunteer blood donors.
+The global epidemiology and contribution of cannabis use and dependence to the global burden of disease: results from the GBD 2010 study.
+Long-term survival of dental implants placed in the grafted maxillary sinus: systematic review and meta-analysis of treatment modalities.
+Antiplatelets versus anticoagulants for the treatment of cervical artery dissection: Bayesian meta-analysis.
+Are Treponema pallidum specific rapid and point-of-care tests for syphilis accurate enough for screening in resource limited settings? Evidence from a meta-analysis.
+Should perioperative supplemental oxygen be routinely recommended for surgery patients? A Bayesian meta-analysis.
+A network meta-analysis of antibiotics for treatment of hospitalised patients with suspected or proven meticillin-resistant Staphylococcus aureus infection.
+Meta-analysis of comparison of effectiveness of lowering apolipoprotein B versus low-density lipoprotein cholesterol and nonhigh-density lipoprotein cholesterol for cardiovascular risk reduction in randomized trials.
+Unraveling multiple MHC gene associations with systemic lupus erythematosus: model choice indicates a role for HLA alleles and non-HLA genes in Europeans.
+Association between beta-blockers and fracture risk: a Bayesian meta-analysis.
+Efficacy of telaprevir and boceprevir in treatment-naïve and treatment-experienced genotype 1 chronic hepatitis C patients: an indirect comparison using Bayesian network meta-analysis.
+Mortality in diabetes compared with previous cardiovascular disease: a gender-specific meta-analysis.
+Sedentary time in adults and the association with diabetes, cardiovascular disease and death: systematic review and meta-analysis.
+Systematic meta-analyses and field synopsis of genetic association studies in colorectal cancer.
+Diffusion-weighted MRI in the detection of prostate cancer: meta-analysis.
+The role of sentinel lymph node biopsy in select sarcoma patients: a meta-analysis.
+Balloon dilation with adequate duration is safer than sphincterotomy for extracting bile duct stones: a systematic review and meta-analyses.
+Pediatric anesthesia and neurodevelopmental impairments: a Bayesian meta-analysis.
+Progestogens for preterm birth prevention: a systematic review and meta-analysis.
+Rapid point-of-care first-line screening tests for hepatitis B infection: a meta-analysis of diagnostic accuracy (1980-2010).
+Comparisons of high-dose and combination nicotine replacement therapy, varenicline, and bupropion for smoking cessation: a systematic review and multiple treatment meta-analysis.
+Effect of antidiabetic agents added to metformin on glycaemic control, hypoglycaemia and weight change in patients with type 2 diabetes: a network meta-analysis.
+Bayesian enhanced meta-analysis of post-operative analgesic efficacy of additives for caudal analgesia in children.
+Revisiting the effectiveness of interventions to decrease surgical site infections in colorectal surgery: A Bayesian perspective.
+Network meta-analysis of prasugrel, ticagrelor, high- and standard-dose clopidogrel in patients scheduled for percutaneous coronary interventions.
+Impact of intraoperative stimulation brain mapping on glioma surgery outcome: a meta-analysis.
+Meta-analysis of complications in aortic valve replacement: comparison of Medtronic-Corevalve, Edwards-Sapien and surgical aortic valve replacement in 8,536 patients.
+Effectiveness of interventions for reducing diabetes and cardiovascular disease risk in people with metabolic syndrome: systematic review and mixed treatment comparison meta-analysis.
+Ambient temperature and cardiorespiratory morbidity: a systematic review and meta-analysis.
+Daily average temperature and mortality among the elderly: a meta-analysis and systematic review of epidemiological evidence.
+Imputation of missing variance data using non-linear mixed effects modelling to enable an inverse variance weighted meta-analysis of summary-level longitudinal data: a case study.
+Efficacy of once-daily indacaterol 75 μg relative to alternative bronchodilators in COPD: a study level and a patient level network meta-analysis.
+Detection of cervical lymph node metastasis in head and neck cancer patients with clinically N0 neck-a meta-analysis comparing different imaging modalities.
+Adverse effects of second-generation antipsychotics in children and adolescents: a Bayesian meta-analysis.
+A meta-analysis of comparative outcomes following cervical arthroplasty or anterior cervical fusion: results from 4 prospective multicenter randomized clinical trials and up to 1226 patients.
+Multiple treatment comparisons in a series of anti-malarial trials with an ordinal primary outcome and repeated treatment evaluations.
+Growth hormone receptor polymorphism and growth hormone therapy response in children: a Bayesian meta-analysis.
+Robust meta-analytic conclusions mandate the provision of prediction intervals in meta-analysis summaries.
+Treatment of acute iliofemoral deep vein thrombosis.
+Head-to-head comparison of accuracy of a rapid point-of-care HIV test with oral versus whole-blood specimens: a systematic review and meta-analysis.
+Network meta-analysis of margin threshold for women with ductal carcinoma in situ.
+Comparison of transradial and femoral approaches for percutaneous coronary interventions: a systematic review and hierarchical Bayesian meta-analysis.
+Systematic review and meta-analysis of the efficacy of cardioversion by vernakalant and comparators in patients with atrial fibrillation.
+Bayesian meta-analysis on medical devices: application to implantable cardioverter defibrillators.
+Longevity of materials for pit and fissure sealing--results from a meta-analysis.
+Traditional endonasal and microscopic sinus surgery complications versus endoscopic sinus surgery complications: a meta-analysis.
+A Bayesian network meta-analysis on comparisons of enamel matrix derivatives, guided tissue regeneration and their combination therapies.
+Exposure to isoflavone-containing soy products and endothelial function: a Bayesian meta-analysis of randomized controlled trials.
+Age and gender variations in age-related macular degeneration prevalence in populations of European ancestry: a meta-analysis.
+A network meta-analysis on the efficacy of serotonin type 3 receptor antagonists used in adults during the first 24 hours for postoperative nausea and vomiting prophylaxis.
+Meta-analysis of observational studies with unmeasured confounders.
+Efficacy of biologics in the treatment of moderate to severe psoriasis: a network meta-analysis of randomized controlled trials.
+Roadway characteristics and pediatric pedestrian injury.
+Effectiveness and cost-effectiveness of computer and other electronic aids for smoking cessation: a systematic review and network meta-analysis.
+Efficacy of indacaterol 75 μg versus fixed-dose combinations of formoterol-budesonide or salmeterol-fluticasone for COPD: a network meta-analysis.
+Systematic review and network meta-analysis of overall survival comparing 3 mg/kg ipilimumab with alternative therapies in the management of pretreated patients with unresectable stage III or IV melanoma.
+Timing matters in hip fracture surgery: patients operated within 48 hours have better outcomes. A meta-analysis and meta-regression of over 190,000 patients.
+A review and Bayesian meta-analysis of clinical efficacy and adverse effects of 4 atypical neuroleptic drugs compared with haloperidol and placebo.
+A systematic review on the effect of sweeteners on glycemic response and clinically relevant outcomes.
+Coronary artery perforation during percutaneous coronary intervention: a systematic review and meta-analysis.
+Dosing frequency of unfractionated heparin thromboprophylaxis: a meta-analysis.
+Bariatric surgery: a systematic review and network meta-analysis of randomized trials.
+Comparative effectiveness of efavirenz, protease inhibitors, and raltegravir-based regimens as first-line treatment for HIV-infected adults: a mixed treatment comparison.
+A Bayesian evidence synthesis for estimating campylobacteriosis prevalence.
+EUS for the staging of gastric cancer: a meta-analysis.
+Therapeutic trajectory following intra-articular hyaluronic acid injection in knee osteoarthritis--meta-analysis.
+Enhanced recovery pathways optimize health outcomes and resource utilization: a meta-analysis of randomized controlled trials in colorectal surgery.
+The predictive value of preoperative natriuretic peptide concentrations in adults undergoing surgery: a systematic review and meta-analysis.
+Addressing the incremental benefit of histamine dihydrochloride when added to interleukin-2 in treating acute myeloid leukemia: a Bayesian meta-analysis.
+Steroids and bronchodilators for acute bronchiolitis in the first two years of life: systematic review and meta-analysis.
+Antihypertensive treatment and development of heart failure in hypertension: a Bayesian network meta-analysis of studies in patients with hypertension and high cardiovascular risk.
+Efficacy of drug treatments for generalised anxiety disorder: systematic review and meta-analysis.
+Imageless computer assisted versus conventional total knee replacement. A Bayesian meta-analysis of 23 comparative studies.
+Early vs. delayed invasive strategy in patients with acute coronary syndromes without ST-segment elevation: a meta-analysis of randomized studies.
+Accounting for model uncertainty in estimating global burden of disease.
+Pharmacological treatments for neovascular age-related macular degeneration: can mixed treatment comparison meta-analysis be useful?
+Cancer risk with tumor necrosis factor alpha (TNF) inhibitors: meta-analysis of randomized controlled trials of adalimumab, etanercept, and infliximab using patient level data.
+Efficacy and safety of statin treatment for cardiovascular disease: a network meta-analysis of 170,255 patients from 76 randomized trials.
+The efficacy of bisphosphonates in the prevention of vertebral, hip, and nonvertebral-nonhip fractures in osteoporosis: a network meta-analysis.
+Contemporary diagnostic imaging modalities for the staging and surveillance of melanoma patients: a meta-analysis.
+Possible risk modifications in the association between MnSOD Ala-9Val polymorphism and breast cancer risk: subgroup analysis and evidence-based sample size calculation for a future trial.
+Efficacy comparison of trimetazidine with therapeutic alternatives in stable angina pectoris: a network meta-analysis.
+Mixed treatment comparison of a two-compound formulation (TCF) product containing calcipotriol and betamethasone dipropionate with other topical treatments in psoriasis vulgaris.
+Comparative efficacy of indacaterol 150 μg and 300 μg versus fixed-dose combinations of formoterol + budesonide or salmeterol + fluticasone for the treatment of chronic obstructive pulmonary disease--a network meta-analysis.
+Cost-effectiveness analysis of LHRH agonists in the treatment of metastatic prostate cancer in Italy.
+Meta-analysis of diagnostic test data: a bivariate Bayesian modeling approach.
+Drug-eluting or bare metal stents for the treatment of saphenous vein graft disease: a Bayesian meta-analysis.
+Sacral neuromodulation for neurogenic lower urinary tract dysfunction: systematic review and meta-analysis.
+Mixed treatment comparison meta-analysis evaluating the relative efficacy of nucleos(t)ides for treatment of nucleos(t)ide-naive patients with chronic hepatitis B.
+Lymphedema beyond breast cancer: a systematic review and meta-analysis of cancer-related secondary lymphedema.
+Meta-analysis of incidence, clinical characteristics and implications of stent fracture.
+Effects of glucosamine, chondroitin, or placebo in patients with osteoarthritis of hip or knee: network meta-analysis.
+Effectiveness of different central venous catheters for catheter-related infections: a network meta-analysis.
+Antithrombotic treatment for the primary prevention of stroke in patients with non valvular atrial fibrillation: a reappraisal of the evidence and network meta analysis.
+Factors influencing the association between CYP17 T34C polymorphism and the risk of breast cancer: meta-regression and subgroup analysis.
+Comparative effectiveness of antibiotics for the treatment of MRSA complicated skin and soft tissue infections.
+Omega-3 fatty acids in high-risk cardiovascular patients: a meta-analysis of randomized controlled trials.
+Efficacy of vitamin D3 supplementation in preventing fractures in elderly women: a meta-analysis.
+Effect of preoperative single-dose corticosteroid administration on postoperative morbidity following esophagectomy.
+Immune reconstitution inflammatory syndrome in patients starting antiretroviral therapy for HIV infection: a systematic review and meta-analysis.
+Statistical modeling of average and variability of time to extubation for meta-analysis comparing desflurane to sevoflurane.
+Adjunctive thrombectomy for acute myocardial infarction: A bayesian meta-analysis.
+Interleukin-1 region meta-analysis with osteoarthritis phenotypes.
+Comparative efficacy and acceptability of pharmacotherapeutic agents for anxiety disorders in children and adolescents: a mixed treatment comparison meta-analysis.
+Do primary care physicians have particular difficulty identifying late-life depression? A meta-analysis stratified by age.
+An assessment of a TNF polymorphic marker for the risk of HCV infection: meta-analysis and a new clinical study design.
+Meta-analysis of the impact of 9 medication classes on falls in elderly persons.
+Bayesian meta-analysis of hormone therapy and mortality in younger postmenopausal women.
+Comparative survival with diverse chemotherapy regimens for cancer of unknown primary site: multiple-treatments meta-analysis.
+Baseline differences in A1C explain apparent differences in efficacy of sitagliptin, rosiglitazone and pioglitazone.
+Effect of vegetarian diets on bone mineral density: a Bayesian meta-analysis.
+Double versus single stenting for coronary bifurcation lesions: a meta-analysis.
+Risk of mortality associated with formoterol: a systematic review and meta-analysis.
+Modeling the value for money of changing clinical practice change: a stochastic application in diabetes care.
+Bisphosphonates and atrial fibrillation: Bayesian meta-analyses of randomized controlled trials and observational studies.
+Underlying genetic models of inheritance in established type 2 diabetes associations.
+Antifungal treatment for invasive Candida infections: a mixed treatment comparison meta-analysis.
+Substance use and misuse in the aftermath of terrorism. A Bayesian meta-analysis.
+ATG16L1 T300A polymorphism and Crohn's disease susceptibility: evidence from 13,022 cases and 17,532 controls.
+Multilocus Bayesian meta-analysis of gene-disease associations.
+Cost-effectiveness of radiofrequency catheter ablation for the treatment of atrial fibrillation in the United Kingdom.
+Behavioural interventions for smoking cessation: a meta-analysis of randomized controlled trials.
+Spontaneous regression of hepatocellular carcinoma: a systematic review.
+Treatment outcomes among patients with multidrug-resistant tuberculosis: systematic review and meta-analysis.
+Association between TCF7L2 gene polymorphisms and susceptibility to type 2 diabetes mellitus: a large Human Genome Epidemiology (HuGE) review and meta-analysis.
+Cancer survivors and unemployment: a meta-analysis and meta-regression.
+Meta-analysis of duloxetine vs. pregabalin and gabapentin in the treatment of diabetic peripheral neuropathic pain.
+Microvolt T-wave alternans as a predictor of mortality and severe arrhythmias in patients with left-ventricular dysfunction: a systematic review and meta-analysis.
+Meta-analysis of the relationship between non-high-density lipoprotein cholesterol reduction and coronary heart disease risk.
+How much does pharmacologic prophylaxis reduce postoperative vomiting in children? Calculation of prophylaxis effectiveness and expected incidence of vomiting under treatment using Bayesian meta-analysis.
+A Bayesian meta-analysis comparing AngioJet thrombectomy to percutaneous coronary intervention alone in acute myocardial infarction.
+Meta-analysis of the efficacy and tolerability of pramipexole versus ropinirole in the treatment of restless legs syndrome.
+Sunburns and risk of cutaneous melanoma: does age matter? A comprehensive meta-analysis.
+Pharmacotherapies for smoking cessation: a meta-analysis of randomized controlled trials.
+Association between LRP5 polymorphism and bone mineral density: a Bayesian meta-analysis.
+Are one or two simple questions sufficient to detect depression in cancer and palliative care? A Bayesian meta-analysis.
+Suprarenal endograft fixation and medium-term renal function: systematic review and meta-analysis.
+Corticosteroids in the prevention and treatment of acute respiratory distress syndrome (ARDS) in adults: meta-analysis.
+Bayesian meta-analysis of genetic association studies with different sets of markers.
+A non-parametric meta-analysis approach for combining independent microarray datasets: application using two microarray datasets pertaining to chronic allograft nephropathy.
+Statins for secondary prevention in elderly patients: a hierarchical bayesian meta-analysis.
+A Bayesian meta-analysis on published sample mean and variance pharmacokinetic data with application to drug-drug interaction prediction.
+Bayesian meta-analysis of tissue angiotensin-converting enzyme inhibitors for reduction of adverse cardiovascular events in patients with diabetes mellitus and preserved left ventricular function.
+Assessment of the relative advantage of various artesunate-based combination therapies by a multi-treatment Bayesian random-effects meta-analysis.
+Combined resynchronisation and implantable defibrillator therapy in left ventricular dysfunction: Bayesian network meta-analysis of randomised controlled trials.
+Joint effects of the N-acetyltransferase 1 and 2 (NAT1 and NAT2) genes and smoking on bladder carcinogenesis: a literature-based systematic HuGE review and evidence synthesis.
+Bayesian meta-analysis of Papanicolaou smear accuracy.
+Assessing the effectiveness of primary angioplasty compared with thrombolysis and its relationship to time delay: a Bayesian evidence synthesis.
+Estimating the relative risk of pancreatic cancer associated with exposure agents in job title data in a hierarchical Bayesian meta-analysis.
+Drug-drug interaction prediction: a Bayesian meta-analysis approach.
+Meta-analysis of mixed treatment comparisons at multiple follow-up times.
+Comparison of pegfilgrastim with filgrastim on febrile neutropenia, grade IV neutropenia and bone pain: a meta-analysis of randomized controlled trials.
+Maternal obesity and risk of cesarean delivery: a meta-analysis.
+Ursodeoxycholic acid for patients with primary biliary cirrhosis: an updated systematic review and meta-analysis of randomized clinical trials using Bayesian approach as sensitivity analyses.
+Maternal obesity and risk of gestational diabetes mellitus.
+Evidence synthesis combining individual patient data and aggregate data: a systematic review identified current practice and possible methods.
+On the association between statin and fracture: a Bayesian consideration.
+Hip protectors decrease hip fracture risk in elderly nursing home residents: a Bayesian meta-analysis.
+Assessing the combined effect of asbestos exposure and smoking on lung cancer: a Bayesian approach.
+Diagnostic accuracy of noninvasive fetal Rh genotyping from maternal blood--a meta-analysis.
+Reanalysis of systematic reviews: the case of invasive strategies for acute coronary syndromes.
+Variations in primary open-angle glaucoma prevalence by age, gender, and race: a Bayesian meta-analysis.
+Estimating transitions between symptom severity states over time in schizophrenia: a Bayesian meta-analytic approach.
+Adherence to antiretroviral therapy in sub-Saharan Africa and North America: a meta-analysis.
+Frequency of adverse events after vaccination with different vaccinia strains.
+A Bayesian meta-analysis of prophylactic granulocyte colony-stimulating factor and granulocyte-macrophage colony-stimulating factor in children with cancer.
+Meta-analysis of sentinel lymph node biopsy after preoperative chemotherapy in patients with breast cancer.
+Self-monitoring of glucose in type 2 diabetes mellitus: a Bayesian meta-analysis of direct and indirect comparisons.
+Effect of early and late GB virus C viraemia on survival of HIV-infected individuals: a meta-analysis.
+Anti-hip fracture efficacy of biophosphonates: a Bayesian analysis of clinical trials.
+Efficacy of inactivated hepatitis A vaccine in HIV-infected patients: a hierarchical bayesian meta-analysis.
+Do antidepressants cause suicidality in children? A Bayesian meta-analysis.
+Cancer incidence among female flight attendants: a meta-analysis of published data.
+Meta-analysis of heterogeneously reported trials assessing change from baseline.
+Bayesian implementation of a genetic model-free approach to the meta-analysis of genetic association studies.
+Does alendronate reduce the risk of fracture in men? A meta-analysis incorporating prior knowledge of anti-fracture efficacy in women.
+Are antifibrinolytic drugs equivalent in reducing blood loss and transfusion in cardiac surgery? A meta-analysis of randomized head-to-head trials.
+Accuracy of MSI testing in predicting germline mutations of MSH2 and MLH1: a case study in Bayesian meta-analysis of diagnostic tests without a gold standard.
+Indeterminate ovarian mass at US: incremental value of second imaging test for characterization--meta-analysis and Bayesian analysis.
+Investigating heterogeneity in studies of resting energy expenditure in persons with HIV/AIDS: a meta-analysis.

@@ -1,0 +1,3528 @@
+==
+1
+2a no despite online appendix
+2b no despite online appendix
+2c WinBUGS 1.4
+3 Dias S, Sutton AJ, Ades AE, Welton NJ. Evidence synthesis for decision making 2: a generalized linear modeling framework for pairwise and network meta-analysis of randomized controlled trials. Med Decis Making 2013; 33: 607–17
+4 nma
+5 yes
+6 nma
+7 "informative" prior for tau, not specified but citing Turner et al Int J Epidem (2012); 41: 818-27.
+8a yes
+8b nma
+==
+2
+2a no despite online appendix
+2b no despite online appendix
+2c JAGS using rjags and gemtc R packages
+3 Dias et al Med Decis Making 2013;33:671-8.
+4 nma
+5 yes
+6 nma, G-R convergence
+7 "non-informative"
+8a yes
+8b nma
+==
+3
+2a no despite online appendix
+2b yes
+2c WinBUGS
+3 Lumley Stat Med 2002; Greco et al SMMR 2013
+4 nma
+5 yes
+6 nma
+7 not clear from appendix
+8a no
+8b
+==
+4
+2a no despite online appendix
+2b no despite online appendix
+2c WinBUGS
+3 Greco SMMR 2013
+4 nma
+5 yes
+6 nma
+7 confusing: inverse-gamma for tau (no parameters given) to be "more informative" (appendix), then replaved with "a different vague prior" (???; main paper under 'statistical analysis') which was a "univariate distribution" (???).
+8a no
+8b
+==
+5
+2a no
+2b no
+2c WinBUGS
+3 NICE DSU 2011; Lu & Ades 2004
+4 nma
+5 yes
+6 nma
+7 "noninformative"
+8a not entirely clear but probably yes
+8b nma
+==
+6
+2a no
+2b no
+2c WinBUGS
+3 Whitehead et al 2001. Stat Med;20:2243-60
+4 ordinal outcome
+5 yes
+6 proportional odds (ordinal logistic)
+7 "noninformative"
+8a yes
+8b some binary outcomes in Stata, ordinal in WinBUGS
+==
+7
+2a no
+2b not enough to reproduce
+2c OpenBUGS and R
+3 none directly relevant to Bayesian model
+4 diagnostic MA
+5 yes
+6 "binormal bayesian ROC model"
+7 partly explained, N(a,b) (??), N(0,1), gamma(rate=1,shape=7)
+8a no
+8b
+==
+8
+2a yes
+2b no
+2c WinBUGS
+3 lots: Caldwell 2005; NICE DSU; Spiegelhalter Abrams Myles 2004; Salanti 2011 + some stuff on inconsistency testing
+4 nma
+5 yes
+6 "multiple-treatments meta-analysis"
+7 diffuse: precisions, coefficients, study-specific baselines N(0,1e-4); tau (SD) U(0,5). NICE DSU code
+8a no
+8b
+==
+9
+2a yes (algebra)
+2b no
+2c AgenaRisk
+3 Fenton N, Neil M. Risk Assessment and Decision Analysis withBayesian Networks. CRC Press: London, 2012
+4 MA of prognostic factors
+5 yes
+6 "Bayesian networks" (in abstract,"Bayesian meta-analysis")
+7 log-OR N(0,1000); tau U(0,2). tau is fairly informative, log-OR very diffuse
+8a no
+8b
+==
+10
+2a no
+2b yes
+2c WinBUGS
+3 none
+4 "to account for [heterogeneity]" (?)
+5 yes
+6 "Bayesian hierarchical meta-analysis"
+7 log-OR N(0,1e5 "or larger"); tau SD U(0,5) (NICE DSU-ish)
+8a no
+8b
+==
+11
+2a no
+2b no
+2c WinBUGS 1.4
+3 only Salanti J Clin Epidemiol 2011;64:163-71.
+4 nma
+5 yes
+6 nma
+7 not stated
+8a no
+8b
+==
+12
+2a no
+2b yes
+2c WinBUGS
+3 none
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct & indirect comparisons
+==
+13
+2a no
+2b yes
+2c OpenBUGS
+3 Spiegelhalter et al HTA 2000
+4 standard MA
+5 yes
+6 "hierarchical Bayesian random-effects model"
+7 non-informative: mean HR [log?] N(0,1e6); tau^2 inv-gamma(1e-4,1e-4)
+8a no
+8b
+==
+15
+2a yes
+2b yes
+2c OpenBUGS
+3 Caldwell 2005; Lu & Ades 2004; Wells, Sultan, Chen et al 2009
+4 nma
+5 yes
+6 nma
+7 "vague": N(0,1e-4), U(0,5) (NICE DSU code)
+8a no; direct comparisons were done in the same Bayesian model framework
+8b
+==
+16
+2a no
+2b no
+2c OpenBUGS
+3 Jansen BMC MedResMeth 2011;11:61.
+4 nma
+5 yes
+6 nma but for HRs "a multi-dimensional treatment effect approach was used as an alternative to a NMA of survival data" (?) plus fractional polynomials
+7 "non-informative"
+8a no
+8b
+==
+17
+2a yes
+2b no
+2c JAGS
+3 none
+4 nma
+5 yes
+6 nma
+7 log-OR N(0,1e-5); tau (SD) U(0,10)
+8a no
+8b
+==
+18
+2a yes
+2b no
+2c WinBUGS
+3 Lu & Ades 2004
+4 nma
+5 yes
+6 nma
+7 coefficients N(0,1e-4); tau (SD) N(0,1)I(0,1) (truncated half-normal, strongly informative)
+8a yes
+8b direct and indirect
+==
+19
+2a no
+2b no
+2c OpenBUGS
+3 Dias et al Med Decis Making 2013; Salanti Res Synth Meth 2012;Smith Spiegelhalter Thomas 1995; Lu & Ades 2004; Cipriani Higgins et al 2013
+4 nma
+5 yes
+6 nma
+7 "non-informative"
+8a no
+8b
+==
+21
+2a yes
+2b no
+2c WinBUGS 1.4.3
+3 Lu & Ades
+4 nma
+5 yes
+6 nma
+7 "non-informative"
+8a yes
+8b direct and indirect
+==
+22
+2a no
+2b no
+2c R 3.1.1 'inla' package
+3 PLoS Negl Trop Dis 2013; 7: e2213.
+4 geotagged survey data
+5 yes
+6 "geostatistical meta-analysis"
+7 not stated
+8a no
+8b
+==
+23
+2a yes
+2b yes
+2c WinBUGS 1.4.3
+3 Spiegelhalter, Abrams, Myles ; Caldwell Ades Higins; Jansen et al 2008 ; Schmitz Adams Walsh 2013 ; StatMed2005;24:2401–28.
+4 methodological with applied example
+5 yes
+6 3-level nma
+7 "vague": ~dnorm(0.0,0.001) and  ~ dunif(0,5)
+8a no
+8b
+==
+24
+2a no
+2b no
+2c MANTRA
+3 Morris, A.P. (2011) Transethnic meta-analysis of genomewide association studies. Genet. Epidemiol., 35, 809–822
+4 genomic: ethnic heterogeneity in GWAS data/stats
+5 yes
+6 "trans-ethnic meta-analysis"
+7 not stated
+8a probably: "To determine how consistent the MANTRA results are across studies, a random-effects MA was also performed using METAL."
+8b see above - not entirely clear
+==
+25
+2a no
+2b no
+2c geMTC
+3 Mills EJ, Thorlund K, Ioannidis JP. Demystifying trial networks and network meta-analysis. BMJ 2013; 346: f2914
+4 nma
+5 yes
+6 nma
+7 "vague"
+8a yes
+8b direct and indirect, and questionably: "The agreement between the standard pairwise analysis and MTC results, along with the consistency between direct and indirect comparisons, add weight to the methods used."
+==
+26
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lu & Ades
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+27
+2a yes
+2b no
+2c RStan
+3 Sutton & Abrams 2001, and in terms of the half-Cauchy: Gelman, A. (2006). Prior distributions for variance parameters in hierarchical models. Bayesian Analysis, 1(3), 515–534.
+4 RE MA & meta-regression
+5 yes
+6 meta-regression "A Bayesian random-effects meta-analysis was conducted with cognitive construct and PTSD symptoms explored as moderators"
+7 diffuse: N(0,1000) & half-Cauchy(0,1)
+8a no
+8b
+==
+29
+2a no
+2b no
+2c JAGS
+3 SMith, Spiegelhalter, Thomas 1995; Lu, Ades 2004; Higgins, Whitehead 1996; Gelman 2006
+4 nma
+5 yes
+6 nma
+7 no
+8a yes
+8b no: "For comparison, frequentist random-effects meta- analyses (DerSimonian–Laird method [23]) were also done"
+==
+31
+2a no but enough algebra to reconstruct
+2b no
+2c no
+3 Whitehead 2002 ; Carlin & Louis 2009
+4 time series of pollution vs stroke
+5 yes
+6 sensitivity analysis comparing normal vs gamma for "risks" (?)
+7 diffuse N(0,1000), Inv-gamma(0.001,0.001)
+8a yes
+8b
+==
+32
+2a no but enough algebra to recreate
+2b no
+2c JAGS 3.3, R 3.0.2
+3 Rudnicka AR, Mt-Isa S, Owen CG, et al. Variations in primary open-angle glaucoma prevalence by age, gender, and race: a Bayesian meta-analysis. Invest Ophthalmol Vis Sci 2006;47: 4254–61. ; McCarron CE, Pullenayegum EM, Thabane L, et al. Bayesian hierarchical models combining different study types and adjusting for covariate imbalances: a simulation study to assess model performance. PLoS One [serial online] 2011;6:e25635. ; Rudnicka AR, Jarrar Z, Wormald R, et al. Age and gender variations in age-related macular degeneration prevalence in populations of European ancestry: a meta-analysis. Ophthal- mology 2012;119:571–80.
+4 meta-analysis and meta-regression
+5 yes
+6 hierarchical model and meta-regression
+7 diffuse e.g. N(0,10000)
+8a no
+8b
+==
+33
+2a yes
+2b no
+2c WinBUGS 1.4.3
+3 Dias Sutton Ades 2013; NICE DSU
+4 nma
+5 yes
+6 nma
+7 diffuse N(0,10000) U(0,150)
+8a yes
+8b direct and indirect
+==
+34
+2a no
+2b no
+2c no
+3 none relevant
+4 genetic variants - treatment outcome interaction
+5 yes
+6 not totally clear
+7 not stated
+8a yes
+8b yes, the Bayes is just part of a bigger predictive process
+==
+35
+2a no
+2b no
+2c WinBUGS 14
+3 Dendukuri, N., Joseph, L., 2001. Bayesian approaches to modeling the conditional dependence between multiple diagnostic tests. Biometrics 57, 158–167. ; Branscum, A.J., Gardner, I.A., Johnson, W.O., 2005. Estimation of diagnostic-test sensitivity and specificity through Bayesian modeling. Prev. Vet. Med. 68, 145– 163. ; Pepe, M.S., Janes, H., 2007. Insights into latent class analysis of diagnostic test performance. Biostatistics 8, 474–484.
+4 no gold standard for diagnostics
+5 yes
+6 Bayesian latent class analysis for diagnostics
+7 uninformative Beta(1,1)
+8a no
+8b
+==
+36
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lu & Ades
+4 nma
+5 yes
+6 nma
+7 "Non-informative priors were used throughout the analyses"
+8a no
+8b
+==
+37
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lu & Ades 2004 ; Jansen Crawford et al 2008
+4 nma
+5 yes
+6 nma
+7 "vague"
+8a no
+8b
+==
+38
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 kitchen-sink referencing: Bucher Guyatt Griffth ; Eddy Hasselblad Schachter ; Lumley 2002 ; Nixon Bansback Brennan ; Salanti Dias WElton ; Salanti Ades Ioannides ; Lu Ades 2004 ; Lu Ades 2006 ; Dias Welton Caldwell Ades ; Hong Carlin 2013
+4 mtc
+5 yes
+6 mtc
+7 diffuse N(0,10000) U(0,5) U(0,10)
+8a no
+8b
+==
+39
+2a  no
+2b no
+2c WinBUGS 1.4
+3 CAldwell Ades Higgins 2005
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+40
+2a no
+2b no
+2c WinBUGS 1.4
+3 Lu Ades 2006
+4 nma, meta-regression
+5 yes
+6 "a series of random-effects network meta-analyses with meta-regression"
+7 not stated
+8a yes
+8b direct and indirect
+==
+41
+2a no
+2b no
+2c no
+3 none
+4 nma
+5 yes
+6 "Bayesian fixed-effects model by using a complementary log-log link function to account for varying lengths of follow-up"
+7 not stated
+8a yes
+8b direct and indirect
+==
+42
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Dias Sutton Ades Welton 2013
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+43
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Spiegelhalter Abrams Myles 2004
+4 meta-regression
+5 yes
+6 "Bayesian univariate and bivariate meta-analyses" - with slopes
+7 non-informative but with sensitivity analysis among 4 between-study tau priors (all uniforms)
+8a no
+8b
+==
+44
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Jansen 2008 ; Lu Ades 2004 ; Dias 2013
+4 nma
+5 yes
+6 nma
+7 "non-informative": N(0,10000) and U "sufficiently large"
+8a no
+8b
+==
+45
+2a no
+2b yes
+2c no
+3 report of the ispor task force (Value Health 2011;14:417-28&429-37.)
+4 nma, reporting prob of each tx being best
+5 yes
+6 nma + meta-regression (logistic and linear for diff outcomes)
+7 'uninformed' + some change to explore assumptions about tau (no clearer than that; details form authors on request)
+8a yes
+8b pairwise and multiple comparisons; pairwise is to allow comparison with previously published MA
+==
+46
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Welton NJ, Caldwell DM, Adamopoulos E, Vedhara 2009 ; Welton NJ, Sutton AJ, Cooper NJ, Abrams KR, Ades AE. Evidence synthesis for decision making in healthcare. Chichester, UK: John Wiley & Sons, Ltd; 2012.
+4 nma
+5 yes
+6 nma
+7 "non-informative": N(0,1000) and U "appropriately large"
+8a no
+8b
+==
+47
+2a yes
+2b no
+2c WinBUGS 1.4.3
+3 Spiegelhalter DJ, Best NG. Bayesian approaches to multiple sources of evidence and uncertainty in complex cost- effectiveness modelling. Stat Med 2003;22:3687e709.
+4 nma
+5 yes
+6 nma
+7 diffuse for effects N(0,10000) but half normal (0,1) for SD and random effects seem inappropriately assigned a diffuse prior with no tau hyperprior
+8a yes
+8b no
+==
+48
+2a no
+2b yes
+2c WinBUGS
+3 ISPOR parts 1 and 2, Lu Ades 2004, Caldwell Ades Higgins 2005
+4 nma
+5 yes
+6 nma
+7 N(0,10000) U(0,6) U(0,20)
+8a no
+8b
+==
+49
+2a
+2b
+2c WinBUGS 1.4.3
+3 Caldwell Ades Higgins 2005 ; Lu Ades 2004 ; Bucher Guyatt Griffith Walter 1997
+4 itc
+5 yes
+6 itc
+7 "decided a priori to stabilize the heterogeneity estimation by using heterogeneity variance priors empirically established by Turner et al." (Turner RM, Davey J, Clarke M, Thompson S, Higgins JP. Predicting the extent of heterogeneity in meta-analysis, using empirical data from the Cochrane Database of Systematic Reviews. Int J Epidemiol 2012;41(3):818–27.)
+8a no
+8b
+==
+50
+2a yes
+2b yes
+2c JAGS
+3 Woods BS, Hawkins N, Scott DA. Network meta-analysis on the log-hazard scale, combining count and hazard ratio statistics accounting for multi-arm trials: a tutorial. BMC Med Res Methodol 2010;10:54.
+4 nma + biases in one study
+5 yes
+6 nma; "Multiple sensitivity analyses were performed to explore biases identified in one trial using original trial data" but not detailed in the code appendix.
+7 N(0,100000) U(0,10)
+8a no
+8b
+==
+51
+2a no
+2b no
+2c WinBUGS 1.4
+3 Salanti Higgins et al 2008 ; Jansen JP, Crawford B, Bergman G, Stam W: Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health 2008, 11(5):956–64.
+4 nma
+5 yes
+6 nma
+7 "vague" "such as" N(0,10000)
+8a no
+8b
+==
+52
+2a no
+2b no
+2c WinBUGS 1.4
+3 Lu Ades 2004 ; NICE DSU 2011 ; Higgins Whitehead 2011
+4 nma
+5 yes
+6 "bayesian random effects Poisson regression model"
+7 "The prior distribution for treatment effects was minimally informative: a normal distribution with a mean of 1 and a 95% reference range from 0.01 to 100 on a rate ratio scale. The prior for the between trial variance τ2, which we assumed to be equal across comparisons, was based on empirical evidence derived from semi-objective outcomes of head to head comparisons40: a log normal distribution with a geometric mean of τ2 of 0.04 and a 95% reference range from 0.001 to 1.58."
+8a no
+8b
+==
+53
+2a no
+2b no
+2c GeMTC
+3 van Valkenhoef G, Guobing L, de Brock B, et al. Automating network meta-analysis. Research Synthesis Methods 2012; 3: 285–99.
+4 nma
+5 yes
+6 nma
+7 "non-informative"
+8a yes
+8b direct and indirect
+==
+54
+2a no
+2b uncertain
+2c WinBUGS 1.4.3
+3 none relevant
+4 standard MA
+5 yes
+6 Bayes, Peto and M-H
+7 not stated
+8a yes
+8b not clear - to compare with Peto and M-H pooled odds ratios?
+==
+55
+2a no
+2b yes
+2c WinBUGS
+3 Salanti SMMR2008;17:279-301.
+4 nma, reporting prob of each tx being best
+5 yes
+6 multiple treatments meta analysis ("MTM")
+7 not mentioned
+8a yes
+8b not stated
+==
+56
+2a NICE DSU
+2b no
+2c WinBUGS
+3 Lumley, 2002; Lu & Ades, 2004; Ades et al., 2007
+4 nma
+5 yes
+6 nma
+7 NICE DSU
+8a yes
+8b direct and indirect
+==
+58
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lu Ades 2004 ; Salanti 2011 ; Smith Spiegelhalter Thomas 1995
+4 nma
+5 yes
+6 "We used Bayesian hierarchical random effects models,38 fully preserving randomised treatment effects within trials and accounting for correlation between comparisons within multiarm trials.39 Adjusting for patient years under all situations, we used a log-linear Poisson model (exacerbation rate ratios) to analyse the number of exacerbations and a logistic model (odds ratios) with complementary log-log link function to analyse the numbers of patients with at least one exacerbation and the number of study withdrawals."
+7 not stated
+8a yes
+8b direct and indirect
+==
+59
+2a no
+2b yes
+2c no
+3 NICE DSU
+4 nma
+5 yes
+6 nma
+7 not stated
+8a no
+8b
+==
+60
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lu Ades 2004
+4 nma
+5 yes
+6 nma
+7 "non-informative"
+8a no
+8b
+==
+61
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Ades Sculpher Sutton et al 2006 ; Lu Ades 2004
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a no
+8b
+==
+63
+2a no
+2b no
+2c no
+3 Robinson JG, Wang S, Jacobson TA. Meta-analysis of comparison of effec- tiveness of lowering apolipoprotein B versus low-density lipoprotein choles- terol and non-high-density lipoprotein cholesterol for cardiovascular risk reduction in randomized trials. Am J Cardiol. 2012;110:1468–1476.
+4 MA with some kind of causal pathway / mediation analysis
+5 yes
+6 "Bayesian meta-analysis"
+7 not clear except sensitivity analysis on priors for correlation
+8a yes
+8b not clear
+==
+64
+2a no
+2b yes
+2c GeMTC
+3 Higgins Thompson Deeks Altman 2003
+4 nma
+5 yes
+6 nma
+7 "a non-informative uniform prior distribution of effect sizes and precision was used"
+8a yes
+8b direct and indirect
+==
+65
+2a yes
+2b no
+2c WinBUGS 1.4.3
+3 Mills EJ, Ioannidis JP, Thorlund K, et al. How to use an article reporting a multiple treatment comparison meta- analysis. JAMA 2012; 308: 1246–1253. ; Mills EJ, Bansback N, Ghement I, et al. Multiple treat- ment comparison meta-analyses: A step forward into complexity. Clin Epidemiol 2011; 3: 193–202.
+4 mtc
+5 yes
+6 mtc
+7 N(0,1000) U(0,2)
+8a yes
+8b direct and indirect
+==
+66
+2a no
+2b no
+2c SAS PROC MCMC
+3 Menke J (2013) Bivariate random-effects meta-analysis of sen- sitivity and specificity with the Bayesian SAS PROC MCMC: methodology and empirical evaluation in 50 meta-analyses. Med Decis Making; Published online 8 Mar 2013
+4 "tri-variate MA": diagnostic tests classifying into three categories
+5 yes
+6 "Bivariate and trivariate Bayesian random-effects models"
+7  diffuse though not completely stated
+8a yes
+8b yes, 2 vs 3 categories, but why not have everything in Bayes?
+==
+67
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Dias Sutton Ades Welton 2013 ; NICE DSU
+4 nma
+5 yes
+6 possibly NICE DSU. nma + "Extensive sensitivity, meta-regression, and network consistency analyses"
+7 "Minimally informative"
+8a no
+8b
+==
+68
+2a no
+2b no
+2c WinBUGS 1.4.3 and GeMTC
+3 ISPOR part 2
+4 nma
+5 yes
+6 nma
+7 "A noninformative flat prior"
+8a yes
+8b direct and indirect
+==
+69
+2a no
+2b no
+2c WinBUGS
+3 NICE DSU
+4 nma
+5 yes
+6 nma ?NICE DSU
+7 "vague"
+8a yes
+8b not clear
+==
+71
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 none
+4 nma
+5 yes
+6 nma
+7 "non-informative"
+8a yes
+8b direct and indirect
+==
+72
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 NICE DSU
+4 itc
+5 yes
+6 "adapted" NICE DSU: "frequentist meta-analysis, meta-regression, and indirect comparison were performed using the DerSimonian-Laird and Bucher methods. Bayesian analyses with and without adjustment for study-level covariates"
+7 "noninformative priors"
+8a yes
+8b not clear, as both did indirect comparisons
+==
+73
+2a no
+2b yes
+2c WinBUGS
+3 Lu & Ades 2004
+4 nma
+5 mixed
+6 random
+7 not mentioned
+8a yes
+8b 'to determine the relative efficacy and safety'
+==
+75
+2a no
+2b yes
+2c GeMTC
+3 Lumley 2002
+4 nma
+5 yes
+6 nma
+7 "GeMTC automatic- ally specified vague prior distributions for the trial baseline effects, the relative effects (normal with mean 0 and SD 37.5), and the random effects SD (uniform in the interval 0–2.5)."
+8a yes
+8b direct and indirect
+==
+76
+2a no
+2b no
+2c Fast*Pro
+3 Eddy 1989
+4 MA of prevalence and incidence but what rationale??? "Instead of a frequentist or classic statistical approach, we used a Bayesian model because we evaluated a proportion meta- analysis, and the Bayesian model deals more adequately with heterogeneity than the classic random model"
+5 yes
+6 random effects MA
+7 none stated
+8a no
+8b
+==
+77
+2a no
+2b yes
+2c WinBUGS
+3 SMith Spiegelhalter Thomas 1995 ; Sutton Abrams 2001 ; Higgins Whitehead 1996 ; Lambert PC, Sutton AJ, Burton PR, Abrams KR, Jones DR. How vague is vague? A simulation study of the impact of the use of vague prior distributions in MCMC using WinBUGS. Stat Med. 2005;24: 2401–2428.
+4 standard MA but including observation studies alongside RCTs
+5 yes
+6 "Classical and Bayesian random-effects meta-analyses"
+7 variety, with well-informed sensitivity analysis
+8a yes
+8b yes
+==
+79
+2a no
+2b yes
+2c WinBUGS
+3 none
+4 standard MA
+5 yes
+6 "Bayesian hierarchical models"
+7 "noninformative"
+8a no
+8b
+==
+80
+2a no
+2b yes
+2c WinBUGS
+3 Lu Ades 2004
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a yes
+8b direct and indirect
+==
+81
+2a no
+2b yes
+2c WinBUGS 1.4.1
+3 NICE DSU ; Rodgers M, Epstein D, Bojke L, Yang H, Craig D, Fonseca T, et al: Etanercept, infliximab and adalimumab for the treatment of psoriatic arthritis: a systematic review and economic evaluation. Health Technol Assess 2011, 15(10):1–329. February 2011.
+4 mtc
+5 yes
+6 mtc
+7 "uninformative"
+8a no
+8b
+==
+82
+2a no
+2b no
+2c Stata, apparently
+3 none
+4 MA of prevalence studies
+5 yes
+6 classical meta-analysis + adjustment with "Bayesian analysis" (?)
+7 none mentioned
+8a not clear
+8b not clear
+==
+83
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 NICE DSU ; ISPOR parts 1 and 2
+4 nma
+5 yes
+6 nma fixed-effects
+7 not stated
+8a no
+8b
+==
+84
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 NICE DSU
+4 nma
+5 yes
+6 nma
+7 N(0,10000) U(sufficiently large)
+8a yes
+8b no
+==
+85
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 NICE DSU
+4 nma
+5 yes
+6 nma
+7 not stated
+8a no
+8b
+==
+86
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lu Ades 2004 ; Jansen Crawford Bergman Stam 2008
+4 nma
+5 yes
+6 nma
+7 "vague"
+8a not clear
+8b not clear
+==
+87
+2a no
+2b yes
+2c ADDIS 1.16.3
+3 D.H. Tang, D.C. Malone, A network meta-analysis on the efficacy of serotonin type 3 receptor antagonists used in adults during the first 24 hours for postoperative nausea and vomiting prophylaxis, Clinical Therapeutics 34 (2012) 282e294.
+4 nma and mtc (?)
+5 yes
+6 nma and mtc (?)
+7 "minimally informative"
+8a yes
+8b no
+==
+88
+2a no
+2b no
+2c WinBUGS 1.4
+3 Lu Ades 2004 ; NICE DSU
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a yes
+8b no
+==
+89
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Sutton Abrams 2001 ; Wells GA, Sultan SA, Chen L, Khan M, Coyle D (2009) Indirect Evidence: indirect treatment comparisons in meta-analysis. Ottawa: Canadian Agency for Drugs and Technologies in Health. ; ISPOR part 2
+4 mtc
+5 yes
+6 mtc
+7 "We used the following non-informative prior distributions: uniform (0,2) for standard deviation of the random effects model and normal (0, tau =0.0001) for log[HR]s. "
+8a yes
+8b not clear: "By plotting the posterior densities of the direct, indirect, and network estimates, direct and indirect evidence can be combined to provide a network estimate and a single effect size. This effect size has increased precision than that of any one type of evidence alone."
+==
+90
+2a no
+2b yes
+2c R, apparently
+3 none relevant
+4 standard MA
+5 yes
+6 "hierarchical Bayesian model"
+7 empirical? "An informative prior is used for the variance of the pooled HR, as an inverse Gamma centered on an estimator obtained with a moment-based approach (inflated by 25% to obtain a conservative statement). Indirect comparisons were conducted by means of a similar model, assuming an additive shift for the difference of effects on the log-HR scale."
+8a yes
+8b no
+==
+91
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Lu Ades 2004
+4 nma with adjustment for detail of tx
+5 yes
+6 nma & meta-regression
+7 not stated
+8a no
+8b
+==
+92
+2a no
+2b not clear
+2c WinBUGS 1.4
+3 University of Bristol, School of Social and Community Medicine. Mixed Treatment Comparisons. (2013). Available: http://www.bristol.ac.uk/social- community-medicine/projects/mpes/mtc/. ; Salanti Ades Ioannides 2011
+4 nma
+5 yes
+6 Bristol NMA model (see ancestors)
+7 "noninformative"
+8a yes
+8b direct and indirect
+==
+93
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lumley 2002
+4 nma
+5 yes
+6 nma
+7 some confusion: "We assigned a non-informative bivariate normal distribution to the mean of scale parameters of the baseline treatment in each trial, and also to the difference in scale parameters between survival curves relative to the baseline in each study. We assigned a non- informative Wishart distribution to the variance of the difference in scale parameters between studies, and assumed constant heterogeneity across treatment comparisons. We used vague initial values to analyze both models..."
+8a yes
+8b no
+==
+94
+2a no
+2b no
+2c ADDIS 1.15
+3 Salanti G, Higgins JP, Ades A, Ioannidis JP (2008) ; Ades AE, Sculpher M, Sutton A, Abrams K, Cooper N, et al. (2006)
+4 nma & mtc
+5 yes
+6 nma & mtc
+7 not stated
+8a yes
+8b direct & indirect
+==
+95
+2a yes
+2b yes
+2c JAGS
+3 Higgins J, Green S, editors (2009) Cochrane Handbook for Systematic Reviews of Interventions
+4 predict prevalence from MA
+5 yes
+6 "Bayesian linear meta-regression models"
+7 "assigned uniform uninformative priors to b0 (unif (-1,1)) and b1 (unif (-5,5)) and to s (unif (0,0.4))."
+8a no
+8b
+==
+96
+2a yes
+2b yes
+2c OpenBUGS
+3 several - documented well
+4 diagnostic MA without gold standard
+5 yes
+6 latent bivariate
+7 sevaral options explored - documented well
+8a no
+8b
+==
+97
+2a yes
+2b yes
+2c WinBUGS
+3 Ades AE, Welton N, Lu G. Mixed treatments comparisons. Available at: http://www.bris.ac.uk/ social-community-medicine/projects/ mpes/mtc. ; Salanti G, Ades AE, Ioannidis JP. Graphical methods and numerical summaries for presenting results from multiple-treatment meta-analysis: an overview and tutorial. J Clin Epidemiol 2011; 64: 163–71.
+4 nma
+5 yes
+6 nma
+7 mu[i] ~ dnorm(0,0.05); tau ~ dunif(0,2)
+8a no
+8b
+==
+98
+2a no
+2b yes
+2c WinBUGS, possibly SAS
+3 NICE DSU ; ISPOR part 1
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+99
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 none stated
+4 mtc
+5 yes
+6 mtc
+7 ???! "For the Bayesian random-effects analysis, vague or non- informative priors were used to yield results that are not too different from conventional statistical analysis." Otherwise, not stated.
+8a yes
+8b direct and indirect
+==
+100
+2a no
+2b some, perhaps not all
+2c WinBUGS 1.4
+3 Bucher HC, Guyatt GH, Griffith LE, Walter SD (1997) The results of direct and indirect treatment comparisons in meta-analysis of ran- domized controlled trials. Journal of clinical epidemiology 50(6): 683–691
+4 nma
+5 yes
+6 nma
+7 unif(0,5) N(0,10000)
+8a yes
+8b direct and indirect
+==
+101
+2a yes
+2b yes
+2c HSROC in R
+3 none relevant
+4 diagnostic MA
+5 yes
+6 "Joined meta-analysis of the diagnostic test sensitivity and specificity was performed by applying a hierarchical Bayesian model"
+7 appear to be informative or empirical, but no explanation!
+8a no
+8b
+==
+102
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Cooper NJ, Peters J, Lai MC, Juni P, Wandel S, Palmer S, et al. How valuable are multiple treatment comparison methods in evidence-based health-care evaluation? Value Health 2011;14:371-80. ;
+4 nma
+5 yes
+6 nma + Poisson meta-regression
+7 not stated
+8a no (but not very clear)
+8b
+==
+103
+2a no
+2b no
+2c no
+3 Sutton AJ, Higgins JP (2008) Recent developments in meta-analysis. Stat Med 27:625–650
+4 safety MA
+5 yes
+6 "We used frequentist and Bayesian models to combine studies"
+7 not stated
+8a yes
+8b RCT and observational
+==
+104
+2a yes
+2b yes
+2c WinBUGS 1.4.3
+3 Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 1995;14:2685e2699. ; NICE DSU
+4 standard MA
+5 yes
+6 "meta-analysis was performed using Bayesian and frequentist methods"
+7 various - well documented
+8a yes
+8b no
+==
+105
+2a
+2b
+2c WinBUGS 1.4
+3 none relevant
+4 standard MA
+5 yes
+6 standard logit MA
+7 only that random effects (variance, presumably) had "a flat gamma distribution"
+8a no
+8b
+==
+106
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105-24.
+4 nma
+5 yes
+6 nma
+7 "non-informative priors with vague normal (mean 0, variance 10 000) and uniform (0-2) prior distributions"
+8a yes
+8b direct and indirect
+==
+107
+2a no
+2b no
+2c WinBUGS
+3 none
+4 subgroup analysis of benefit
+5 yes
+6 "frequentist and Bayesian meta-regressions"
+7 not stated
+8a yes
+8b no
+==
+108
+2a no
+2b yes
+2c WinBUGS 1.4.1
+3 Caldwell DM, Ades AE, Higgins JP: Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005, 331:897–900. ; Lu G, Ades AE: Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004, 23:3105–3124. ; Jansen J, Crawford B, Bergman G, Stam W: Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health 2008, 11:956–964.
+4 nma
+5 yes
+6 nma
+7 "non-informative"
+8a no
+8b
+==
+109
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Salanti 2007
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b no, but presumably because Cochrane requires RevMan analysis
+==
+110
+2a no
+2b yes
+2c OpenBUGS 3
+3 Spiegelhalter DJ, Abrams KR, Myles JP. Bayesian approaches to clinical trials and health-care evaluation. Chichester: Wiley; 2004. p. 105–11.
+4 nma
+5 yes
+6 nma
+7 non-informative plus sensitivity analysis
+8a no
+8b
+==
+112
+2a no
+2b no
+2c WinBUGS
+3 Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897-900. ; Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105-24. ; Salanti G, Ades AE, Ioannidis JP. Graphical methods and numerical summaries for presenting results from multiple-treatment meta-analysis: an overview and tutorial. J Clin Epidemiol 2011;64:163-71. ; Salanti G, Higgins JP, Ades AE, Ioannidis JP. Evaluation of networks of randomized trials. Stat Methods Med Res 2008;17:279-301.
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+113
+2a no
+2b no
+2c no
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004; 23: 3105–24. ; Salanti G, Higgins JP, Ades AE, Ioannides JP. Evaluation of networks of randomized trials. Stat Methods Med Res 2008; 17: 279–301. ; Higgins JP, Whitehead A. Borrowing strength from external trials in a meta-analysis. Stat Med 1996; 15: 2733–49. ; Salanti G, Ades AE, Ioannides JP. Graphical methods and numerical summaries for presenting results from multiple-treatment meta-analysis: an overview and tutorial. J Clin Epidemiol 2011; 64: 163–71. ; http://www.mtm.uoi.gr/howtodoanmtm.html
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a no
+8b
+==
+114
+2a yes
+2b no
+2c Stata (?)
+3 ThompsonSG,SmithTC,SharpSJ.Investigating underlying risk as a source of heterogeneity in meta-analysis. Stat Med 1997; 16: 2741–2758.
+4 linear regression (the bayesian part was not the MA)
+5 yes
+6 "Bayesian linear regression"
+7 non-informative
+8a no
+8b
+==
+115
+2a yes; NICE DSU
+2b yes
+2c OpenBUGS 3.2.1
+3 NICE DSU
+4 nma
+5 yes
+6 NICE DSU
+7 non-informative NICE DSU
+8a yes
+8b direct and indirect
+==
+116
+2a yes
+2b mostly but not n per arm; might be able to infer
+2c WinBUGS
+3 Glenny AM, Altman DG, Song F, et al. Indirect comparisons of competing interventions. Health Technol Assess. 2005;9:1–134. iii-iv. ; Song F, Loke YK, Walsh T, Glenny AM, Eastwood AJ, Altman DG. Methodological problems in the use of indirect comparisons for evaluating healthcare interventions: survey of published systematic reviews. BMJ. 2009;338:b1147. ; Donegan S, Williamson P, Gamble C, Tudur-Smith C. Indirect comparisons: a review of reporting and methodological quality. PLoS One. 2010;5:e11054.
+4 nma
+5 yes
+6 nma
+7 diffuse Unif(0.01,2)  N(0, 10000)
+8a yes
+8b direct and indirect
+==
+117
+2a yes
+2b yes
+2c PyMC (2.1)
+3 Smith T, Spiegelhalter D (1995) Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 14:2685–2699
+4 prediction from correlation estimates
+5 yes
+6 "meta-estimates of blood Phe-IQ correlation to predict the probability of low IQ for a range of Phe levels"
+7 WIP / flat N(0,10) U(0,1000)
+8a no
+8b
+==
+118
+2a yes
+2b no
+2c WinBUGS 1.4.3
+3 Woods BS, Hawkins N, Scott DA. Network meta-analysis on the log-hazard scale, combining count and hazard ratio statistics accounting for multi-arm trials: a tutorial. BMC Med Res Methodol 2010; 10: 54.
+4 nma
+5 yes
+6 nma and "reconstructed individual patient survival data from published Kaplan-Meier curves... standard random-effects Poisson meta-analysis"
+7 sd ~ dunif(0,1) ; beta[t] ~ dnorm(0,0.001)
+8a no
+8b
+==
+119
+2a no
+2b no
+2c WinBUGS 1.4
+3 Caldwell DM, Ades AE, Higgins JP 2005 Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 331:897–900. ; Salanti G, Higgins JP, Ades AE, Ioannidis JP 2008 Evaluation of networks of randomized trials. Stat Methods Med Res 17:279–301. ; Cipriani A, Barbui C, Rizzo C, Salanti G 2012 What is a multiple treatments meta-analysis? Epidemiol Psychiatr Sci 21:151–153. Salanti G, Dias S, Welton NJ, Ades AE, Golfinopoulos V, Kyrgiou M, Mauri D, Ioannidis JP 2010 Evaluating novel agent effects in multiple-treatments meta-regression. Stat Med 29:2369–2383. ; Song F, Harvey I, Lilford R 2008 Adjusted indirect comparison may be less biased than direct comparison for evaluating new pharmaceutical interventions. J Clin Epidemiol 61:455–463. Golfinopoulos V, Salanti G, Pavlidis N, Ioannidis JP 2007 Survival and disease-progression benefits with treatment regimens for advanced colorectal cancer: a meta-analysis. Lancet Oncol 8:898–911. ; Cipriani A, Barbui C, Salanti G, Rendell J, Brown R, Stockton S, Purgato M, Spineli LM, Goodwin GM, Geddes JR 2011 Comparative efficacy and acceptability of antimanic drugs in acute mania: a multiple-treatments meta-analysis. Lancet 378:1306–1315.
+4 nma
+5 yes
+6 "Odds ratios were calculated by a Bayesian network meta-analysis, and metaregression was used for pair-wise comparisons" (?)
+7 "vague"
+8a yes
+8b direct and indirect
+==
+121
+2a no
+2b no
+2c ADDIS
+3 none
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+123
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 NICE DSU ; Lu G and Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004; 23: 3105–3124. ; Ades AE. A chain of evidence with mixed comparisons: models for multi-parameter synthesis and consistency of evidence. Stat Med 2003; 22: 2995–3016. ; Caldwell DM, Ades AE and Higgins JPT. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005; 331: 897–900. ; Lumley T. Network meta-analysis for indirect treatment comparisons. Stat Med 2002; 21: 2313–2324.
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct & indirect
+==
+124
+2a yes
+2b no
+2c WinBUGS 1.4.3
+3 none
+4 incidence MA
+5 yes
+6 "Bayesian random effects models"
+7  dnorm(0, 0.0001) dunif(0, 10)
+8a not clear
+8b
+==
+125
+2a yes
+2b no
+2c OpenBUGS 3.1.2
+3 Ades AE, Sculpher M, Sutton A, Abrams K, Cooper N, Welton N, Lu G: Bayesian methods for evidence synthesis in cost-effectiveness analysis. Pharmacoeconomics 2006, 24(1):1–19.
+4 mtc
+5 mixed "Diversity of outcome measures and follow-up times in the HMB literature presented considerable challenges"
+6 mtc
+7 mostly diffuse/flat, some verge on WIP: α0 ~ Normal (0, 104) ; γjt ~ Normal (0, 100) ; δj ~ Normal (0, 104), independent ; α1 ~ Uniform (−5, 5) ; τj ~ Uniform (0, 100), independent ; 1=σ2 ; η ~ Gamma (0.1, 0.1)
+8a no
+8b
+==
+126
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lu & Ades 2004
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a yes
+8b direct and indirect
+==
+127
+2a yes
+2b yes
+2c WinBUGS
+3  (Lu 2006; Salanti 2009).  www.mtm.uoi.gr/ howtodoanmtm.html.
+4 nma
+5 yes
+6 nma
+7 We used a normal prior with zero mean and variance one restricted to positive values for the common het- erogeneity standard deviation τ and non-informative vague priors for all mean parameters, otherwise referred as treatment effects.
+8a yes
+8b direct and indirect
+==
+128
+2a no
+2b yes
+2c WinBUGS
+3 Diamond GA, Kaul S. Prior convictions: bayesian approaches to the analysis and interpretation of clinical megatrials. J Am Coll Cardiol. 2004;43:1929–1939.
+4 nma
+5 yes
+6 nma
+7 only that "We permitted the between- study standard deviation of the MT effects and of the PCI effects to arise from independent uniform distributions."
+8a yes
+8b direct and indirect
+==
+129
+2a no
+2b no
+2c PyMC 2.1
+3  Sutton A, Abrams K (2001) Bayesian methods in meta-analysis and evidence synthesis
+4 standard MA
+5 yes
+6 multilevel binomial
+7 not stated
+8a no
+8b
+==
+131
+2a probably enough to recreate
+2b no
+2c FORTRAN 90 (bespoke)
+3 Banerjee S, Gelfand AE, Finley AO, Sang H. Gaussian predictive process models for large spatial data sets. J R Stat Soc Ser B Stat Methodol 2008; 70: 825–48. ; Diggle PJ, Lophaven SÃ. Bayesian geostatistical design. Scand Stat Theory Appl 2006; 33: 53–64.
+4 geographical prevalence MA
+5 yes
+6 geostatistical meta-analysis, kriging, variable selection...
+7 "vague... non-informative"
+8a no
+8b
+==
+132
+2a no
+2b yes
+2c PyMC 2.1
+3  Puggioni G, Gelfand A, Quince C. Joint modeling of sensitivity and specificity. Statist. Med. 2008;27:1745–176
+4 diagnostic MA
+5 yes
+6 latent class
+7 the population means for the cell probabilities were given N(0, 100) priors, which are relatively flat on the probability (inverse-logit) scale, and the random-effects SDs were given uniform priors on the (0, 1000) interval
+8a no
+8b
+==
+133
+2a yes
+2b yes
+2c WinBUGS
+3 N. Dendukuri, J. Lawrence Bayesian approaches to modeling the conditional dependence between multiple diagnostic tests Biometrics, 57 (2001), pp. 158–167
+4 diagnostic MA
+5 yes
+6 "A novel multicomponent framework"
+7 N(0,1000) invWishart(,2)
+8a no
+8b
+==
+134
+2a no (appx doesn't exist)
+2b yes
+2c WinBUGS
+3 none relevant
+4 standard MA
+5 yes
+6 prevalence MA and meta-regression"
+7 not stated (appx doesn't exist)
+8a no
+8b
+==
+135
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Warn DE, Thompson SG, Spiegelhalter DJ. Bayesian random effects meta-analysis of trials with binary outcomes: methods for the absolute risk difference and relative risk scales. Stat Med 2002;21:1601e23.
+4 standard MA
+5 yes
+6 "traditional and Bayesian random effects meta-analysis"
+7 "Minimally informative"
+8a yes
+8b no "sensitivity analysis" (but see priors!)
+==
+136
+2a no despite lengthy mathematical appendix
+2b no
+2c MMM (their own) and some bespoke C
+3 none relevant
+4 to account for heterogeneity ("we apply Bayesian approaches to allow for heterogeneity in the effect of an allele on risk across studies")
+5 yes
+6 imputed genotype (MI?), then MA, then made Bayesian for heterogeneity. "To investigate the impact of non-fixed effect approaches on the evidence for association we used a normal approximation to the logistic regression likelihood suggested by Wakefield [17]" - bit weird ("A Bayesian measure of the probability of false discovery in genetic epidemiology studies")
+7 not much info but looks WIP
+8a yes
+8b not clear - heterogeneity?
+==
+137
+2a yes
+2b no
+2c WinBUGS
+3 Reitsma JB, Glas AS, Rutjes AWS, et al. Bivariate analysis of sensitivity and specificity produces informative summary measures in diagnostic reviews. J Clin Epidemiol 2005;58:982e90.
+4 standard diagnostic MA
+5 yes
+6 logistic for error rates
+7 N(0,1000) invWishart(,2)
+8a no
+8b
+==
+138
+2a yes
+2b no
+2c JAGS (only mentioned in appendix)
+3 Warn DE, Thompson SG, Spiegelhalter DJ. Bayesian random effects meta-analysis of trials with binary out- comes: methods for the absolute risk difference and rela- tive risk scales. Stat Med 2002;21:1601–23.
+4 binomial MA with lots of subgroups
+5 yes
+6 binomial MA with lots of subgroups
+7 WIP (see appx)
+8a no
+8b
+==
+139
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 kitchen sink: Eddy et al. (1990), Gleser & Olkin 1994, Higgins & Whitehead 1996, Lumley 2002, Psaty et al. 2003, Song et al. 2003, Lu & Ades 2004, 2006, Glenny et al. 2005, Salanti et al. 2008, Buti et al. 2011
+4 nma
+5 yes
+6 nma
+7 N(0,1000) gamma(1000,1000)
+8a yes
+8b direct and indirect
+==
+141
+2a no
+2b no
+2c WinBUGS
+3 JANSEN JP, CRAWFORD B, BERGMAN G, STAM W. Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health 2008; 11: 956-964. ; ADES AE, SCULPHER M, SUTTON A, ABRAMS K, COOPER N, WELTON N, LU G. Bayesian methods for evi- dence synthesis in cost-effectiveness analysis. Pharmacoeconomics 2006; 24: 1-19.
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a no
+8b
+==
+143
+2a no (appx could not be accessed)
+2b no (appx oculd not be accessed)
+2c Addis 1.6.2 and WinBUGS 1.4.3 (?)
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med. 2004;23(20):3105-3124.
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a yes
+8b direct and indirect
+==
+144
+2a no
+2b no
+2c WinBUGS
+3 Guyot P, Ouwens M. The use of survival analysis for cost-effectiveness models: an evaluation of methods in NICE appraisals. Value Health 2009;12:A231. ; Ouwens MJNM, Philips Z, Jansen JP. Network meta-analysis of parametric survival curves. Res Synth Meth 2010;1:258–71. ; Jansen JP. Network meta-analysis of survival data with fractional polynomials. BMC Med Res Methodol 2011;11:61.
+4 "network meta-analysis with parametric survival models"
+5 yes
+6 "network meta-analysis with parametric survival models"
+7 "non-informative"
+8a no
+8b
+==
+145
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Warn DE, Thompson SG, Spiegelhalter DJ. Bayesian random effects meta- analysis of trials with binary outcomes: methods for the absolute risk differ- ence and relative risk scales. Statistics in Medicine 2002;21:1601e23.
+4 standard MA
+5 yes
+6 "traditional and Bayesian random-effects meta-analysi"
+7 "Minimally informative"
+8a yes
+8b "sensitivity analysis" but see priors!
+==
+146
+2a no
+2b no
+2c WinBUGS
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004; 23:3105– 24. ; Sutton A, Ades AE, Cooper N, Abrams K. Use of indirect and mixed treatment comparisons for technology assessment. Pharmacoeconomics 2008; 26:753–67. ; Sutton AJ, Higgins JP. Recent developments in meta-analysis. Stat Med 2008; 27:625–50.
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a yes
+8b direct and indirect
+==
+147
+2a no
+2b no
+2c WinBUGS
+3 none relevant
+4 nma
+5 yes
+6 nma plus meta-regression
+7 not stated
+8a yes
+8b direct and indirect
+==
+148
+2a no
+2b yes
+2c Lotus 1-2-3
+3 none relevant
+4 standard MA
+5 yes
+6 strange: calculated MA classically then derived a posterior distribution by hand-made numerical integration in Lotus 1-2-3 '97 edition (in 2012!)
+7 N(0,10) but hard to evaluate this in context
+8a no but see above
+8b
+==
+149
+2a no
+2b yes
+2c WinBUGS
+3 none relevant
+4 itc
+5 yes
+6 "Indirect comparisons using a fixed-effect Bayesian model"
+7 "non-informative"
+8a no
+8b
+==
+150
+2a yes
+2b yes
+2c WinBUGS 1.4.1
+3 Sutton A, Cooper N, Goodacre S, Stevenson M. Integration of meta-analysis and economic decision modelling for evaluating diagnostic tests. Med Dec Making 2008;28:650–68. ; Ades A, Lu G, Higgins JPT. The interpretation of random effects meta-analyses in decision models. Med Dec Making 2005;25:646–54. ; Warn DE, Thompson SG, Spiegelhalter DJ. Bayesian random effects meta-analysis of trials with binary outcomes: methods for the absolute risk difference and relative risk scales. Stat Med 2002;21:1601–23.
+4 standard MA + health economics
+5 yes
+6 random effects MA + cost-effectiveness
+7 N(0,1000) IW(,2)
+8a no
+8b
+==
+151
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Caldwell Ades Higgins 2005 ; Lu Ades 2004 ; NICE DSU ; Jansen Crawford Bergman Stam 2008
+4 nma
+5 yes
+6 nma
+7 N(0,10000) U(0,5)
+8a no
+8b
+==
+153
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 none
+4 nma
+5 yes
+6 nma
+7 "non-informative"
+8a yes
+8b direct and indirect
+==
+154
+2a yes
+2b yes
+2c WinBUGS 1.4.3
+3 Dias S, Sutton AJ, Ades AE, Welton NJ (2013) ; NICE DSU
+4 nma
+5 yes
+6 NICE DSU
+7 "Minimally informative normal priors were used for all treatment effect parameters and a Uniform (0,150) prior was used for the between-study standard deviation (heterogeneity) parameter. Sensitivity to this prior was assessed, but there was no meaningful change in relative effects or overall conclusions."
+8a yes
+8b direct and indirect
+==
+155
+2a yes
+2b yes
+2c WinBUGS
+3 Spiegelhalter DJ, Myles JP, Jones DR, Abrams KR (2000) Bayesian methods in health technology assessment: a review. Health Technol Assess 4: 1–130. ; Sutton AJ, Abrams KR (2001) Bayesian methods in meta-analysis and evidence synthesis. Stat Methods Med Res 10: 277–303.
+4 prevalence MA
+5 yes
+6 random-effects
+7 "uninformative"
+8a no
+8b
+==
+156
+2a yes
+2b no
+2c DisMod-MR
+3 none entirely relevant
+4 burden of disease, prevalence
+5 yes
+6 meta-regression
+7 none stated
+8a no
+8b
+==
+157
+2a no
+2b no
+2c R 'dynsurv'
+3 none
+4 MA with survival data
+5 yes but they note confounding
+6 "non-parametric univariate Kaplan-Meier analysis and Bayesian multivariate interval-censored Cox regression"
+7 not stated
+8a no
+8b
+==
+158
+2a yes
+2b yes
+2c WinBUGS 1.4.3
+3 Smith TC, Spiegelhalter DJ, Thomas A (1995) Bayesian approaches to random- effects meta-analysis: a comparative study. Stat Med 14: 2685–2699. ; Warn DE, Thompson SG, Spiegelhalter DJ (2002) Bayesian random effects meta-analysis of trials with binary outcomes: methods for the absolute risk difference and relative risk scales. Stat Med 21: 1601–1623. ; Spiegelhalter D, Abrams K, Myles J (2004) Bayesian approaches to clinical trials and healthcare evaluation. Chichester: John Wiley & Sons.
+4 standard MA
+5 yes
+6 random-effects MA
+7 WIP, details in appx
+8a no
+8b
+==
+159
+2a no
+2b partly
+2c R 'HSROC'
+3 none given
+4 diagnostic MA ?multiple comparisons
+5 yes
+6 HSROC model
+7 not stated
+8a no
+8b
+==
+160
+2a no
+2b no
+2c WinBUGS
+3 Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 1995;14:2685-99.
+4 standard MA
+5 yes
+6 "Traditional fixed-effect and random-effect meta-analyses and Bayesian meta-analysis"
+7 "skeptical, neutral, and enthusiastic priors" "The skeptical prior is centered at RR=1.1 (i.e. a 10% increase in the adverse outcome) with 95% CrI (0.55-2.2), and the enthusiastic prior is centered at RR=0.9 (i.e. a 10% decrease in the adverse outcome) with 95% CrI (0.45-1.80). " ???
+8a yes
+8b no
+==
+161
+2a no
+2b possibly, not clear if everything is there
+2c WinBUGS 1.4.3
+3 Gelman A. Prior distributions for variance parameters in hierarchical models. Bayesian Anal 2006;1:515–33. ; Spiegelhalter DJ, Abrams KR, Myles JP. Prior distributions. In: Bayesian approaches to clinical trials and health-care evaluation. Chichester, UK: John Wiley & Sons, Ltd.; 2004. p. 139–77. ; Salanti Ades Ioannides 2011 ; NICE DSU
+4 nma
+5 mixed, several limitations listed in the abstract. Also, "We suspect performance and detection bias in cSSTI trials involving linezolid, but regression methods could not adjust for this potential bias" (? but this is what Bayes excels at)
+6 nma
+7 U(0,10000) and some sensitivity analysis for tau across Uniforms and half-Cauchy
+8a no
+8b
+==
+162
+2a no
+2b yes
+2c WinBUGS
+3 Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 1995;14:2685–2699. ; Spiegelhalter DJ, Myles JP, Jones DR, Abrams KR. Methods in health service research. An introduction to bayesian methods in health technology assessment. BMJ 1999;319:508 –512. ; Chib S. Marginal likelihood from the Gibbs output. J Am Stat Assoc 1995;90:1313–1321.
+4 standard MA but comparing arms of trials with different treat-to-targets
+5 yes
+6 "Bayesian random-effects meta-analysis" also, Bayes factors are given in the abstract
+7 not stated
+8a no
+8b
+==
+163
+2a
+2b
+2c
+3
+4 genetic data from several sources; not actually a meta-analysis of published stats
+5 yes
+6 MA, stepwise regressions, BIC, BFs ... ?
+7
+8a
+8b
+==
+164
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Spiegelhalter DJ, Myles JP, Jones DR, Abrams KR. Methods in health service research. An introduction to Bayesian methods in health technology assessment. BMJ 1999;319: 508-12. ; Spiegelhalter DJ, Abrams KR, Myles JP. Bayesian approaches to clinical trials and health-care evaluation. West Sussex, England: John Wiley & Sons Ltd.; 2004.
+4 standard MA
+5 yes
+6 "hierarchical Bayesian random effects model"
+7 equivocal N(0,10000) skeptical N(0,0.177) optimistic N(-0.693,0.177) on log-RR scale
+8a no
+8b
+==
+165
+2a no
+2b yes
+2c WinBUGS 1.4
+3 Sutton A, Ades AE, Cooper N, et al. Use of indirect and mixed treatment com- parisons for technology assessment. Pharmacoeconomics 2008;26:753-67 ; Jansen JP, Crawford B, Bergman G, et al. Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health 2008;11:956-64 ; NICE DSU ; ISPOR part 1
+4 nma
+5 yes
+6 nma
+7 "non-informative"
+8a no
+8b
+==
+166
+2a no
+2b no
+2c not stated; confidence profile method
+3 Eddy D, Hasselblad V, Shachter R. Meta-analysis by the confidence profile method. New York: Academic Press; 1992.
+4 "gender-specific MA"
+5 yes
+6 "hierarchical Bayesian random-effects models"
+7 not stated
+8a no
+8b
+==
+167
+2a no
+2b no
+2c WinBUGS
+3 Ades AE, Lu G, Higgins JPT (2005) The interpretation of random- effects meta-analysis in decision models. Med Decis Making 25:646–654 ; Higgins JPT, Thompson SG, Spiegelhalter DJ (2009) A re- evaluation of random-effects meta-analysis. J R Stat Soc Ser A Stat Soc 172:137–159
+4 standard MA
+5 yes
+6 "Data were adjusted for baseline event rate and pooled using a random-effects model. Bayesian predictive effects and intervals were calculated to indicate the variance in outcomes that would be expected if new studies were conducted in the future"
+7 not stated
+8a yes
+8b no
+==
+168
+2a
+2b
+2c
+3
+4 genetic data from several sources; not actually a meta-analysis of published stats
+5
+6
+7
+8a
+8b
+==
+169
+2a no
+2b no
+2c no
+3 none
+4 diagnostic MA
+5 yes
+6 "Bayesian receiver operating characteristic (ROC) model was used across studies to determine sensitivity, specificity, and area under the full or partial ROC curve"
+7 not stated
+8a no
+8b
+==
+170
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 1995;14:2685–99. ; Lunn DJ, Thomas A, Best N, et al. WinBUGS—a Bayesian modelling framework: concepts, structure, and extensibility. Stat Comput 2000;10:325–37.
+4 diagnostic MA
+5 yes
+6 binomial - not clear
+7 diffuse: 95% probability the error rates lie between 0.02 and 0.98 ; SD ~ U(0,10)
+8a no
+8b
+==
+171
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Sutton AJ, Abrams KR. Bayesian methods in meta-analysis and evidence synthesis. Stat Methods Med Res 2001;10:277–303. ; Ades AE, Sculpher M, Sutton A, et al. Bayesian methods for evidence synthesis in cost-effectiveness analysis. Pharmacoeconomics 2006;24:1–19. ; Song F, Altman DG, Glenny AM, et al. Validity of indirect comparison for estimating efficacy of competing interventions: empirical evidence from published meta-analyses. BMJ 2003;326:472. 27. Sutton A, Ades AE, Cooper N, et al. Use of indirect and mixed treatment comparisons for technology assessment. Pharmacoeconomics 2008;26:753–767.
+4 nma
+5 yes
+6 nma + meta-regression
+7 "noninformative uniform and normal"
+8a yes
+8b direct and indirect
+==
+172
+2a yes
+2b no
+2c JAGS
+3 none relevant
+4 standard MA
+5 yes
+6 hierarchical logit
+7 N(0,10000) U(0,10), the latter compared with gamma(0.001,0.001)
+8a no
+8b
+==
+173
+2a no
+2b no
+2c PyMC 2.1
+3 Gelman A, Carlin J, Stern H, Rubin DB. Bayesian data analysis. Boca Raton (FL): Chapman and Hall/CRC; 2004. ; Sutton A, Abrams K. Bayesian methods in meta-analysis and evidence synthesis. Stat Methods Med Res 2001;10:277–303.
+4 standard MA
+5 yes
+6 not clear
+7 not stated
+8a no
+8b
+==
+174
+2a no
+2b yes
+2c R (presumably HSROC package)
+3 none relevant
+4 diagnostic MA
+5 yes
+6 HSROC
+7 not stated
+8a no
+8b
+==
+175
+2a no
+2b yes
+2c WinBUGS 1.4
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med. 2004;23: 3105–24.
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a yes
+8b direct and indirect
+==
+176
+2a no
+2b not everything
+2c WinBUGS
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004; 23: 3105 – 3124. ; Salanti G, Higgins JP, Ades A, Ioannidis JP. Evaluation of networks of randomized trials. Stat Methods Med Res 2008; 17: 279 – 301.
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+177
+2a no
+2b yes
+2c Lotus 1-2-3 bespoke
+3 none
+4 ?standard MA
+5 yes
+6 "Bayesian enhanced meta-analysis" (?)
+7 not stated
+8a yes
+8b no
+==
+178
+2a no
+2b no
+2c WinBUGS
+3 none relevant
+4 standard MA
+5 yes
+6 "Traditional and Bayesian meta-analyses"
+7 enthusiastic, neutral, and skeptical prior probability distributions (RR centered, respectively, at 0.9, 1.0, and 1.1 and with corresponding 95% credible intervals of 0.45–1.80, 0.5–2.0, and 0.55–2.20.)
+8a yes
+8b no
+==
+179
+2a no
+2b no
+2c WinBUGS
+3 Jones, Roger PharmStat2011;10:523-31. Sutton & Abrams 2001. NICE DSU. ISPOR.
+4 nma
+5 yes
+6 not stated , BGR for convergence
+7 'noninformative previous distributions'
+8a yes
+8b ranking probabilities
+==
+180
+2a no
+2b no
+2c JAGS
+3 Smith TC, Spiegelhalter DJ, Thomas A: Bayesian approaches to random-effects meta- analysis: A comparative study. Stat Med 14:2685- 2699, 1995 ; Hemming K, Hutton JL, Maguire MG, et al: Meta-regression with partial information on sum- mary trial or patient characteristics. Stat Med 29: 1312-1324, 2010 ; Higgins JP, Thompson SG, Spiegelhalter DJ: A re-evaluation of random-effects meta-analysis. J R Stat Soc Ser A Stat Soc 172:137-159, 2009 ; Thompson SG, Higgins JP: How should meta- regression analyses be undertaken and interpreted? Stat Med 21:1559-1573, 2002
+4 standard MA
+5 yes
+6 hierarchical logit and meta-regression
+7 "vague" N(0,10000) U(0,100)
+8a no
+8b
+==
+181
+2a no
+2b yes
+2c WinBUGS
+3 none relevant
+4 standard MA
+5 yes
+6 hierarchical logit
+7 not stated
+8a no
+8b
+==
+182
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 none
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a yes
+8b direct and indirect
+==
+183
+2a no
+2b no
+2c WinBUGS
+3 none
+4 MA against time series risk factor
+5 yes but "the meta-analysis excluded studies reporting only non-linear splines as there was no way to estimate the standard error of the heat slope"
+6 multilevel logit
+7 not stated
+8a no
+8b
+==
+184
+2a no
+2b no
+2c WinBUGS
+3 ?relevant: Goodman PG, Dockery DW, Clancy L (2004) Cause-specific mortality and the extended effects of particulate pollution and temperature exposure. Environ Health Perspect 112:179–185 ; Braga ALF, Zanobetti A, Schwartz J (2002) The effect of weather on respiratory and cardiovascular deaths in 12 U.S. cities. Environ Health Perspect 110:859–863
+4 MA against time series risk factor
+5 yes
+6 multilevel logit
+7 uninformative conjugate
+8a no
+8b
+==
+186
+2a no
+2b yes
+2c WinBUGS
+3 Spiegelhalter D, Abrams K, Myles J: Bayesian Approaches to Clinical Trials and Health Care Evaluation. Chichester, UK: Wiley; 2004. ; Sutton AJ, Abrams KR, Jones DR: Methods for Meta-Analysis in Medical Research. Chichester, UK: Wiley; 2000. ; Jansen JP, Crawford B, Bergman G, Stam W: Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health 2008, 11:956–964.
+4 nma
+5 yes
+6 nma + IPD for some studies, the latter adjusting for covariates in a linear model
+7 non-informative
+8a no
+8b
+==
+188
+2a no
+2b no
+2c WinBUGS 1.4
+3 Caldwell D, Ades A, Higgins J. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ. 2005;331(7521):897Y900. ; Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med. 2004;23:3105Y3124.
+4 combine RCTs and observational studies
+5 yes
+6 not clear, combined dichotomous and continuous outcomes
+7 N(0,10000) U(0,2)
+8a no
+8b
+==
+189
+2a no
+2b yes
+2c "SAS, R and R 'meta' (?)"
+3 none
+4 not clear
+5 not clear
+6 not clear
+7 "beta(1,1) was used for all prior distributions" (?)
+8a yes
+8b no
+==
+190
+2a no
+2b no
+2c WinBUGS
+3 Ades A: A chain of evidence with mixed comparisons: models for multi-parameter synthesis and consistency of evidence. Stat Med 2003, 22:2995–3016. ; Lu G, Ades A, Sutton A, Cooper NJ, Briggs AH, Caldwell DM: Meta-analysis of mixed treatment comparisons at multiple follow-up times. Stat Med 2007, 26:3681–3699. ; Jansen J, Crawford B, Bergman G, Stam W: Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health 2008, 11:956–964. ; Lu G, Ades A: Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004, 23:3105–3124. ; Griffin S, Bojke L, Main C, Palmer S: Incorporating direct and indirect evidence using bayesian methods: an applied case study in ovarian cancer. Value Health 2006, 9:123–131. ; Caldwell D, Ades AE, Higgins JPT: Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005, 331:897–900.
+4 mtc
+5 yes
+6 mtc including model of variance, covariates, etc.
+7 various diffuse / flat given in the methods
+8a no
+8b
+==
+191
+2a yes
+2b no
+2c WinBUGS
+3 Minelli C, Thompson JR, Abrams KR, et al. Bayesian imple- mentation of a genetic model-free approach to the meta-analysis of genetic association studies. Stat Med. 2005;24(24):3845–3861. ; Salanti G, Higgins JP. Meta-analysis of genetic association studies under different inheritance models using data reported as merged genotypes. Stat Med. 2008;27(5):764–777.
+4 genetic associations MA
+5 yes
+6 see ancestors
+7 not stated
+8a no
+8b
+==
+193
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 SpiegelhalterDJ,AbramsKR,MylesJP.Bayesianapproachestoclinical trials and health-care evaluation. New York: John Wiley & Sons; 2004.
+4 itc
+5 yes
+6 "random effects model ... Bayesian indirect comparison techniques"
+7 not stated
+8a no
+8b
+==
+194
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 none
+4 diagnostic MA
+5 yes
+6 hierarchical logit for PPV
+7 not stated
+8a yes
+8b no
+==
+195
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med. 2004;23(20):3105–3124. ; Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ. 2005;331(7521): 897–900. ; Lumley T. Network meta-analysis for indirect treatment comparisons. Stat Med. 2002;21(16):2313–2324. ; Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random- effects meta-analysis: a comparative study. Stat Med. 1995;14(24):2685–2699. ; Nixon RM, Bansback N, Brennan A. Using mixed treatment comparisons and meta-regression to perform indirect comparisons to estimate the efficacy of biologic treatments in rheumatoid arthritis. Stat Med. 2007; 26(6):1237–1254.
+4 nmc + meta-regression
+5 yes
+6 nmc + meta-regression
+7 N(0,10000) gamma(0.001,0.001), the former compared with "double exponential or t" and the latter compared with gamma(0.1,0.1)
+8a yes
+8b direct and indirect
+==
+196
+2a no
+2b yes
+2c WinBUGS 1.4
+3 none
+4 MA of different study designs with adjusting
+5 yes
+6 "Crude and adjusted (for age and sex) odds ratios (OR) were estimated by a hierarchical Bayesian random-effects model with prespecified stratification for observational and randomized designs"
+7 N(0,1000) U(0,10)
+8a no
+8b
+==
+197
+2a no
+2b yes
+2c no
+3 none
+4 nma
+5 yes
+6 nma
+7 not stated
+8a no
+8b
+==
+198
+2a yes
+2b yes
+2c BUGS
+3 Jansen JP, Crawford B, Bergman G, Stam W. Bayesian meta-analysis of multiple treatment comparisons: An introduction to mixed treatment comparisons. Value Health. 2008;11:956-964.
+4 mtc with subjective priors
+5 yes
+6 mtc
+7 "Seven experts provided valid probability distributions for the new ICDs compared with current devices"
+8a no
+8b
+==
+199
+2a not sure; can't access online appendix
+2b not sure; can't access online appendix
+2c WinBUGS
+3 Spiegelhalter DJ, Abrams KR, Myles JP. Bayesian approaches to clinical trials and health-care evaluation. Chichester: John Wiley & Sons; 2004. ; Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 1995;14:2685–99.
+4 standard MA  with observational studiesregression
+5 yes
+6 hierarchical logit
+7 "noninformative"
+8a no
+8b
+==
+200
+2a no
+2b yes
+2c WinBUGS
+3 none relevant
+4 standard MA
+5 no: "Carrying out our meta-analytic study, comparing major and minor complications of endonasal surgical approaches, was very difficult due to several methodological biases of data extraction and evaluation from studies concerning a broad timespan"
+6 yes
+7 "mu was given a normal distribution with mean 0 and standard deviation 1,000 and tau^2 had a uniform distribution from 0 to 1,000. These are certainly non informative priors, given that the data all fall well below unity." (!!!)
+8a no
+8b
+==
+201
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Ades, A. E., Sculpher, M., Sutton, A., Abrams, K., Cooper, N., Welton, N. & Lu, G. (2006) ; Sutton, A., Ades, A. E., Cooper, N. & Abrams, K. (2008) ; Psaty, B. M., Lumley, T., Furberg, C. D., Schellenbaum, G., Pahor, M., Alderman, M. H. & Weiss, N. S. (2003) ; Lumley, T. (2002) Network meta-lnalysis for indi- rect treatment comparisons. Statistics in Medi- cine 21, 2313–2324. ; Glenny, A. M., Altman, D. G., Song, F., Saka- rovitch, C., Deeks, J. J., D’Amico, R., Brad- burn, M. & Eastwood, A. J. (2005) ; Psaty, B. M., Lumley, T., Furberg, C. D., Schellenbaum, G., Pahor, M., Alderman, M. H. & Weiss, N. S. (2003) Health outcomes associated with various antihypertensive therapies used as first-line agents: a network meta-analysis. Jour- nal of the American Medical Association 289, 2534–2544. ;  (Lu & Ades 2004, Cole- man et al. 2008, Salanti et al. 2008, Cipriani et al. 2009, Phung et al. 2010)
+4 nma
+5 mixed "Further analysis of methodological characteristics will be required prior to clinical recommendations."
+6 nma
+7 not totally clear
+8a yes
+8b direct and indirect
+==
+202
+2a not sure; can't access online appendix
+2b yes
+2c WinBUGS 1.4.3
+3 none
+4 standard MA
+5 yes
+6 standard but Bayesian imputation of missing SDs and some consideration of study designs?
+7 "relatively diffuse and uninformative"
+8a no
+8b
+==
+203
+2a no
+2b not enough
+2c WinBUGS
+3 none given except previous applied work by authors
+4 accounting for age subgroups where not all studies report all groups, and for study characteristics contributing to heterogeneity
+5 yes
+6 hierarchical, with study characteristics as covariates, and results broken down by age groups (hence heirarchical)
+7 noninformative normal / gamma
+8a no
+8b
+==
+204
+2a no
+2b no
+2c WinBUGS
+3 Ades AE, Sculpher M, Sutton A, et al. Bayesian methods for evidence synthesis in cost-effectiveness analysis. Pharmacoeconomics. 2006; 24:1–19 ; Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med. 2004;23:3105–3124.
+4 nma
+5 yes
+6 nma
+7 log-OR not stated, tau ~ U(0,2) compared with tau ^(-2) ~ gamma(0.001,0.001)
+8a no
+8b
+==
+206
+2a no
+2b yes
+2c WinBUGS 1.4
+3 Woolacott N, Hawkins N, Mason A et al. Etanercept and efalizumab for the treatment of psoriasis: a systematic review. Health Technol Assess 2006; 10:1–233, i–iv. ; NICE DSU
+4 nma
+5 yes
+6 nma ordered probit
+7 not clear - following Woolacott (see under ancestors)
+8a no
+8b
+==
+207
+2a no
+2b no
+2c WinBUGS
+3 none
+4 observational data
+5 yes
+6 not clear
+7 N(0,10000) U(0,10)
+8a no
+8b
+==
+208
+2a yes
+2b no
+2c WinBUGS
+3 Welton NJ, Caldwell DM, Adamopoulos E, Vedhara K. Mixed treatment comparison meta- analysis of complex interventions: psychological interventions in coronary heart disease. Am J Epidemiol 2009;169:1158–65 ; Higgins JP, Whitehead A. Borrowing strength from external trials in a meta-analysis. Stat Med 1996;15:2733–49. ; Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897–900. ; Ades AE, Sculpher M, Sutton A, Abrams K, Cooper N, Welton N, et al. Bayesian methods for evidence synthesis in cost-e ectiveness analysis. PharmacoEconomics 2006;24:1–19.
+4 mtc
+5 yes
+6 mtc, many complex variants, well documented
+7 N(0,100) N(0,1000) U(-9,9) etc
+8a no
+8b
+==
+209
+2a no
+2b no
+2c WinBUGS 1.4.1
+3 Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ. 2005;331(7521):897–900. ; Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med. 2004;23(20):3105–3124. ; Jansen J, Crawford B, Bergman G, Stam W. Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health. 2008;11(5):966–964.
+4 nma
+5 yes
+6 nma
+7 "noninformative"
+8a no
+8b
+==
+210
+2a no
+2b no
+2c WinBUGS
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105–3124. ; Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: Combining direct and indirect evidence. BMJ 2005;331:897–900. ; Ades AE. A chain of evidence with mixed compar- isons: Models for multi-parameter synthesis and consis- tency of evidence. Stat Med 2003;22:2995–3016. ; Salanti G, Dias S, Welton NJ et al. Evaluating novel agent effects in multiple-treatments meta-regres- sion. Stat Med 2010;29:2369 –2383. ; Jansen JP. Network meta-analysis of survival data with fractional polynomials. BMC Med Res Methodol 2011;11:61. ; 29. Ouwens M, Philips Z, Jansen JP. Network meta-analysis of parametric survival curves. Res Synth Meth- ods 2010;1:258 –271.
+4 nma
+5 yes
+6 nma
+7 "Prior distributions of all model parameters were normal distributions with a mean of zero and a variance of 10^4." (all ???)
+8a no
+8b
+==
+211
+2a no
+2b no
+2c WinBUGS 1.3
+3 Salanti G, Ioannidis JP (2009) Synthesis of observational studies should consider credibility ceilings. J Clin Epidemiol 62: 115–122. ; Papanikolaou PN, Christidi GD, Ioannidis JP (2006) Patient outcomes with teaching versus nonteaching healthcare: a systematic review. PLoS Med 3: e341.
+4 MA & meta-regression
+5 yes
+6 MA & meta-regression with some study characteristics as predictors
+7 "We assumed different priors for the shape of the random effects distribution: Gamma (0.001, 0.001) on precision; uniform (0, 50) on inter-study variance tau2; uniform(0, 50) on inter-study standard deviation tau; and three functions of mean intra-study variance: uniform shrinkage on tau2, DuMouchel on tau, and half-normal on tau2."
+8a yes
+8b direct and indirect
+==
+212
+2a no; some algebra in appendix but not all aspects of the model are addressed
+2b no
+2c no
+3 only spiegelhalter, myles, jones 1999 (generic bayesian overview)
+4 nma + ranking prob
+5 yes
+6 random intercept (reading between the lines)
+7 uniform
+8a no
+8b
+==
+213
+2a no
+2b no
+2c WinBUGS
+3 Lu G, Ades AE: Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004, 23:3105-3124.
+4 nma
+5 yes
+6 nma
+7 U(0,20) N(0,10000)
+8a yes
+8b direct and indirect
+==
+214
+2a no
+2b no
+2c no
+3 none
+4 standard MA
+5 yes
+6 "hierarchical Bayesian random-effects model"
+7 not stated
+8a yes
+8b no
+==
+215
+2a no
+2b yes
+2c WinBUGS
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med. 2004;23(20): 3105-3124. ; Salanti G, Higgins JP, Ades AE, Ioannidis JP. Evaluation of networks of randomized trials. Stat Methods Med Res. 2008;17(3):279-301. ; Caldwell DM, Welton NJ, Ades AE. Mixed treatment com- parison analysis provides internally coherent treatment effect estimates based on overviews of reviews and can reveal incon- sistency. J Clin Epidemiol. 2010;63(8):875-882.
+4 mtc with dosing frequency
+5 yes
+6 mtc with study-level covariate
+7 not stated
+8a no
+8b
+==
+216
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Thompson SG, Higgins JP. How should meta-regression analyses be undertaken and interpreted? Stat Med 2002; 21: 1559– 1573. ; Salanti G, Higgins JP, Ades AE, Ioannidis JP. Evaluation of networks of randomized trials. Stat Methods Med Res 2008; 17: 279–301. ; Bucher HC, Guyatt GH, Griffith LE, Walter SD. The results of direct and indirect treatment comparisons in meta-analysis of ran- domized controlled trials. J Clin Epidemiol 1997; 50: 683–691. 29. Glenny AM, Altman DG, Song F, Sakarovitch C, Deeks JJ, D’Amico R, Bradburn M, Eastwood AJ. Indirect comparisons of competing interventions. Health Technol Assess 2005; 9: 1–134, iii–iv.
+4 nma
+5 yes
+6 nma
+7 "non-informative" uniform and Gaussian
+8a yes
+8b direct and indirect
+==
+218
+2a yes
+2b yes
+2c JAGS and OpenBUGS
+3 Turner RM, Spiegelhalter DJ, Smith, GC, Thompson SG. Bias modelling in evidence synthesis. Journal of Royal Statistical Society A, 2009; 172:21–47.
+4 prevalence MA and burden of illness
+5 yes
+6 complex and well-documented
+7 expert opinions, very thorough
+8a no
+8b
+==
+219
+2a no
+2b yes
+2c Stata 11.0
+3 Deeks JJ. Systematic reviews in health care: Systematic reviews of eval- uations of diagnostic and screening tests. BMJ 2001;323:157-62. ; Moses LE, Shapiro D, Littenberg B. Combining independent studies of a diagnostic test into a summary ROC curve: data-analytic approaches and some additional considerations. Stat Med 1993;12:1293-316.
+4 diagnostic MA
+5 yes
+6 "bivariate random-effects model" HSROC
+7 not stated
+8a not clear
+8b
+==
+220
+2a no
+2b no
+2c OpenBUGS
+3 Schmid CH, Stark PC, Berlin JA, Landais P, Lau J. Meta- regression detected associations between heterogeneous treatment effects and study-level, but not patient-level, factors. J Clin Epidemiol 2004;57:683e97. ; Ishak KJ, Platt RW, Joseph L, Hanley JA, Caro JJ. Meta-analysis of longitudinal studies. Clin Trials 2007;4:525e39.
+4 multivar MA with multiple timepoints
+5 yes
+6 multivar longitudinal random-effects
+7 N(0,1000000) U(0,100)
+8a no
+8b
+==
+221
+2a no
+2b not sure
+2c WinBUGS 1.4
+3 Adamina M, Tomlinson G, Guller U. Bayesian statistics in oncology: a guide for the clinical investigator. Cancer 2009;115:5371-81. ; Sutton AJ, Higgins JP. Recent developments in meta-anal- ysis. Stat Med 2008;27:625-50.
+4 standard MA
+5 yes
+6 "random-effect Bayesian meta-analysis"
+7 "diffuse"
+8a no
+8b
+==
+222
+2a no
+2b not everything
+2c R 'MCMCglmm'
+3 Arends LR, Hamza TH, van Houwelingen JC et al. Bivariate random effects meta-analysis of ROC curves. Med Decis Making 2008;28:621-38. ;	Chu H, Cole SR. Bivariate meta-analysis of sensitivity and specificity with sparse data: a generalized linear mixed model approach. J Clin Epidemiol 2006;59:1331-2. ;	Hamza TH, van Houwelingen HC, Heijenbrok-Kal MH, Stijnen T. Associating explanatory variables with summary receiver operating characteristic curves in diagnostic meta-analysis. J Clin Epidemiol 2009;62:1284-91. ;	Reitsma JB, Glas AS, Rutjes AW et al. Bivariate analysis of sensitivity and specificity produces informative summary measures in diagnostic reviews. J Clin Epidemiol 2005;58:982-90. ;	Van Houwelingen HC, Zwinderman KH, Stijnen T. A bivariate approach to meta-analysis. Stat Med 1993;12:2273-84. ;	van Houwelingen HC, Arends LR, Stijnen T. Advanced methods in meta-analysis: multivariate approach and meta-regression. Stat Med 2002;21:589-624.
+4 diagnostic MA
+5 yes
+6 bivariate random effects
+7 "For the Bayesian approach, we used a non-informative inverse Wishart prior for the (co)variances and a normal prior for the fixed effects"
+8a yes
+8b no "We carefully checked the estimates of the Bayesian approach with the standard likelihood approach"
+==
+223
+2a no
+2b no
+2c "Analyses were conducted with self-written computer code using Intel Fortran compiler v.11.0.083 (Santa Clara, CA, USA). Calculations were done using standard Markov chain Monte Carlo (MCMC) methodology utilizing Metropolis- Hastings steps"
+3
+4 standard MA
+5 yes
+6 standard log-HR hierarchical model
+7 We assume the following hierarchical distribution for the trial effects: φS ∼ normal(μ, τ 2 ) for s = 2,. . .,6. The prior distribution for hyper-parameter μ is normal (0,1) and the prior distribution for the hyper-parameter τ2 is Inverse Gamma (0.5,1). The prior distributions for the baseline haz- ard rates are Gamma (0.001, 0.001) for j = 1,. . .,5, and the priordistributionsforthetreatmenteffects,θ1 andθ2,arein- dependent Normal (0,102 ). These distributions are noninfor- mative in the sense that they assume that little is known a priori about these parameters.
+8a no
+8b
+==
+224
+2a no
+2b no
+2c WinBUGS
+3  Caldwell DM, Ades AE, Higgins JPT. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897-900. ; Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105-24. ; Higgins JP, Whitehead A. Borrowing strength from external trials in a meta-analysis. Stat Med 1996;15:2733-49. ; Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 1995;14:2685-99.
+4 mtc
+5 yes
+6 mtc
+7 N(0,10000) U(0,2) U(0,10)
+8a yes
+8b direct and indirect
+==
+225
+2a no
+2b yes
+2c WinBUGS
+3 Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med. 1995;14(24):2685- 2699. ; Lu G, Ades AE. Combination of direct and indi- rect evidence in mixed treatment comparisons. Stat Med. 2004;23(20):3105-3124.
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b direct and indirect
+==
+226
+2a no
+2b no
+2c WinBUGS
+3 Caldwell DM, Ades AE, Higgins JPT. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ2005;331:897-900. ; Sutton AJ, Abrams KR. Bayesian methods in me ta-analysis and evidence synthesis. Stat Methods Med Res 2001;10:277-303. ;  Salanti G, Higgins JPT, Ades AE, Ioannidis JPA. Evaluation of networks of randomized trials. Stat Methods Med Res 2008;17:279-301.
+4 mtc
+5 yes
+6 mtc
+7 "vague"
+8a yes
+8b yes
+==
+227
+2a no
+2b yes
+2c WinBUGS
+3 none
+4 standard MA, RCTs + observational
+5 yes
+6 hierarchical random-effects
+7 "Low-information prior distributions"
+8a no
+8b
+==
+228
+2a no
+2b yes
+2c WinBUGS
+3  Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 1995; 14:2685–99.
+4 standard MA
+5 yes
+6 frequentist + Bayesian MA "as a sensitivity analysis"
+7 only that "low information prior distributions were used throughout and sensitivity analyses with different choices of low information prior distributions showed robustness to the analysis"
+8a yes
+8b no "As a sensitivity analysis, in case of statistical het- erogeneity, in addition to the classical random effects model to pool the data, we performed a Bayesian hierarchical random effects meta- analysis."
+==
+231
+2a no
+2b possibly in online appendix
+2c OpenBUGS
+3 Berry S, Berry D, Natarajan K, et al. Bayesian survival analysis with nonpropor- tional hazards: metaanalysis of combination pravastatin-aspirin. JASA 2004; 99: 36–44.
+4 IPD MA
+5 yes
+6 "Relative risks were estimated using Bayesian piecewise exponential models"
+7 N(0,1000) U(0,100) then some sensitivity analysis
+8a no
+8b
+==
+232
+2a no
+2b no
+2c WinBUGS 1.4
+3 Lu G, Ades A. A combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004; 23:3105–24.
+4 nma, meta-regression
+5 yes
+6 "We performed a random-effects meta-analysis and meta-regression. We performed a mixed treatment comparison using Bayesian methods."
+7 not stated
+8a yes
+8b direct and indirect
+==
+233
+2a no
+2b yes
+2c WinBUGS 1.4
+3 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105-24.
+4 nma
+5 yes
+6 nma
+7 N(0,1000), others not stated
+8a no
+8b
+==
+234
+2a no
+2b yes
+2c WinBUGS 1.4.2
+3 none
+4 IPD diagnostic MA
+5 yes
+6 "Bayesian bivariate binomial models"
+7 α ~ N(0,1000Ι) ; β ~ N(0,1000Ι) ; σ_μ ~ Uniform(0, 100) ; σ_ν ~ Uniform(0, 100) ρ ~ Uniform(−1,1)
+8a no
+8b
+==
+235
+2a no
+2b yes
+2c WinBUGS
+3 None relevant
+4 standard MA
+5 yes
+6 "a full meta-analysis combining and summarizing 16 studies was first performed using both traditional and Bayesian approaches" ... "Bayesian meta-regression and subgroup analysis were then conducted to find possible risk modifications by other factors"
+7 not stated
+8a no
+8b
+==
+236
+2a no
+2b no
+2c WinBUGS 1.4
+3 Lu G, Ades AE: Combination of direct and indirect evidence in mixed treatment com- parisons. Stat Med 2004;23:3105–3124. ; Jansen JP, Crawford B, Bergman G, Stam W: Bayesian meta-analysis of multiple treat- ment comparisons: an introduction to mixed treatment comparisons. Value Health 2008; 11:956–964.
+4 nma
+5 yes
+6 nma
+7 N(0,10000) inv-gamma(0.001,0.001)
+8a no
+8b
+==
+238
+2a no
+2b yes
+2c WinBUGS 1.4.1
+3 Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ. 2005;331(7521):897–900. ; Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med. 2004;23(20):3105–3124. ; Jansen J, Crawford B, Bergman G, Stam W. Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health. 2008;11(5):964–966.
+4 nma
+5 yes
+6 nma + tx-by-covariate interactions
+7 N(0,1000000) U(0,2)
+8a no
+8b
+==
+241
+2a no
+2b yes
+2c WinBUGS 1.4
+3 none
+4 standard MA
+5 yes
+6 hierarchical Bayesian model
+7 "low information", the only one mentioned is U(0.001, 10) for the between-study variance
+8a no
+8b
+==
+242
+2a no
+2b yes in appendix?
+2c WinBUGS 1.4.3
+3 Spiegelhalter DJ, Abrams KR, Myles JP. Bayesian approaches to clinical trials and health-care evaluation. Hoboken, NJ: John Wiley & Sons; 2004.
+4 standard MA
+5 yes
+6 "Bayesian random-effects meta-analysis"
+7 not stated
+8a no
+8b
+==
+243
+2a no
+2b yes
+2c WinBUGS 1.4
+3 Jansen JP, Crawford B, Bergman G, et al. Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health 2008;11:956–64. ; Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897–900. ; Ades AE, Sculpher M, Sutton A, et al. Bayesian methods for evidence synthesis in cost-effectiveness analysis. Pharmacoeco- nomics 2006;24:1–19. ; Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105–24.
+4 mtc
+5 yes
+6 mtc
+7 non-informative "However, sensitivity analyses suggested that the posterior estimates of the uncertainty around treatment effects (but not the posterior means) were sensitive to the priors used. Informative half-normal priors [31] were therefore used for the between-studies SD in order to allow this external data to help inform the between-studies SD; these distributions were based on a meta-analysis of interferon trials identified in a pub- lished systematic review [32]. The methods used to estimate these priors are described in more detail at: http://www.ispor.org/ Publications/value/ViHsupplementary/ViH13i8_Fidler.asp."
+8a yes
+8b direct and indirect
+==
+244
+2a no
+2b yes
+2c WinBUGS 1.4.2
+3 none relevant
+4 standard MA for incidence
+5 yes but "The incidence of lymphedema is related to the type and extent of treatment, anatomic location, heterogeneity of assessment methods, and length of follow-up"
+6 hierarchical binomial
+7 not stated
+8a no
+8b
+==
+245
+2a no
+2b yes
+2c WinBUGS
+3 none
+4 standard MA for incidence
+5 yes
+6 not stated
+7 "vague but proper"
+8a no
+8b
+==
+246
+2a no
+2b no
+2c WinBUGS 1.4
+3 Lumley T. Network meta-analysis for indirect treatment comparisons. Stat Med 2002;21:2313-24. ; Salanti G, Higgins JP, Ades AE, Ioannidis JP. Evaluation of networks of randomized trials. Stat Methods Med Res  2008;17:279-301. ; Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 1995;14:2685-99. ; Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105-24. ; Cooper NJ, Sutton AJ, Lu G, Khunti K. Mixed comparison of stroke prevention treatments in individuals with nonrheumatic atrial fibrillation. Arch Intern Med 2006;166:1269-75.
+4 nma
+5 yes
+6 nma + linear effect of time (but then mentions it like an extra level in the model)
+7 "minimally informative" between-trial: gamma(0.001,0.001) vs U(?,?) and between-time: U(0,50)
+8a not clear
+8b
+==
+247
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 LumleyT.Networkmeta-analysisforindirecttreatmentcomparisons.StatMed 2002;21:2313e2324. ; Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105e3124. ; Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897e900. ; Welton NJ, Caldwell DM, Adamopoulos E, Vedhara K. Mixed treatment comparison meta-analysis of complex interventions: psychological interven- tions in coronary heart disease. Am J Epidemiol 2009;169:1158e1165.
+4 nma
+5 yes
+6 nma
+7 not stated
+8a no
+8b
+==
+248
+2a no
+2b yes
+2c WinBUGS
+3 Higgins JP, Whitehead A. Borrowing strength from external trials in a meta-analysis. Stat Med 1996;15:2733–49. ; Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897–900.
+4 nma
+5 yes
+6 nma
+7 "Low information prior distributions were used. Sensi- tivity analysis did not reveal any great dependence on the choice of prior (b0.02 difference for the mean of the posterior distribution).""
+8a no
+8b
+==
+249
+2a no
+2b yes
+2c WinBUGS
+3 Carlin BP, Galfand AE, Smith AFM (1992) Hierarchical Bayesian analysis of changepoint problems. Appl Stat 41: 389–408
+4 standard MA + meta-regression for genetic risk factor
+5 yes
+6 "Both traditional method and Bayesian approach were applied"
+7 not stated
+8a yes
+8b no
+==
+250
+2a yes (algebra)
+2b yes
+2c WinBUGS
+3 Warn, Thompson, Spiegelhalter 2002; Stangl & Berry 2000 (book); Sutton et al 2000 (book)
+4 nma
+5 yes
+6 random effects nma
+7 vague normal for average pt characteristics but gamma(1,1) for dose effects assumed to be directional
+8a no
+8b
+==
+251
+2a no
+2b yes
+2c WinBUGS
+3 Warn DE, Thompson SG, Spiegelhalter DJ: Bayesian random effects meta-analysis of trials with binary outcomes: methods for the absolute risk difference and relative risk scales. Stat Med 2002, 21:1601-1623.
+4 standard MA + meta-regression
+5 yes
+6 "Bayesian random-effects models, and heterogeneity was examined using meta-regression"
+7 "Low information prior distributions (mean 0 and a standard deviation of 100) were used for all parameters. The between-study standard deviation in the log (RR) was assumed to follow a uniform distribution over the range from 0 to 5."
+8a no
+8b
+==
+253
+2a algebra is given, but it would need the spreadsheet to be shared really
+2b yes
+2c Excel 2002 SP3
+3 none relevant
+4 standard MA
+5 no - uncertainty is high and doubt remains about which model is 'correct'
+6 "A meta-analysis was performed for eight clinical end-points. Due to quality problems in seven of the eight included studies, a Bayesian meta-analysis using a skeptical prior derived from the results of the classical analysis was also performed"
+7 subjective - extensively explained
+8a yes
+8b yes
+==
+254
+2a yes
+2b yes
+2c WinBUGS
+3 none
+4 MA and meta-regression of incidence & epidemiology
+5 yes
+6 hierarchical logit
+7 N(0,1000) U(0,2)
+8a no
+8b
+==
+255
+2a yes
+2b maybe
+2c Excel
+3 Dodson B. The Weibull analysis handbook. 2nd ed. Milwaukee, Wisconsin: ASQ Quality Press, 2006:7, 11 ; Higgins JP, White IR, Anzures-Cabrera J. Meta-analysis of skewed data: combining results reported on log-transformed or raw scales. Stat Med 2008;27:6072–92
+4 standard MA of survival data
+5 yes
+6 random effects
+7 WIP, justification lacking
+8a no
+8b
+==
+256
+2a no
+2b yes
+2c WinBUGS 1.4
+3 none
+4 standard MA
+5 yes
+6 hierarchical logit and  mean differences
+7 N(0,1000000) U(0.001, 10)
+8a no
+8b
+==
+258
+2a no
+2b yes
+2c WinBUGS
+3 Caldwell, Ades, Higgins 2005; Lu, Ades 2004; Cooper et al Arch INtern Med 2006;166:1269-75.
+4 mtc + rank prob
+5 yes but caution about RCTs not powered for adverse events
+6 not stated
+7 not stated
+8a no
+8b
+==
+259
+2a no
+2b no
+2c Excel
+3 none relevant
+4 not clear
+5 several limitations to analysis, some of which might be included in a Bayesian model
+6 not clear, looks like HSROC
+7 not stated
+8a not clear
+8b
+==
+260
+2a yes
+2b yes
+2c WinBUGS
+3 Spiegelhalter, D.J., Abrams, K.R., Myles, J.P., 2003b. Bayesian Approaches to Clinical Trials and Health-Care Evaluation. Wiley, Chichester, 10391 p.
+4 genetic risk factor, observational studies
+5 yes
+6 not clear but classical FE + RE + Bayesian
+7 gamma(0.001,0.001) N(0,100000)
+8a yes
+8b no
+==
+261
+2a no
+2b no
+2c WinBUGS 1.4
+3 none
+4 update previous MA with new data
+5 yes
+6 hierarchical
+7 informative but perhaps too informed. "between-study preci- sion was modeled using a vague prior with a  gamma distribution" but "Using the fixed-effects pooled re- sults from the previous meta-analyses completed by Leipzig et al15,16 as prior unadjusted ORs, we calculated up- dated Bayesian pooled estimates of the ORs" and "For medica- tion classes not assessed by Leipzig and colleagues, we used a noninformative prior with a log-normal distribution cen- tered at 0, with a wide variance (1000) to reflect the lack of previous evidence"
+8a no
+8b
+==
+262
+2a not sure, appendix only
+2b yes
+2c WinBUGS 1.4
+3 Spiegelhalter DJ, Abrams KR, Myles JP. Bayesian Approaches to Clinical Trials and Health-care Evaluation. Chichester, England: John Wiley & Sons; 2004. ; Sutton AJ, Abrams KR. Bayesian methods in meta-analysis and evi- dence synthesis. Stat Methods Med Res. 2001;10:277-303. ; ROBUST
+4 standard MA
+5 yes
+6 "hierarchical random-effects Bayesian meta-analysis"
+7 Some sensitivity anlysis but unusual in places "To synthesize trial data in conjunction with observational data, we applied 3 different prior distributions to the model: a “non-informative” prior distribution,21 an “informative” prior distribution generated from the observational studies,22 and a “sceptical” prior distribution using observational data.17,23,24 In addition, to assess the effect of incorrect assumptions, we generated an “erroneous” prior distribu- tion using the global index from the WHI trial to approx- imate an increased relative risk of death in younger women when, in fact, no increase in mortality was seen. For the “non-informative” prior distribution, we set a relative risk of 1.0 with a large variance, so that the pooled trial data dominated the posterior distribution. This result is similar to that obtained from a traditional non-Bayesian meta-analysis. For the “informative” prior distribution, we applied the same random-effects model to the pooled ob- servational studies; randomized trial data were then added via the Bayes rule to produce posterior distributions. The “sceptical” prior distribution used the assumption that most clinically important interventions reduce the relative risk of major outcomes by 10%-20%.24 We assigned a highly skep- tical prior distribution to our model that allowed only a 5% chance to observe a large benefit, such as the 30% risk reduction taken from observational studies."
+8a no
+8b
+==
+263
+2a not sure, appendix only
+2b no
+2c WinBUGS 1.4
+3 Lu G, Ades A. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105–24. ; Caldwell D, Ades A, Higgins J. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897–900. ; Salanti G, Higgins J, Ades A, Ioannidis J. Evaluation of networks of randomized trials. Stat Methods Med Res 2008;17:279–301. ; Sutton A, Higgins J. Recent developments in meta-analysis. Stat Med 2008;27:625–50. ; Jansen JP, Crawford B, Bergman G, Stam W. Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons. Value Health 2008 epub ahead of print.
+4 mtc of survival data
+5 yes
+6 mtc
+7 not stated
+8a yes
+8b direct and indirect
+==
+264
+2a appendix
+2b no
+2c WinBUGS
+3 none relevant
+4 mtc + adjusting for baseline differences
+5 yes but sensitive to adjustment
+6 "Bayesian random effects analysis of 23 published studies. We constructed a random effects model including a factor adjusting for between-study differences in baseline A1C levels"
+7 not stated
+8a yes
+8b not really, direct vs indirect and to bring in baseline differences, so why do the direct MAs frequentist-style?
+==
+265
+2a no
+2b no
+2c WinBUGS
+3 Spiegelhalter DJ, Abrams KR, Myles JP. Bayesian approaches to clinical trials and health-care evaluation. West Sussex, United Kingdom: John Wiley & Sons Ltd, 2004. ; Sutton AJ, Abrams KR, Jones DR, Sheldon TA, Song F. Methods for meta-analysis in medical research West Sussex. London, United King- dom: John Wiley & Sons Ltd, 2000.
+4 risk factor MA, observational studies
+5 yes
+6 "Traditional and Bayesian methods of meta-analysis were applied"
+7 N(0,10000) U(0,10)
+8a yes
+8b no
+==
+266
+2a no
+2b yes
+2c WinBUGS
+3 none
+4 standard MA
+5 yes
+6 appears to be frequentist FE and Bayesian of some form
+7 not stated
+8a yes
+8b no
+==
+267
+2a no
+2b yes
+2c WinBUGS 1.4
+3 none
+4 standard MA
+5 yes
+6 hierarchical logit with attempt to adjust for "prescription regime"
+7 Some (too?) informative: "Two prior distributions were used: ‘‘vague priors’’ on the distribution of the effect size, and ‘‘informative priors’’ based on the SMART trial confidence limits for the outcome variables [10]. The prior used for total deaths was the confidence interval for the odds ratio for all deaths of 0.8–2.1 from the SMART trial [10]. For asthma death, the confidence interval of 1.2–15.3 was used."
+8a yes
+8b no
+==
+268
+2a no
+2b posisbly in appendix A at http://links.lww.com/A1243
+2c WinBUGS
+3 Cooper, Sutton, Abrams. Health Econ 2004;13:203-226.
+4 MA + cost-effectiveness acceptability
+5 yes (but the effectiveness data are from 2 studies, and there are strong assumptions in the costs)
+6 random effects
+7 not stated
+8a no
+8b
+==
+269
+2a no
+2b yes
+2c WinBUGS 1.4.3
+3 Sutton AJ, Abrams KR: Bayesian methods in meta-analysis and evidence synthesis. Stat Methods Med Res 2001, 10:277-303 ; Ades AE, Sutton AJ: Multiparameter evidence synthesis in epi- demiology and medical decision-making. J R Statist Soc A 2006, 169:5-35.
+4 standard MA
+5 yes
+6  not clear
+7 unclear / contradictory. Abstract: "Using Bayesian meta-analysis based on the effect size of observational studies as the prior...". Methods: "We performed Bayesian random-effects meta-analysis with non-informative prior (mu~dnorm(0, 0.0001) and precision~dgamma(0.001, 0.001))  ...  Since the results of Bayesian meta-analysis are sensi- tive to the priors, we used several priors to check the sen- sitivity of the findings."
+8a
+8b
+==
+270
+2a yes http://www.dhe.med.uoi.gr/software.htm.
+2b no
+2c WinBUGS
+3 Seaman SR, Richardson S. Bayesian analysis of case-control studies with categorical covariates. Biometrika. 2001;88(4): 1073–1088.
+4 genetic risk factors and inhereitance patterns
+5 complex, quite well documented but not my field of expertise
+6 yes
+7 "minimally informative" Normal, equal Dirichlet, and various betas
+8a no
+8b
+==
+271
+2a no
+2b no
+2c WinBUGS 1.4
+3 Thompson SG, Higgins JP: How should meta-regression analyses be undertaken and interpreted? Stat Med 2002, 21:1559-1573. ; Lu G, Ades A: A combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004, 23:3105-3124.
+4 mtc
+5 yes
+6 mtc
+7 not stated
+8a yes
+8b direct and indirect
+==
+272
+2a no
+2b yes, maybe not all
+2c WinBUGS 1.4.1
+3 Spiegelhalter D. J., Abrams K., Myles J. P. Bayesian Approaches to Clinical Trials and Health-Care Evaluation. West Sussex: John Wiley & Sons, Ltd.; 2006.
+4 MA + meta-regression
+5 yes
+6 "Controlling for exposure, type of incident and time since the event occurred"
+7 U(0,10) and other "vague or non-informative" priors
+8a no
+8b
+==
+273
+2a no
+2b no
+2c WinBUGS 1.4
+3 Minelli C, Thompson JR, Abrams KR, Lambert PC (2005a) Bayesian implementation of a genetic model-free approach to the meta- analysis of genetic association studies. Stat Med 24:3845–3861 ; Minelli CT, Abrams JohnR, KRT Ammarin, Attia J (2005b) The choice of a genetic model in the meta-analysis of molecular association studies. Int J Epidemiol 34:1319–1328
+4 genetic risk factor, observational data
+5 yes
+6 Minelli
+7 not stated
+8a yes
+8b no
+==
+275
+2a no
+2b no
+2c no
+3 none
+4 standard MA leading into health economic Markov model
+5 yes
+6 not clear
+7 not stated
+8a no
+8b
+==
+276
+2a no, maybe online
+2b yes
+2c WinBUGS 1.4.1
+3 none
+4 standard MA
+5 yes
+6 "hierarchical Bayesian random-effects models"
+7 "diffuse"
+8a yes
+8b no
+==
+278
+2a no
+2b some, maybe not all
+2c WinBUGS
+3 Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-analysis: a comparative study. Stat Med 1995; 14: 2685–99.
+4 standard MA
+5 yes
+6 "Bayesian random-effects meta-analysis"
+7 not stated
+8a no
+8b
+==
+279
+2a no
+2b no
+2c WinBUGS 1.4.3
+3 Warn DE, Thompson SG, Spiegelhalter DJ: Bayesian random effects meta-analysis of trials with binary outcomes: meth- ods for the absolute risk difference and relative risk scales. Stat Med 2002, 21(11):1601-1623. ; Minelli C, Thompson JR, Abrams KR, Lambert PC: Bayesian imple- mentation of a genetic model-free approach to the meta- analysis of genetic association studies. Stat Med 2005, 24(24):3845-3861.
+4 genetic risk factor, observational data
+5 yes
+6 "fixed-effects, random-effects and Bayesian multivariate mete-analysis [sic], were performed to pool the odds ratio"
+7 not stated
+8a yes
+8b no
+==
+280
+2a no
+2b yes
+2c WinBUGS 1.3
+3 17. Congdon P. Applied Bayesian Modelling. Chichester, England: John Wiley and Sons; 2003. ; GelmanA, CarlinJB, S ternHS,RubinDB.Bayesian Data Analysis. 2nd ed. Boca Raton, FL: Chapman & Hall/CRC; 2003.
+4 MA + meta-regression
+5 yes
+6 hierarchical logit
+7 "noninformative"
+8a yes
+8b no
+==
+281
+2a no
+2b no
+2c no
+3 none
+4 itc
+5 yes
+6 not clear
+7 "noninformative"
+8a not clear
+8b
+==
+282
+2a no
+2b yes
+2c no
+3 none
+4 standard MA
+5 yes
+6 "hierarchical models"
+7 "non-informative"
+8a no
+8b
+==
+283
+2a no
+2b yes
+2c WinBUGS
+3 Smith, Spiegelhalter, Thomas 1995
+4 MA adjusting for study duration
+5 yes
+6 random effects. Bayes factors.
+7 vague
+8a no but they used Cochran's Q to get a sig/non-sig decision on heterogeneity, which seems odd.
+8b
+==
+284
+2a no but some algebra
+2b yes
+2c Lotus 1-2-3 97 edition
+3 Bucher HC, Guyatt GH, Griffith LE, Walter SD: The results of direct and indirect treatment comparisons in meta-analysis of randomized controlled trials. J Clin Epidemiol 1997; 50:683–91 ; Glenny AM, Altman DG, Song F, Sakarovitch C, Deeks JJ, D’Amico R, Bradburn M, Eastwood AJ: Indirect comparisons of competing interventions. Health Technol Assess 2005; 9:1–134
+4 cumulative MA
+5 yes
+6 hierarchical logit
+7 non-informative in methods, informative in appendix : not totally clear
+8a no
+8b
+==
+285
+2a no
+2b yes
+2c no
+3 Speigelhalter D, Abrams K, Myles J. Evidence synthesis. In: Senn S, Barrett V, eds. Bayesian Approaches to Clinical Trials and Health-Care Evaluation. John Wiley & Sons Ltd., 2004, pp. 267–303.
+4 standard MA
+5 yes
+6 hierarchical logit/linear
+7 N(0,10000) U(0,1.5), with lots of sensitivity anlyses, not very well described
+8a no
+8b
+==
+286
+2a no, maybe in appendix
+2b no
+2c WinBUGS 1.4.1
+3 Lu G, Ades AE. Mixed treatment comparisons: combination of direct and indirect evidence. Stat Med 2004;23:3105–24. ; Caldwell DM, Ades AE, Higgins JPT. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897–900.
+4 itc
+5 yes
+6 itc
+7 "Using different non-informative prior distributions (uniform (0,2); half-normal (0,2), and gamma (0.0001; 0.0001)) on the between variance study estimate tau2 for the random-effects models"
+8a yes
+8b direct and indirect
+==
+287
+2a no
+2b no
+2c WinBUGS 1.4.2
+3 Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random- effects meta-analysis: a comparative study. Stat Med. 1995;14:2685–2699.
+4 risk factor, observational studies, dose-response MA
+5 yes
+6 "Dose-response analyses were examined using both fixed-effects models and Bayesian random-effects models"
+7 not stated
+8a no
+8b
+==
+288
+2a no
+2b yes
+2c no
+3 none
+4 standard MA
+5 yes
+6 hierarchical logit
+7 N(0,1000000) N(0,10000) U(0.001,10)
+8a no
+8b
+==
+289
+2a no
+2b yes
+2c WinBUGS
+3 Spiegelhalter DJ, Abrams KR, Myles JP: Bayesian Approaches to Clinical Trials and Health-Care Evaluation. West Sussex, Eng- land: John Wiley & Sons Ltd; 2004. ; Sutton AJ, Abrams KR, Jones DR, Sheldon TA, Song F: Methods for Meta-Analysis in Medical Research. West Sussex, England: John Wiley & Sons Ltd; 2000.
+4 gene association MA, risk factor, observational studies
+5 yes
+6 "random-effects meta-analyses"
+7 N(0,10000) U(0,10) but also informative, results of single study - sensitivity analysis? not clear
+8a yes
+8b maybe, if you accept the single-study priors
+==
+290
+2a no
+2b yes
+2c not stated
+3 none relevant
+4 diagnostic MA
+5 yes
+6 not stated
+7 not stated
+8a not clear
+8b
+==
+291
+2a no
+2b no
+2c OpenBUGS but later WinBUGS
+3 none
+4 IPD survival MA
+5 yes
+6 Weibull
+7 not stated
+8a not clear
+8b
+==
+292
+2a no
+2b yes
+2c WinBUGS
+3 Warn DE, Thompson SG, Spiegelhalter DJ. Bayesian random effects meta-analysis of trials with binary outcomes: methods for the absolute risk difference and relative risk scales. Stat Med 2002;21:1601-23.
+4 standard MA
+5 yes but "The hazard ratio would have been the optimum metric for mortality effect10 but was found to be impractical because of the variability in reporting. As the hazard ratio may be approximated from the odds ratio,11 we chose the odds ratio as an appropriate metric for the mortality effect", which could have been incorporated in the model
+6 "Bayesian hierarchical model"
+7 N(0,10000) N(0,13.5)I(1,)
+8a no
+8b
+==
+295
+2a no
+2b yes
+2c WinBUGS 1.4
+3 none
+4 standard MA
+5 yes
+6 "hierarchical Bayesian modeling"
+7 N(0,1000) "and loosely informative inverse chi-square prior distribu- tions for all variances"
+8a no
+8b
+==
+296
+2a no
+2b no
+2c not clear, possibly from scratch, using R
+3 StatMed 2007;26:3700-21.
+4 PK
+5 yes
+6 "three-level hierarchical Bayesian meta-analysis" (but the three include prior distributions ???)
+7 not clear: derived generally because of th methodological focus
+8a no
+8b
+==
+297
+2a no
+2b no
+2c no
+3 Diamond GA, Kaul S. Prior convictions: Bayesian approaches to the analysis and inter- pretation of clinical megatrials. J Am Coll Cardiol. 2004;43:1929–1939.
+4 standard MA
+5 yes
+6 not clear
+7 not stated
+8a no
+8b
+==
+298
+2a no
+2b no
+2c WinBUGS 1.4
+3 none
+4 mtc
+5 yes
+6 hierarchical logit
+7 "The model specification was completed by assuming the following prior distributions:  gamma_1, . . . , gamma_J ∼ N(0,10^6), sigma^(−2) ∼  gamma(0.5, 0.0001), and  tau^(−2) ∼  gamma(0.5, 0.001)."
+8a no
+8b
+==
+299
+2a no
+2b not all
+2c WinBUGS 1.4.1
+3 Higgins JP, Whitehead A. Borrowing strength from external trials in a meta-analysis. Stat Med 1996;15:2733-49. ; Caldwell DM, Ades AE, Higgins JP. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897-900.
+4 nma
+5 yes
+6 nma
+7 N(0,10000) U(0,2)
+8a no
+8b
+==
+300
+2a no
+2b not all
+2c WinBUGS
+3 Higgins JP, Spiegelhalter DJ. Being sceptical about meta- analyses: a Bayesian perspective on magnesium trials in myocardial infarction. Int J Epidemiol 2002;31:96–104. ; Salanti G, Higgins JPT, White IR. Bayesian synthesis of epi- demiological evidence with different combinations of expo- sure groups: application to a gene-gene-environment interaction. Stat Med 2006;25:4147–63.
+4 risk factor, gene-environment interaction, observational data with imputed smoking levels
+5 novel, quite well described
+6 "a literature-based systematic HuGE review and evidence synthesis"
+7 "noninformative" with some sensitivity analysis, not listed
+8a no
+8b
+==
+301
+2a no
+2b no
+2c WinBUGS
+3 none relevant
+4 diagnostic MA (re-analysis of existing MA; not clear why)
+5 yes
+6 beta-binomial independent sensitivity & specificity versus bivariate normal
+7 normal and inverse gamma, sensitivity analysis, not explained further
+8a no
+8b
+==
+302
+2a maybe in appendix
+2b maybe in appendix
+2c maybe in appendix
+3 Spiegelhalter DJ, Myles JP, Jones DR, et al. An introduction to Bayesian methods in health technology assessment. BMJ 1999;319:508–12. ; Sutton AJ, Abrams KR. Bayesian methods in meta-analysis and evidence synthesis. Stat Methods Med Res 2001;10:277–303. ; Spiegelhalter DJ, Abrams KR, Myles JP. Bayesian approaches to clinical trials and health-care evaluation. Chichester: Wiley, 2004.
+4 standard MA with time interaction
+5 yes
+6 not clear; maybe in appendix
+7 non-informative, maybe in appendix
+8a no
+8b
+==
+303
+2a no
+2b not everything
+2c WinBUGS
+3 Congdon P. Applied Bayesian modelling. Chichester: Wiley; 2003. ; Gelman a, Carlin JB, Stern HS, Rubin DB. Bayesian data analysis. 2nd ed. Boca Raton (FL): Chapman & Hall/CRC; 2003.
+4 standard MA (some ambiguity about higher- and lower-level data)
+5 yes
+6 frequentist and Bayesian RE models
+7 not stated, "published elsewhere"
+8a yes
+8b no
+==
+307
+2a no
+2b no
+2c no
+3 Schmid CH, Stark PC, Berlin JA, Landais P, Lau J. Meta– regression detected associations between heterogeneous treatment effects and study-level, but not patient-level, factors. J Clin Epide- miol 2004; 57: 683–697.
+4 standard MA + meta-regression
+5 yes
+6 "Bayesian random effects model"
+7 N(0,10^7), inv-gamma(0.1,1.0)
+8a yes
+8b no
+==
+308
+2a no
+2b yes
+2c WinBUGS 1.4.1
+3 Gamble C, Hollis S. Uncertainty method improved on best/worst case analysis in a binary meta-analysis. J Clin Epidemiol 2005;58:579–88. ; Whitehead A. A Bayesian approach to meta-analysis. Chichester, UK: John Wiley & Sons, Ltd, 2002.: 259–84.
+4 standard MA + meta-regression
+5 yes
+6 frequentist and "We used Bayesian meta-analytic approaches as sensitivity analyses"
+7 not stated
+8a yes
+8b no
+==
+309
+2a no
+2b no
+2c no
+3 Schmid CH, Stark PC, Berlin JA, Landais P, Lau J: Meta-regression detected associ- ations between heterogeneous treatment effects and study-level, but not patient- level, factors. J Clin Epidemiol 57:683– 697, 2004 ; Gelman A, Carlin JB, Stern HS, Rubin DB: Bayesian Data Analysis. 2nd ed. New York, Chapman and Hall, 1996
+4 risk factor, observational studies
+5 yes
+6 hierarchical logit
+7 N(0,10^7), inv-gamma(0.1,1.0)
+8a yes
+8b no
+==
+311
+2a no
+2b no
+2c WinBUGS (only mentioned in acknowledgements)
+3 Diamond GA, Kaul S. Prior convictions: Bayesian approaches to the analysis and interpretation of clinical megatrials. J Am Coll Cardiol 2004;43:1929–39.
+4 standard MA
+5 hierarchical logit
+6 "synthesized by both empirical Bayesian analysis and fully Bayesian random-effects meta-analysis models"
+7 empirical and flat "referent" priors, not completely explained
+8a yes
+8b no
+==
+312
+2a yes
+2b yes
+2c WinBUGS 1.4.1
+3 Spiegelhalter DJ, Myles JP, Jones DR, Abrams KR. Methods in health service research. An introduction to Bayesian methods in health technology assessment. BMJ 1999;319:508e12.
+4 standard MA + imputation of unreported ICCs
+5 yes
+6 hierarchical logit + imputed ICCs
+7 N(0,1000000) Beta(1,1), U(), half-normal
+8a no
+8b
+==
+313
+2a yes
+2b no
+2c WinBUGS 1.4
+3 Dumouchel W. Bayesian meta-analysis. In Statistical Methodology in the Pharmaceutical Sciences, vol. 206. Marcel Dekker: New York, 1990; 509–529. ; Tweedie RL, Biggerstaff B, Scott D, Mengersen K. Bayesian meta-analysis with application to studies of ETS and lung cancer. Lung Cancer 1996; 14(Suppl. 1):S171–S194.
+4 risk factor interaction
+5 yes
+6 several nuanced and complex models, well described
+7 several options, well described
+8a no
+8b
+==
+314
+2a no
+2b no
+2c BUGS
+3 none
+4 diagnostic
+5 yes
+6 independent binomial models of sens, spec, npv, ppv (not best practice)
+7 not stated
+8a yes
+8b no
+==
+316
+2a yes
+2b no
+2c WinBUGS 1.4
+3 none
+4 risk factors, observational data
+5 yes
+6 hierarchical logit + study-level covariates
+7 N(0,100000) inv-gamma(0.01,0.01)
+8a yes
+8b somewhat but the basic model could have been done with Bayes too
+==
+318
+2a no
+2b yes
+2c OpenBUGS
+3 none relevant
+4 adherence to ART, like a prevalence MA
+5 yes
+6 sum total of explanation: "The sensitivity analysis was conducted using a Bayesian random-effects model with an alternative logit transforma- tion in addition to Monte Carlo Markov Chain simulations of variability"
+7 not stated
+8a yes
+8b no
+==
+319
+2a no, maybe in appendix
+2b no, maybe in appendix
+2c no, maybe in appendix
+3 none
+4 adverse event rates
+5 yes
+6 binomial
+7 no, maybe in appendix
+8a no
+8b
+==
+320
+2a no
+2b no
+2c WinBUGS 1.4
+3 ROBUST
+4 standard MA + type of tx as covariate + studies with poorly reported stats
+5 yes
+6 "Examples of the programs used for the meta-analysis are available in Web appendix 1 and at the following website: http://fisher.utstat.toronto.edu/georget/GCSFMetaAnalysis."
+7 "diffuse" and "Specifically, the prior distributions for the population mean treatment effects were normal, with mean 1⁄4 0 and variance 1⁄4 10,000, and the prior distribution for the standard deviations for the random-effect intercepts and slopes were flat relative to the scale of measurement. The lognormal prior distribution for true study variances had a normal (mean 1⁄4 0, variance 1⁄4 103) prior on the logarithm of the mean and a uniform (0.01, 100) prior on the standard de- viation of the logarithm."
+8a yes
+8b yes
+==
+321
+2a no
+2b yes
+2c no
+3 none
+4 diagnostic MA
+5 yes
+6 hierarchical logit for sensitivity alone (not best practice)
+7 not stated (fully)
+8a yes
+8b no
+==
+322
+2a no
+2b yes
+2c no
+3 none
+4 ITC
+5 yes
+6 not clear
+7 not stated
+8a no
+8b
+==
+323
+2a yes, algebra
+2b no
+2c R 1.9.1 (no package mentioned)
+3 Higgins JP, Spiegelhalter DJ. Being sceptical about meta- analyses: a Bayesian perspective on magnesium trials in myocardial infarction. Int J Epidemiol 2002; 31:96–104. ; Spiegelhalter DJ, Abrams KR, Myles JP. Bayesian Approaches to Clinical Trials and Health-Care Evaluation. Chichester, UK, Wiley, 2004: 267–299.
+4 risk factor & survival data
+5 yes
+6 hierarchical log-HR
+7 "Prior distributions for m and s2 assume m to be normal with mean zero and variance 105, and s2 to have a gamma distribution with mean 1.0 and variance 100. "
+8a no
+8b
+==
+324
+2a no
+2b yes
+2c WinBUGS
+3 Sutton AJ, Abrams KR 2001 Bayesian methods in meta- analysis and evidence synthesis. Stat Methods Med Res 10:277–303. ; Warn DE, Thompson SG, Spiegelhalter DJ 2002 Bayesian ran- dom effects meta-analysis of trials with binary outcomes: Methods for the absolute risk difference and relative risk scales. Stat Med 21:1601–1623.
+4 standard MA
+5 yes
+6 log-RR hierarchical
+7 N(0,10) U(0,10)
+8a no
+8b
+==
+325
+2a no
+2b yes
+2c WinBUGS 1.4
+3 Spiegelhalter DJ, Myles JP, Jones DR, Abrams KR. Methods in health service research. An introduction to bayesian methods in health technology assessment. BMJ 1999;319:508–12. ; Sutton AJ, Abrams KR. Bayesian methods in meta-analysis and evi- dence synthesis. Stat Methods Med Res 2001;10:277–303.
+4 standard MA
+5 yes
+6 beta-binomial
+7 U(0,1000) for alpha, beta
+8a yes
+8b no
+==
+326
+2a no
+2b not everything
+2c BUGS
+3 DuMouchel W. Hierarchical Bayes linear models for meta-analysis. Tech. Rep. 27, National Institute ofStatisticalSciences,September1994. ; Sutton AJ, Abrams KR, Jvones DR, Sheldon TA, Song F. Methods for ineta-ana-ilysis in inedical researchl. Wiley,2000. ; Smith TC, Spiegelhalter DJ, Thomas A. Bayesian approaches to random-effects meta-ainalysis:A compar- ativestudy.StatisticsinMedicine'195;14:2685-99. ; GelmanA,CarlinJB,SternHS,RubinDB.Bayesian data analysis second edition. Chapman anid Hall/CRC, 2003. ; WarnDE,ThompsonSG,SpiegelhalterDJ.Bayesian random effects meta-analysis of trials with binary outcomes: methods for absolute risk difference and relativeriskscales.StatisticsinMedicine2002;21:1601-23.
+4 standard MA with some study-level covariates
+5 yes
+6 hierarchical binomial with some study-level covariates
+7 "diffuse", "skeptical"  some sensitivity analysis, described in paper
+8a no
+8b
+==
+327
+2a no but some algebra (not everything)
+2b yes
+2c WinBUGS
+3 Smith TC, Spiegelhalter DJ, Thomas A. Bayesian ap- proaches to random-effects meta-analysis: A comparative study. Stat Med 1995;14:2685. ; Leonard T, Duffy JC. A Bayesian fixed effects analy-sis of the Mantel-Haenszel model applied to meta-analysis. Stat Med. 2002;21:2295.
+4 incidence MA, though the only reason they used Bayes was that they didn't know how else to cope with zero-event arms
+5 yes but "Because of the limited power to detect hetero- geneity, we estimated the meta-SIR for the can- cer types with fewer than four studies by use of a fixed effect model that assumes that tau=0"
+6 hierarchical Poisson
+7 not stated
+8a no
+8b
+==
+330
+2a no
+2b yes
+2c WinBUGS 1.4
+3 Spiegelhalter DJ, Myles JP, Jones DR, Abrams KR: Bayesian meth- ods in health technology assessment: a review. Health Technol Assess 2000, 4(38):1-130. ; Spiegelhalter DJ, Myles JP, Jones DR, Abrams KR: Methods in health service research: An introduction to bayesian meth- ods in health technology assessment. BMJ 1999, 319:508-512. ; Spiegelhalter DJ, Abrams KR, Myles JP: Bayesian Approaches to Clinical Trials and Health-Care Evaluation. First edition. Edited by: Senn S and Barnett V. West Sussex: John Wiley and Sons; 2004:1-391.
+4 standard incidence MA (adverse events) with empirical prior
+5 yes, but they had 2 studies to combine!
+6 hierarchical binomial with empirical prior
+7 empirical from previous MAs
+8a yes
+8b yes
+==
+331
+2a no
+2b yes
+2c WinBUGS
+3 Warn DE, Thompson SG, Spiegelhalter DJ: Bayesian random effects meta-analysis of trials with binary outcomes: meth- ods for the absolute risk difference and relative risk scales. Stat Med 2002, 21:1601-1623.
+4 standard MA, some prior info
+5 yes
+6 hierarchical but likelihood function not stated, empirical prior for one outcome and non-informative for another
+7 U(0,1) for one outcome's risk, with the other empirical but not stated; is it possible to justify this disparity? (transfusion for blood loss and re-operation for bleeding respectively - surely they are correlated)
+8a no
+8b
+==
+332
+2a yes
+2b yes
+2c no
+3 JOHNSON, W. O., GASTWIRTH, J. L. AND PEARSON, L. M. (2001). Screening without a “Gold standard”, the Hui–Walter paradigm revisited. American Journal of Epidemiology 153, 921–924.
+4 diagnostic with no gold standard
+5 yes
+6  latent class
+7 uniform but acknowledging information via non-linear transformations with some sensitivity analysis for this, then (in the discussion) an empirical beta(25,4)
+8a no
+8b
+==
+333
+2a no
+2b yes
+2c SAS 8.2 and S-plus
+3 Irwig L, Tosteson AN, Gatsonis C, et al. Guidelines for meta-analyses evaluating diagnostic tests. Ann Intern Med 1994;120:667– 676.
+4 diagnostic
+5 yes
+6 not clear
+7 not stated
+8a yes
+8b no
+==
+334
+2a no
+2b yes
+2c WinBUGS 1.4
+3 Spiegelhalter DJ, Abrams KR, Myles JP. Bayesian approaches to clin- ical trials and health-care evaluation. Chichester, United Kingdom: Wiley & Sons Ltd, 2004. ; Congdon P. Bayesian statistical modelling. Chichester, United King- dom: Wiley & Sons Ltd, 2001. ; Spiegelhalter DJ, Thomas A, Best N, Gilks W. BUGS 0.5*Examples Volume 1 (version i), P33-36 Blocker: a random effects meta-analysis of clinical trials. Cambridge, United Kingdom: MRC Biostatistics Unit, Institute of Public Health, 1996.
+4 "investigating heterogeneity"
+5 yes
+6 MA, meta-regression
+7 not clear: "Two prior distri- butions were used: a noninformative prior distribution and an informative prior distribution calculated by using the data pro- vided from the single-arm HIV studies."
+8a yes
+8b no

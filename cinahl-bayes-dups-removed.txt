@@ -1,0 +1,1165 @@
+CINAHL
+2005 to 2015 inclusive
+English language,
+publication type: 'review' or 'systematic review'
+abstract: 'meta-analysis' and 'Bayesian'
+
+Record: 1
+Title:
+A Bayesian method for the synthesis of evidence from qualitative and quantitative reports: the example of antiretroviral medication adherence.
+Authors:
+Voils C; Hassselblad V; Crandell J; Chang Y; Lee E; Sandelowski M
+Affiliation:
+Health Services Research & Development Service, Durham Veterans Affairs Medical Center, Durham
+Source:
+Journal of Health Services Research & Policy (J HEALTH SERV RES POLICY), 2009 Oct; 14 (4): 226-33. (33 ref)
+Publication Type:
+journal article - equations & formulas, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Antiviral Agents -- Administration and Dosage
+HIV Infections -- Drug Therapy
+Medication Compliance -- Evaluation
+Minor Subjects:
+Chi Square Test; Data Analysis Software; Data Analysis, Statistical; Descriptive Statistics; Female; Funding Source; Meta Analysis; P-Value; Human
+Abstract:
+OBJECTIVES: Bayesian meta-analysis is a frequently cited but very little-used method for synthesizing qualitative and quantitative research findings. The only example published to date used qualitative data to generate an informative prior probability and quantitative data to generate the likelihood. We developed a method to incorporate both qualitative and quantitative evidence in the likelihood in a Bayesian synthesis of evidence about the relationship between regimen complexity and medication adherence. METHODS: Data were from 11 qualitative and six quantitative studies. We updated two different non-informative prior distributions with qualitative and quantitative findings to find the posterior distribution for the probabilities that a more complex regimen was associated with lower adherence and that a less complex regimen was associated with greater adherence. RESULTS: The posterior mode for the qualitative findings regarding more complex regimen and lesser adherence (using the uniform prior with Jeffreys' prior yielding highly similar estimates) was 0.588 (95% credible set limits 0.519, 0.663) and for the quantitative findings was 0.224 (0.203, 0.245); due to non-overlapping credible sets, we did not combine them. The posterior mode for the qualitative findings regarding less complex regimen and greater adherence was 0.288 (0.214, 0.441) and for the quantitative findings was 0.272 (0.118, 0.437); the combined estimate was 0.299 (0.267, 0.334). CONCLUSIONS: The utility of Bayesian methods for synthesizing qualitative and quantitative research findings at the participant level may depend on the nature of the relationship being synthesized and on how well the findings are represented in the individual reports.
+Journal Subset:
+Editorial Board Reviewed; Europe; Expert Peer Reviewed; Health Services Administration; Peer Reviewed; UK & Ireland
+Special Interest:
+Evidence-Based Practice
+ISSN:
+1355-8196
+MEDLINE Info:
+PMID: 19770121 NLM UID: 9604936
+Grant Information:
+National Institute of Nursing Research, National Institutes of Health (5R01NR004907).
+Entry Date:
+20091211
+Revision Date:
+20110520
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1258/jhsrp.2009.008186
+Accession Number:
+2010442427
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010442427&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010442427&site=ehost-live">A Bayesian method for the synthesis of evidence from qualitative and quantitative reports: the example of antiretroviral medication adherence.</A>
+Database:
+CINAHL Plus
+Record: 2
+Title:
+A bayesian network meta-analysis on comparisons of enamel matrix derivatives, guided tissue regeneration and their combination therapies.
+Authors:
+Tu, Yu-Kang; Needleman, Ian; Chambrone, Leandro; Lu, Hsein-Kun; Faggion, Clovis Mariano
+Affiliation:
+jcpe1844-aff-0001
+jcpe1844-aff-0003
+jcpe1844-aff-0004
+jcpe1844-aff-0005
+jcpe1844-aff-0006
+Source:
+Journal of Clinical Periodontology (J CLIN PERIODONTOL), 2012 Mar; 39 (3): 303-14.
+Publication Type:
+journal article - meta analysis, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Dental Enamel -- Anatomy and Histology
+Guided Tissue Regeneration
+Minor Subjects:
+Meta Analysis; Dental Enamel Hypoplasia -- Therapy; Combined Modality Therapy; Medline; Embase; PubMed; Systematic Review
+Abstract:
+Aims Guided tissue regeneration ( GTR) and enamel matrix derivatives ( EMD) are two popular regenerative treatments for periodontal infrabony lesions. Both have been used in conjunction with other regenerative materials. We conducted a Bayesian network meta-analysis of randomized controlled trials on treatment effects of GTR, EMD and their combination therapies. Material and Methods A systematic literature search was conducted using the Medline, EMBASE, LILACS and CENTRAL databases up to and including June 2011. Treatment outcomes were changes in probing pocket depth ( PPD), clinical attachment level ( CAL) and infrabony defect depth. Different types of bone grafts were treated as one group and so were barrier membranes. Results A total of 53 studies were included in this review, and we found small differences between regenerative therapies which were non-significant statistically and clinically. GTR and GTR-related combination therapies achieved greater PPD reduction than EMD and EMD-related combination therapies. Combination therapies achieved slightly greater CAL gain than the use of EMD or GTR alone. GTR with BG achieved greatest defect fill. Conclusion Combination therapies performed better than single therapies, but the additional benefits were small. Bayesian network meta-analysis is a promising technique to compare multiple treatments. Further analysis of methodological characteristics will be required prior to clinical recommendations.
+Journal Subset:
+Biomedical; Continental Europe; Europe; Expert Peer Reviewed; Peer Reviewed
+Special Interest:
+Dental Care; Evidence-Based Practice
+ISSN:
+0303-6979
+MEDLINE Info:
+PMID: 22393565 NLM UID: 0425123
+Entry Date:
+20120302
+Revision Date:
+20140829
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1111/j.1600-051X.2011.01844.x
+Accession Number:
+2011438766
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011438766&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011438766&site=ehost-live">A bayesian network meta-analysis on comparisons of enamel matrix derivatives, guided tissue regeneration and their combination therapies.</A>
+Database:
+CINAHL Plus
+Record: 5
+Title:
+A network meta-analysis on comparative efficacy and all-cause discontinuation of antimanic treatments in acute bipolar mania.
+Authors:
+Yildiz, A.; Nikodem, M.; Vieta, E.; Correll, C. U.; Baldessarini, R. J.
+Affiliation:
+Department of Psychiatry, Dokuz Eylül University, Izmir, Turkey
+Faculty of Applied Mathematics, AGH University of Science and Technology, Krakow, Poland
+International Consortium for Bipolar Disorder Research & Psychopharmacology Program, McLean Division of Massachusetts General Hospital, Boston, MA, USA
+Division of Psychiatry Research, Department of Psychiatry, Zucker Hillside Hospital, New York, NY, USA
+International Consortium for Bipolar Disorder Research & Psychopharmacology Program, McLean Division of Massachusetts General Hospital, Boston, MA, USA
+Source:
+Psychological Medicine (PSYCHOL MED), 2015 Jan; 45 (2): 299-317.
+Publication Type:
+journal article - equations & formulas, meta analysis, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Bipolar Disorder -- Drug Therapy
+Treatment Duration
+Treatment Outcomes
+Minor Subjects:
+Human; Systematic Review; Meta Analysis; PubMed; Embase; Psycinfo; Cochrane Library; Databases; Bipolar Disorder -- Epidemiology; Randomized Controlled Trials
+Abstract:
+BackgroundEvidence synthesis methods enabling direct and indirect comparisons over the entire set of relevant clinical data produce quantitative point estimates for the treatments contrasts between competing interventions, and provide a hierarchical rank ordering between them. We aimed to provide evidence-based guidance on the efficacy and all-cause discontinuation of antimanic treatments.MethodWe conducted a network meta-analysis within a Bayesian framework. We searched all standard literature databases without language restrictions up to 15 January 2014 to identify reports of short-term, randomized, blinded trials of putative antimanic drugs as monotherapy for adults with bipolar-I mania.ResultsAltogether, 14256 manic patients randomized to one of 18 active treatments or placebo provided 95 direct comparisons on 128 data points. For the primary outcome, standardized mean difference as Hedges’ g (standardized mean difference; SMD), the hierarchies indicated by surface under the cumulative ranking (SUCRA) probabilities were in agreement with the point estimates for all antimanic drugs identified as effective. For the 12 effective antimanic drugs on clinical use, SMDs against placebo ranged from 0.32 to 0.66 without superiority of one over another, except for risperidone v. aripiprazole and valproate. Aripiprazole, olanzapine, quetiapine, risperidone, and valproate had less all-cause discontinuation rates than placebo. Sensitivity analysis by drug class indicated similar efficacy profiles for haloperidol, second-generation antipsychotics, and mood stabilizers.ConclusionsHierarchical rank ordering by comparative efficacy and risk of all-cause discontinuations should help to guide antimanic treatment choices by clinicians, healthcare policy makers, and guideline developers.
+Journal Subset:
+Biomedical; Europe; Expert Peer Reviewed; Peer Reviewed; UK & Ireland
+Special Interest:
+Evidence-Based Practice; Psychiatry/Psychology
+ISSN:
+0033-2917
+MEDLINE Info:
+NLM UID: 1254142
+Entry Date:
+20150320
+Revision Date:
+20150327
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1017/S0033291714001305
+Accession Number:
+2012921503
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012921503&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012921503&site=ehost-live">A network meta-analysis on comparative efficacy and all-cause discontinuation of antimanic treatments in acute bipolar mania.</A>
+Database:
+CINAHL Plus
+Record: 9
+Title:
+A Systematic Review and Mixed Treatment Comparison of the Efficacy of Pharmacological Treatments for Fibromyalgia.
+Authors:
+Choy, Ernest; Marshall, David; Gabriel, Zahava L.; Mitchell, Stephen A.; Gylee, Elizabeth; Dakin, Helen A.
+Affiliation:
+Cardiff University School of Medicine, Cardiff, UK
+Inverclyde Royal Hospital, Greenock, UK
+Pfizer Ltd, Surrey, UK
+Abacus International, Oxfordshire, UK
+Health Economics Research Centre, University of Oxford, Oxford, UK
+Source:
+Seminars in Arthritis & Rheumatism (SEMIN ARTHRITIS RHEUM), 2011 Dec; 41 (3): 335-345.e6.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Fibromyalgia -- Drug Therapy
+Outcomes (Health Care)
+Pregabalin -- Therapeutic Use
+Serotonin Uptake Inhibitors -- Therapeutic Use
+Minor Subjects:
+Human; Cochrane Library; Medline; Embase; Randomized Controlled Trials; Descriptive Statistics; Questionnaires; Meta Analysis; Scales
+Abstract:
+Objectives: To review the literature on pharmacological treatments for fibromyalgia. Methods: Relative efficacy was estimated in terms of outcome measures highlighted by the Outcome Measures in Rheumatology Network using a Bayesian mixed treatment comparison (MTC) meta-analysis. Randomized controlled trials reporting treatments for fibromyalgia were identified by systematically reviewing electronic databases (Cochrane Library, Medline, EMBASE; accessed February 2008) and conducting manual bibliographic searches. Results: Forty-five randomized controlled trials met the prespecified inclusion criteria for the systematic review. There were limited robust clinical data for some therapeutic classes (tricyclic antidepressants, analgesics, sedative hypnotics, monoamine oxidase inhibitors) and only 21 studies met the more stringent criteria for inclusion in the MTC. The majority of studies included in the MTC assessed the anticonvulsant pregabalin (n = 5) or the serotonin norepinephrine reuptake inhibitors (SNRIs) duloxetine (n = 3) and milnacipran (n = 3). Licensed doses of pregabalin and duloxetine were significantly (P < 0.05) more efficacious than placebo in terms of absolute reduction in pain, number of “responders” (≥30% reduction in pain), or change in Fibromyalgia Impact Questionnaire score (pregabalin 450 mg/d only). There was no significant difference between licensed doses of pregabalin and duloxetine for these outcomes. However licensed doses of pregabalin produced significantly greater improvements in sleep compared with milnacipran (as measured by Medical Outcomes Study Sleep Scale). Conclusions: The current study confirms the therapeutic efficacy of pregabalin and the SNRIs, duloxetine and milnacipran, in the treatment of fibromyalgia. Given their different modes of action, combination therapy with pregabalin plus an SNRI should be investigated in future research.
+Journal Subset:
+Biomedical; Double Blind Peer Reviewed; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice
+Instrumentation:
+Fibromyalgia Impact Questionnaire
+Medical Outcomes Study Sleep Scale
+ISSN:
+0049-0172
+MEDLINE Info:
+PMID: 21868065 NLM UID: 1306053
+Entry Date:
+20120203
+Revision Date:
+20141226
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1016/j.semarthrit.2011.06.003
+Accession Number:
+2011396412
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011396412&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011396412&site=ehost-live">A Systematic Review and Mixed Treatment Comparison of the Efficacy of Pharmacological Treatments for Fibromyalgia.</A>
+Database:
+CINAHL Plus
+Record: 11
+Title:
+Adjuvant treatments for resected pancreatic adenocarcinoma: a systematic review and network meta-analysis.
+Authors:
+Liao, Wei-Chih; Chien, Kuo-Liong; Lin, Yu-Lin; Wu, Ming-Shiang; Lin, Jaw-Town; Wang, Hsiu-Po; Tu, Yu-Kang
+Affiliation:
+Department of Internal Medicine, National Taiwan University Hospital, National Taiwan University College of Medicine, Taipei, Taiwan
+Source:
+Lancet Oncology (LANCET ONCOL), 2013 Oct; 14 (11): 1095-103.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Adenocarcinoma -- Therapy
+Chemotherapy, Adjuvant
+Pancreatic Neoplasms -- Therapy
+Radiotherapy, Adjuvant
+Minor Subjects:
+Clinical Trials; Human; Meta Analysis; Prognosis; PubMed; Systematic Review
+Abstract:
+BACKGROUND: Major adjuvant treatments for pancreatic adenocarcinoma include fluorouracil, gemcitabine, chemoradiation, and chemoradiation plus fluorouracil or gemcitabine. Since the optimum regimen remains inconclusive, we aimed to compare these treatments in terms of overall survival after tumour resection and in terms of grade 3-4 toxic effects with a systematic review and random-effects Bayesian network meta-analysis. METHODS: We searched PubMed, trial registries, and related reviews and abstracts for randomised controlled trials comparing the above five treatments with each other or observation alone before April 30, 2013. We estimated relative hazard ratios (HRs) for death and relative odds ratios (ORs) for toxic effects among different therapies by combining HRs for death and survival durations and ORs for toxic effects of included trials. We assessed the effects of prognostic factors on survival benefits of adjuvant therapies with meta-regression. FINDINGS: Ten eligible articles reporting nine trials were included. Compared with observation, the HRs for death were 0·62 (95% credible interval 0·42-0·88) for fluorouracil, 0·68 (0·44-1·07) for gemcitabine, 0·91 (0·55-1·46) for chemoradiation, 0·54 (0·15-1·80) for chemoradiation plus fluorouracil, and 0·44 (0·10-1·81) for chemoradiation plus gemcitabine. The proportion of patients with positive lymph nodes was inversely associated with the survival benefit of adjuvant treatments. After adjustment for this factor, fluorouracil (HR 0·65, 0·49-0·84) and gemcitabine (0·59, 0·41-0·83) improved survival compared with observation, whereas chemoradiation resulted in worse survival than fluorouracil (1·69, 1·12-2·54) or gemcitabine (1·86, 1·04-3·23). Chemoradiation plus gemcitabine was ranked the most toxic, with significantly higher haematological toxic effects than second-ranked chemoradiation plus fluorouracil (OR 13·33, 1·01-169·36). INTERPRETATION: Chemotherapy with fluorouracil or gemcitabine is the optimum adjuvant treatment for pancreatic adenocarcinoma and reduces mortality after surgery by about a third. Chemoradiation plus chemotherapy is less effective in prolonging survival and is more toxic than chemotherapy. FUNDING: None.
+Journal Subset:
+Biomedical; Europe; Peer Reviewed; UK & Ireland
+Special Interest:
+Evidence-Based Practice; Oncologic Care
+ISSN:
+1470-2045
+MEDLINE Info:
+PMID: 24035532 NLM UID: 100957246
+Entry Date:
+20140207
+Revision Date:
+20140207
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1016/S1470-2045(13)70388-7
+Accession Number:
+2012331351
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012331351&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012331351&site=ehost-live">Adjuvant treatments for resected pancreatic adenocarcinoma: a systematic review and network meta-analysis.</A>
+Database:
+CINAHL Plus
+Record: 12
+Title:
+An indirect comparison of the efficacy and safety of desvenlafaxine and venlafaxine using placebo as the common comparator.
+Authors:
+Coleman KA; Xavier VY; Palmer TL; Meaney JV; Radalj LM; Canny LM
+Affiliation:
+1 Health Technology Analysts, Sydney, NSW, Australia
+Source:
+CNS Spectrums: The International Journal of Neuropsychiatric Medicine (CNS SPECTRUMS), 2012 Sep; 17 (3): 131-41.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Alcohols -- Therapeutic Use
+Antidepressive Agents -- Therapeutic Use
+Depression -- Drug Therapy
+Minor Subjects:
+Adult; Aged; Australia; Clinical Trials; Double-Blind Studies; Female; Human; Male; Meta Analysis; Middle Age; Nausea -- Chemically Induced; Probability; Psychological Tests; Resource Databases; Systematic Review; Treatment Outcomes; Young Adult
+Abstract:
+BACKGROUND: This meta-analysis compared the efficacy and safety of desvenlafaxine and venlafaxine at the Australian approved doses. METHODS: A systematic literature search was conducted to identify all placebo-controlled studies of desvenlafaxine and venlafaxine in the treatment of major depression. The pivotal outcome measure used to assess comparative efficacy was the mean change in Hamilton Rating Scale for Depression-17 score from baseline. Tolerability and safety were compared by an evaluation of reported adverse events. Standard and Bayesian methods were used to conduct the indirect comparisons. Findings Using a mixed model repeated measures analysis, the pooled weighted mean difference for the mean change in Hamilton Rating Scale for Depression-17 score from baseline was -2.81 (-3.72, -1.91; p < 0.001) for desvenlafaxine and -2.61 (-3.17, -2.05; p < 0.001) for venlafaxine. An indirect Bayesian analysis adjusted for baseline Hamilton Rating Scale for Depression-17 score showed no significant difference between the two treatments (weighted mean difference -0.27; -1.17, 0.65). A standard indirect comparison of any adverse events showed no significant difference between desvenlafaxine and venlafaxine (relative risk 1.01; 0.96, 1.06; p = 0.70 and risk difference -0.01; -0.05, 0.03; p = 0.59). Standard indirect comparisons of both nausea and drop-outs identified potential differences between treatments, with the risk difference analyses suggesting a trend in favor of desvenlafaxine (nausea: relative risk 0.97; 0.77, 1.22; p = 0.80/RD -0.07; -0.12, -0.01; p = 0.02; and drop-outs due to adverse events: RR 0.86; 0.58, 1.29; p = 0.48/RD -0.04; -0.08, 0.00; p = 0.06). CONCLUSIONS: Based on the results of this meta-analysis, desvenlafaxine was shown to be non-inferior to venlafaxine in terms of efficacy, and has an advantage in terms of less nausea.
+Journal Subset:
+Biomedical; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice; Psychiatry/Psychology
+ISSN:
+1092-8529
+MEDLINE Info:
+PMID: 22883424 NLM UID: 9702877
+Entry Date:
+20130830
+Revision Date:
+20130913
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1017/S1092852912000648
+Accession Number:
+2011669007
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011669007&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011669007&site=ehost-live">An indirect comparison of the efficacy and safety of desvenlafaxine and venlafaxine using placebo as the common comparator.</A>
+Database:
+CINAHL Plus
+Record: 13
+Title:
+Aspirin for the Primary Prevention of Cardiovascular Events: A systematic review and meta-analysis comparing patients with and without diabetes.
+Authors:
+Calvin AD; Aggarwal NR; Murad MH; Shi Q; Elamin MB; Geske JB; Fernandez-Balsells MM; Albuquerque FN; Lampropulos JF; Erwin PJ; Smith SA; Montori VM
+Source:
+Diabetes Care (DIABETES CARE), 2009 Dec; 32 (12): 2300-6.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Aspirin -- Therapeutic Use
+Cardiovascular Diseases -- Prevention and Control
+Diabetic Angiopathies -- Prevention and Control
+Preventive Health Care -- Methods
+Minor Subjects:
+Cochrane Library; Embase; Female; Fibrinolytic Agents -- Therapeutic Use; Human; Hypertension -- Prevention and Control; Male; Medline; Meta Analysis; Myocardial Infarction -- Prevention and Control; Observer Bias; Stroke -- Prevention and Control; Systematic Review
+Abstract:
+OBJECTIVE The negative results of two randomized controlled trials (RCTs) have challenged current guideline recommendations for using aspirin for primary prevention of cardiovascular events among patients with diabetes. We therefore sought to determine if the effect of aspirin for primary prevention of cardiovascular events and mortality differs between patients with and without diabetes. RESEARCH DESIGN AND METHODS We conducted a systematic search of MEDLINE, EMBASE, Cochrane Library, Web of Science, and Scopus since their inceptions until November 2008 for RCTs of aspirin for primary prevention of cardiovascular events. Blinded pairs of reviewers evaluated studies and extracted data. Random-effects meta-analysis and Bayesian logistic regression were used to estimate the ratios of relative risks (RRs) of outcomes of interest among patients with and without diabetes. A 95% CI that crosses 1.00 indicates that the effect of aspirin does not differ between patients with and without diabetes. RESULTS Nine RCTs with moderate to high methodological quality contributed data to the analyses. The ratios of RRs comparing the benefit of aspirin among patients with diabetes compared with patients without diabetes for mortality, myocardial infarction, and ischemic stroke were 1.12 (95% CI 0.92-1.35), 1.19 (0.82-1.17), and 0.70 (0.25-1.97), respectively. CONCLUSIONS Whereas estimates of benefit among patients with diabetes remain imprecise, our analysis suggests that the relative benefit of aspirin is similar in patients with and without diabetes.
+Journal Subset:
+Biomedical; Blind Peer Reviewed; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice
+ISSN:
+0149-5992
+MEDLINE Info:
+PMID: 19741185 NLM UID: 7805975
+Entry Date:
+20100226
+Revision Date:
+20110520
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.2337/dc09-1297
+Accession Number:
+2010489445
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010489445&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010489445&site=ehost-live">Aspirin for the Primary Prevention of Cardiovascular Events: A systematic review and meta-analysis comparing patients with and without diabetes.</A>
+Database:
+CINAHL Plus
+Record: 18
+Title:
+Comparative Effectiveness of Pharmacologic Interventions for Knee Osteoarthritis: A Systematic Review and Network Meta-analysis.
+Authors:
+Bannuru, Raveendhara R; Schmid, Christopher H; Kent, David M; Vaysbrot, Elizaveta E; Wong, John B; McAlindon, Timothy E
+Source:
+Annals of Internal Medicine (ANN INTERN MED), 2015 Jan 6; 162 (1): 46-54.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Adrenal Cortex Hormones -- Therapeutic Use
+Analgesics, Nonnarcotic -- Therapeutic Use
+Antiinflammatory Agents, Non-Steroidal -- Therapeutic Use
+Osteoarthritis, Knee -- Drug Therapy
+Solutions -- Therapeutic Use
+Minor Subjects:
+Acetaminophen -- Therapeutic Use; Cochrane Library; Cox-2 Inhibitors -- Therapeutic Use; Diclofenac -- Therapeutic Use; Embase; Heterocyclic Compounds -- Therapeutic Use; Human; Hyaluronic Acid -- Therapeutic Use; Ibuprofen -- Therapeutic Use; Injections, Intraarticular; Medline; Meta Analysis; Naproxen -- Therapeutic Use; Osteoarthritis, Knee -- Complications; Pain -- Drug Therapy; Pain -- Etiology; Professional Practice, Evidence-Based; Sulfonamides -- Therapeutic Use; Systematic Review; Treatment Outcomes
+Abstract:
+BACKGROUND: The relative efficacy of available treatments of knee osteoarthritis (OA) must be determined for rational treatment algorithms to be formulated. PURPOSE: To examine the efficacy of treatments of primary knee OA using a network meta-analysis design, which estimates relative effects of all treatments against each other. DATA SOURCES: MEDLINE, EMBASE, Web of Science, Google Scholar, Cochrane Central Register of Controlled Trials from inception through 15 August 2014, and unpublished data. STUDY SELECTION: Randomized trials of adults with knee OA comparing 2 or more of the following: acetaminophen, diclofenac, ibuprofen, naproxen, celecoxib, intra-articular (IA) corticosteroids, IA hyaluronic acid, oral placebo, and IA placebo. DATA EXTRACTION: Two reviewers independently abstracted study data and assessed study quality. Standardized mean differences were calculated for pain, function, and stiffness at 3-month follow-up. DATA SYNTHESIS: Network meta-analysis was performed using a Bayesian random-effects model; 137 studies comprising 33 243 participants were identified. For pain, all interventions significantly outperformed oral placebo, with effect sizes from 0.63 (95% credible interval [CrI], 0.39 to 0.88) for the most efficacious treatment (hyaluronic acid) to 0.18 (CrI, 0.04 to 0.33) for the least efficacious treatment (acetaminophen). For function, all interventions except IA corticosteroids were significantly superior to oral placebo. For stiffness, most of the treatments did not significantly differ from one another. LIMITATION: Lack of long-term data, inadequate reporting of safety data, possible publication bias, and few head-to-head comparisons. CONCLUSION: This method allowed comparison of common treatments of knee OA according to their relative efficacy. Intra-articular treatments were superior to nonsteroidal anti-inflammatory drugs, possibly because of the integrated IA placebo effect. Small but robust differences were observed between active treatments. All treatments except acetaminophen showed clinically significant improvement from baseline pain. This information, along with the safety profiles and relative costs of included treatments, will be helpful for individualized patient care decisions. PRIMARY FUNDING SOURCE: Agency for Healthcare Research and Quality.
+Journal Subset:
+Biomedical; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice
+ISSN:
+0003-4819
+MEDLINE Info:
+PMID: 25560713 NLM UID: 0372351
+Entry Date:
+20150403
+Revision Date:
+20150403
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.7326/M14-1231
+Accession Number:
+2012870293
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012870293&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012870293&site=ehost-live">Comparative Effectiveness of Pharmacologic Interventions for Knee Osteoarthritis: A Systematic Review and Network Meta-analysis.</A>
+Database:
+CINAHL Plus
+Record: 19
+Title:
+Comparative Efficacy and Risk of Harms of Immediate- versus Extended-Release Second-Generation Antidepressants: A Systematic Review with Network Meta-Analysis.
+Authors:
+Nussbaumer, Barbara; Morgan, Laura C; Reichenpfader, Ursula; Greenblatt, Amy; Hansen, Richard A; Van Noord, Megan; Lux, Linda; Gaynes, Bradley N; Gartlehner, Gerald
+Affiliation:
+Department for Evidence-Based Medicine and Clinical Epidemiology, Danube University Krems, Dr.-Karl-Dorrek Strasse 30, 3500, Krems, Austria, barbara.nussbaumer@donau-uni.ac.at
+Source:
+CNS Drugs (CNS DRUGS), 2014 Aug; 28 (8): 699-712.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Antidepressive Agents, Second Generation -- Administration and Dosage
+Delayed-Action Preparations -- Administration and Dosage
+Depression -- Drug Therapy
+Minor Subjects:
+Antidepressive Agents, Second Generation -- Adverse Effects; Clinical Trials; Cochrane Library; Delayed-Action Preparations -- Adverse Effects; Embase; Human; Meta Analysis; Professional Practice, Evidence-Based; Psycinfo; PubMed; Relative Risk; Systematic Review
+Abstract:
+BACKGROUND: Major depressive disorder (MDD) has detrimental effects on an individual's personal life, leads to increased risk of comorbidities, and places an enormous economic burden on society. Several 'second-generation' antidepressants are available as both immediate-release (IR) and extended-release formulations. The advantage of extended-release formulations may be the potentially improved adherence and a lower risk of adverse events. OBJECTIVE: We conducted a systematic review to assess the comparative efficacy, risk of harms, and patients' adherence of IR and extended-release antidepressants for the treatment of MDD. DATA SOURCE: English-language abstracts were retrieved from PubMed, EMBASE, the Cochrane Library, PsycINFO, and International Pharmaceutical Abstracts from 1980 to October 2012, as well as from reference lists of pertinent review articles and grey literature searches. ELIGIBILITY CRITERIA: We included head-to-head randomized controlled trials (RCTs) of at least 6 weeks' duration that compared an IR formulation with an extended-release formulation of the same antidepressant in adult patients with MDD. We also included placebo-controlled trials to conduct a network meta-analysis. To assess harms and adherence, in addition to RCTs, we searched for observational studies with >=1,000 participants and a follow-up of >=12 weeks. STUDY APPRAISAL AND SYNTHESIS METHODS: We dually reviewed abstracts and full texts and assessed quality ratings. Lacking head-to-head evidence for many comparisons of interest, we conducted network meta-analyses using Bayesian methods. Our outcome measure of choice was response on the Hamilton Depression Rating Scale. RESULTS: We located seven head-to-head trials and 94 placebo- and active-controlled trials for network meta-analysis. Overall, our analyses indicate that IR and extended-release formulations do not differ substantially with respect to efficacy and risk of harms. The evidence is mixed with respect to differences in adherence, indicating lower adherence for IR formulations. LIMITATIONS: The lack of head-to-head comparisons for many drugs compromises our conclusions. Network meta-analyses have methodological limitations that need to be taken into consideration when interpreting findings. CONCLUSION: Available evidence currently shows no clear differences between the two formulations and therefore we cannot recommend a first choice. However, if adherence or compliance with one medication is an issue, then clinicians and patients should consider the alternative medication. If adherence or costs are a problem with one formulation, consideration of the other formulation to provide an adequate treatment trial is reasonable.
+Journal Subset:
+Australia & New Zealand; Biomedical; Blind Peer Reviewed; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed
+Special Interest:
+Evidence-Based Practice
+ISSN:
+1172-7047
+MEDLINE Info:
+PMID: 24794101 NLM UID: 9431220
+Entry Date:
+20150410
+Revision Date:
+20150717
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1007/s40263-014-0169-z
+Accession Number:
+2012659542
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012659542&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012659542&site=ehost-live">Comparative Efficacy and Risk of Harms of Immediate- versus Extended-Release Second-Generation Antidepressants: A Systematic Review with Network Meta-Analysis.</A>
+Database:
+CINAHL Plus
+Record: 20
+Title:
+Comparative Efficacy and Safety of Selective Serotonin Reuptake Inhibitors and Serotonin-Norepinephrine Reuptake Inhibitors in Older Adults: A Network Meta-Analysis.
+Authors:
+Thorlund, Kristian; Druyts, Eric; Wu, Ping; Balijepalli, Chakrapani; Keohane, Denis; Mills, Edward
+Affiliation:
+Stanford Prevention Research Center, Stanford University
+Redwood Outcomes
+Redwood Outcomes
+Pfizer Inc
+Stanford Prevention Research Center, Stanford University
+Source:
+Journal of the American Geriatrics Society (J AM GERIATR SOC), 2015 May; 63 (5): 1002-9.
+Publication Type:
+journal article - meta analysis, pictorial, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Serotonin Uptake Inhibitors -- Therapeutic Use -- In Old Age
+Minor Subjects:
+Human; Male; Female; Middle Age; Aged; Meta Analysis; Systematic Review; Medline; Embase; Cochrane Library; Psycinfo; Hamilton Rating Scale for Depression; Scales; Funding Source
+Abstract:
+Objectives To establish the comparative efficacy and safety of selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors in older adults using the network meta-analysis approach. Design Systematic review and network meta-analysis. Participants Individuals aged 60 and older. Measurements Data on partial response (defined as at least 50% reduction in depression score from baseline) and safety (dizziness, vertigo, syncope, falls, loss of consciousness) were extracted. A Bayesian network meta-analysis was performed on the efficacy and safety outcomes, and relative risks ( RRs) with 95% credible intervals (CrIs) were produced. Results Fifteen randomized controlled trials were eligible for inclusion in the analysis. Citalopram, escitalopram, paroxetine, duloxetine, venlafaxine, fluoxetine, and sertraline were represented. Reporting on partial response and dizziness was sufficient to conduct a network meta-analysis. Reporting on other outcomes was sparse. For partial response, sertraline ( RR = 1.28), paroxetine ( RR = 1.48), and duloxetine ( RR = 1.62) were significantly better than placebo. The remaining interventions yielded RRs lower than 1.20. For dizziness, duloxetine ( RR = 3.18) and venlafaxine ( RR = 2.94) were statistically significantly worse than placebo. Compared with placebo, sertraline had the lowest RR for dizziness (1.14) and fluoxetine the second lowest (1.31). Citalopram, escitalopram, and paroxetine all had RRs between 1.4 and 1.7. Conclusion There was clear evidence of the effectiveness of sertraline, paroxetine, and duloxetine. There also appears to be a hierarchy of safety associated with the different antidepressants, although there appears to be a dearth of reporting of safety outcomes.
+Journal Subset:
+Biomedical; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice; Gerontologic Care; Patient Safety
+Instrumentation:
+Montgomery-Asberg Depression Rating Scale (MADRS)
+Hamilton Rating Scale for Depression (HRSD)
+ISSN:
+0002-8614
+MEDLINE Info:
+PMID: 25945410 NLM UID: 7503062
+Grant Information:
+This study received unrestricted funding from Pfizer Inc.
+Entry Date:
+20150529
+Revision Date:
+20150807
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1111/jgs.13395
+Accession Number:
+2013010547
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2013010547&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2013010547&site=ehost-live">Comparative Efficacy and Safety of Selective Serotonin Reuptake Inhibitors and Serotonin-Norepinephrine Reuptake Inhibitors in Older Adults: A Network Meta-Analysis.</A>
+Database:
+CINAHL Plus
+Record: 21
+Title:
+Comparative Efficacy of Biologic Therapy in Biologic-Naïve Patients With Crohn Disease: A Systematic Review and Network Meta-analysis.
+Authors:
+Singh, Siddharth; Garg, Sushil Kumar; Pardi, Darrell S; Wang, Zhen; Hassan Murad, Mohammad; Loftus Jr, Edward V
+Affiliation:
+Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN. Electronic address: singh.siddharth2@mayo.edu
+Department of Surgery, University of Minnesota, Minneapolis
+Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN
+Knowledge and Evaluation Research Unit, Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, Mayo Clinic, Rochester, MN
+Knowledge and Evaluation Research Unit, Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, Mayo Clinic, Rochester, MN
+Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN
+Source:
+Mayo Clinic Proceedings (MAYO CLIN PROC), 2014 Dec; 89 (12): 1621-35.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Antibodies, Monoclonal -- Therapeutic Use
+Crohn Disease -- Drug Therapy
+Immunoglobulins, Fab -- Therapeutic Use
+Immunosuppressive Agents -- Therapeutic Use
+Polyethylene Glycols -- Therapeutic Use
+Minor Subjects:
+Adult; Disease Remission; Human; Meta Analysis; Professional Practice, Evidence-Based; Systematic Review; Treatment Outcomes
+Abstract:
+OBJECTIVE: To study the comparative efficacy of biologic therapy in the management of biologic-naïve patients with Crohn disease (CD). PATIENTS AND METHODS: We conducted a systematic review of randomized controlled trials published from January 1, 1985, through September 30, 2013, comparing biologic agents (infliximab [IFX], adalimumab [ADA], certolizumab pegol, natalizumab, vedolizumab, and ustekinumab) with each other or placebo for inducing and maintaining clinical remission in adults with moderate to severe CD. To increase comparability across trials, we focused on a subset of biologic-naïve patients for the induction end point and on responders to induction therapy for the maintenance end point. We followed a Bayesian network meta-analysis approach. RESULTS: We identified 17 randomized controlled trials of good methodological quality comparing 6 biologic agents with placebo, with no direct comparison of biologic agents. In network meta-analysis, we observed that IFX (relative risk [RR], 6.11; 95% credible interval [CrI], 2.49-18.29) and ADA (RR, 2.98; 95% CrI, 1.12-8.18), but not certolizumab pegol (RR, 1.48; 95% CrI, 0.76-2.93), natalizumab (RR, 1.36; 95% CrI, 0.69-2.86), vedolizumab (RR, 1.40; 95% CrI, 0.63-3.28), and ustekinumab (RR, 0.61; 95% CrI, 0.15-2.49), were more likely to induce remission than placebo. Similar results were observed for maintenance of remission. Infliximab had the highest probability of being ranked as the most efficacious agent for induction (86%) and ADA for maintenance of remission (48%). CONCLUSION: On the basis of network meta-analysis, IFX may be most efficacious agent for inducing remission in CD in biologic-naïve patients. In the absence of head-to-head treatment comparison, the confidence in these estimates is low. Future comparative efficacy studies are warranted.
+Journal Subset:
+Biomedical; Blind Peer Reviewed; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice
+ISSN:
+0025-6196
+MEDLINE Info:
+PMID: 25441399 NLM UID: 0405543
+Entry Date:
+20150508
+Revision Date:
+20150717
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1016/j.mayocp.2014.08.019
+Accession Number:
+2012822851
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012822851&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012822851&site=ehost-live">Comparative Efficacy of Biologic Therapy in Biologic-Naïve Patients With Crohn Disease: A Systematic Review and Network Meta-analysis.</A>
+Database:
+CINAHL Plus
+Record: 22
+Title:
+Comparing the effectiveness of competing tests for reducing colorectal cancer mortality: a network meta-analysis.
+Authors:
+Elmunzer, B. Joseph; Singal, Amit G.; Sussman, Jeremy B.; Deshpande, Amar R.; Sussman, Daniel A.; Conte, Marisa L.; Dwamena, Ben A.; Rogers, Mary A.M.; Schoenfeld, Philip S.; Inadomi, John M.; Saini, Sameer D.; Waljee, Akbar K.
+Affiliation:
+Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan Health System, Ann Arbor, Michigan, USA
+Department of Internal Medicine, Division of Digestive and Liver Diseases and the Harold C. Simmons Cancer Center, University of Texas Southwestern Medical Center, Dallas, Texas, USA
+Center for Clinical Management Research, Ann Arbor Veterans Affairs Healthcare System, Ann Arbor, Michigan, USA
+Department of Internal Medicine, Division of Gastroenterology, University of Miami Miller School of Medicine, Miami, Florida, USA
+University of Michigan School of Medicine, Ann Arbor, Michigan, USA
+Department of Radiology, Division of Nuclear Medicine, University of Michigan Health System, Ann Arbor, Michigan, USA
+Department of Internal Medicine, Division of General Internal Medicine, University of Michigan Health System, Ann Arbor, Michigan, USA
+Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan Health System, Ann Arbor, Michigan, USA
+Department of Medicine, Division of Gastroenterology, University of Washington School of Medicine, Seattle, Washington, USA
+Source:
+Gastrointestinal Endoscopy (GASTROINTEST ENDOSC), 2015 Mar; 81 (3): 700-709.e3.
+Publication Type:
+journal article - meta analysis, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Colorectal Neoplasms -- Mortality
+Minor Subjects:
+Human; Systematic Review; Meta Analysis; Sensitivity and Specificity; Multivariate Analysis; Relative Risk; Confidence Intervals; Randomized Controlled Trials
+Abstract:
+Background Comparative effectiveness data pertaining to competing colorectal cancer (CRC) screening tests do not exist but are necessary to guide clinical decision making and policy. Objective To perform a comparative synthesis of clinical outcomes studies evaluating the effects of competing tests on CRC-related mortality. Design Traditional and network meta-analyses. Two reviewers identified studies evaluating the effect of guaiac-based fecal occult blood testing (gFOBT), flexible sigmoidoscopy (FS), or colonoscopy on CRC-related mortality. Interventions gFOBT, FS, colonoscopy. Main Outcome Measurements Traditional meta-analysis was performed to produce pooled estimates of the effect of each modality on CRC mortality. Bayesian network meta-analysis (NMA) was performed to indirectly compare the effectiveness of screening modalities. Multiple sensitivity analyses were performed. Results Traditional meta-analysis revealed that, compared with no intervention, colonoscopy reduced CRC-related mortality by 57% (relative risk [RR] 0.43; 95% confidence interval [CI], 0.33-0.58), whereas FS reduced CRC-related mortality by 40% (RR 0.60; 95% CI, 0.45-0.78), and gFOBT reduced CRC-related mortality by 18% (RR 0.82; 95% CI, 0.76-0.88). NMA demonstrated nonsignificant trends favoring colonoscopy over FS (RR 0.71; 95% CI, 0.45-1.11) and FS over gFOBT (RR 0.74; 95% CI, 0.51-1.09) for reducing CRC-related deaths. NMA-based simulations, however, revealed that colonoscopy has a 94% probability of being the most effective test for reducing CRC mortality and a 99% probability of being most effective when the analysis is restricted to screening studies. Limitations Randomized trials and observational studies were combined within the same analysis. Conclusion Clinical outcomes studies demonstrate that gFOBT, FS, and colonoscopy are all effective in reducing CRC-related mortality. Network meta-analysis suggests that colonoscopy is the most effective test.
+Journal Subset:
+Biomedical; Double Blind Peer Reviewed; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice; Oncologic Care; Perioperative Care
+ISSN:
+0016-5107
+MEDLINE Info:
+PMID: 25708757 NLM UID: 0010505
+Entry Date:
+20150313
+Revision Date:
+20150605
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1016/j.gie.2014.10.033
+Accession Number:
+2012911144
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012911144&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012911144&site=ehost-live">Comparing the effectiveness of competing tests for reducing colorectal cancer mortality: a network meta-analysis.</A>
+Database:
+CINAHL Plus
+Record: 24
+Title:
+Coronally Advanced Flaps (CAF) Plus Connective Tissue Graft (CTG) Is the Gold Standard for Treatment of Miller Class I and II Gingival Defects.
+Authors:
+Nunn, Martha E.; Miyamoto, Takanari
+Affiliation:
+Director, Center for Oral Health Research, School of Dentistry, Creighton University, 2500 California Plaza, Omaha, NE 68178, USA
+Chair, Department of Periodontics, School of Dentistry, Creighton University, 2500 California Plaza, Omaha, NE 68178, USA
+Source:
+Journal of Evidence-Based Dental Practice (J EVID BASED DENT PRACT), 2013 Dec; 13 (4): 157-9.
+Publication Type:
+journal article - meta analysis, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Root Canal Therapy -- Methods
+Root Canal Filling Materials -- Therapeutic Use
+Root Planing -- Methods
+Dental Scaling -- Methods
+Minor Subjects:
+Human; Systematic Review; Meta Analysis; Databases -- Utilization
+Abstract:
+Article title and bibliographic information: Bayesian network meta-analysis of root coverage procedures: ranking efficacy and identification of best treatment. Buti J, Baccini M, Nieri M, La Marca M, Pini-Prato GP. J Clin Periodontol 2013;40(4):372-86. Reviewers: Martha E. Nunn, DDS, PhD, Takanari Miyamoto, DDS, MSD, PhD Purpose/Question: What is the ranking efficacy and identification of the best treatment among basic root coverage procedures? Source of funding: No external funding for this study beyond the authors' respective institutions Type of study/Design: Systematic review with Bayesian network meta-analysis of data Level of evidence: Level 1: Good-quality, patient-oriented evidence Strength of recommendation Grade: Grade A: Consistent, good-quality patient-oriented evidence
+Journal Subset:
+Biomedical; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Dental Care; Evidence-Based Practice
+ISSN:
+1532-3382
+MEDLINE Info:
+PMID: 24237738 NLM UID: 101083101
+Entry Date:
+20131129
+Revision Date:
+20131220
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1016/j.jebdp.2013.10.012
+Accession Number:
+2012378751
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012378751&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012378751&site=ehost-live">Coronally Advanced Flaps (CAF) Plus Connective Tissue Graft (CTG) Is the Gold Standard for Treatment of Miller Class I and II Gingival Defects.</A>
+Database:
+CINAHL Plus
+Record: 25
+Title:
+Coronary Revascularization in Diabetic Patients: A Systematic Review and Bayesian Network Meta-analysis.
+Authors:
+Tu, Benny; Rich, Ben; Labos, Christopher; Brophy, James M
+Source:
+Annals of Internal Medicine (ANN INTERN MED), 2014 Nov 18; 161 (10): 724-32.
+Commentary:
+Hlatky, Mark A. Review: In diabetes with multivessel or left main CAD, PCI increases death/MI/stroke combo compared with CABG. ANN INTERN MED 2015 Mar 17; 162(6): JC8 (commentary) (2012940966)
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Cardiovascular Care
+Coronary Arteriosclerosis -- Therapy
+Coronary Artery Bypass
+Diabetes Mellitus -- Complications
+Stents
+Minor Subjects:
+Cochrane Library; Coronary Arteriosclerosis -- Surgery; Embase; Human; Meta Analysis; Mortality; Probability; Professional Practice, Evidence-Based; Prospective Studies; PubMed; Systematic Review
+Abstract:
+BACKGROUND: The optimal revascularization technique in diabetic patients is an important unresolved question. PURPOSE: To compare long-term outcomes between the revascularization techniques of percutaneous coronary intervention (PCI) and coronary artery bypass grafting (CABG). DATA SOURCES: English-language publications in PubMed, the Cochrane Central Register of Controlled Trials, Ovid, and EMBASE between 1 January 1990 and 1 June 2014. STUDY SELECTION: Two investigators independently reviewed randomized, controlled trials comparing PCI (with drug-eluting or bare-metal stents) with CABG in adults with diabetes with multivessel or left main coronary artery disease. DATA EXTRACTION: Study design, quality, patient characteristics, length of follow-up, and outcomes were extracted. For duplicate publications, outcomes were obtained from the publication with the longest follow-up. DATA SYNTHESIS: 40 studies were combined using a Bayesian network meta-analysis that accounted for the variation in stent choice. The primary outcome, a composite of all-cause mortality, nonfatal myocardial infarction, and stroke, increased with PCI (odds ratio [OR], 1.33 [95% credible interval {CrI}, 1.01 to 1.65]). Percutaneous coronary intervention resulted in increased mortality (OR, 1.44 [CrI, 1.05 to 1.91]), no change in the number of myocardial infarctions (OR, 1.33 [CrI, 0.86 to 1.95]), and fewer strokes (OR, 0.56 [CrI, 0.36 to 0.88]). LIMITATIONS: Study design and length of follow-up were heterogeneous, and results were driven primarily by a single study. Costs and nonvascular complications of the interventions were not examined. CONCLUSION: Coronary artery bypass grafting seems to be the preferred revascularization technique in diabetics, especially if long-term survival is anticipated. However, because of residual uncertainties and increased risk for stroke with CABG, clinical judgment is required when choosing a revascularization technique in patients with diabetes. PRIMARY FUNDING SOURCE: Fonds de recherche du Québec-Santé.
+Journal Subset:
+Biomedical; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice
+ISSN:
+0003-4819
+MEDLINE Info:
+PMID: 25402514 NLM UID: 0372351
+Entry Date:
+20150501
+Revision Date:
+20150731
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.7326/M14-0808
+Accession Number:
+2012799367
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012799367&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012799367&site=ehost-live">Coronary Revascularization in Diabetic Patients: A Systematic Review and Bayesian Network Meta-analysis.</A>
+Database:
+CINAHL Plus
+Record: 30
+Title:
+Early high-dose lipid-lowering therapy to avoid cardiac events: a systematic review and economic evaluation.
+Authors:
+Ara R; Pandor A; Stevens J; Rees A; Rafia R
+Affiliation:
+The University of Sheffield, School of Health and Related Research (ScHARR), UK
+Source:
+Health Technology Assessment (HEALTH TECHNOL ASSESS), 2009; 13 (34): 1-118.
+Publication Type:
+journal article - research, systematic review
+Language:
+English
+Major Subjects:
+Antilipemic Agents -- Administration and Dosage
+Dose-Response Relationship, Drug
+Heart Diseases -- Prevention and Control
+Hyperlipidemia -- Drug Therapy
+Minor Subjects:
+Adult; Aged; Aged, 80 and Over; Antilipemic Agents -- Adverse Effects; Antilipemic Agents -- Economics; CINAHL Database; Cochrane Library; Cost Benefit Analysis; Embase; Female; Male; Medline; Meta Analysis; Middle Age; Human
+Abstract:
+OBJECTIVE: To evaluate the cost-effectiveness of high-dose statins (atorvastatin 80 mg/day, rosuvastatin 40 mg/day and simvastatin 80 mg/day) versus simvastatin 40 mg/day in individuals with acute coronary syndrome (ACS). DATA SOURCES: Eleven bibliographic databases, including MEDLINE, CINAHL, EMBASE, Cochrane Database of Systematic Reviews, CENTRAL, DARE and NHS EED, were searched from inception to 2008. REVIEW METHODS: Data relating to study design, baseline patient characteristics, clinical or surrogate outcome, and adverse events were abstracted, and methodological quality was assessed according to standard methods. A synthesis of the available evidence was performed using a Bayesian mixed treatment meta-analysis using both direct and indirect evidence. An existing Markov model was modified to explore the costs and benefits associated with a lifetime of the differing treatment regimens. RESULTS: A total of 3345 titles and abstracts were screened for inclusion in the review of clinical effectiveness and 125 full papers retrieved and assessed in detail. Of these, 30 papers met the inclusion criteria for the review, describing 28 trials. The Bayesian mixed treatment meta-analysis demonstrated a clear dose-response relationship in terms of reductions in low-density lipoprotein cholesterol (LDL-c), with rosuvastatin 40 mg/day achieving the greatest percentage reduction (56%) from baseline, followed by atorvastatin 80 mg/day (52%), simvastatin 80 mg/day (45%) and simvastatin 40 mg/day (37%). Although serious adverse events with statins are rare, their incidence is likely to be greater with higher doses. Several clinical scenarios were used to explore the effect of adherence on the cost-effectiveness of the treatment regimens. Using a threshold of 20,000 pounds per quality-adjusted life-year (QALY) and assuming that the benefits and adherence rates observed in the clinical trials are generalisable to a clinical setting and that individuals who do not tolerate the higher-dose statins are prescribed simvastatin 40 mg/day, then simvastatin 80 mg/day, atorvastatin 80 mg/day and rosuvastatin 40 mg/day would be considered cost-effective compared with simvastatin 40 mg/day in individuals with ACS. Simvastatin 80 mg/day is not well tolerated because of the high incidence rates of less severe adverse events such as myopathy (26-fold higher than rates in those receiving simvastatin 20 mg/day), which are likely to affect adherence levels in clinical practice. The reference case shows that rosuvastatin is the optimal treatment for individuals with a recent history of ACS using a threshold of 20,000 pounds per QALY. However, this is based on the assumption that the additional incremental reductions in LDL-c observed in patients treated with rosuvastatin 40 mg/day compared with atorvastatin will transfer into corresponding changes in relative risks of cardiovascular events. CONCLUSIONS: Simvastatin 80 mg/day cannot be recommended because of the high incidence rates of adverse events. If the cost of atorvastatin decreases in line with that observed for simvastatin when the patent ends in 2011, atorvastatin 80 mg/day will be the most cost-effective treatment for all thresholds; if the cost reduces to 25% of the current value, atorvastatin 80 mg/day will be the most cost-effective treatment for thresholds between 5000 pounds and 30,000 pounds per QALY. Large long-term RCTs reporting effects in terms of clinical events are required to determine the optimum statin use for subgroups.
+Journal Subset:
+Biomedical; Blind Peer Reviewed; Editorial Board Reviewed; Europe; Expert Peer Reviewed; Peer Reviewed; UK & Ireland
+Special Interest:
+Evidence-Based Practice
+ISSN:
+1366-5278
+MEDLINE Info:
+PMID: 19604457 NLM UID: 9706284
+Entry Date:
+20091113
+Revision Date:
+20110520
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.3310/hta13340
+Accession Number:
+2010345905
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010345905&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010345905&site=ehost-live">Early high-dose lipid-lowering therapy to avoid cardiac events: a systematic review and economic evaluation.</A>
+Database:
+CINAHL Plus
+Record: 33
+Title:
+Efficacy of periodontal plastic procedures in the treatment of multiple gingival recessions.
+Authors:
+Graziani, Filippo; Gennai, Stefano; Roldán, Silvia; Discepoli, Nicola; Buti, Jacpop; Madianos, Phoebus; Herrera, David
+Affiliation:
+Unit of Dentistry and Oral Surgery, Department of Surgical & Medical Pathology, University of Pisa
+Section of Graduate Periodontology, University Complutense
+Unit of Dentistry and Oral Surgery, Department of Surgical & Medical Pathology, University of Pisa
+School of Dentistry, The University of Manchester
+School of Dentistry, University of Athens
+Source:
+Journal of Clinical Periodontology (J CLIN PERIODONTOL), 2014 Apr: Supplement: S63-76.
+Publication Type:
+journal article - meta analysis, proceedings, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Surgery, Plastic
+Periodontium -- Surgery
+Gingival Recession -- Surgery
+Minor Subjects:
+Human; Congresses and Conferences; Europe; Treatment Outcomes; Systematic Review; Meta Analysis; Medline -- Utilization; Embase -- Utilization; Databases -- Utilization
+Abstract:
+Objective To systematically review the efficacy of periodontal plastic procedures ( PPP) in the treatment of multiple gingival recessions ( MGR). Methods Randomized clinical trials ( RCT) on MGR treatment with at least 6 months duration were identified through electronic databases and hand-searched journals. Primary outcomes were complete root coverage ( CRC) and percentage of root coverage ( PRC). Weighted means and forest plots were calculated for all PPP. Subgroup analysis was performed according to the type of flap. A Bayesian network meta-analysis ( NM) on secondary outcomes was also performed. Results Nine trials including 208 subjects and 858 recessions were identified. CRC after PPP was 24-89%. Mean weighted PRC was 86.27% (95% CI 80.71-91.83; p < 0.01). Heterogeneity of the literature prevented inter-techniques comparison. Coronally advanced flap ( CAF) shows the higher variability in terms of CRC. Modified CAF and tunnel approaches show higher level of CRC. The NM suggests that CAF plus graft showed the higher probability of being the best treatment. Conclusions Limited evidence is available for MGR coverage. PPP are associated with high level of efficacy, in terms of PRC, and high variability of CRC. Indirect evidence indicates that CAF may benefit from newer variations of the technique and by the additional use of grafting.
+Journal Subset:
+Biomedical; Continental Europe; Europe; Expert Peer Reviewed; Peer Reviewed
+Special Interest:
+Dental Care; Evidence-Based Practice
+ISSN:
+0303-6979
+MEDLINE Info:
+NLM UID: 0425123
+Entry Date:
+20140328
+Revision Date:
+20150410
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1111/jcpe.12172
+Accession Number:
+2012510301
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012510301&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012510301&site=ehost-live">Efficacy of periodontal plastic procedures in the treatment of multiple gingival recessions.</A>
+Database:
+CINAHL Plus
+Record: 35
+Title:
+Evidence based policy decisions through a Bayesian approach: the case of a statin appraisal in the Netherlands.
+Authors:
+Woertman, Willem; Vermeulen, Bram; Groenewoud, Hans; van der Wilt, Gert Jan
+Affiliation:
+Radboud University Nijmegen Medical Centre, Department for Health Evidence, The Netherlands. Electronic address: W.Woertman@ebh.umcn.nl
+Source:
+Health Policy (HEALTH POLICY), 2013 Oct; 112 (3): 234-40.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Antilipemic Agents -- Economics
+Decision Making
+Drug and Narcotic Control
+Fatty Acids -- Economics
+Heterocyclic Compounds -- Economics
+Practice Patterns -- Statistics and Numerical Data
+Simvastatin -- Economics
+Minor Subjects:
+Human; Insurance, Health, Reimbursement; Medical Practice, Evidence-Based; Meta Analysis; Netherlands; Probability; Systematic Review
+Abstract:
+It has often been suggested that Bayesian statistics is more congenial to the informational needs of policy makers than the standard frequentist methods. In order to illustrate this claim, we use both a Bayesian and a frequentist approach for revisiting a recommendation by the Dutch National Health Insurance Board that for all patients requiring lipid reduction, the cheapest alternative (Simvastatin) should be prescribed. We investigate whether Simvastatin and Atorvastatin, the most commonly used alternative, can be considered equivalent in terms of lipid control for patients with heterozygous familial hypercholesterolemia. Priors were elicited from GPs, cardiologists and internists. A systematic review for studies comparing Simvastatin and Atorvastatin was performed. The data from these studies were combined with the priors in a Bayesian meta-analysis. For comparability a frequentist meta-analysis was also performed. The two approaches lead to similar point estimates and 95% intervals. However, the Bayesian outcomes are easier to understand and interpret, and our Bayesian analysis leads to additional outcomes that would have more direct pertinence for policy makers, and which could help them to assess what the data have to say about the questions that are most relevant to the problems they face.
+Journal Subset:
+Continental Europe; Double Blind Peer Reviewed; Europe; Health Services Administration; Peer Reviewed
+Special Interest:
+Evidence-Based Practice
+ISSN:
+0168-8510
+MEDLINE Info:
+PMID: 23920344 NLM UID: 8409431
+Entry Date:
+20140905
+Revision Date:
+20140905
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1016/j.healthpol.2013.06.015
+Accession Number:
+2012363325
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012363325&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012363325&site=ehost-live">Evidence based policy decisions through a Bayesian approach: the case of a statin appraisal in the Netherlands.</A>
+Database:
+CINAHL Plus
+Record: 37
+Title:
+Health-related quality of life in systemic sclerosis: A systematic review.
+Authors:
+Hudson M; Thombs BD; Steele R; Panopalis P; Newton E; Baron M
+Affiliation:
+SMBD-Jewish General Hospital and McGill University, Montreal, Quebec, Canada
+Corporate Authors:
+Canadian Scleroderma Research GroupInvestigators of the Canadian Scleroderma Research Group are listed in Appendix A
+Source:
+Arthritis & Rheumatism: Arthritis Care & Research (ARTHRITIS RHEUM (ARTHRITIS CARE RES)), 2009 Aug 15; 61 (8): 1112-20.
+Publication Type:
+journal article - research, systematic review
+Language:
+English
+Major Subjects:
+Health Status
+Quality of Life
+Scleroderma, Systemic -- Physiopathology
+Severity of Illness Indices
+Minor Subjects:
+Activities of Daily Living; CINAHL Database; Embase; Medline; Mental Health; Meta Analysis; Questionnaires; Reference Databases; Scleroderma, Systemic -- Psychosocial Factors; Short Form-36 Health Survey (SF-36); Human
+Abstract:
+OBJECTIVE: A number of studies (all n <200) have assessed health-related quality of life (HRQOL) in patients with systemic sclerosis (SSc), but no systematic review of the effect of SSc on HRQOL has been done. The objective of this study was to systematically review the literature on HRQOL in SSc measured using the Medical Outcomes Trust Short Form 36 (SF-36). METHODS: A comprehensive search was conducted in August 2007 using Medline, CINAHL, and EMBase to identify original research studies reporting SF-36 scores of SSc patients. Selected studies were reviewed and characteristics of the study samples and SF-36 data were extracted. Bayesian meta-analysis and meta-regression were performed to obtain pooled estimates of SF-36 physical component summary (PCS) and mental component summary (MCS) scores for all patients as well as by limited and diffuse disease status. RESULTS: Twelve data sets with a total of 1,127 SSc patients were included in the systematic review. HRQOL was impaired in patients with SSc, with pooled SF-36 PCS scores being more than 1 SD below the general population (38.3; 95% credible interval [95% CI] 35.2, 41.5) and pooled SF-36 MCS scores being approximately 0.5 SDs below the general population (46.6; 95% CI 44.2, 49.1). SF-36 PCS scores were 3.5 points (95% CI -1.0, 8.0) lower in patients with diffuse compared with limited disease. CONCLUSION: This study provides robust evidence of the presence and magnitude of impairment in HRQOL in patients with SSc. Although the impairment appears greater in physical health, mental health impairment is also reported.
+Journal Subset:
+Biomedical; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice
+Instrumentation:
+Health-Related Quality of Life (HRQOL)
+Short Form-36 Health Survey (SF-36)
+Physical Component Summary (PCS)
+Mental Component Summary (MCS)
+ISSN:
+0004-3591
+MEDLINE Info:
+PMID: 19644906 NLM UID: 0370605
+Entry Date:
+20090925
+Revision Date:
+20110520
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1002/art.24676
+Accession Number:
+2010367589
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010367589&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010367589&site=ehost-live">Health-related quality of life in systemic sclerosis: A systematic review.</A>
+Database:
+CINAHL Plus
+Record: 44
+Title:
+Methods to decrease blood loss during liver resection: a network meta-analysis.
+Authors:
+Simillis C; Li T; Vaughan J; Becker LA; Davidson BR; Gurusamy KS
+Source:
+Cochrane Database of Systematic Reviews (COCHRANE DATABASE SYST REV), 2014 (4): N.PAG.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Blood Loss, Surgical -- Prevention and Control
+Comparative Studies
+Liver -- Surgery
+Surgery, Operative -- Methods
+Minor Subjects:
+Cochrane Library; Computer Simulation; Confidence Intervals; Dissection -- Methods; Embase; Goodness of Fit Chi Square Test; Human; Medical Practice, Evidence-Based; Medline; Meta Analysis; Odds Ratio; Study Design; Surgical Equipment and Supplies; Vascular Patency -- Classification
+Abstract:
+Liver resection is a major surgery with significant mortality and morbidity. Various methods have been attempted to decrease blood loss and morbidity during elective liver resection. These methods include different methods of vascular occlusion, parenchymal transection, and management of the cut surface of the liver. A surgeon typically uses only one of the methods from each of these three categories. Together, one can consider this combination as a treatment strategy. The optimal treatment strategy for liver resection is unknown. To assess the comparative benefits and harms of different treatment strategies that aim to decrease blood loss during elective liver resection. We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and Science Citation Index Expanded to July 2012 to identify randomised clinical trials. We also handsearched the references lists of identified trials. We included only randomised clinical trials (irrespective of language, blinding, or publication status) where the method of vascular occlusion, parenchymal transection, and management of the cut surface were clearly reported, and where people were randomly assigned to different treatment strategies based on different combinations of the three categories (vascular occlusion, parenchymal transection, cut surface). Two review authors identified trials and collected data independently. We assessed the risk of bias using The Cochrane Collaboration's methodology. We conducted a Bayesian network meta-analysis using the Markov chain Monte Carlo method in WinBUGS 1.4 following the guidelines of the National Institute for Health and Care Excellence Decision Support Unit guidance documents. We calculated the odds ratios (OR) with 95% credible intervals (CrI) (which are similar to confidence intervals in the frequentist approach for meta-analysis) for the binary outcomes and mean differences (MD) with 95% CrI for continuous outcomes using a fixed-effect model or random-effects model according to model-fit. We identified nine trials with 617 participants that met our inclusion criteria. Interventions in the trials included three different options for vascular occlusion, four for parenchymal transection, and two for management of the cut liver surface. These interventions were combined in different ways in the trials giving 11 different treatment strategies. However, we were only able to include 496 participants randomised to seven different treatment strategies from seven trials in our network meta-analysis, because the treatment strategies from the trials that used fibrin sealant for management of the raw liver surface could not be connected to the network for any outcomes. Thus, the trials included in the network meta-analysis varied only in their approaches to vascular exclusion and parenchymal transection and none used fibrin sealant. All the trials were of high risk of bias and the quality of evidence was very low for all the outcomes. The differences in mortality between the different strategies was imprecise (seven trials; seven treatment strategies; 496 participants). Five trials (six strategies; 406 participants) reported serious adverse events. There was an increase in the proportion of people with serious adverse events when surgery was performed using radiofrequency dissecting sealer compared with the standard clamp-crush method in the absence of vascular occlusion and fibrin sealant. The OR for the difference in proportion was 7.13 (95% CrI 1.77 to 28.65; 15/49 (adjusted proportion 24.9%) in radiofrequency dissecting sealer group compared with 6/89 (6.7%) in the clamp-crush method). The differences in serious adverse events between the other groups were imprecise. There was a high probability that 'no vascular occlusion with clamp-crush method and no fibrin' and 'intermittent vascular occlusion with Cavitron ultrasonic surgical aspirator and no fibrin' are better than other treatments with regards to serious adverse events. Quality of life was not reported in any of the trials.The differences in the proportion of people requiring blood transfusion was imprecise (six trials; seven treatments; 446 participants). Two trials (three treatments; 155 participants) provided data for quantity of blood transfused. People undergoing liver resection by intermittent vascular occlusion had higher amounts of blood transfused than people with continuous vascular occlusion when the parenchymal transection was carried out with the clamp-crush method and no fibrin sealant was used for the cut surface (MD 1.2 units; 95% CrI 0.08 to 2.32). The differences in the other comparisons were imprecise (very low quality evidence). Three trials (four treatments; 281 participants) provided data for operative blood loss. People undergoing liver resection using continuous vascular occlusion had lower blood loss than people with no vascular occlusion when the parenchymal transection was carried out with clamp-crush method and no fibrin sealant was used for the cut surface (MD -130.9 mL; 95% CrI -255.9 to -5.9). None of the trials reported the proportion of people with major blood loss.The differences in the length of hospital stay (six trials; seven treatments; 446 participants) and intensive therapy unit stay (four trials; six treatments; 261 participants) were imprecise. Four trials (four treatments; 245 participants) provided data for operating time. Liver resection by intermittent vascular occlusion took longer than liver resection performed with no vascular occlusion when the parenchymal transection was carried out with Cavitron ultrasonic surgical aspirator and no fibrin sealant was used for the cut surface (MD 49.6 minutes; 95% CrI 29.8 to 69.4). The differences in the operating time between the other comparisons were imprecise. None of the trials reported the time needed to return to work. Very low quality evidence suggested that liver resection using a radiofrequency dissecting sealer without vascular occlusion or fibrin sealant may increase serious adverse events and this should be evaluated in further randomised clinical trials. The risk of serious adverse events with liver resection using no special equipment compared with more complex methods requiring special equipment was uncertain due to the very low quality of the evidence. The credible intervals were wide and considerable benefit or harm with a specific method of liver resection cannot be ruled out.
+[CINAHL Note: The Cochrane Collaboration systematic reviews contain interactive software that allows various calculations in the MetaView.]
+Journal Subset:
+Europe; Peer Reviewed; UK & Ireland
+Special Interest:
+Evidence-Based Practice; Perioperative Care
+ISSN:
+1469-493X
+MEDLINE Info:
+PMID: 24696014 NLM UID: 100909747
+Cochrane AN:
+CD010683
+Entry Date:
+20140613
+Revision Date:
+20150619
+Accession Number:
+2012608725
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012608725&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012608725&site=ehost-live">Methods to decrease blood loss during liver resection: a network meta-analysis.</A>
+Database:
+CINAHL Plus
+Record: 47
+Title:
+Systematic Literature Review and Network Meta-Analysis Comparing Bone-Targeted Agents for the Prevention of Skeletal-Related Events in Cancer Patients With Bone Metastasis.
+Authors:
+Zhiyu Wang; Qiao, Dan; Yaohong Lu; Curtis, Dana; Xiaoting Wen; Yang Yao; Hui Zhao
+Affiliation:
+Department of Internal Oncology, Shanghai JiaoTong University Affiliated Sixth People's Hospital, Shanghai, People's Republic of China
+Radiation Oncology, Thomas Jefferson University, Philadelphia, Pennsylvania, USA
+Department of Internal Oncology, Shanghai JiaoTong University Affiliated Sixth People's Hospital, Shanghai, People's Republic of China
+Source:
+Oncologist (ONCOLOGIST), 2015 Apr; 20 (4): 440-9.
+Publication Type:
+journal article - meta analysis, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Bone Metastases -- Complications
+Cancer Patients
+Diphosphonates -- Therapeutic Use
+Antibodies, Monoclonal -- Therapeutic Use
+Bone Diseases -- Etiology
+Bone Diseases -- Prevention and Control
+Minor Subjects:
+Human; Systematic Review; Meta Analysis; Medline; Embase; Cochrane Library; Descriptive Statistics; Confidence Intervals; Odds Ratio; Data Analysis Software; Male; Female; Adult; Middle Age; Aged; Aged, 80 and Over; Funding Source
+Abstract:
+Background. Complications from skeletal-related events (SREs) constitute a challenge in the care of cancer patients with bone metastasis (BM). Objectives. This study evaluated the comparative effectiveness of pamidronate, ibandronate, zoledronate, and denosumab in reducing the morbidity of SREs in cancer patients with BM. Methods. Medline (1948 to January 2014), Embase (1980 to January 2014), the Cochrane Library (2014 issue 1), and Web of Science with Conference Proceedings (1970 to January 2014) were searched. Only randomized controlled trials assessing denosumab, bisphosphonates, or placebo in cancer patients with BM were included. The primary outcomes were SREs and SREs by type. The network meta-analysis (NMA) was performed with a random-effects Bayesian model. Results. The NMA included 14 trials with 10,192 patients. Denosumab was superior to placebo in reducing the risk of SREs (odds ratio [OR]: 0.49; 95% confidence interval [CI]: 0.31-0.75), followed by zoledronate (OR: 0.57; 95% CI: 0.41-0.77) and pamidronate (OR: 0.55; 95% CI: 0.41-0.72). Ibandronate compared with placebo could not reduce the risk of SREs. Denosumab was superior to placebo in reducing the risk of pathologic fractures (OR: 0.50; 95% CI: 0.32-0.79), followed by zoledronate (OR: 0.61; 95% CI: 0.43-0.86). Denosumab was superior to placebo in reducing the risk of radiation (OR: 0.51; 95% CI: 0.35-0.75), followed by pamidronate (OR: 0.67; 95% CI: 0.52-0.86) and zoledronate (OR: 0.70; 95% CI: 0.52-0.96). Conclusion. This NMA showed that denosumab, zoledronate, and pamidronate were generally effective in preventing SREs in cancer patients with BM. Denosumab and zoledronate were also associated with reductions in the risk of pathologic fractures and radiation compared with placebo. Denosumab was shown to be the most effective of the bone-targeted agents.
+Journal Subset:
+Biomedical; Blind Peer Reviewed; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice; Oncologic Care
+ISSN:
+1083-7159
+MEDLINE Info:
+PMID: 25732263 NLM UID: 9607837
+Grant Information:
+This study was funded by Natural Science Foundation of China Grant No. 81201628.
+Entry Date:
+20150515
+Revision Date:
+20150522
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1634/theoncologist.2014-0328
+Accession Number:
+2012991495
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012991495&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012991495&site=ehost-live">Systematic Literature Review and Network Meta-Analysis Comparing Bone-Targeted Agents for the Prevention of Skeletal-Related Events in Cancer Patients With Bone Metastasis.</A>
+Database:
+CINAHL Plus
+Record: 48
+Title:
+Systematic review and economic modelling of the relative clinical benefit and cost-effectiveness of laparoscopic surgery and robotic surgery for removal of the prostate in men with localised prostate cancer.
+Authors:
+Ramsay, C; Pickard, R; Robertson, C; Close, A; Vale, L; Armstrong, N; Barocas, D A; Eden, C G; Fraser, C; Gurung, T; Jenkinson, D; Jia, X; Lam, T B; Mowatt, G; Neal, D E; Robinson, M C; Royle, J; Rushton, S P; Sharma, P; Shirley, M D F; Soomro, N
+Affiliation:
+Health Services Research Unit, University of Aberdeen, Aberdeen, UK
+Source:
+Health Technology Assessment (HEALTH TECHNOL ASSESS), 2012; 16 (41): 1-313.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Laparoscopy -- Economics
+Models, Statistical
+Prostatectomy -- Economics
+Prostatic Neoplasms -- Surgery
+Robotics -- Economics
+Robotics -- Methods
+Minor Subjects:
+Cochrane Library; Cost Benefit Analysis; Embase; Human; Laparoscopy -- Methods; Male; Medline; Meta Analysis; Prostatectomy; Prostatectomy -- Methods; Prostatic Neoplasms -- Economics; Systematic Review; Treatment Outcomes
+Abstract:
+BACKGROUND: Complete surgical removal of the prostate, radical prostatectomy, is the most frequently used treatment option for men with localised prostate cancer. The use of laparoscopic (keyhole) and robot-assisted surgery has improved operative safety but the comparative effectiveness and cost-effectiveness of these options remains uncertain. OBJECTIVE: This study aimed to determine the relative clinical effectiveness and cost-effectiveness of robotic radical prostatectomy compared with laparoscopic radical prostatectomy in the treatment of localised prostate cancer within the UK NHS. DATA SOURCES: MEDLINE, MEDLINE In-Process & Other Non-Indexed Citations, EMBASE, BIOSIS, Science Citation Index and Cochrane Central Register of Controlled Trials were searched from January 1995 until October 2010 for primary studies. Conference abstracts from meetings of the European, American and British Urological Associations were also searched. Costs were obtained from NHS sources and the manufacturer of the robotic system. Economic model parameters and distributions not obtained in the systematic review were derived from other literature sources and an advisory expert panel. REVIEW METHODS: Evidence was considered from randomised controlled trials (RCTs) and non-randomised comparative studies of men with clinically localised prostate cancer (cT1 or cT2); outcome measures included adverse events, cancer related, functional, patient driven and descriptors of care. Two reviewers abstracted data and assessed the risk of bias of the included studies. For meta-analyses, a Bayesian indirect mixed-treatment comparison was used. Cost-effectiveness was assessed using a discrete-event simulation model. RESULTS: The searches identified 2722 potentially relevant titles and abstracts, from which 914 reports were selected for full-text eligibility screening. Of these, data were included from 19,064 patients across one RCT and 57 non-randomised comparative studies, with very few studies considered at low risk of bias. The results of this study, although associated with some uncertainty, demonstrated that the outcomes were generally better for robotic than for laparoscopic surgery for major adverse events such as blood transfusion and organ injury rates and for rate of failure to remove the cancer (positive margin) (odds ratio 0.69; 95% credible interval 0.51 to 0.96; probability outcome favours robotic prostatectomy = 0.987). The predicted probability of a positive margin was 17.6% following robotic prostatectomy compared with 23.6% for laparoscopic prostatectomy. Restriction of the meta-analysis to studies at low risk of bias did not change the direction of effect but did decrease the precision of the effect size. There was no evidence of differences in cancer-related, patient-driven or dysfunction outcomes. The results of the economic evaluation suggested that when the difference in positive margins is equivalent to the estimates in the meta-analysis of all included studies, robotic radical prostatectomy was on average associated with an incremental cost per quality-adjusted life-year that is less than threshold values typically adopted by the NHS (£30,000) and becomes further reduced when the surgical capacity is high. LIMITATIONS: The main limitations were the quantity and quality of the data available on cancer-related outcomes and dysfunction. CONCLUSIONS: This study demonstrated that robotic prostatectomy had lower perioperative morbidity and a reduced risk of a positive surgical margin compared with laparoscopic prostatectomy although there was considerable uncertainty. Robotic prostatectomy will always be more costly to the NHS because of the fixed capital and maintenance charges for the robotic system. Our modelling showed that this excess cost can be reduced if capital costs of equipment are minimised and by maintaining a high case volume for each robotic system of at least 100-150 procedures per year. This finding was primarily driven by a difference in positive margin rate. There is a need for further research to establish how positive margin rates impact on long-term outcomes. FUNDING: The National Institute for Health Research Health Technology Assessment programme.
+Journal Subset:
+Biomedical; Blind Peer Reviewed; Editorial Board Reviewed; Europe; Expert Peer Reviewed; Peer Reviewed; UK & Ireland
+Special Interest:
+Evidence-Based Practice
+ISSN:
+1366-5278
+MEDLINE Info:
+PMID: 23127367 NLM UID: 9706284
+Entry Date:
+20130426
+Revision Date:
+20130503
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.3310/hta16410
+Accession Number:
+2011922899
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011922899&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011922899&site=ehost-live">Systematic review and economic modelling of the relative clinical benefit and cost-effectiveness of laparoscopic surgery and robotic surgery for removal of the prostate in men with localised prostate cancer.</A>
+Database:
+CINAHL Plus
+Record: 49
+Title:
+Systematic Review and Network Meta-Analysis of Overall Survival Comparing 3 mg/kg Ipilimumab With Alternative Therapies in the Management of Pretreated Patients With Unresectable Stage III or IV Melanoma.
+Authors:
+Dequen, Pascale; Lorigan, Paul; Jansen, Jeroen P.; Van Baardewijk, Marc; Ouwens, Mario J. N. M.; Kotapati, Srividya
+Affiliation:
+MAPI Group, Houten, The Netherlands
+Department of Medical Oncology, The Christie NHS Foundation Trust, Manchester, UK
+MAPI Group, Boston, Massachusetts, USA
+Bristol-Myers Squibb, Braine-lÂ¿Alleud, Belgium
+Bristol-Myers Squibb, Wallingford, Connecticut, USA
+Source:
+Oncologist (ONCOLOGIST), 2012 Nov; 17 (11): 1376-85.
+Publication Type:
+journal article - meta analysis, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Ipilimumab -- Administration and Dosage
+Melanoma -- Drug Therapy
+Chemotherapy, Cancer
+Melanoma -- Therapy
+Survival
+Immunotherapy
+Minor Subjects:
+Human; Systematic Review; Meta Analysis; Kaplan-Meier Estimator; Confidence Intervals; Medline; Embase; Cochrane Library; Data Analysis Software; Descriptive Statistics; Adult; Middle Age; Male; Female
+Abstract:
+Objective. To compare the overall survival (OS) of patients treated with 3 mg/kg ipilimumab versus alternative systemic therapies in pretreated unresectable stage III or IV melanoma patients. Methods. A systematic literature search was performed to identify relevant randomized clinical trials. From these trials, Kaplan-Meier survival curves for each intervention were digitized and combined by means of a Bayesian network meta-analysis (NMA) to compare different drug classes. Results. Of 38 trials identified, 15 formed one interlinked network by drug class to allow for an NMA. Ipilimumab, at a dose of 3 mg/kg, was associated with a greater mean OS time (18.8 months; 95% credible interval [CrI], 15.5-23.0 months) than single-agent chemotherapy (12.3 months; 95% CrI, 6.3-28.0 months), chemotherapy combinations (12.2 months; 95% CrI, 7.1-23.3 months), biochemotherapies (11.9 months; 95% CrI, 7.0 -22.0 months), single-agent immunotherapy (11.1 months; 95% CrI, 8.5-16.2 months), and immunotherapy combinations (14.1 months; 95% CrI, 9.0 -23.8 months). Conclusion. Results of this NMA were in line with previous findings and suggest that OS with ipilimumab is expected to be greater than with alternative systemic therapies, alone or in combination, for the management of pretreated patients with unresectable stage III or IV melanoma.
+Journal Subset:
+Biomedical; Blind Peer Reviewed; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice; Oncologic Care
+ISSN:
+1083-7159
+MEDLINE Info:
+PMID: 23024154 NLM UID: 9607837
+Entry Date:
+20130104
+Revision Date:
+20150605
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1634/theoncologist.2011-0427
+Accession Number:
+2011787036
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011787036&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2011787036&site=ehost-live">Systematic Review and Network Meta-Analysis of Overall Survival Comparing 3 mg/kg Ipilimumab With Alternative Therapies in the Management of Pretreated Patients With Unresectable Stage III or IV Melanoma.</A>
+Database:
+CINAHL Plus
+
+
+
+Record: 51
+Title:
+Systemic antibiotics in the treatment of aggressive periodontitis. A systematic review and a Bayesian Network meta-analysis.
+Authors:
+Rabelo, Cleverton Correa; Feres, Magda; Gonçalves, Cristiane; Figueiredo, Luciene C.; Faveri, Marcelo; Tu, Yu-Kang; Chambrone, Leandro
+Affiliation:
+Division of Periodontics, Federal University of Juiz de Fora (UFJF)
+Dental Research Division, Department of Periodontology, Guarulhos University
+Institute of Epidemiology & Preventive Medicine, College of Public Health, National Taiwan University
+Department of Periodontics, College of Dentistry, The University of Iowa
+Source:
+Journal of Clinical Periodontology (J CLIN PERIODONTOL), 2015 Jul; 42 (7): 647-57.
+Publication Type:
+journal article - meta analysis, research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Aggressive Periodontitis -- Drug Therapy
+Antibiotics -- Therapeutic Use
+Minor Subjects:
+Human; Systematic Review; Meta Analysis; Medline; Embase; Databases; Funding Source; Root Planing
+Abstract:
+Aim The aim of this study was to assess the effect of systemic antibiotic therapy on the treatment of aggressive periodontitis (AgP). Methods This study was conducted and reported in accordance with the PRISMA statement. The MEDLINE, EMBASE and CENTRAL databases were searched up to June 2014 for randomized clinical trials comparing the treatment of subjects with AgP with either scaling and root planing ( SRP) alone or associated with systemic antibiotics. Bayesian network meta-analysis was prepared using the Bayesian random-effects hierarchical models and the outcomes reported at 6-month post-treatment. Results Out of 350 papers identified, 14 studies were eligible. Greater gain in clinical attachment ( CA) (mean difference [ MD]: 1.08 mm; p < 0.0001) and reduction in probing depth ( PD) ( MD: 1.05 mm; p < 0.00001) were observed for SRP + metronidazole (Mtz), and for SRP + Mtz + amoxicillin (Amx) ( MD: 0.45 mm, MD: 0.53 mm, respectively; p < 0.00001) than SRP alone/placebo. Bayesian network meta-analysis showed additional benefits in CA gain and PD reduction when SRP was associated with systemic antibiotics. Conclusions SRP plus systemic antibiotics led to an additional clinical effect compared with SRP alone in the treatment of AgP. Of the antibiotic protocols available for inclusion into the Bayesian network meta-analysis, Mtz and Mtz/Amx provided to the most beneficial outcomes.
+Journal Subset:
+Biomedical; Continental Europe; Europe; Expert Peer Reviewed; Peer Reviewed
+Special Interest:
+Dental Care; Evidence-Based Practice
+ISSN:
+0303-6979
+MEDLINE Info:
+NLM UID: 0425123
+Grant Information:
+The study was supported by the research grants 2012/09645-1 from Sao Paulo Research Foundation ~ (FAPESP, Brazil) and NSC101-2314- B-002-197-MY2 from the National Science Council in Taiwan.
+Entry Date:
+20150807
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1111/jcpe.12427
+Accession Number:
+2013097915
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2013097915&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2013097915&site=ehost-live">Systemic antibiotics in the treatment of aggressive periodontitis. A systematic review and a Bayesian Network meta-analysis.</A>
+Database:
+CINAHL Plus
+Record: 52
+Title:
+Treatments for Shoulder Impingement Syndrome: A PRISMA Systematic Review and Network Meta-Analysis.
+Authors:
+Dong, Wei; Goost, Hans; Lin, Xiang-Bo; Burger, Christof; Paul, Christian; Wang, Zeng-Li; Zhang, Tian-Yi; Jiang, Zhi-Chao; Welle, Kristian; Kabir, Koroush
+Affiliation:
+From the Department of Orthopedic and Trauma Surgery (WD, Z-LW, T-YZ), Central Hospital of PetroChina, Langfang, Hebei, China
+Source:
+Medicine (MEDICINE), 2015 Mar; 94 (10): e510.
+Publication Type:
+journal article - meta analysis, research, systematic review
+Language:
+English
+Major Subjects:
+Arthroscopy
+Shoulder Impingement Syndrome -- Therapy
+Therapeutic Exercise
+Minor Subjects:
+Acupuncture; Adrenal Cortex Hormones -- Administration and Dosage; Combined Modality Therapy; Decompression, Surgical -- Methods; Human; Meta Analysis; Pain Measurement; Professional Practice, Evidence-Based; Shoulder Impingement Syndrome -- Surgery; Systematic Review; Treatment Outcomes; Ultrasonic Therapy
+Abstract:
+Many treatments for shoulder impingement syndrome (SIS) are available in clinical practice; some of which have already been compared with other treatments by various investigators. However, a comprehensive treatment comparison is lacking.Several widely used electronic databases were searched for eligible studies. The outcome measurements were the pain score and the Constant-Murley score (CMS). Direct comparisons were performed using the conventional pair-wise meta-analysis method, while a network meta-analysis based on the Bayesian model was used to calculate the results of all potentially possible comparisons and rank probabilities.Included in the meta-analysis procedure were 33 randomized controlled trials involving 2300 patients. Good agreement was demonstrated between the results of the pair-wise meta-analyses and the network meta-analyses. Regarding nonoperative treatments, with respect to the pain score, combined treatments composed of exercise and other therapies tended to yield better effects than single-intervention therapies. Localized drug injections that were combined with exercise showed better treatment effects than any other treatments, whereas worse effects were observed when such injections were used alone. Regarding the CMS, most combined treatments based on exercise also demonstrated better effects than exercise alone. Regarding surgical treatments, according to the pain score and the CMS, arthroscopic subacromial decompression (ASD) together with treatments derived from it, such as ASD combined with radiofrequency and arthroscopic bursectomy, showed better effects than open subacromial decompression (OSD) and OSD combined with the injection of platelet-leukocyte gel. Exercise therapy also demonstrated good performance. Results for inconsistency, sensitivity analysis, and meta-regression all supported the robustness and reliability of these network meta-analyses.Exercise and other exercise-based therapies, such as kinesio taping, specific exercises, and acupuncture, are ideal treatments for patients at an early stage of SIS. However, low-level laser therapy and the localized injection of nonsteroidal anti-inflammatory drugs are not recommended. For patients who have a long-term disease course, operative treatments may be considered, with standard ASD surgery preferred over arthroscopic bursectomy and the open surgical technique for subacromial decompression. Notwithstanding, the choice of surgery should be made cautiously because similar outcomes may also be achieved by the implementation of exercise therapy.
+Journal Subset:
+Biomedical; Editorial Board Reviewed; Expert Peer Reviewed; Peer Reviewed; USA
+Special Interest:
+Evidence-Based Practice
+ISSN:
+0025-7974
+MEDLINE Info:
+PMID: 25761173 NLM UID: 2985248R
+Entry Date:
+20150522
+Revision Date:
+20150717
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1097/MD.0000000000000510
+Accession Number:
+2012935463
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012935463&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2012935463&site=ehost-live">Treatments for Shoulder Impingement Syndrome: A PRISMA Systematic Review and Network Meta-Analysis.</A>
+Database:
+CINAHL Plus
+Record: 53
+Title:
+Where errors occur in the preparation and administration of intravenous medicines: a systematic review and Bayesian analysis.
+Authors:
+McDowell SE; Mt-Isa S; Ashby D; Ferner RE
+Affiliation:
+West Midlands Centre for Adverse Drug Reactions, City Hospital, Birmingham B18 7QH, UK
+Source:
+Quality & Safety in Health Care (QUAL SAF HEALTH CARE), 2010 Aug; 19 (4): 341-5. (43 ref)
+Publication Type:
+journal article - research, systematic review, tables/charts
+Language:
+English
+Major Subjects:
+Intravenous Therapy
+Medication Errors
+Professional Practice, Evidence-Based
+Minor Subjects:
+Confidence Intervals; Drug Compounding -- Methods; Embase; Funding Source; Human; Medline; Models, Statistical -- Utilization; Odds Ratio; Probability; Sensitivity and Specificity
+Abstract:
+OBJECTIVE: To investigate the overall probability of error in preparing and administering intravenous medicines; to identify at which stage of the process an error is most likely to occur; and to determine the impact of error correction on the error probability. DESIGN: Systematic review and random-effects Bayesian conditional independence modelling. METHODS: Medline and EMBASE were searched for studies on intravenous medicines. The error rates of each stage were extracted. These, expert estimates, and error rates from generic tasks, were used in a Bayesian conditional independence model to find error 'hot-spots.' The main outcome measure was the probability of at least one error occurring during intravenous therapy. RESULTS: Nine published studies were identified for inclusion in the systematic review and meta-analysis. The overall probability of making at least one error in intravenous therapy was 0.73 (95% credible interval (CrI) 0.54 to 0.90). If error-checking was introduced at each stage of the process, the overall rate fell to 0.22 (95% CrI 0.14 to 0.31). Errors were most likely in the reconstitution step. Removing the reconstitution step by providing preprepared injections would reduce the overall error rate to 0.17 (95% CrI 0.09 to 0.27). CONCLUSIONS: Intravenous therapy is complex and error-prone. Error-checking at each stage could reduce the error probability. The use of preprepared injections may help by eliminating errors in the reconstitution of drug and diluent. However, it will be important to ensure that benefits are not outweighed by practical disadvantages such as an increase in selection errors.
+Journal Subset:
+Blind Peer Reviewed; Europe; Expert Peer Reviewed; Health Services Administration; Peer Reviewed; UK & Ireland
+Special Interest:
+Evidence-Based Practice; Patient Safety; Quality Assurance
+ISSN:
+1475-3898
+MEDLINE Info:
+PMID: 20065297 NLM UID: 101136980
+Grant Information:
+Antidote Trust Fund of Sandwell and West Birmingham Hospitals NHS Trust
+Entry Date:
+20101022
+Revision Date:
+20110916
+DOI:
+http://dx.doi.org.ezproxy.kingston.ac.uk/10.1136/qshc.2008.029785
+Accession Number:
+2010765106
+Persistent link to this record (Permalink):
+http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010765106&site=ehost-live
+Cut and Paste:
+<A href="http://search.ebscohost.com.ezproxy.kingston.ac.uk/login.aspx?direct=true&db=jlh&AN=2010765106&site=ehost-live">Where errors occur in the preparation and administration of intravenous medicines: a systematic review and Bayesian analysis.</A>
+Database:
+CINAHL Plus
+
+Back

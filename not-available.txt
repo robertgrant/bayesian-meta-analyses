@@ -1,0 +1,325 @@
+1. how many meta-analyses in biomedical topics have used Bayesian methods?
+2. how reproducible are the meta-analyses:
+2a. is code provided?
+2b. are data provided?
+2c. is the software version named? What software was used, and is it open-source?
+3. what "ancestors" [Arksey & O'Malley] are cited for Bayesian MA?
+4. what problems is it used for?
+5. do the authors report it as successful?
+6. what sort of model is employed?
+7. what sort of priors are employed?
+8a. did they use both frequentist and Bayesian versions of the same analysis?
+8b. if so, do they justify this?
+9. which specialisms and/or disease areas have made use of Bayes MA?
+
+
+medline 45 CMRO 30(8): A network meta-analysis of the efficacy of belatacept, cyclosporine and tacrolimus for immunosuppression therapy in adult renal transplant recipients
+2a no
+2b yes
+2c no
+3 report of the ispor task force (Value Health 2011;14:417-28&429-37.)
+4 nma, reporting prob of each tx being best
+5 yes
+6 nma + meta-regression (logistic and linear for diff outcomes)
+7 'uninformed' + some change to explore assumptions about tau (no clearer than that; details form authors on request)
+8a yes
+8b pairwise and multiple comparisons; pairwise is to allow comparison with previously published MA
+
+
+medline 55 CMRO 30(6): Comparative efficacy, acceptability, and safety of medicinal, cognitive-behavioral therapy, and placebo treatments for acute major depressive disorder in children and adolescents: a multiple-treatments meta-analysis
+2a no
+2b yes
+2c WinBUGS
+3 Salanti SMMR2008;17:279-301.
+4 nma, reporting prob of each tx being best
+5 yes
+6 multiple treatments meta analysis ("MTM")
+7 not mentioned
+8a yes
+8b not stated
+
+
+medline 73 CMRO 30(3): Comparison of the efficacy and safety of low molecular weight heparins for venous
+thromboembolism prophylaxis in medically ill patients.
+2a no
+2b yes
+2c WinBUGS
+3 Lu & Ades 2004
+4 nma
+5 mixed
+6 random
+7 not mentioned
+8a yes
+8b 'to determine the relative efficacy and safety'
+
+
+medline 122 CMRO 29(8): The efficacy and tolerability of perampanel and other recently approved
+anti-epileptic drugs for the treatment of refractory partial onset seizure: a
+systematic review and Bayesian network meta-analysis.
+2a no
+2b somewhat; only in the basic Stata plots
+2c WinBUGS
+3 Bucher JClinEpi1997;50:683-91.
+4 nma
+5 yes
+6 fixed and random effects, compared by DIC. BGR for convergence. Some sensitivity analyses for inclusion of data.
+7 "non-informative or vague"
+8a yes
+8b not stated
+
+
+medline 152 Int J Vitam Nutr Res 83(2): Protective effects of vitamin E on chemotherapy-induced peripheral neuropathy: a meta-analysis of randomized controlled trials.
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b
+
+
+medline 179 Thomb Haemost 108(2): Network meta-analysis of prasugrel, ticagrelor, high- and standard-dose
+clopidogrel in patients scheduled for percutaneous coronary interventions.
+2a no
+2b no
+2c WinBUGS
+3 Jones, Roger PharmStat2011;10:523-31. Sutton & Abrams 2001. NICE DSU. ISPOR.
+4 nma
+5 yes
+6 not stated , BGR for convergence
+7 'noninformative previous distributions'
+8a yes
+8b ranking probabilities
+
+
+medline 203 Opthalmology 119(3): Age and gender variations in age-related macular degeneration prevalence in
+populations of European ancestry: a meta-analysis.
+2a no
+2b not enough
+2c WinBUGS
+3 none given except previous applied work by authors
+4 accounting for age subgroups where not all studies report all groups, and for study characteristics contributing to heterogeneity
+5 yes
+6 hierarchical, with study characteristics as covariates, and results broken down by age groups (hence heirarchical)
+7 noninformative normal / gamma
+8a no
+8b
+
+
+medline 212 J Clin Psychopharmacol 31(6): A Review and Bayesian Meta-Analysis of Clinical Efficacy and Adverse Effects of 4 Atypical Neuroleptic Drugs Compared With Haloperidol and Placebo
+2a no; some algebra in appendix but not all aspects of the model are addressed
+2b no
+2c no
+3 only spiegelhalter, myles, jones 1999 (generic bayesian overview)
+4 nma + ranking prob
+5 yes
+6 random intercept (reading between the lines)
+7 uniform
+8a no
+8b
+
+
+medline 217 HIV Clin Trials 12(4): Comparative effectiveness of efavirenz, protease inhibitors, and
+raltegravir-based regimens as first-line treatment for HIV-infected adults: a
+mixed treatment comparison.
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b
+
+
+medline 230 Curr Drug Targets 12(2): Pharmacological treatments for neovascular age-related macular degeneration: can mixed treatment comparison meta-analysis be useful?
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b
+
+
+medline 237 CMRO 27(1): Mixed treatment comparison of a two-compound formulation (TCF) product containing
+calcipotriol and betamethasone dipropionate with other topical treatments in
+psoriasis vulgaris.
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b
+
+
+medline 250 CMRO 26(7): Comparative effectiveness of antibiotics for the treatment of MRSA complicated skin and soft tissue infections.
+2a yes (algebra)
+2b yes
+2c WinBUGS
+3 Warn, Thompson, Spiegelhalter 2002; Stangl & Berry 2000 (book); Sutton et al 2000 (book)
+4 nma
+5 yes
+6 random effects nma
+7 vague normal for average pt characteristics but gamma(1,1) for dose effects assumed to be directional
+8a no
+8b
+
+
+medline 252 CMRO 26(5): Efficacy of vitamin D3 supplementation in preventing fractures in elderly women: a meta-analysis.
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b
+
+
+medline 258 CMRO 26(1): Comparative efficacy and acceptability of pharmacotherapeutic agents for anxiety
+disorders in children and adolescents: a mixed treatment comparison
+meta-analysis.
+2a no
+2b yes
+2c WinBUGS
+3 Caldwell, Ades, Higgins 2005; Lu, Ades 2004; Cooper et al Arch INtern Med 2006;166:1269-75.
+4 mtc + rank prob
+5 yes but caution about RCTs not powered for adverse events
+6 not stated
+7 not stated
+8a no
+8b
+
+
+medline 268 Med Care 47(10): Modeling the value for money of changing clinical practice change: a stochastic application in diabetes care.
+2a no
+2b posisbly in appendix A at http://links.lww.com/A1243
+2c WinBUGS
+3 Cooper, Sutton, Abrams. Health Econ 2004;13:203-226.
+4 MA + cost-effectiveness acceptability
+5 yes (but the effectiveness data are from 2 studies, and there are strong assumptions in the costs)
+6 random effects
+7 not stated
+8a no
+8b
+
+
+medline 277 Eur J Gastroenter Hepatol 21(3): Spontaneous regression of hepatocellular carcinoma: a systematic review.
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b
+
+
+medline 283 J Am Coll Cardiol 53(4): Meta-analysis of the relationship between non-high-density lipoprotein cholesterol reduction and coronary heart disease risk.
+2a no
+2b yes
+2c WinBUGS
+3 Smith, Spiegelhalter, Thomas 1995
+4 MA adjusting for study duration
+5 yes
+6 random effects. Bayes factors.
+7 vague
+8a no but they used Cochran's Q to get a sig/non-sig decision on heterogeneity, which seems odd.
+8b
+
+
+medline 296 J Biopharm Stat 18(6): A Bayesian meta-analysis on published sample mean and variance pharmacokinetic data with application to drug-drug interaction prediction.
+LARGELY METHODOLOGICAL
+2a no
+2b no
+2c not clear, possibly from scratch, using R
+3 StatMed 2007;26:3700-21.
+4 PK
+5 yes
+6 "three-level hierarchical Bayesian meta-analysis" (but the three include prior distributions ???)
+7 not clear: derived generally because of th methodological focus
+8a no
+8b
+
+
+medline 306 CMRO 23(9): Comparison of pegfilgrastim with filgrastim on febrile neutropenia, grade IV neutropenia and bone pain: a meta-analysis of randomized controlled trials.
+PROBABLY NOT RELEVANT - "CONSERVATIVE EMPIRICAL BAYES METHOD OF HEDGES AND OLKIN"
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b
+
+
+medline 315 Int J Technol Assess Health Care 22(4): Reanalysis of systematic reviews: the case of invasive strategies for acute coronary syndromes.
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b
+
+
+cinahl 1 JHSRP 14(4): A Bayesian method for the synthesis of evidence from qualitative and quantitative reports: the example of antiretroviral medication adherence.
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b
+
+
+cinahl 4 CMRO 30(8): A network meta-analysis of the efficacy of belatacept, cyclosporine and tacrolimus for immunosuppression therapy in adult renal transplant recipients.
+2a no
+2b yes
+2c not stated
+3 Dias Sutton & Ades. Med Decis Mak  2013
+4 nma
+5 yes
+6 nma
+7 not stated
+8a yes
+8b not clear
+
+
+cinahl 12 CNS Spectrums: The International Journal of Neuropsychiatric Medicine (CNS SPECTRUMS) 17 (3): An indirect comparison of the efficacy and safety of desvenlafaxine and venlafaxine using placebo as the common comparator.
+2a
+2b
+2c
+3
+4
+5
+6
+7
+8a
+8b

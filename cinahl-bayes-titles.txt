@@ -1,0 +1,53 @@
+A Bayesian method for the synthesis of evidence from qualitative and quantitative reports: the example of antiretroviral medication adherence.
+A bayesian network meta-analysis on comparisons of enamel matrix derivatives, guided tissue regeneration and their combination therapies.
+A network meta-analysis of progression free survival and overall survival in first-line treatment of chronic lymphocytic leukemia.
+A network meta-analysis of the efficacy of belatacept, cyclosporine and tacrolimus for immunosuppression therapy in adult renal transplant recipients.
+A network meta-analysis on comparative efficacy and all-cause discontinuation of antimanic treatments in acute bipolar mania.
+A new statistical trend in clinical research - Bayesian statistics.
+A Primer on Network Meta-Analysis for Dental Research.
+A systematic review and Bayesian network meta-analysis of randomized clinical trials on non-surgical treatments for peri-implantitis.
+A Systematic Review and Mixed Treatment Comparison of the Efficacy of Pharmacological Treatments for Fibromyalgia.
+Accounting for model uncertainty in estimating global burden of disease.
+Adjuvant treatments for resected pancreatic adenocarcinoma: a systematic review and network meta-analysis.
+An indirect comparison of the efficacy and safety of desvenlafaxine and venlafaxine using placebo as the common comparator.
+Aspirin for the Primary Prevention of Cardiovascular Events: A systematic review and meta-analysis comparing patients with and without diabetes.
+Bayesian bivariate meta-analysis of sensitivity and specificity: summary of quantitative findings in 50 meta-analyses.
+Bayesian network meta-analysis of root coverage procedures: ranking efficacy and identification of best treatment.
+Cancer incidence among female flight attendants: a meta-analysis of published data.
+Cardiovascular disease and vitamin D supplementation: trial analysis, systematic review, and meta-analysis.
+Comparative Effectiveness of Pharmacologic Interventions for Knee Osteoarthritis: A Systematic Review and Network Meta-analysis.
+Comparative Efficacy and Risk of Harms of Immediate- versus Extended-Release Second-Generation Antidepressants: A Systematic Review with Network Meta-Analysis.
+Comparative Efficacy and Safety of Selective Serotonin Reuptake Inhibitors and Serotonin-Norepinephrine Reuptake Inhibitors in Older Adults: A Network Meta-Analysis.
+Comparative Efficacy of Biologic Therapy in Biologic-Naïve Patients With Crohn Disease: A Systematic Review and Network Meta-analysis.
+Comparing the effectiveness of competing tests for reducing colorectal cancer mortality: a network meta-analysis.
+Comparison of the efficacy and safety of low molecular weight heparins for venous thromboembolism prophylaxis in medically ill patients.
+Coronally Advanced Flaps (CAF) Plus Connective Tissue Graft (CTG) Is the Gold Standard for Treatment of Miller Class I and II Gingival Defects.
+Coronary Revascularization in Diabetic Patients: A Systematic Review and Bayesian Network Meta-analysis.
+Cost-effectiveness of radiofrequency catheter ablation for the treatment of atrial fibrillation in the United Kingdom.
+Diagnostic accuracy of endoscopic ultrasonography (EUS) for the preoperative locoregional staging of primary gastric cancer.
+Diagnostic accuracy of noninvasive fetal Rh genotyping from maternal blood--a meta-analysis.
+Discordance in Hormone Receptor Status Among Primary, Metastatic, and Second Primary Breast Cancers: Biological Difference or Misclassification?
+Early high-dose lipid-lowering therapy to avoid cardiac events: a systematic review and economic evaluation.
+Effect of early and late GB virus C viraemia on survival of HIV-infected individuals: a meta-analysis.
+Effect of initial treatment strategy on survival of patients with advanced-stage Hodgkin's lymphoma: a systematic review and network meta-analysis.
+Efficacy of periodontal plastic procedures in the treatment of multiple gingival recessions.
+Efficacy of telaprevir and boceprevir in treatment-naïve and treatment-experienced genotype 1 chronic hepatitis C patients: an indirect comparison using Bayesian network meta-analysis.
+Evidence based policy decisions through a Bayesian approach: the case of a statin appraisal in the Netherlands.
+Flexible sigmoidoscopy versus faecal occult blood testing for colorectal cancer screening in asymptomatic individuals.
+Health-related quality of life in systemic sclerosis: A systematic review.
+Immunomodulators and immunosuppressants for multiple sclerosis: a network meta-analysis.
+Impact of intraoperative stimulation brain mapping on glioma surgery outcome: a meta-analysis.
+In-office treatment for dentin hypersensitivity: a systematic review and network meta-analysis.
+Interventions for treating displaced midshaft clavicular fractures: a bayesian network meta-analysis of randomized controlled trials.
+Linear mixed model approach to network meta-analysis for continuous outcomes in periodontal research.
+Maternal obesity and risk of gestational diabetes mellitus.
+Methods to decrease blood loss during liver resection: a network meta-analysis.
+Spontaneous regression of hepatocellular carcinoma: a systematic review.
+Sunburns and risk of cutaneous melanoma: does age matter? A comprehensive meta-analysis.
+Systematic Literature Review and Network Meta-Analysis Comparing Bone-Targeted Agents for the Prevention of Skeletal-Related Events in Cancer Patients With Bone Metastasis.
+Systematic review and economic modelling of the relative clinical benefit and cost-effectiveness of laparoscopic surgery and robotic surgery for removal of the prostate in men with localised prostate cancer.
+Systematic Review and Network Meta-Analysis of Overall Survival Comparing 3 mg/kg Ipilimumab With Alternative Therapies in the Management of Pretreated Patients With Unresectable Stage III or IV Melanoma.
+Systematic review, meta-analysis and economic modelling of diagnostic strategies for suspected acute coronary syndrome.
+Systemic antibiotics in the treatment of aggressive periodontitis. A systematic review and a Bayesian Network meta-analysis.
+Treatments for Shoulder Impingement Syndrome: A PRISMA Systematic Review and Network Meta-Analysis.
+Where errors occur in the preparation and administration of intravenous medicines: a systematic review and Bayesian analysis.

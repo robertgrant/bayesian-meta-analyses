@@ -1,0 +1,184 @@
+CINAHL item #3 matches MEDLINE item #16
+########## CINAHL line 3##########
+A network meta-analysis of progression free survival and overall survival in first-line treatment of chronic lymphocytic leukemia.
+Ladyzynski, Piotr; Molik, Maria; Foltynski, Piotr
+########## MEDLINE line 16##########
+A network meta-analysis of progression free survival and overall survival in first-line treatment of chronic lymphocytic leukemia.
+Ladyzynski P(1), Molik M(2), Foltynski P(3).
+
+CINAHL item #4 matches MEDLINE item #45
+########## CINAHL line 4##########
+A network meta-analysis of the efficacy of belatacept, cyclosporine and tacrolimus for immunosuppression therapy in adult renal transplant recipients.
+Goring, Sarah M; Levy, Adrian R; Ghement, Isabella; Kalsekar, Anupama; Eyawo, Oghenowede; L'Italien, Gilbert J; Kasiske, Bertram
+########## MEDLINE line 45##########
+A network meta-analysis of the efficacy of belatacept, cyclosporine and tacrolimus for immunosuppression therapy in adult renal transplant recipients.
+Goring SM(1), Levy AR, Ghement I, Kalsekar A, Eyawo O, L'Italien GJ, Kasiske B.
+
+CINAHL item #8 matches MEDLINE item #36
+########## CINAHL line 8##########
+A systematic review and Bayesian network meta-analysis of randomized clinical trials on non-surgical treatments for peri-implantitis.
+Faggion, Clovis M.; Listl, Stefan; Frühauf, Nadine; Chang, Huei-Ju; Tu, Yu-Kang
+########## MEDLINE line 36##########
+A systematic review and Bayesian network meta-analysis of randomized clinical trials on non-surgical treatments for peri-implantitis.
+Faggion CM Jr(1), Listl S, Frühauf N, Chang HJ, Tu YK.
+
+CINAHL item #10 matches MEDLINE item #229
+########## CINAHL line 10##########
+Accounting for model uncertainty in estimating global burden of disease.
+Vock, David M.; Atchison, Elizabeth A.; Legler, Julie M.; McClure, David R. J.; Carlyle, Jamie C.; Jeavons, Elysia N.; Burton, Anthony H.
+########## MEDLINE line 229##########
+Accounting for model uncertainty in estimating global burden of disease.
+Vock DM(1), Atchison EA, Legler JM, McClure DR, Carlyle JC, Jeavons EN, Burton AH.
+
+CINAHL item #15 matches MEDLINE item #139
+########## CINAHL line 15##########
+Bayesian network meta-analysis of root coverage procedures: ranking efficacy and identification of best treatment.
+Buti, Jacopo; Baccini, Michela; Nieri, Michele; La Marca, Michele; Pini-Prato, Giovan P.
+########## MEDLINE line 139##########
+Bayesian network meta-analysis of root coverage procedures: ranking efficacy and identification of best treatment.
+Buti J(1), Baccini M, Nieri M, La Marca M, Pini-Prato GP.
+
+CINAHL item #16 matches MEDLINE item #327
+########## CINAHL line 16##########
+Cancer incidence among female flight attendants: a meta-analysis of published data.
+Buja A; Mastrangelo G; Perissinotto E; Grigoletto F; Frigo AC; Rausa G; Marin V; Canova C; Dominici F
+########## MEDLINE line 327##########
+Cancer incidence among female flight attendants: a meta-analysis of published data.
+Buja A(1), Mastrangelo G, Perissinotto E, Grigoletto F, Frigo AC, Rausa G, Marin V, Canova C, Dominici F.
+
+CINAHL item #17 matches MEDLINE item #41
+########## CINAHL line 17##########
+Cardiovascular disease and vitamin D supplementation: trial analysis, systematic review, and meta-analysis.
+Ford, John A.; MacLennan, Graeme S.; Avenell, Alison; Bolland, Mark; Grey, Andrew; Witham, Miles
+########## MEDLINE line 41##########
+Cardiovascular disease and vitamin D supplementation: trial analysis, systematic review, and meta-analysis.
+Ford JA(1), MacLennan GS(1), Avenell A(1), Bolland M(1), Grey A(1), Witham M(1); RECORD Trial Group.
+
+CINAHL item #23 matches MEDLINE item #73
+########## CINAHL line 23##########
+Comparison of the efficacy and safety of low molecular weight heparins for venous thromboembolism prophylaxis in medically ill patients.
+Dooley, Christopher; Kaur, Rajbir; Sobieraj, Diana M
+########## MEDLINE line 73##########
+Comparison of the efficacy and safety of low molecular weight heparins for venous thromboembolism prophylaxis in medically ill patients.
+Dooley C(1), Kaur R, Sobieraj DM.
+
+CINAHL item #26 matches MEDLINE item #275
+########## CINAHL line 26##########
+Cost-effectiveness of radiofrequency catheter ablation for the treatment of atrial fibrillation in the United Kingdom.
+McKenna C; Palmer S; Rodgers M; Chambers D; Hawkins N; Golder S; Van Hout S; Pepper C; Todd D; Woolacott N
+########## MEDLINE line 275##########
+Cost-effectiveness of radiofrequency catheter ablation for the treatment of atrial fibrillation in the United Kingdom.
+McKenna C(1), Palmer S, Rodgers M, Chambers D, Hawkins N, Golder S, Van Hout S, Pepper C, Todd D, Woolacott N.
+
+CINAHL item #27 matches MEDLINE item #14
+########## CINAHL line 27##########
+Diagnostic accuracy of endoscopic ultrasonography (EUS) for the preoperative locoregional staging of primary gastric cancer.
+Mocellin S; Pasquali S
+########## MEDLINE line 14##########
+Diagnostic accuracy of endoscopic ultrasonography (EUS) for the preoperative locoregional staging of primary gastric cancer.
+Mocellin S(1), Pasquali S.
+
+CINAHL item #28 matches MEDLINE item #314
+########## CINAHL line 28##########
+Diagnostic accuracy of noninvasive fetal Rh genotyping from maternal blood--a meta-analysis.
+Geifman-Holtzman O; Grotegut CA; Gaughan JP
+########## MEDLINE line 314##########
+Diagnostic accuracy of noninvasive fetal Rh genotyping from maternal blood--a meta-analysis.
+Geifman-Holtzman O(1), Grotegut CA, Gaughan JP.
+
+CINAHL item #31 matches MEDLINE item #323
+########## CINAHL line 31##########
+Effect of early and late GB virus C viraemia on survival of HIV-infected individuals: a meta-analysis.
+Zhang W; Chaloner K; Tillmann HL; Williams CF; Stapleton JT
+########## MEDLINE line 323##########
+Effect of early and late GB virus C viraemia on survival of HIV-infected individuals: a meta-analysis.
+Zhang W(1), Chaloner K, Tillmann HL, Williams CF, Stapleton JT.
+
+CINAHL item #32 matches MEDLINE item #118
+########## CINAHL line 32##########
+Effect of initial treatment strategy on survival of patients with advanced-stage Hodgkin's lymphoma: a systematic review and network meta-analysis.
+Skoetz, Nicole; Trelle, Sven; Rancea, Michaela; Haverkamp, Heinz; Diehl, Volker; Engert, Andreas; Borchmann, Peter
+########## MEDLINE line 118##########
+Effect of initial treatment strategy on survival of patients with advanced-stage Hodgkin's lymphoma: a systematic review and network meta-analysis.
+Skoetz N(1), Trelle S, Rancea M, Haverkamp H, Diehl V, Engert A, Borchmann P.
+
+CINAHL item #34 matches MEDLINE item #165
+########## CINAHL line 34##########
+Efficacy of telaprevir and boceprevir in treatment-naïve and treatment-experienced genotype 1 chronic hepatitis C patients: an indirect comparison using Bayesian network meta-analysis.
+Cure S; Diels J; Gavart S; Bianic F; Jones E
+########## MEDLINE line 165##########
+Efficacy of telaprevir and boceprevir in treatment-naïve and treatment-experienced genotype 1 chronic hepatitis C patients: an indirect comparison using Bayesian network meta-analysis.
+Cure S(1), Diels J, Gavart S, Bianic F, Jones E.
+
+CINAHL item #36 matches MEDLINE item #109
+########## CINAHL line 36##########
+Flexible sigmoidoscopy versus faecal occult blood testing for colorectal cancer screening in asymptomatic individuals.
+Holme Ø; Bretthauer M; Fretheim A; Odgaard-Jensen J; Hoff G
+########## MEDLINE line 109##########
+Flexible sigmoidoscopy versus faecal occult blood testing for colorectal cancer screening in asymptomatic individuals.
+Holme Ø, Bretthauer M, Fretheim A, Odgaard-Jensen J, Hoff G.
+
+CINAHL item #38 matches MEDLINE item #127
+########## CINAHL line 38##########
+Immunomodulators and immunosuppressants for multiple sclerosis: a network meta-analysis.
+Filippini G; Del Giovane C; Vacchi L; D'Amico R; Di Pietrantonj C; Beecher D; Salanti G
+########## MEDLINE line 127##########
+Immunomodulators and immunosuppressants for multiple sclerosis: a network meta-analysis.
+Filippini G(1), Del Giovane C, Vacchi L, D'Amico R, Di Pietrantonj C, Beecher D, Salanti G.
+
+CINAHL item #39 matches MEDLINE item #180
+########## CINAHL line 39##########
+Impact of intraoperative stimulation brain mapping on glioma surgery outcome: a meta-analysis.
+De Witt Hamer PC; Robles SG; Zwinderman AH; Duffau H; Berger MS
+########## MEDLINE line 180##########
+Impact of intraoperative stimulation brain mapping on glioma surgery outcome: a meta-analysis.
+De Witt Hamer PC(1), Robles SG, Zwinderman AH, Duffau H, Berger MS.
+
+CINAHL item #40 matches MEDLINE item #153
+########## CINAHL line 40##########
+In-office treatment for dentin hypersensitivity: a systematic review and network meta-analysis.
+Lin, Po-Yen; Cheng, Ya-Wen; Chu, Chia-Yi; Chien, Kuo-Liong; Lin, Chun-Pin; Tu, Yu-Kang
+########## MEDLINE line 153##########
+In-office treatment for dentin hypersensitivity: a systematic review and network meta-analysis.
+Lin PY(1), Cheng YW, Chu CY, Chien KL, Lin CP, Tu YK.
+
+CINAHL item #41 matches MEDLINE item #11
+########## CINAHL line 41##########
+Interventions for treating displaced midshaft clavicular fractures: a bayesian network meta-analysis of randomized controlled trials.
+Wang, Jia; Meng, Xiao-Hui; Guo, Zhi-Ming; Wu, Ying-Hua; Zhao, Jia-Guo
+########## MEDLINE line 11##########
+Interventions for treating displaced midshaft clavicular fractures: a Bayesian network meta-analysis of randomized controlled trials.
+Wang J(1), Meng XH, Guo ZM, Wu YH, Zhao JG.
+
+CINAHL item #43 matches MEDLINE item #309
+########## CINAHL line 43##########
+Maternal obesity and risk of gestational diabetes mellitus.
+Chu SY; Callaghan WM; Kim SY; Schmid CH; Lau J; England LJ; Dietz PM
+########## MEDLINE line 309##########
+Maternal obesity and risk of gestational diabetes mellitus.
+Chu SY(1), Callaghan WM, Kim SY, Schmid CH, Lau J, England LJ, Dietz PM.
+
+CINAHL item #45 matches MEDLINE item #277
+########## CINAHL line 45##########
+Spontaneous regression of hepatocellular carcinoma: a systematic review.
+Oquiñena S; Guillen-Grima F; Iñarrairaegui M; Zozaya JM; Sangro B
+########## MEDLINE line 277##########
+Spontaneous regression of hepatocellular carcinoma: a systematic review.
+Oquiñena S(1), Guillen-Grima F, Iñarrairaegui M, Zozaya JM, Sangro B.
+
+CINAHL item #46 matches MEDLINE item #287
+########## CINAHL line 46##########
+Sunburns and risk of cutaneous melanoma: does age matter? A comprehensive meta-analysis.
+Dennis LK; Vanbeek MJ; Freeman LEB; Smith BJ; Dawson DV; Coughlin JA
+########## MEDLINE line 287##########
+Sunburns and risk of cutaneous melanoma: does age matter? A comprehensive meta-analysis.
+Dennis LK(1), Vanbeek MJ, Beane Freeman LE, Smith BJ, Dawson DV, Coughlin JA.
+
+CINAHL item #50 matches MEDLINE item #150
+########## CINAHL line 50##########
+Systematic review, meta-analysis and economic modelling of diagnostic strategies for suspected acute coronary syndrome.
+Goodacre S; Thokala P; Carroll C; Stevens J; Leaviss J; Al Khalaf M; Collinson P; Morris F; Evans P; Wang J
+########## MEDLINE line 150##########
+Systematic review, meta-analysis and economic modelling of diagnostic strategies for suspected acute coronary syndrome.
+Goodacre S(1), Thokala P, Carroll C, Stevens JW, Leaviss J, Al Khalaf M, Collinson P, Morris F, Evans P, Wang J.
+
