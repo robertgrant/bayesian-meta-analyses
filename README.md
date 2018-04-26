@@ -63,3 +63,8 @@ I did this:
 * check Bayesian abstracts for non-Bayes, methodological and other exclusions, then add to **allfacts-updated.xlsx**
 * for all years, classification as NMAs or not is in **nma.csv**
 * update stats and charts
+
+Credit where it's due
+--------
+
+Painful though it is to open up every excrescence of this organically-evolving and ugly process here, I hope it makes it possible to retrace my steps, or to adapt my code, or just inspires someone else to do the same. Reproducible research matters. I reviewed a lot of poor papers for this project, and one stood out head and shoulders above the rest for transparency and completeness of publication in print and online; that was the work of PyMC3 dev Chris Fonnesbeck. His work inspired me to do this.
