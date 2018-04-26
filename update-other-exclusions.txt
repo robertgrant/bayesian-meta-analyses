@@ -1,0 +1,9 @@
+Other update search exclusions
+
+cinahl bayes "Linear mixed model approach to network meta-analysis for continuous outcomes in periodontal research", medline 170, 216, 281, 298, 325, 351 - methodological
+medline 97, 107, 155, 255, 258, 271, 286, 338 - non-human
+medline 132, 171 - not MA
+medline 133, 139, 152, 202, 203, 205, 209, 230, 246, 251, 261, 319, 330, 331 - protocol
+medline 137, 145, 342 - foreign language
+medline 151 - retracted
+medline 168, 240, 290, 315 - not Bayes

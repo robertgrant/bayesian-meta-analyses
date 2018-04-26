@@ -1,0 +1,1221 @@
+1
+Tektonidou MG(1), Lewandowski LB(2), Hu J(2), Dasgupta A(2), Ward MM(2)
+
+2
+Guo WQ(1), Li L(2), Su Q(1), Dai WR(1), Ye ZL(1)
+
+3
+Zeng W(1), Liu Z(2), Dai H(1), Yan M(1), Luo H(1), Ke M(1), Cai X(3)
+
+4
+Drake MJ(1), Nitti VW(2), Ginsberg DA(3), Brucker BM(4), Hepp Z(5), McCool R(6),
+Glanville JM(6), Fleetwood K(7), James D(7), Chapple CR(8)
+
+5
+Calzetta L(1), Roncada P(2), di Cave D(3), Bonizzi L(4), Urbani A(5), Pistocchin
+E(6), Rogliani P(1), Matera MG(7)
+
+6
+Crichton JCI(1), Naidoo K, Yet B, Brundage SI, Perkins Z
+
+7
+Kang JH(1), Le QA
+
+8
+Croles FN(1), Nasserinejad K(2), Duvekot JJ(3), Kruip MJ(2), Meijer K(4), Leebee
+FW(2)
+
+9
+
+10
+Gong X(1), Tang S(2), Li J(1), Zhang X(1), Tian X(1), Ma S(1)
+
+11
+Leucht S(1), Leucht C(1), Huhn M(1), Chaimani A(1), Mavridis D(1), Helfer B(1)
+Samara M(1), Rabaioli M(1), Bächer S(1), Cipriani A(1), Geddes JR(1), Salant
+G(1), Davis JM(1)
+
+12
+Nagappa M(1), Patra J, Wong J, Subramani Y, Singh M, Ho G, Wong DT, Chung F
+
+13
+Corbett M(1), Chehadah F(2), Biswas M(1), Moe-Byrne T(1), Palmer S(2), Soare
+M(2), Walton M(1), Harden M(1), Ho P(3), Woolacott N(1), Bojke L(2)
+
+14
+Katsanos K(1)(2), Kitrou P(1), Spiliopoulos S(3), Maroulis I(4), Petsas T(1)
+Karnabatidis D(1)
+
+15
+Merckx J(1), Wali R(1), Schiller I(1), Caya C(1), Gore GC(1), Chartrand C(1)
+Dendukuri N(1), Papenburg J(1)
+
+16
+Amzal B(1), Fu S(1), Meng J(1), Lister J(1), Karcher H(1)
+
+17
+Friedman DJ(1), Al-Khatib SM(1), Zeitler EP(1), Han J(2), Bardy GH(2), Pool
+JE(2), Bigger JT(3), Buxton AE(4), Moss AJ(5), Lee KL(6), Steinman R(3), Doria
+P(7), Cappato R(8), Kadish AH(9), Kudenchuk PJ(2), Mark DB(1), Inoue LYT(2)
+Sanders GD(10)
+
+18
+Nelson AD(1), Camilleri M(1), Chirapongsathorn S(1), Vijayvargiya P(1), Valentin
+N(1), Shin A(2), Erwin PJ(1), Wang Z(3), Murad MH(3)
+
+19
+Liang HL(1), Ma SJ, Xiao YN, Tan HZ
+
+20
+Ha V(1)(2), Bonner AJ(1)(2), Jadoo JK(1), Beyene J(1)(2)(3)(4), Anan
+SS(1)(2)(5)(6)(7), de Souza RJ(1)(2)
+
+21
+Cochon L(1), McIntyre K(2), Nicolás JM(3), Baez AA(4)
+
+22
+Yuan X(1), Liu WJ, Li B, Shen ZT, Shen JS, Zhu XX
+
+23
+Berry DA(1), Zhou S(1), Higley H(2), Mukundan L(2), Fu S(3), Reaman GH(4), Woo
+BL(5), Kelloff GJ(6), Jessup JM(7), Radich JP(8)
+
+24
+Shah R(1), Morsy MS(2), Weiman DS(3), Vetrovec GW(4)
+
+25
+Friede T(1), Röver C(1), Wandel S(2), Neuenschwander B(2)
+
+26
+Park SK(1), Lee MY(1), Jang EJ(2), Kim HL(3), Ha DM(1), Lee EK(4)
+
+27
+The Efficacy and Safety of 3 Types of Interventions for Stroke Prevention i
+Patients With Cardiovascular and Cerebrovascular Diseases: A Networ
+Meta-analysis
+
+28
+Farji-Brener AG(1), Werenkraut V(1)
+
+29
+Sun J(1), Ren Z(1), Sun X(1), Hou H(1), Li K(1), Ge Q(1)
+
+30
+Shah R(1), Rashid A(2), Hwang I(3), Fan TM(4), Khouzam RN(3), Reed GL(3)
+
+31
+Wen D(1), McAlinden C(2), Flitcroft I(3), Tu R(1), Wang Q(4), Alió J(5), Marshal
+J(6), Huang Y(1), Song B(1), Hu L(4), Zhao Y(4), Zhu S(1), Gao R(4), Bao F(4), Y
+A(4), Yu Y(4), Lian H(7), Huang J(8)
+
+32
+Montagnani F(1), Fornaro L(2), Frumento P(3), Vivaldi C(2), Falcone A(2)
+Fioretto L(4)
+
+33
+Lee G(1), Oh SW(2), Hwang SS(3), Yoon JW(4), Kang S(3), Joh HK(5), Kwon H(1), Ki
+J(1), Park D(1)
+
+34
+Bally M(1)(2), Dendukuri N(3)(4), Rich B(4), Nadeau L(4), Helin-Salmivaara A(5),
+Garbe E(6), Brophy JM(2)(4)(7)
+
+35
+
+36
+Singh JA(1), Hossain A(2), Mudano AS(3), Tanjong Ghogomu E(4), Suarez-Almazo
+ME(5), Buchbinder R(6), Maxwell LJ(7), Tugwell P(8), Wells GA(9)
+
+37
+Veroniki AA(1), Cogo E(1), Rios P(1), Straus SE(1)(2), Finkelstein Y(3)(4)(5)
+Kealey R(1), Reynen E(1), Soobiah C(1)(6), Thavorn K(7)(8)(9), Hutton B(7)(10)
+Hemmelgarn BR(11), Yazdi F(1), D'Souza J(1), MacDonald H(1), Tricco AC(12)(13)
+
+38
+Aksan A(1)(2), Işık H(3), Radeke HH(2)(4), Dignass A(2)(5), Stein J(2)(6)
+
+39
+Cholapranee A(1), Hazlewood GS(2)(3), Kaplan GG(2), Peyrin-Biroulet L(4)
+Ananthakrishnan AN(5)
+
+40
+Pickup JC(1), Reznik Y(2), Sutton AJ(3)
+
+41
+Yechiam E(1), Ashby NJS(1), Pachur T(2)
+
+42
+Cochon L(1), Ovalle A(2), Nicolás JM(3), Baez AA(4)
+
+43
+van Nooten F(1), Treur M(2), Pantiri K(2), Stoker M(3), Charokopou M(2)
+
+44
+Papadimitropoulou K(1), Vossen C(1), Karabis A(1), Donatti C(2), Kubitz N(3)
+
+45
+Zhang J(1), Wang B(2), Li R(3), Ge L(4), Chen KH(5)(6)(7), Tian J(8)
+
+46
+Tasker RC(1), Vonberg FW, Ulano ED, Akhondi-Asl A
+
+47
+Rodríguez-Perálvarez M(1), Guerrero-Misas M(2), Thorburn D(3), Davidson BR(4)
+Tsochatzis E(3), Gurusamy KS(4)
+
+48
+Zhao JG(1)(2), Wang J(2), Meng XH(3), Zeng XT(2), Kan SL(2)
+
+49
+Jiang Q(1), Chen ZH(1), Wang SB(1), Chen XD(1)
+
+50
+Jiang XP(1), Rui XH(1), Guo CX(1), Huang YQ(1), Li Q(1), Xu Y(1)
+
+51
+Wertli MM(1)(2), Brunner F(3), Steurer J(1), Held U(1)
+
+52
+Huisman E(1), Papadimitropoulou K(1), Jarrett J(2), Bending M(2), Firth Z(2)
+Allen F(3), Adlard N(3)
+
+53
+Singh JA(1), Hossain A(2), Tanjong Ghogomu E(3), Mudano AS(4), Maxwell LJ(5)
+Buchbinder R(6), Lopez-Olivo MA(7), Suarez-Almazor ME(7), Tugwell P(8), Well
+GA(9)
+
+54
+Bürkner PC(1), Bittner N(1), Holling H(1), Buhlmann U(1)
+
+55
+Rowe BH(1)(2), Kirkland SW(1), Vandermeer B(3), Campbell S(4), Newton A(5)
+Ducharme FM(6), Villa-Roel C(1)(2)
+
+56
+Abdel-Qadir H(1)(2)(3)(4), Ong G(4), Fazelzad R(5), Amir E(1)(5)(6), Le
+DS(1)(2)(6)(7), Thavendiranathan P(6)(7), Tomlinson G(1)(6)
+
+57
+Westman PC(1), Lipinski MJ(1), Torguson R(1), Waksman R(2)
+
+58
+Berden FA(1), Aaldering BR(1), Groenewoud H(2), IntHout J(2), Kievit W(2), Drent
+JP(3)
+
+59
+Bain S(1), Druyts E(2)(3), Balijepalli C(2)(4), Baxter CA(5), Currie CJ(6)(7)
+Das R(5), Donnelly R(8), Khunti K(9), Langerman H(5), Leigh P(5), Siliman G(2)
+Thorlund K(2)(10), Toor K(2), Vora J(11), Mills EJ(2)(10)
+
+60
+Gholap NN(1)(2)(3), Achana FA(4), Davies MJ(1)(5)(6)(7), Ray KK(8), Gray L(2)
+Khunti K(1)(5)(6)(7)
+
+61
+Wang Z(1), Wang Z(2), Wang L(3), Qiu M(3), Wang Y(3), Hou X(3), Guo Z(4), Wan
+B(3)
+
+62
+Luo Y(1), Li X(2), Dong J(2), Sun W(2)
+
+63
+Fleetwood K(1), McCool R(2), Glanville J(2), Edwards SC(3), Gsteiger S(3), Daigl
+M(3), Fisher M(4)
+
+64
+Devji T(1), Levine O(2), Neupane B(1), Beyene J(1), Xie F(3)
+
+65
+Zhao X(1), Zhou C, Chen H, Ma J, Zhu Y, Wang P, Zhang Y, Ma H, Zhang H
+
+66
+Xing F(1), Chen J, Zhao B, Jiang J, Tang A, Chen Y
+
+67
+Francis DO(1), Fonnesbeck C(2), Sathe N(3), McPheeters M(3), Krishnaswami S(4)
+Chinnadurai S(1)
+
+68
+Sekercioglu N(1), Angeliki Veroniki A(2), Thabane L(1)(3)(4)(5)(6), Buss
+JW(1)(7)(8), Akhtar-Danesh N(1)(9), Iorio A(1)(10), Cruz Lopes L(11), Guyat
+GH(1)(10)
+
+69
+Zhao DF(1), Edelman JJ(2), Seco M(2), Bannon PG(3), Wilson MK(4), Byrom MJ(3)
+Thourani V(5), Lamy A(6), Taggart DP(7), Puskas JD(8), Vallely MP(9)
+
+70
+Jackson R(1), Psarelli EE(1), Berhane S(1), Khan H(1), Johnson P(1)
+
+71
+Delbiso TD(1), Rodriguez-Llanes JM(1), Donneau AF(2), Speybroeck N(3), Guha-Sapi
+D(1)
+
+72
+Baez AA(1), Cochon L(2)
+
+73
+Puig L(1), Thom H(2), Mollon P(3), Tian H(4), Ramakrishna GS(5)
+
+74
+Sun X(1), Deng L, Qiu S, Tu X, Wang D, Liu M
+
+75
+Chen C(1), Zhang X, Ma X
+
+76
+Bangalore S(1), Fakheri R(2), Wandel S(3), Toklu B(4), Wandel J(5), Messerl
+FH(6)(7)(8)
+
+77
+
+78
+Kan SL(1), Yuan ZF(2), Chen LX(1), Sun JC(1), Ning GZ(1), Feng SQ(1)
+
+79
+McCool R(1), Gould IM(2), Eales J(3), Barata T(4), Arber M(3), Fleetwood K(4)
+Glanville J(3), Kauf TL(5)
+
+80
+van Rooij FJ(1), Qayyum R(2), Smith AV(3), Zhou Y(4), Trompet S(5), Tanaka T(6),
+Keller MF(7), Chang LC(8), Schmidt H(9), Yang ML(10), Chen MH(11), Hayes J(12)
+Johnson AD(13), Yanek LR(2), Mueller C(14), Lange L(15), Floyd JS(16), Ghanbar
+M(17), Zonderman AB(18), Jukema JW(19), Hofman A(20), van Duijn CM(1), Desc
+KC(21), Saba Y(9), Ozel AB(21), Snively BM(22), Wu JY(23), Schmidt R(24), Fornag
+M(25), Klein RJ(12), Fox CS(13), Matsuda K(26), Kamatani N(27), Wild PS(28)
+Stott DJ(29), Ford I(30), Slagboom PE(31), Yang J(32), Chu AY(33), Lamber
+AJ(34), Uitterlinden AG(35), Franco OH(1), Hofer E(36), Ginsburg D(21), Hu B(4),
+Keating B(37), Schick UM(38), Brody JA(16), Li JZ(21), Chen Z(39), Zeller T(14),
+Guralnik JM(40), Chasman DI(41), Peters LL(34), Kubo M(42), Becker DM(2), L
+J(43), Eiriksdottir G(44), Rotter JI(45), Levy D(13), Grossmann V(46), Pate
+KV(18), Chen CH(23); BioBank Japan Project, Ridker PM(47), Tang H(48), Laune
+LJ(49), Rice KM(50), Li-Gao R(51), Ferrucci L(6), Evans MK(52), Choudhuri A(4)
+Trompouki E(53), Abraham BJ(54), Yang S(4), Takahashi A(27), Kamatani Y(27)
+Kooperberg C(55), Harris TB(49), Jee SH(56), Coresh J(57), Tsai FJ(58), Long
+DL(59), Chen YT(8), Felix JF(1), Yang Q(60), Psaty BM(61), Boerwinkle E(25)
+Becker LC(2), Mook-Kanamori DO(62), Wilson JG(63), Gudnason V(3), O'Donnel
+CJ(13), Dehghan A(64), Cupples LA(60), Nalls MA(7), Morris AP(65), Okada Y(66)
+Reiner AP(67), Zon LI(4), Ganesh SK(68)
+
+81
+Young B(1), Zhao X(2), Cook AR(3), Parry CM(4), Wilder-Smith A(5), I-Cheng MC(6)
+
+82
+Huang R(1), Feng Y(2), Wang Y(1), Qin X(1), Melgiri ND(3), Sun Y(4), Li X(5)
+
+83
+Mao EJ(1), Hazlewood GS(2)(3), Kaplan GG(2), Peyrin-Biroulet L(4)
+Ananthakrishnan AN(5)
+
+84
+Su X(1), Xie X(2), Liu L(3), Lv J(2), Song F(4), Perkovic V(5), Zhang H(2)
+
+85
+Winkler B(1), Heinisch PP(2), Gahl B(1), Aghlmandi S(3), Jenni HJ(1), Carre
+TP(1)
+
+86
+Guure CB(1), Ibrahim NA(2), Adam MB(3), Said SM(4)
+
+88
+Beam CA(1), MacCallum C(2), Herold KC(3), Wherrett DK(4), Palmer J(5), Ludvigsso
+J(6); Type 1 Diabetes TrialNet Study Group
+
+89
+Chen TH(1), Yen AM, Fann JC, Gordon P, Chen SL, Chiu SY, Hsu CY, Chang KJ, Le
+WC, Yeoh KG, Saito H, Promthet S, Hamashima C, Maidin A, Robinson F, Zhao LZ
+
+90
+Williams DR(1), Bürkner PC(2)
+
+91
+Cameron C(1), Zummo J(2), Desai DN(2), Drake C(3), Hutton B(4), Kotb A(5), Weide
+PJ(2)
+
+92
+Dulai PS(1), Singh S(2)(3), Marquez E(1), Khera R(4), Prokop LJ(5), Limbur
+PJ(6), Gupta S(7)(8), Murad MH(9)
+
+93
+
+94
+Windle SB(1), Filion KB(2), Mancini JG(1), Adye-White L(1), Joseph L(3), Gor
+GC(4), Habib B(1), Grad R(5), Pilote L(6), Eisenberg MJ(7)
+
+95
+Lipinski MJ(1), Lee RC(1), Gaglia MA Jr(1), Torguson R(1), Garcia-Garcia HM(1)
+Pichard AD(1), Satler LF(1), Waksman R(2)
+
+96
+Wang KL(1), Giugliano RP(2), Goto S(3), Chiu CC(4), Lin CY(5), Lai EY(6), Chiang
+CE(7)
+
+97
+Katsanos K(1), Kitrou P(2), Spiliopoulos S(3), Diamantopoulos A(4), Karnabatidis
+D(2)
+
+98
+Qiu H(1), Wei Z, Liu Y, Dong J, Zhou X, Yin L, Zhang M, Lu M
+
+99
+Moćko P(1), Kawalec P(2), Pilc A(3)
+
+100
+Timsit E(1), Dendukuri N(2), Schiller I(3), Buczinski S(4)
+
+101
+Perna S(1), Giacosa A(2), Bonitta G(3), Bologna C(4), Isu A(5), Guido D(6)
+Rondanelli M(7)
+
+103
+Chen L(1)(2), Xing F(1), Xiang Z(1)
+
+104
+Singh JA(1), Hossain A, Tanjong Ghogomu E, Mudano AS, Tugwell P, Wells GA
+
+105
+Owora AH(1), Carabin H(2), Reese J(3), Garwe T(4)
+
+106
+Lu Y(1), Cheng Z(2), Zhao Y(1), Chang X(1), Chan C(3), Bai Y(1), Cheng N(4)
+
+107
+Datta NR(1), Rogers S(1), Klingbiel D(2), Gómez S(1), Puric E(1), Bodis S(1)(3)
+
+108
+Lee YH(1), Bae SC(2)
+
+109
+Kan SL(1), Yuan ZF(2), Ning GZ(1), Liu FF(1), Sun JC(1), Feng SQ(3)
+
+110
+Ellis JL(1), Reynolds CK(2), Crompton LA(2), Hanigan MD(3), Bannink A(4), France
+J(5), Dijkstra J(6)
+
+111
+Park J(1), Lee JM(2), Lee JS(3), Cho YJ(4)
+
+112
+Kanters S(1), Vitoria M(2), Doherty M(2), Socias ME(3), Ford N(2), Forrest JI(1)
+Popoff E(3), Bansback N(4), Nsanzimana S(5), Thorlund K(3), Mills EJ(6)
+
+113
+Moggia E(1), Rouse B, Simillis C, Li T, Vaughan J, Davidson BR, Gurusamy KS
+
+114
+Städler N(1), Shang A(2), Bosch F(3), Briggs A(4), Goede V(5), Berthier A(2)
+Renaudin C(2), Leblond V(6)
+
+115
+Badve SV(1), Palmer SC(2), Strippoli GFM(3), Roberts MA(4), Teixeira-Pinto A(5),
+Boudville N(6), Cass A(7), Hawley CM(8), Hiremath SS(9), Pascoe EM(10), Perkovic
+V(11), Whalley GA(12), Craig JC(13), Johnson DW(8)
+
+116
+Elborn JS(1), Vataire AL(2), Fukushima A(2), Aballea S(2), Khemiri A(2), Moor
+C(3), Medic G(4), Hemels ME(5)
+
+117
+Zhu L(1)(2), Liu J(1)(2), Ma S(3)(4)
+
+118
+Singh JA(1)(2)(3)(4), Hossain A(5), Kotb A(5), Wells G(5)
+
+119
+Park CH(1), Jung YS(2), Nam E(3), Eun CS(1), Park DI(2), Han DS(1)
+
+120
+Inker LA(1), Mondal H(2), Greene T(3), Masaschi T(2), Locatelli F(4), Schen
+FP(5), Katafuchi R(6), Appel GB(7), Maes BD(8), Li PK(9), Praga M(10), De
+Vecchio L(4), Andrulli S(4), Manno C(5), Gutierrez E(10), Mercer A(11), Carrol
+KJ(12), Schmid CH(13), Levey AS(2)
+
+121
+Li PJ(1), Xiao J(2), Yang Q(3), Feng Y(3), Wang T(1), Liu GJ(4), Liang ZA(5)
+
+122
+Fogarty E(1), Schmitz S(2), Tubridy N(3), Walsh C(4), Barry M(5)
+
+123
+Hazlewood GS(1), Barnabe C, Tomlinson G, Marshall D, Devoe DJ, Bombardier C
+
+124
+Cipriani A(1), Zhou X(2), Del Giovane C(3), Hetrick SE(4), Qin B(2), Whittington
+C(5), Coghill D(6), Zhang Y(2), Hazell P(7), Leucht S(8), Cuijpers P(9), Pu J(2)
+Cohen D(10), Ravindran AV(11), Liu Y(2), Michael KD(12), Yang L(2), Liu L(2), Xi
+P(13)
+
+125
+Giacoppo D(1), Cassese S(1), Harada Y(1), Colleran R(1), Michel J(1), Fusar
+M(1), Kastrati A(2), Byrne RA(3)
+
+126
+Ricci F(1), Di Castelnuovo A(2), Savarese G(3), Perrone Filardi P(3), De Caterin
+R(1)
+
+127
+Kyu HH(1), Bachman VF(2), Alexander LT(1), Mumford JE(1), Afshin A(1), Este
+K(1), Veerman JL(3), Delwiche K(4), Iannarone ML(1), Moyer ML(1), Cercy K(1), Vo
+T(1), Murray CJ(1), Forouzanfar MH(5)
+
+128
+
+129
+Isayama T(1), Iwami H(2), McDonald S(3), Beyene J(4)
+
+130
+Cohen AT(1), Hamilton M(2), Bird A(3), Mitchell SA(4), Li S(2), Horblyuk R(5)
+Batson S(4)
+
+131
+Dong W(1), Goost H(2), Lin XB(3), Burger C(4), Paul C(5), Wang ZL(1), Kong FL(1)
+Welle K(4), Jiang ZC(6), Kabir K(4)
+
+132
+Hamada C(1), Yamada Y(2), Azuma M(3), Nishikawa K(4), Gotoh M(5), Bando H(6)
+Sugimoto N(7), Nishina T(8), Amagai K(9), Chin K(10), Niwa Y(11), Tsuji A(12)
+Imamura H(13), Tsuda M(14), Yasui H(15), Fujii H(16), Yamaguchi K(17), Yasu
+H(18), Hironaka S(19), Shimada K(20), Miwa H(21), Hyodo I(22)
+
+133
+Kobayashi H(1), Ohnishi T(1), Nakagawa R(1), Yoshizawa K(1)
+
+134
+Ge L(1)(2)(3), Wang YF(4), Tian JH(2)(3), Mao L(5), Zhang J(6), Zhang JH(7), She
+XP(8), Yang KH(2)(3)
+
+136
+Germovsek E(1), Kent A(2), Metsvaht T(3), Lutsar I(3), Klein N(4), Turner MA(5),
+Sharland M(2), Nielsen EI(6), Heath PT(2), Standing JF(4)
+
+137
+Furukawa TA(1), Salanti G(2), Atkinson LZ(3), Leucht S(4), Ruhe HG(5), Turne
+EH(6), Chaimani A(7), Ogawa Y(1), Takeshima N(1), Hayasaka Y(1), Imai H(1)
+Shinohara K(1), Suganuma A(1), Watanabe N(1), Stockton S(3), Geddes JR(8)
+Cipriani A(8)
+
+138
+Sandhu SS(1), Cheema MS(2), Khehra HS(3)
+
+139
+Liu W(1), Duan Y(2), Cui W(1), Li L(1), Wang X(1), Dai H(1), You C(1), Chen M(3)
+
+140
+Paz MA(1), de-La-Sierra A, Sáez M, Barceló MA, Rodríguez JJ, Castro S, Lagarón C
+Garrido JM, Vera P, Coll-de-Tuero G
+
+141
+[Article in Chinese
+
+142
+Association of Pharmacological Treatments for Obesity With Weight Loss an
+Adverse Events: A Systematic Review and Meta-analysis
+
+143
+Jia Y(1), Zhu H(1), Leung SW(2)
+
+144
+Wiecek W(1), Karcher H(1)
+
+145
+Yuan JQ(1)(2), Tsoi KK(1)(3), Yang M(4), Wang JY(5), Threapleton DE(1)(2), Yan
+ZY(1)(2), Zou B(4), Mao C(1)(2), Tang JL(1)(2), Chan FK(3)
+
+146
+Wang R(1), Dasgupta A(1), Ward MM(1)
+
+147
+Tektonidou MG(1), Dasgupta A(2), Ward MM(2)
+
+148
+Telford C(1), Jones N(2), Livings C(3), Batson S(3)
+
+149
+[Article in Chinese; Abstract available in Chinese from the publisher
+
+150
+Schwendicke F(1), Göstemeyer G(2), Blunck U(2), Paris S(2), Hsu LY(3), Tu YK(3)
+
+151
+Roberto A(1), Deandrea S(2), Greco MT(3), Corli O(1), Negri E(4), Pizzuto M(5)
+Ruggeri F(6)
+
+152
+Broglio KR(1), Quintana M(1), Foster M(2), Olinger M(1), McGlothlin A(1), Berr
+SM(1), Boileau JF(3), Brezden-Masley C(4), Chia S(5), Dent S(6), Gelmon K(5)
+Paterson A(7), Rayson D(8), Berry DA(9)
+
+153
+Song GG(1), Seo YH(1), Kim JH(1), Choi SJ(1), Ji JD(1), Lee YH(2)
+
+154
+Rafique AM(1), Nayyar P(2), Wang TY(3), Mehran R(4), Baber U(5), Berger PB(6)
+Tobis J(7), Currier J(8), Dave RH(7), Henry TD(9)
+
+155
+RETRACTED: Effectiveness of non-steroidal anti-inflammatory drugs for th
+treatment of pain in knee and hip osteoarthritis: a network meta-analysis
+
+156
+Chen YF(1)(2), Boyal A(3), Sutton E(4), Armoiry X(5), Watson S(5)(6), Bion J(3),
+Tarrant C(4); HiSLAC Collaborative
+
+157
+Singh JA(1), Hossain A, Tanjong Ghogomu E, Kotb A, Christensen R, Mudano AS
+Maxwell LJ, Shah NP, Tugwell P, Wells GA
+
+158
+Ide K(1), Yamada H(2), Kawasaki Y(1)
+
+159
+Klement RJ(1), Champ CE(2), Otto C(3), Kämmerer U(4)
+
+160
+Li Z(1), Zhang Y(2), Quan X(1), Yang Z(1), Zeng X(3), Ji L(4), Sun F(1), Zha
+S(1)
+
+161
+Xie X(1), Liu Y(1), Perkovic V(2), Li X(3), Ninomiya T(2), Hou W(1), Zhao N(1)
+Liu L(1), Lv J(4), Zhang H(5), Wang H(1)
+
+162
+Carugno M(1), Consonni D(2), Randi G(3), Catelan D(4), Grisotto L(5), Bertazz
+PA(6), Biggeri A(4), Baccini M(4)
+
+163
+Kowalewski M(1), Pawliszak W(2), Raffa GM(3), Malvindi PG(4), Kowalkowska ME(5),
+Zaborowska K(2), Kowalewski J(6), Tarelli G(7), Taggart DP(8), Anisimowicz L(2)
+
+164
+Ji T(1), Feng C(2), Sun L(3), Ye X(4), Bai Y(2), Chen Q(2), Qin Y(2), Zhu J(5)
+Zhao X(6)
+
+165
+Darflinger R(1), Thompson LA(2), Zhang Z(2), Chao K(1)
+
+166
+Njei B(1)(2), Gupta N(1), Ewelukwa O(3), Ditah I(4), Foma M(5), Lim JK(1)
+
+167
+Zhao Y(1), Chen C(2), Pan W(3), Gao M(4), He W(3), Mao R(1), Lin T(5), Huan
+J(3)
+
+168
+Amiche MA(1), Albaum JM(2), Tadrous M(2)(3), Pechlivanoglou P(2), Lévesque LE(4)
+Adachi JD(5), Cadarette SM(2)
+
+169
+Lee YH(1), Song GG(2)
+
+170
+Hazlewood GS(1), Barnabe C(2), Tomlinson G(3), Marshall D(4), Devoe D(5)
+Bombardier C(6)
+
+171
+Systematic review with network meta-analysis: statins and risk of hepatocellular
+carcinoma
+
+172
+Gurusamy KS(1), Belgaumkar AP, Haswell A, Pereira SP, Davidson BR
+
+173
+Llavero-Valero M(1), Guillén-Grima F(2), Zafon C(1), Galofré JC(3)
+
+174
+Newcombe PJ(1), Conti DV(2), Richardson S(1)
+
+175
+Liao LJ(1)(2), Hsu WL(3), Wang CT(1)(2), Lo WC(2), Lai MS(1)(4)
+
+176
+Wang WT(1), You LK, Chiang CE, Sung SH, Chuang SY, Cheng HM, Chen CH
+
+177
+Lan T(1), Chang L, Rahmathullah MN, Wu L, Yuan YF
+
+178
+Simillis C(1), Robertson FP(2), Afxentiou T(2), Davidson BR(2), Gurusamy KS(2)
+
+179
+Schlueter M(1), Gonzalez-Rojas N(2), Baldwin M(2), Groenke L(2), Voss F(2)
+Reason T(3)
+
+180
+Lipka S(1), Kumar A(2), Miladinovic B(2), Richter JE(3)
+
+181
+Tanner-Smith EE(1), Risser MD(2)
+
+182
+Riboh JC(1), Saltzman BM(2), Yanke AB(2), Fortier L(3), Cole BJ(2)
+
+183
+Canestaro WJ(1), Forrester SH(2), Raghu G(3), Ho L(3), Devine BE(4)
+
+184
+Kim HS(1), Jeong CW(1), Kwak C(1), Kim HH(1), Ku JH(2)
+
+185
+Seidu S(1)(2), Achana FA(3), Gray LJ(1)(4), Davies MJ(1)(2), Khunti K(1)(2)
+
+186
+Samara MT(1), Dold M(2), Gianatsi M(3), Nikolakopoulou A(3), Helfer B(1), Salant
+G(4), Leucht S(1)
+
+187
+Chen C(1), Zhang X, Xiao L, Zhang X, Ma X
+
+189
+Derzko C(1), Sergerie M, Siliman G, Alberton M, Thorlund K
+
+190
+Tornyos A(1), Kehl D(2), D'Ascenzo F(3), Komócsi A(4)
+
+191
+Gurusamy KS(1), Vaughan J(1), Fraser IS(2)(3), Best LM(1), Richards T(1)
+
+192
+Shyangdan DS(1), Uthman OA(2), Waugh N(3)
+
+193
+Freemantle N(1), Ginsberg DA(2), McCool R(3), Fleetwood K(4), Arber M(3), Khalaf
+K(5), Loveman C(6), Ni Q(7), Glanville J(3)
+
+194
+Smallwood M(1), Vijh R(2), Nauche B(3), Lebouché B(4)(5), Joseph L(1)(2), Pan
+Pai N(2)(6)
+
+195
+Liu J(1), Fan M(2), Zhao J(1), Zhao B(3), Zhang C(1), Liu C(1), Dong Y(4)
+
+196
+Rizzo G(1), Copetti M(1), Arcuti S(1), Martino D(1), Fontana A(1), Logroscin
+G(2)
+
+197
+Lipinski MJ(1), Benedetto U(2), Escarcega RO(1), Biondi-Zoccai G(3), Lhermusie
+T(1), Baker NC(1), Torguson R(1), Brewer HB Jr(1), Waksman R(4)
+
+198
+Zhao BC(1)(2), Jiang HY(3)(4), Ma WY(5), Jin DD(2), Li HM(2), Lu H(2), Nakajim
+H(6), Huang TY(1), Sun KY(1), Chen SL(1), Chen KB(2)
+
+199
+Rochwerg B(1)(2)(3), Neupane B(4), Zhang Y(5)(6), Garcia CC(7)(8)(9), Ragh
+G(10), Richeldi L(11), Brozek J(12)(13), Beyene J(14), Schünemann H(15)(16)(17)
+
+200
+Chen W(1), Xue J(2), Peprah MK(3), Wen SW(4)(5), Walker M(4)(5), Gao Y(6), Tan
+Y(7)
+
+201
+Jiménez-Almonte JH(1)(2), Wyles CC(3), Wyles SP(3), Norambuena-Morales GA(4)
+Báez PJ(2), Murad MH(5), Sierra RJ(6)
+
+202
+Menke J(1), Kowalski J(2)
+
+203
+Montazeri Z(1), Theodoratou E(2), Nyiraneza C(1), Timofeeva M(3), Chen W(2)
+Svinti V(3), Sivakumaran S(2), Gresham G(1), Cubitt L(2), Carvajal-Carmona L(4),
+Bertagnolli MM(5), Zauber AG(6), Tomlinson I(7), Farrington SM(3), Dunlop MG(3),
+Campbell H(8), Little J(9)
+
+204
+Chinnadurai S(1), Fonnesbeck C(2), Snyder KM(3), Sathe NA(4), Morad A(5), Liki
+FE(6), McPheeters ML(4)
+
+205
+Fond G(1)(2), Bennabi D(3)(2), Haffen E(3)(2), Brunel L(1), Micoulaud-Franch
+JA(4), Loundou A(5), Lançon C(4)(5)(2), Llorca PM(2)(6), Auquier P(5)(7), Boye
+L(5)(7)
+
+206
+Florez ID(1)(2), Al-Khalifah R(3)(4)(5), Sierra JM(6), Granados CM(7)
+Yepes-Nuñez JJ(8)(9), Cuello-Garcia C(10)(11), Perez-Gaxiola G(12), Zea AM(13)
+Hernandez GN(14), Veroniki AA(15), Guyatt GH(16)(17), Thabane L(18)(19)
+
+207
+Veroniki AA(1), Straus SE(2), Ashoor HM(1), Hamid JS(3), Hemmelgarn BR(4)
+Holroyd-Leduc J(4), Majumdar SR(5), McAuley G(6), Tricco AC(7)
+
+208
+Mosseri J(1)(2)(3), Trinquart L(1)(4)(5)(6)(7), Nizard R(2)(3), Ravau
+P(1)(4)(5)(6)(7)
+
+209
+Zhang J(1), Li RK(1), Chen KH(2), Ge L(3), Tian JH(3)
+
+210
+Houot M(1), Ngo Y(1), Munteanu M(1), Marque S(2), Poynard T(3)(4)
+
+211
+Pimontel MA(1), Rindskopf D(2), Rutherford BR(3), Brown PJ(3), Roose SP(3), Snee
+JR(4)
+
+212
+Singh S(1), Singh M, Grewal N, Khosla S
+
+213
+Doosti-Irani A(1), Mansournia MA, Rahimi-Foroushani A, Cheraghi Z
+Holakouie-Naieni K
+
+214
+Glaucoma in Asia: regional prevalence variations and future projections
+
+215
+Wheatley K(1), Wilson JS(1), Gaunt P(1), Marsden JR(2)
+
+216
+Harvey RC(1), James AC(2), Shields GE(3)
+
+217
+Betts KA(1), Griffith J(2), Friedman A(2), Zhou ZY(3), Signorovitch JE(4)
+Ganguli A(2)
+
+218
+Badiani B(1), Messori A(2)
+
+219
+Motter JN(1), Pimontel MA(1), Rindskopf D(2), Devanand DP(3), Doraiswamy PM(4)
+Sneed JR(5)
+
+220
+Mavridis D(1), Efthimiou O(2), Leucht S(3), Salanti G(2)
+
+221
+Li T(1), Lindsley K(2), Rouse B(3), Hong H(4), Shi Q(3), Friedman DS(5), Wormald
+R(6), Dickersin K(2)
+
+222
+Liu CC(1), Jethwa AR(2), Khariwala SS(2), Johnson J(3), Shin JJ(4)
+
+223
+Holihan JL(1), Nguyen DH(2), Nguyen MT(3), Mo J(4), Kao LS(5), Liang MK(6)
+
+224
+Cohen AT(1), Hamilton M(2), Mitchell SA(3), Phatak H(2), Liu X(4), Bird A(5)
+Tushabe D(6), Batson S(3)
+
+225
+Xue C(1)(2), Zhou C(1), Dai B(1), Yu S(1), Xu C(1), Mao Z(1), Ye C(1), Chen D(1)
+Zhao X(1), Wu J(1), Chen W(1)(3), Mei C(1)
+
+226
+Xu C(1), Wang W(2), Liu P(3), Li Z(4)
+
+227
+Pillay J, Armstrong MJ, Butalia S, Donovan LE, Sigal RJ, Vandermeer B, Chordiy
+P, Dhakal S, Hartling L, Nuspl M, Featherstone R, Dryden DM
+
+228
+Simillis C(1), Thoukididou SN(1), Slesser AA(1), Rasheed S(1), Tan E(1), Tekki
+PP(1)
+
+229
+Andreae MH(1), Carter GM(2), Shaparin N(3), Suslov K(4), Ellis RJ(5), Ware MA(6)
+Abrams DI(7), Prasad H(8), Wilsey B(8), Indyk D(4), Johnson M(9), Sacks HS(4)
+
+230
+Lee YH(1), Song GG(2)
+
+231
+Lee YH(1), Bae SC(2), Song GG(3)
+
+232
+Arya R(1), Kothari H(2), Zhang Z(2), Han B(2), Horn PS(2), Glauser TA(2)
+
+233
+Chen PC(1), Chuang CH(2), Tu YK(3), Bai CH(4), Chen CF(5)(6)(7), Liaw M(8)
+
+234
+Ge L(1), Tian JH(2), Li L(3), Wang Q(4), Yang KH(2)
+
+235
+Ismaila AS(1), Huisman EL(2), Punekar YS(3), Karabis A(2)
+
+236
+Giacoppo D(1), Gargiulo G(1), Aruta P(1), Capranzano P(2), Tamburino C(2)
+Capodanno D(3)
+
+237
+The efficacy and safety of triple inhaled treatment in patients with chroni
+obstructive pulmonary disease: a systematic review and meta-analysis usin
+Bayesian methods
+
+238
+Sethi A(1), Malhotra G(2), Singh S(2), Singh PP(2), Khosla S(2)
+
+239
+Szabo SM(1), Hedegaard M(2), Chan K(1), Thorlund K(1), Christensen R(3), Voru
+H(4), Jansen JP(5)
+
+240
+Tan PS(1), Lopes G(2), Acharyya S(3), Bilger M(1), Haaland B(4)
+
+241
+Yamaguchi N(1), Fujii T(2), Aoi S(3), Kozuch PS(4), Hortobagyi GN(5), Blum RH(1)
+
+242
+Singh S(1)(2), Khera R(3), Allen AM(1), Murad MH(4), Loomba R(2)(5)(6)
+
+243
+Simillis C(1), Li T(2), Vaughan J(3), Becker LA(4), Davidson BR(3), Gurusam
+KS(3)
+
+244
+Schwendicke F(1), Tu YK(2), Hsu LY(2), Göstemeyer G(3)
+
+246
+Zhang T(1), Ye X, Zhu T, Xiao X, Liu Y, Wei X, Liu Y, Wu C, Guan R, Li X, Guo X,
+Hu H, He J
+
+247
+Fornalski KW(1)
+
+248
+Sackner-Bernstein J(1), Kanter D(2), Kaul S(3)
+
+249
+Kumachev A(1), Yan M(1), Berry S(2), Ko YJ(2), Martinez MC(3), Shah K(4), Cha
+KK(5)
+
+250
+Zhang Y(1), Zhou X(1), James AC(2), Qin B(1), Whittington CJ(3), Cuijpers P(4)
+Del Giovane C(5), Liu Y(1), Cohen D(6), Weisz JR(7), Xie P(1)
+
+251
+Bittl JA(1), Tamis-Holland JE(2), Lang CD(3), He Y(4)
+
+252
+Singh S(1), Murad MH(2), Chandar AK(3), Bongiorno CM(4), Singal AK(5), Atkinso
+SR(6), Thursz MR(6), Loomba R(7), Shah VH(8)
+
+253
+Yang M(1), Wang HT, Zhao M, Meng WB, Ou JQ, He JH, Zou B, Lei PG
+
+254
+Mai R(1), Zhou S(2), Zhong W(3), Rong S(2), Cong Z(2), Li Y(2), Xie Q(2), Che
+H(2), Li X(2), Liu S(2), Cheng Y(4), Huang Y(4), Zhou Y(4), Zhang G(2)(4)
+
+255
+Zhou X(1), Qin B(1), Whittington C(2), Cohen D(3), Liu Y(1), Del Giovane C(4)
+Michael KD(5), Zhang Y(1), Xie P(1)
+
+256
+Huisman EL(1), Cockle SM(2), Ismaila AS(3), Karabis A(1), Punekar YS(2)
+
+257
+Zhang Z(1), Hu X(2), Zhang X(1), Zhu X(1), Chen L(3), Zhu L(1), Hu C(4), Du B(2)
+China Critical Care Clinical Trials Group (CCCCTG)
+
+258
+Kitwitee P(1), Limwattananon S(1), Limwattananon C(1), Waleekachonlert O(2)
+Ratanachotpanich T(2), Phimphilai M(3), Nguyen TV(4), Pongchaiyakul C(5)
+
+259
+Sy MM(1), Ancelet S(2), Henner P(3), Hurtevent P(3), Simon-Cornu M(4)
+
+260
+Chen YJ(1), Chen LX, Han MX, Zhang TS, Zhou ZR, Zhong DS
+
+261
+Zhang L(1), Pang Y, Shi Y, Xu M, Xu X, Zhang J, Ji L, Zhao D
+
+262
+Paz-Vinas I(1)(2)(3), Loot G(2)(4), Stevens VM(4), Blanchet S(1)(4)
+
+263
+Chastin SF(1), Egerton T(2), Leask C(1), Stamatakis E(3)(4)(5)
+
+264
+Khunti K(1), Mani H(1), Achana F(2), Cooper N(3), Gray LJ(3), Davies MJ(1)
+
+265
+Hutton B(1)(2), Yazdi F(3), Bordeleau L(4), Morgan S(5), Cameron C(6), Kanj
+S(7), Fergusson D(8)(9), Tricco A(10), Straus S(11), Skidmore B(12), Hersi M(13)
+Pratt M(14), Mazzarello S(15), Brouwers M(16), Moher D(17)(18), Clemons M(19)
+
+266
+Katsanos K(1), Spiliopoulos S(2), Saha P(3), Diamantopoulos A(4), Karunanith
+N(4), Krokidis M(5), Modarai B(3), Karnabatidis D(2)
+
+267
+Hajna S(1), Ross NA(2)(3), Brazeau AS(4), Bélisle P(5), Joseph L(6)(7), Dasgupta
+K(8)(9)
+
+268
+Wen YF(1), Wong HM(1), Lin R(2), Yin G(2), McGrath C(3)
+
+269
+De Geest T(1), Fennema P, Lenaerts G, De Loore G
+
+270
+Howlett C(1)(2), Snedecor SJ(3), Landsburg DJ(4), Svoboda J(4), Chong EA(4)
+Schuster SJ(4), Nasta SD(4), Feldman T(5), Rago A(4), Walsh KM(4), Weber S(4)
+Goy A(5), Mato A(6)
+
+271
+Yan M(1), Kumachev A(1), Siu LL(2), Chan KK(3)
+
+272
+Phan K(1), Xie A(2), Kumar N(3), Wong S(4), Medi C(5), La Meir M(6), Yan TD(7)
+
+273
+Trippoli S(1), Fadda V, Maratea D, Messori A
+
+274
+Govan L(1), Wu O, Xin Y, Hutchinson SJ, Hawkins N
+
+275
+Mataragas M(1), Alessandria V(2), Rantsiou K(2), Cocolin L(2)
+
+277
+Lai YS(1), Biedermann P(1), Ekpo UF(2), Garba A(3), Mathieu E(4), Midzi N(5)
+Mwinzi P(6), N'Goran EK(7), Raso G(1), Assaré RK(8), Sacko M(9), Schur N(1)
+Talla I(10), Tchuenté LA(11), Touré S(12), Winkler MS(1), Utzinger J(1)
+Vounatsou P(13)
+
+278
+Zangrillo A(1), Musu M(2), Greco T(3), Di Prima AL(4), Matteazzi A(4), Test
+V(4), Nardelli P(4), Febres D(4), Monaco F(4), Calabrò MG(4), Ma J(5), Finc
+G(2), Landoni G(1)
+
+279
+Javanbakht M(1), Mashayekhi A(2), Baradaran HR(2), Haghdoost A(3), Afshin A(4)
+
+280
+Singh JA(1), Cameron C(2), Noorbaloochi S(3), Cullis T(4), Tucker M(4)
+Christensen R(5), Ghogomu ET(6), Coyle D(6), Clifford T(6), Tugwell P(6), Well
+GA(2)
+
+281
+Rudnicka AR(1), Kapetanakis VV(2), Jarrar Z(2), Wathern AK(2), Wormald R(3)
+Fletcher AE(4), Cook DG(2), Owen CG(2)
+
+282
+Dahabreh IJ(1), Steele DW, Shah N, Trikalinos TA
+
+283
+Cameron C(1)(2), Kelly S(2), Hsieh SC(2), Murphy M(2), Chen L(2), Kotb A(2)
+Peterson J(2), Coyle D(1), Skidmore B(2), Gomes T(3), Clifford T(1)(4), Well
+G(1)(2)
+
+284
+Rabelo CC(1), Feres M(2), Gonçalves C(2), Figueiredo LC(2), Faveri M(2), T
+YK(3), Chambrone L(4)(5)
+
+286
+Naing C(1), Wai VN, Durham J, Whittaker MA, Win NN, Aung K, Mak JW
+
+287
+Romanov V, Marcucci M, Cheng J, Thabane L, Iorio A(1)
+
+290
+Purfield DC(1)(2), Bradley DG(3), Evans RD(4), Kearney FJ(5), Berry DP(6)
+
+291
+Regnier SA(1), Larsen M(2), Bezlyak V(1), Allen F(3)
+
+292
+Moja L(1), Danese S, Fiorino G, Del Giovane C, Bonovas S
+
+293
+Messori A(1), Fadda V, Maratea D, Trippoli S
+
+294
+Kutchukian PS(1), Wassermann AM(2), Lindvall MK(3), Wright SK(2), Ottl J(4)
+Jacob J(2), Scheufler C(4), Marzinzik A(4), Brooijmans N(5), Glick M(6)
+
+295
+Wang C(1), Zhao N(1), Wang W(1), Guo L(1), Guo L(1), Chi C(1), Wang X(1), P
+X(1), Cui Y(1), Li E(1)
+
+296
+Thomas JA(1), Tubaro A(2), Barber N(3), Thorpe A(4), Armstrong N(5), Bachman
+A(6), Van Hout B(7)
+
+297
+Zeng C(1), Wei J(2), Li H(1), Yang T(1), Gao SG(1), Li YS(1), Xiong YL(1), Xia
+WF(1), Luo W(1), Yang TB(2), Lei GH(1)
+
+298
+Mei WQ(1), Hu HZ(1), Liu Y(1), Li ZC(1), Wang WG(1)
+
+299
+Yu Q(1), Zhu Z(1), Liu Y(1), Zhang J(1), Li K(1)
+
+300
+Huh D(1), Mun EY, Larimer ME, White HR, Ray AE, Rhew IC, Kim SY, Jiao Y, Atkin
+DC
+
+301
+Greco T(1), Calabrò MG(1), Covello RD(1), Greco M(1), Pasin L(1), Morelli A(2)
+Landoni G(3), Zangrillo A(1)
+
+302
+Greco T(1), Edefonti V(2), Biondi-Zoccai G(3), Decarli A(4), Gasparini M(5)
+Zangrillo A(6), Landoni G(6)
+
+303
+Ren Z(1), Qin L(1), Wang JQ(1), Li Y(1), Li J(1), Zhang RG(1)
+
+304
+Thorlund K(1)(2)(3), Druyts E(3)(4), Wu P(3), Balijepalli C(3), Keohane D(5)
+Mills E(1)(3)
+
+305
+Ha EJ(1), Baek JH, Kim KW, Pyo J, Lee JH, Baek SH, Døssing H, Hegedüs L
+
+306
+Buckley F(1), Finckh A, Huizinga TW, Dejonckheere F, Jansen JP
+
+307
+Maheu-Giroux M(1), Filippi V(2), Samadoulougou S(3), Castro MC(1), Maulet N(4)
+Meda N(5), Kirakoya-Samadoulougou F(6)
+
+308
+Kan SL(1), Yang B, Ning GZ, Chen LX, Li YL, Gao SJ, Chen XY, Sun JC, Feng SQ
+
+310
+Marchetta CM(1), Devine OJ(2), Crider KS(3), Tsang BL(4), Cordero AM(5), Q
+YP(6), Guo J(7), Berry RJ(8), Rosenthal J(9), Mulinare J(10), Mersereau P(11)
+Hamner HC(12)
+
+311
+Tan CH(1), Hobbs BP, Wei W, Kundra V
+
+312
+Mazaki T(1), Ishii Y, Murai I
+
+313
+Perkins ZB(1), Yet B, Glasgow S, Cole E, Marsh W, Brohi K, Rasmussen TE, Tai NR
+
+314
+Lionetti F(1), Pastore M(2), Barone L(3)
+
+315
+Nell S(1), Kist JW(1), Debray TP(2), de Keizer B(3), van Oostenbrugge TJ(1)
+Borel Rinkes IH(1), Valk GD(4), Vriens MR(5)
+
+316
+Lee JM(1), Park J(1), Kang J(1), Jeon KH(1), Jung JH(1), Lee SE(1), Han JK(1)
+Kim HL(2), Yang HM(1), Park KW(1), Kang HJ(1), Koo BK(1), Kim SH(2), Kim HS(3)
+
+317
+Wang Z(1), Qiao D(1), Lu Y(1), Curtis D(1), Wen X(1), Yao Y(1), Zhao H(2)
+
+318
+Carter GM(1), Indyk D(2), Johnson M(3), Andreae M(4), Suslov K(2), Busani S(2)
+Esmaeili A(2), Sacks HS(2)
+
+319
+Druyts E(1), Lorenzi M(2), Toor K(2), Thorlund K(3), Mills EJ(3)
+
+320
+Wang C(1), Guo L(2), Chi C(3), Wang X(4), Guo L(5), Wang W(6), Zhao N(7), Wan
+Y(8), Zhang Z(9), Li E(10)
+
+321
+van Walsem A(1), Pandhi S(2), Nixon RM(3), Guyot P(4), Karabis A(5), Moore RA(6)
+
+323
+Jia Y(1), Lao Y(1), Leung SW(2)
+
+324
+Li L(1), Li Y(2), Xu X(3), Xu B(4), Ren R(5), Liu Y(6), Zhang J(7), He B(8)
+
+325
+Millán X(1), Skaf S(1), Joseph L(2), Ruiz C(3), García E(4), Smolka G(5), Nobl
+S(6), Cruz-González I(7), Arzamendi D(8), Serra A(8), Kliger C(3), Sia YT(9)
+Asgar A(1), Ibrahim R(1), Jolicœur EM(10)
+
+326
+Hess PL(1), Al-Khatib SM(2), Han JY(2), Edwards R(2), Bardy GH(2), Bigger JT(2),
+Buxton A(2), Cappato R(2), Dorian P(2), Hallstrom A(2), Kadish AH(2), Kudenchu
+PJ(2), Lee KL(2), Mark DB(2), Moss AJ(2), Steinman R(2), Inoue LY(2), Sander
+G(2)
+
+327
+Elmunzer BJ(1), Singal AG(2), Sussman JB(3), Deshpande AR(4), Sussman DA(4)
+Conte ML(5), Dwamena BA(6), Rogers MA(7), Schoenfeld PS(8), Inadomi JM(9), Saini
+SD(8), Waljee AK(8)
+
+328
+Nelson H(1), Cartier S(2), Allen-Ramey F(3), Lawton S(4), Calderon MA(5)
+
+329
+Broglio KR(1), Daar ES, Quintana M, Yuan Y, Kalsekar A, Spellberg B, Lewis RJ
+Akker Dv, Detry MA, Le T, Berry SM
+
+330
+Lee JM(1), Park J(1), Kang J(1), Jeon KH(1), Jung JH(1), Lee SE(1), Han JK(1)
+Kim HL(2), Yang HM(1), Park KW(1), Kang HJ(1), Koo BK(1), Kim HS(3)
+
+331
+Wang J(1), Meng XH, Guo ZM, Wu YH, Zhao JG
+
+333
+Elmariah S(1), Mauri L(2), Doros G(3), Galper BZ(4), O'Neill KE(4), Steg PG(5)
+Kereiakes DJ(6), Yeh RW(7)
+
+334
+Catalá-López F(1), Hutton B(2)(3), Núñez-Beltrán A(4), Mayhew AD(5), Page MJ(6),
+Ridao M(7)(8), Tobías A(9), Catalá MA(10), Tabarés-Seisdedos R(11), Mohe
+D(12)(13)
+
+335
+Qin B(1), Zhou X(1), Michael KD(2), Liu Y(1), Whittington C(3), Cohen D(4), Zhan
+Y(1), Xie P(1)
+
+336
+Mocellin S(1), Pasquali S
+
+339
+Ladyzynski P(1), Molik M(2), Foltynski P(3)
+
+340
+Hazlewood GS(1), Rezaie A(2), Borman M(1), Panaccione R(1), Ghosh S(1), Seo
+CH(3), Kuenzig E(4), Tomlinson G(5), Siegel CA(6), Melmed GY(2), Kaplan GG(7)
+
+342
+Mehrabi Z(1), Tuck SL
+
+343
+Zeng C(1), Li H(1), Yang T(1), Deng ZH(1), Yang Y(1), Zhang Y(1), Lei GH(2)
+
+344
+Bannuru RR, Schmid CH, Kent DM, Vaysbrot EE, Wong JB, McAlindon TE
+
+345
+Chen YP(1), Wang ZX(2), Chen L(1), Liu X(1), Tang LL(1), Mao YP(1), Li WF(1), Li
+AH(3), Sun Y(1), Ma J(4)
+
+346
+[Article in Portuguese
+
+347
+Gastrointestinal adverse events of glucagon-like peptide-1 receptor agonists i
+patients with type 2 diabetes: a systematic review and network meta-analysis
+
+348
+Verdecchia P(1), Angeli F, Bartolini C, De Filippo V, Aita A, Di Giacomo L
+Poltronieri C, Lip GY, Reboldi G
+
+351
+Singh S(1), Garg SK(2), Pardi DS(3), Wang Z(4), Murad MH(4), Loftus EV Jr(3)
+
+352
+Schwendicke F(1), Paris S(2), Tu YK(3)
+
+353
+Karagiannis-Voules DA(1), Biedermann P(1), Ekpo UF(2), Garba A(3), Langer E(1)
+Mathieu E(4), Midzi N(5), Mwinzi P(6), Polderman AM(7), Raso G(1), Sacko M(8)
+Talla I(9), Tchuenté LA(10), Touré S(11), Winkler MS(1), Utzinger J(1), Vounatso
+P(12)
+
+354
+Yildiz A(1), Nikodem M(2), Vieta E(3), Correll CU(4), Baldessarini RJ(3)
+
+355
+Owen RK(1), Tincello DG(2), Keith RA(3)

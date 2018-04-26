@@ -1,0 +1,1069 @@
+93
+Chemoprevention of colorectal cancer in individuals with previous colorecta
+neoplasia: systematic review and network meta-analysis
+
+94
+Conflict of interest statement: All authors have completed the ICMJE unifor
+disclosure form at www.icmje.org/coi_disclosure.pdf and declare: PSD and EM ar
+supported by the NIDDK training grant 5T32DK007202. SS is supported by th
+NIH/NLM training grant T15LM011271 and the American College of Gastroenterolog
+junior faculty development award. SG is partly supported by NCI
+U54CA132379-06A1, as well as merit review award No 1 I01 HX001574-01A1 from th
+US Department of Veterans Affairs Health Services Research and Developmen
+Service of the VA Office of Research and Development. The views expressed in thi
+article are those of the author(s) and do not necessarily represent the views of
+the Department of Veterans Affairs
+
+95
+Combination Therapies for Smoking Cessation: A Hierarchical Bayesia
+Meta-Analysis
+
+96
+Comparison of heparin, bivalirudin, and different glycoprotein IIb/IIIa inhibito
+regimens for anticoagulation during percutaneous coronary intervention: A networ
+meta-analysis
+
+97
+Standard dose versus low dose non-vitamin K antagonist oral anticoagulants i
+Asian patients with atrial fibrillation: A meta-analysis of contemporar
+randomized controlled trials
+
+98
+Comparative Effectiveness of Plain Balloon Angioplasty, Bare Metal Stents
+Drug-Coated Balloons, and Drug-Eluting Stents for the Treatment of Infrapoplitea
+Artery Disease: Systematic Review and Bayesian Network Meta-analysis o
+Randomized Controlled Trials
+
+99
+A Bayesian network meta-analysis of three different surgical procedures for th
+treatment of humeral shaft fractures
+
+100
+Safety profile of biologic drugs in the therapy of Crohn disease: A systemati
+review and network meta-analysis
+
+101
+Diagnostic accuracy of clinical illness for bovine respiratory disease (BRD
+diagnosis in beef cattle placed in feedlots: A systematic literature review an
+hierarchical Bayesian latent-class meta-analysis
+
+103
+Systematic Review and Meta-analysis of the Pharmacokinetics of Benznidazole i
+the Treatment of Chagas Disease
+
+104
+Effectiveness and Safety of Interventions for Treating Adults with Displace
+Proximal Humeral Fracture: A Network Meta-Analysis and Systematic Review
+
+105
+Biologic or tofacitinib monotherapy for rheumatoid arthritis in people wit
+traditional disease-modifying anti-rheumatic drug (DMARD) failure: a Cochran
+Systematic Review and network meta-analysis (NMA)
+
+106
+Summary diagnostic validity of commonly used maternal major depression disorde
+case finding instruments in the United States: A meta-analysis
+
+107
+Efficacy and safety of long-term treatment with statins for coronary hear
+disease: A Bayesian network meta-analysis
+
+108
+Hyperthermia and radiotherapy with or without chemotherapy in locally advance
+cervical cancer: a systematic review with conventional and network meta-analyses
+
+109
+Comparative efficacy and safety of tocilizumab, rituximab, abatacept an
+tofacitinib in patients with active rheumatoid arthritis that inadequatel
+responds to tumor necrosis factor inhibitors: a Bayesian network meta-analysis o
+randomized controlled trials
+
+110
+Cervical disc arthroplasty for symptomatic cervical disc disease: Traditional an
+Bayesian meta-analysis with trial sequential analysis
+
+111
+Prediction of portal and hepatic blood flow from intake level data in cattle
+
+112
+Pharmacological and Mechanical Thromboprophylaxis in Critically Ill Patients:
+Network Meta-Analysis of 12 Trials
+
+113
+Comparative efficacy and safety of first-line antiretroviral therapy for th
+treatment of HIV infection: a systematic review and network meta-analysis
+
+114
+Methods to decrease blood loss during liver resection: a network meta-analysis
+
+115
+A Systematic Review and Network Meta-Analysis to Evaluate the Comparativ
+Efficacy of Interventions for Unfit Patients with Chronic Lymphocytic Leukemia
+
+116
+The Validity of Left Ventricular Mass as a Surrogate End Point for All-Cause and
+Cardiovascular Mortality Outcomes in People With CKD: A Systematic Review an
+Meta-analysis
+
+117
+Comparison of Inhaled Antibiotics for the Treatment of Chronic Pseudomona
+aeruginosa Lung Infection in Patients With Cystic Fibrosis: Systematic Literatur
+Review and Network Meta-analysis
+
+118
+Fluoropyrimidine-Based Chemotherapy as First-Line Treatment for Advanced Gastric
+Cancer: a Bayesian Network Meta-Analysis
+
+119
+Risk of serious infections with immunosuppressive drugs and glucocorticoids fo
+lupus nephritis: a systematic review and network meta-analysis
+
+120
+Comparison of Efficacy of Prophylactic Endoscopic Therapies for Postpolypectom
+Bleeding in the Colorectum: A Systematic Review and Network Meta-Analysis
+
+121
+Early Change in Urine Protein as a Surrogate End Point in Studies of Ig
+Nephropathy: An Individual-Patient Meta-analysis
+
+122
+Network meta-analysis of efficacy and safety of competitive oral anticoagulant
+in patients undergoing radiofrequency catheter ablation of atrial fibrillation
+
+123
+Comparative efficacy of disease-modifying therapies for patients with relapsin
+remitting multiple sclerosis: Systematic review and network meta-analysis
+
+124
+Methotrexate monotherapy and methotrexate combination therapy with traditiona
+and biologic disease modifying anti-rheumatic drugs for rheumatoid arthritis:
+network meta-analysis
+
+125
+Comparative efficacy and tolerability of antidepressants for major depressiv
+disorder in children and adolescents: a network meta-analysis
+
+126
+Drug-Coated Balloon Versus Plain Balloon Angioplasty for the Treatmen
+of Femoropopliteal Artery Disease: An Updated Systematic Review and Meta-Analysi
+of Randomized Clinical Trials
+
+127
+ACE-inhibitors versus angiotensin receptor blockers for prevention of events i
+cardiovascular patients without heart failure - A network meta-analysis
+
+128
+Physical activity and risk of breast cancer, colon cancer, diabetes, ischemi
+heart disease, and ischemic stroke events: systematic review and dose-respons
+meta-analysis for the Global Burden of Disease Study 2013
+
+130
+Association of Noninvasive Ventilation Strategies With Mortality an
+Bronchopulmonary Dysplasia Among Preterm Infants: A Systematic Review an
+Meta-analysis
+
+131
+Comparison of the Non-VKA Oral Anticoagulants Apixaban, Dabigatran, an
+Rivaroxaban in the Extended Treatment and Prevention of Venous Thromboembolism
+Systematic Review and Network Meta-Analysis
+
+132
+Injection therapies for lateral epicondylalgia: a systematic review and Bayesian
+network meta-analysis
+
+133
+Meta-analysis supporting noninferiority of oxaliplatin plus S-1 to cisplatin plu
+S-1 in first-line treatment of advanced gastric cancer (G-SOX study): indirec
+comparison with S-1 alone
+
+134
+The comparative efficacy and safety of cholinesterase inhibitors in patients wit
+mild-to-moderate Alzheimer's disease: a Bayesian network meta-analysis
+
+136
+Pharmacological regimens for eradication of Helicobacter pylori: an overview o
+systematic reviews and network meta-analysis
+
+137
+Development and Evaluation of a Gentamicin Pharmacokinetic Model That Facilitate
+Opportunistic Gentamicin Therapeutic Drug Monitoring in Neonates and Infants
+
+138
+Comparative efficacy and acceptability of first-generation and second-generation
+antidepressants in the acute treatment of major depression: protocol for
+network meta-analysis
+
+139
+Comparative effectiveness of pharmacologic and nonpharmacologic interventions fo
+orthodontic pain relief at peak pain intensity: A Bayesian network meta-analysis
+
+140
+Skin antiseptics in venous puncture site disinfection for preventing bloo
+culture contamination: A Bayesian network meta-analysis of randomized controlled
+trials
+
+141
+Treatment efficacy of anti-hypertensive drugs in monotherapy or combination: ATO
+systematic review and meta-analysis of randomized clinical trials according t
+PRISMA statement
+
+142
+[Impact of glucagon-like peptide-1 receptor agonists on nasopharyngitis and uppe
+respiratory tract infection among patients with type 2 diabetes: a networ
+meta-analysis]
+
+143
+
+144
+Association of Pharmacological Treatments for Obesity With Weight Loss an
+Adverse Events: A Systematic Review and Meta-analysis
+
+145
+Comparative efficacy of selective serotonin reuptake inhibitors (SSRI) i
+treating major depressive disorder: a protocol for network meta-analysis o
+randomised controlled trials
+
+146
+Nivolumab versus Cabozantinib: Comparing Overall Survival in Metastatic Rena
+Cell Carcinoma
+
+147
+Systematic review with network meta-analysis: comparative effectiveness an
+safety of strategies for preventing NSAID-associated gastrointestinal toxicity
+
+148
+Comparative efficacy of non-steroidal anti-inflammatory drugs in ankylosin
+spondylitis: a Bayesian network meta-analysis of clinical trials
+
+149
+Risk of End-Stage Renal Disease in Patients With Lupus Nephritis, 1971-2015:
+Systematic Review and Bayesian Meta-Analysis
+
+150
+Network Meta-Analysis Comparing Overall Survival for Fulvestrant 500 mg Versu
+Alternative Therapies for Treatment of Postmenopausal, Estrogen Receptor-Positiv
+Advanced Breast Cancer Following Failure on Prior Endocrine Therapy
+
+151
+[The Effectiveness of Different Corticosteroid Injections in Patients With Carpa
+Tunnel Syndrome: A Bayesian Network Meta-Analysis]
+
+152
+Directly Placed Restorative Materials: Review and Network Meta-analysis
+
+153
+Prevalence of Neuropathic Pain in Cancer Patients: Pooled Estimates From
+Systematic Review of Published Literature and Results From a Survey Conducted in
+50 Italian Palliative Care Centers
+
+154
+Association of Pathologic Complete Response to Neoadjuvant Therapy i
+HER2-Positive Breast Cancer With Long-Term Outcomes: A Meta-Analysis
+
+155
+Relative efficacy and tolerability of etoricoxib, celecoxib, and naproxen in the
+treatment of osteoarthritis : A Bayesian network meta-analysis of randomize
+controlled trials based on patient withdrawal
+
+156
+Optimal P2Y12 Inhibitor in Patients With ST-Segment Elevation Myocardia
+Infarction Undergoing Primary Percutaneous Coronary Intervention: A Networ
+Meta-Analysis
+
+157
+Lancet. 2016 May 21;387(10033):2093-2105. doi: 10.1016/S0140-6736(16)30002-2
+Epub 2016 Mar 18
+
+158
+The magnitude and mechanisms of the weekend effect in hospital admissions:
+protocol for a mixed methods review incorporating a systematic review an
+framework synthesis
+
+159
+Biologics or tofacitinib for rheumatoid arthritis in incomplete responders t
+methotrexate or other traditional disease-modifying anti-rheumatic drugs:
+systematic review and network meta-analysis
+
+160
+Effect of gargling with tea and ingredients of tea on the prevention of influenz
+infection: a meta-analysis
+
+161
+Anti-Tumor Effects of Ketogenic Diets in Mice: A Meta-Analysis
+
+162
+Efficacy and Acceptability of Glycemic Control of Glucagon-Like Peptide-
+Receptor Agonists among Type 2 Diabetes: A Systematic Review and Networ
+Meta-Analysis
+
+163
+Renin-Angiotensin System Inhibitors and Kidney and Cardiovascular Outcomes i
+Patients With CKD: A Bayesian Network Meta-analysis of Randomized Clinica
+Trials
+
+164
+Air pollution exposure, cause-specific deaths and hospitalizations in a highl
+polluted Italian region
+
+165
+Safety and efficacy of miniaturized extracorporeal circulation when compared wit
+off-pump and conventional coronary artery bypass grafting: evidence synthesi
+from a comprehensive Bayesian-framework network meta-analysis of 134 randomize
+controlled trials involving 22 778 patients
+
+166
+Are beta-blockers effective for preventing post-coronary artery bypass graftin
+atrial fibrillation? Direct and network meta-analyses
+
+167
+Recurrence, retreatment, and rebleed rates of coiled aneurysms with respect t
+the Raymond-Roy scale: a meta-analysis
+
+168
+Comparative efficacy of antiviral therapy in preventing vertical transmission of
+hepatitis B: a network meta-analysis
+
+169
+Comparative efficacy of vitamin D status in reducing the risk of bladder cancer:
+A systematic review and network meta-analysis
+
+170
+Fracture risk in oral glucocorticoid users: a Bayesian meta-regression leveragin
+control arms of osteoporosis clinical trials
+
+171
+Comparative efficacy and tolerability of duloxetine, pregabalin, and milnacipran
+for the treatment of fibromyalgia: a Bayesian network meta-analysis of randomize
+controlled trials
+
+172
+Methotrexate monotherapy and methotrexate combination therapy with traditiona
+and biologic disease modifying antirheumatic drugs for rheumatoid arthritis
+abridged Cochrane systematic review and network meta-analysis
+
+173
+
+174
+Systematic review with network meta-analysis: statins and risk of hepatocellular
+carcinoma
+
+175
+Interventions for necrotising pancreatitis
+
+176
+The placebo effect in thyroid cancer: a meta-analysis
+
+177
+JAM: A Scalable Bayesian Framework for Joint Analysis of Marginal SNP Effects
+
+178
+Analysis of sentinel node biopsy combined with other diagnostic tools in staging
+cN0 head and neck cancer: A diagnostic meta-analysis
+
+179
+Comparative Effectiveness of Blood Pressure-lowering Drugs in Patients who hav
+Already Suffered From Stroke: Traditional and Bayesian Network Meta-analysis o
+Randomized Trials
+
+180
+Comparative Efficacy of Interventional Therapies for Early-stage Hepatocellula
+Carcinoma: A PRISMA-compliant Systematic Review and Network Meta-analysis
+
+181
+A network meta-analysis comparing perioperative outcomes of interventions aiming
+to decrease ischemia reperfusion injury during elective liver resection
+
+182
+Comparative efficacy of fixed-dose combinations of long-acting muscarini
+antagonists and long-acting β2-agonists: a systematic review and networ
+meta-analysis
+
+183
+Systematic review with network meta-analysis: comparative effectiveness o
+topical steroids vs. PPIs for the treatment of the spectrum of eosinophili
+oesophagitis
+
+184
+A meta-analysis of brief alcohol interventions for adolescents and young adults:
+variability in effects across alcohol measures
+
+185
+Effect of Leukocyte Concentration on the Efficacy of Platelet-Rich Plasma in the
+Treatment of Knee Osteoarthritis
+
+186
+Drug Treatment of Idiopathic Pulmonary Fibrosis: Systematic Review and Networ
+Meta-Analysis
+
+187
+Pathological T0 Following Cisplatin-Based Neoadjuvant Chemotherapy fo
+Muscle-Invasive Bladder Cancer: A Network Meta-analysis
+
+189
+Efficacy, Acceptability, and Tolerability of Antipsychotics i
+Treatment-Resistant Schizophrenia: A Network Meta-analysis
+
+190
+Comparative Effectiveness of Biologic Therapy Regimens for Ankylosin
+Spondylitis: A Systematic Review and a Network Meta-Analysis
+
+191
+Treatments for the Fifth Metacarpal Neck Fractures: A Network Meta-analysis o
+Randomized Controlled Trials
+
+192
+Comparative efficacy and safety of estradiol transdermal preparations for th
+treatment of vasomotor symptoms in postmenopausal women: an indirect compariso
+meta-analysis
+
+193
+Risk of Myocardial Infarction in Patients with Long-Term Non-Vitamin K Antagonis
+Oral Anticoagulant Treatment
+
+194
+Medical Therapies for Uterine Fibroids - A Systematic Review and Networ
+Meta-Analysis of Randomised Controlled Trials
+
+195
+SGLT-2 receptor inhibitors for treating patients with type 2 diabetes mellitus:
+systematic review and network meta-analysis
+
+196
+Comparative assessment of onabotulinumtoxinA and mirabegron for overactiv
+bladder: an indirect treatment comparison
+
+197
+Evaluation of a Rapid Point of Care Test for Detecting Acute and Established HIV
+Infection, and Examining the Role of Study Quality on Diagnostic Accuracy:
+Bayesian Meta-Analysis
+
+198
+Efficacy and safety of antithrombotic regimens after coronary intervention i
+patients on oral anticoagulation: Traditional and Bayesian meta-analysis o
+clinical trials
+
+199
+Accuracy of clinical diagnosis of Parkinson disease: A systematic review an
+meta-analysis
+
+200
+The impact of proprotein convertase subtilisin-kexin type 9 serine proteas
+inhibitors on lipid levels and outcomes in patients with primar
+hypercholesterolaemia: a network meta-analysis
+
+201
+Albendazole and Corticosteroids for the Treatment of Solitary Cysticercu
+Granuloma: A Network Meta-analysis
+
+202
+Treatment of idiopathic pulmonary fibrosis: a network meta-analysis
+
+203
+A systematic review and network meta-analysis comparing the use of Fole
+catheters, misoprostol, and dinoprostone for cervical ripening in the inductio
+of labour
+
+204
+Is Local Infiltration Analgesia Superior to Peripheral Nerve Blockade for Pai
+Management After THA: A Network Meta-analysis
+
+205
+Diagnostic accuracy and utility of coronary CT angiography with consideration of
+unevaluable results: A systematic review and multivariate Bayesian random-effect
+meta-analysis with intention to diagnose
+
+206
+Systematic meta-analyses and field synopsis of genetic association studies i
+colorectal adenomas
+
+207
+Pharmacologic Interventions for Infantile Hemangioma: A Meta-analysis
+
+208
+A Bayesian framework systematic review and meta-analysis of anesthetic agent
+effectiveness/tolerability profile in electroconvulsive therapy for majo
+depression
+
+209
+The effectiveness and safety of treatments used for acute diarrhea and acut
+gastroenteritis in children: protocol for a systematic review and networ
+meta-analysis
+
+210
+Comparative safety and effectiveness of cognitive enhancers for Alzheimer'
+dementia: protocol for a systematic review and individual patient data networ
+meta-analysis
+
+211
+Meta-Analysis of a Complex Network of Non-Pharmacological Interventions: Th
+Example of Femoral Neck Fracture
+
+212
+Antimicrobial lock solutions for the prevention of catheter-related infection in
+patients undergoing haemodialysis: study protocol for network meta-analysis o
+randomised controlled trials
+
+213
+Systematic review with meta-analysis: direct comparisons of biomarkers for th
+diagnosis of fibrosis in chronic hepatitis C and B
+
+214
+A Meta-Analysis of Executive Dysfunction and Antidepressant Treatment Response i
+Late-Life Depression
+
+215
+Comparative Efficacy and Safety of Prasugrel, Ticagrelor, and Standard-Dose an
+High-Dose Clopidogrel in Patients Undergoing Percutaneous Coronary Intervention:
+A Network Meta-analysis
+
+216
+Simultaneous Comparison of Efficacy and Adverse Events of Interventions fo
+Patients with Esophageal Cancer: Protocol for a Systematic Review and Bayesia
+Network Meta-analysis
+
+217
+
+218
+Glaucoma in Asia: regional prevalence variations and future projections
+
+219
+Surgical excision margins in primary cutaneous melanoma: A meta-analysis an
+Bayesian probability evaluation
+
+220
+A Systematic Review and Network Meta-Analysis to Assess the Relative Efficacy of
+Antipsychotics for the Treatment of Positive and Negative Symptoms in Early-Onse
+Schizophrenia
+
+221
+An indirect comparison and cost per responder analysis of adalimumab
+methotrexate and apremilast in the treatment of methotrexate-naïve patients with
+psoriatic arthritis
+
+222
+Targeted Treatments for Pulmonary Arterial Hypertension: Interpreting Outcomes b
+Network Meta-analysis
+
+223
+Computerized cognitive training and functional recovery in major depressiv
+disorder: A meta-analysis
+
+224
+Publication bias and small-study effects magnified effectiveness o
+antipsychotics but their relative ranking remained invariant
+
+225
+Comparative Effectiveness of First-Line Medications for Primary Open-Angl
+Glaucoma: A Systematic Review and Network Meta-analysis
+
+226
+Sensitivity, Specificity, and Posttest Probability of Parotid Fine-Needl
+Aspiration: A Systematic Review and Meta-analysis
+
+227
+Mesh Location in Open Ventral Hernia Repair: A Systematic Review and Networ
+Meta-analysis
+
+228
+Comparison of the Novel Oral Anticoagulants Apixaban, Dabigatran, Edoxaban, an
+Rivaroxaban in the Initial and Long-Term Treatment and Prevention of Venou
+Thromboembolism: Systematic Review and Network Meta-Analysis
+
+229
+Antihypertensive treatments in adult autosomal dominant polycystic kidne
+disease: network meta-analysis of the randomized controlled trials
+
+230
+Calibration of crash risk models on freeways with limited real-time traffic data
+using Bayesian meta-analysis and Bayesian inference approach
+
+231
+Behavioral Programs for Type 2 Diabetes Mellitus: A Systematic Review and Networ
+Meta-analysis
+
+232
+Systematic review and network meta-analysis comparing clinical outcomes an
+effectiveness of surgical treatments for haemorrhoids
+
+233
+Inhaled Cannabis for Chronic Neuropathic Pain: A Meta-analysis of Individua
+Patient Data
+
+234
+Relative efficacy and safety of tacrolimus, mycophenolate mofetil, an
+cyclophosphamide as induction therapy for lupus nephritis: a Bayesian networ
+meta-analysis of randomized controlled trials
+
+235
+Comparative efficacy and safety of tofacitinib, with or without methotrexate, in
+patients with active rheumatoid arthritis: a Bayesian network meta-analysis o
+randomized controlled trials
+
+236
+Efficacy of nonvenous medications for acute convulsive seizures: A networ
+meta-analysis
+
+237
+A Bayesian network meta-analysis: Comparing the clinical effectiveness of loca
+corticosteroid injections using different treatment strategies for carpal tunnel
+syndrome
+
+238
+Mesh fixation methods in open inguinal hernia repair: a protocol for networ
+meta-analysis and trial sequential analysis of randomised controlled trials
+
+239
+Comparative efficacy of long-acting muscarinic antagonist monotherapies in COPD:
+a systematic review and network meta-analysis
+
+240
+Treatment strategies for coronary in-stent restenosis: systematic review an
+hierarchical Bayesian network meta-analysis of 24 randomised trials and 488
+patients
+
+241
+
+242
+The efficacy and safety of triple inhaled treatment in patients with chroni
+obstructive pulmonary disease: a systematic review and meta-analysis usin
+Bayesian methods
+
+243
+Efficacy of various percutaneous interventions for in-stent restenosis
+comprehensive network meta-analysis of randomized controlled trials
+
+244
+Ranibizumab vs. aflibercept for wet age-related macular degeneration: networ
+meta-analysis to understand the value of reduced frequency dosing
+
+246
+Comparison of cardiac events associated with liposomal doxorubicin, epirubici
+and doxorubicin in breast cancer: a Bayesian network meta-analysis
+
+247
+Comparative effectiveness of pharmacological interventions for nonalcoholi
+steatohepatitis: A systematic review and network meta-analysis
+
+248
+A Cochrane systematic review and network meta-analysis comparing treatmen
+strategies aiming to decrease blood loss during liver resection
+
+249
+Antibacterial effects of cavity lining: a systematic review and networ
+meta-analysis
+
+250
+Bleeding risks with novel oral anticoagulants during catheter ablation of atrial
+fibrillation: a systematic review and network meta-analysis
+
+251
+Antithrombotic Treatment for Recurrent Miscarriage: Bayesian Networ
+Meta-Analysis and Systematic Review
+
+252
+Pooled Bayesian meta-analysis of two Polish studies on radiation-induced cancers
+
+253
+Dietary Intervention for Overweight and Obese Adults: Comparison o
+Low-Carbohydrate and Low-Fat Diets. A Meta-Analysis
+
+254
+A Systematic Review and Network Meta-Analysis of Biologic Agents in the Firs
+Line Setting for Advanced Colorectal Cancer
+
+255
+Comparative efficacy and acceptability of psychotherapies for acute anxiet
+disorders in children and adolescents: study protocol for a networ
+meta-analysis
+
+256
+Outcomes after multivessel or culprit-Vessel intervention for ST-elevatio
+myocardial infarction in patients with multivessel coronary disease: a Bayesia
+cross-design meta-analysis
+
+257
+Comparative Effectiveness of Pharmacological Interventions for Severe Alcoholi
+Hepatitis: A Systematic Review and Network Meta-analysis
+
+258
+Network Meta-Analysis Comparing Relatively Selective COX-2 Inhibitors Versu
+Coxibs for the Prevention of NSAID-Induced Gastrointestinal Injury
+
+259
+Therapeutic efficacy of combined BRAF and MEK inhibition in metastatic melanoma:
+a comprehensive network meta-analysis of randomized controlled trials
+
+260
+Comparative efficacy and tolerability of first-generation and newer-generatio
+antidepressant medications for depressive disorders in children and adolescents:
+study protocol for a systematic review and network meta-analysis
+
+261
+Comparative efficacy of combination bronchodilator therapies in COPD: a networ
+meta-analysis
+
+262
+Lung protective ventilation in patients undergoing major surgery: a systemati
+review incorporating a Bayesian approach
+
+263
+Metformin for the treatment of gestational diabetes: An updated meta-analysis
+
+264
+Foliar interception of radionuclides in dry conditions: a meta-analysis using
+Bayesian modeling approach
+
+265
+The Efficacy and Safety of Chemotherapy in Patients With Nonsmall Cell Lun
+Cancer and Interstitial Lung Disease: A PRISMA-Compliant Bayesian Meta-Analysi
+and Systematic Review
+
+266
+Indirect comparison of teriparatide, denosumab, and oral bisphosphonates for the
+prevention of vertebral and nonvertebral fractures in postmenopausal women wit
+osteoporosis
+
+267
+Evolutionary processes driving spatial patterns of intraspecific geneti
+diversity in river ecosystems
+
+268
+Meta-analysis of the relationship between breaks in sedentary behavior an
+cardiometabolic health
+
+269
+Systematic Review and Meta-Analysis of Response Rates and Diagnostic Yield o
+Screening for Type 2 Diabetes and Those at High Risk of Diabetes
+
+270
+Comparison of physical interventions, behavioral interventions, natural healt
+products, and pharmacologics to manage hot flashes in patients with breast o
+prostate cancer: protocol for a systematic review incorporating networ
+meta-analyses
+
+271
+Comparative Efficacy and Safety of Different Antiplatelet Agents for Preventio
+of Major Cardiovascular Events and Leg Amputations in Patients with Periphera
+Arterial Disease: A Systematic Review and Network Meta-Analysis
+
+272
+Associations between neighbourhood walkability and daily steps in adults:
+systematic review and meta-analysis
+
+273
+Inter-Ethnic/Racial Facial Variations: A Systematic Review and Bayesia
+Meta-Analysis of Photogrammetric Studies
+
+274
+Adverse effects associated with the direct anterior approach for total hi
+arthroplasty: a Bayesian meta-analysis
+
+275
+Front-line, dose-escalated immunochemotherapy is associated with a significan
+progression-free survival advantage in patients with double-hit lymphomas:
+systematic review and meta-analysis
+
+277
+Comparing energy sources for surgical ablation of atrial fibrillation: a Bayesia
+network meta-analysis of randomized, controlled trials
+
+278
+Bayesian network meta-analysis to evaluate interferon-free treatments in naiv
+patients with genotype 1 hepatitis C virus infection
+
+279
+Comparative effectiveness of antiviral treatment for hepatitis B: a systemati
+review and Bayesian network meta-analysis
+
+280
+Management of Listeria monocytogenes in fermented sausages using the Food Safety
+Objective concept underpinned by stochastic modeling and meta-analysis
+
+281
+Small studies are more heterogeneous than large ones: a meta-meta-analysis
+
+282
+Spatial distribution of schistosomiasis and treatment needs in sub-Sahara
+Africa: a systematic review and geostatistical analysis
+
+283
+Additive Effect on Survival of Anaesthetic Cardiac Protection and Remote Ischemi
+Preconditioning in Cardiac Surgery: A Bayesian Network Meta-Analysis o
+Randomized Trials
+
+284
+Projection of Diabetes Population Size and Associated Economic Burden throug
+2030 in Iran: Evidence from Micro-Simulation Markov Model and Bayesia
+Meta-Analysis
+
+286
+Incidence of Late-Stage Age-Related Macular Degeneration in American Whites
+Systematic Review and Meta-analysis
+
+287
+Oral Mechanical Bowel Preparation for Colorectal Surgery: Systematic Review an
+Meta-Analysis
+
+290
+Immunonutrition Support for Patients Undergoing Surgery for Gastrointestina
+Malignancy: Preoperative, Postoperative, or Perioperative? A Bayesian Networ
+Meta-Analysis of Randomized Controlled Trials
+
+291
+A Systematic Review and Meta-Analysis of Medical Students' Perspectives on th
+Engagement in Research
+
+292
+Evaluation of safety and effectiveness of factor VIII treatment in haemophilia A
+patients with low titre inhibitors or a personal history of inhibitor. Patien
+Data Meta-analysis of rAFH-PFM Post-Authorization Safety Studies
+
+293
+The effect of sexually transmitted co-infections on HIV viral load amongs
+individuals on antiretroviral therapy: a systematic review and meta-analysis
+
+294
+Mortality in patients treated with extended duration dual antiplatelet therap
+after drug-eluting stent implantation: a pairwise and Bayesian networ
+meta-analysis of randomised trials
+
+295
+Genome-wide association study for calving performance using high-densit
+genotypes in dairy and beef cattle
+
+296
+Comparative efficacy and safety of approved treatments for macular oedem
+secondary to branch retinal vein occlusion: a network meta-analysis
+
+297
+Systematic review with network meta-analysis: comparative efficacy and safety of
+budesonide and mesalazine (mesalamine) for Crohn's disease
+
+298
+First-line treatments for chronic lymphocytic leukaemia: interpreting efficac
+data by network meta-analysis
+
+299
+Large scale meta-analysis of fragment-based screening campaigns: privilege
+fragments and complementary technologies
+
+300
+Intraoperative mechanical ventilation strategies for obese patients: a systemati
+review and network meta-analysis
+
+301
+The Continuing Story of the Cost-Effectiveness of Photoselective Vaporization of
+the Prostate versus Transuretheral Resection of the Prostate for the Treatment o
+Symptomatic Benign Prostatic Obstruction
+
+302
+Comparison between 200 mg QD and 100 mg BID oral celecoxib in the treatment o
+knee or hip osteoarthritis
+
+303
+Infliximab is superior to other biological agents for treatment of activ
+ulcerative colitis: A meta-analysis
+
+304
+Efficacy and Safety of HER2-Targeted Agents for Breast Cancer wit
+HER2-Overexpression: A Network Meta-Analysis
+
+305
+Brief motivational interventions for college student drinking may not be a
+powerful as we think: an individual participant-level data meta-analysis
+
+306
+A Bayesian network meta-analysis on the effect of inodilatory agents o
+mortality
+
+307
+A multilevel approach to network meta-analysis within a frequentist framework
+
+308
+Comparative Efficacy of Four Treatments in Patients with Graves' Disease:
+Network Meta-analysis
+
+310
+Comparative efficacy of radiofrequency and laser ablation for the treatment o
+benign thyroid nodules: systematic review including traditional pooling an
+bayesian network meta-analysis
+
+311
+Comparative Efficacy of Novel DMARDs as Monotherapy and in Combination wit
+Methotrexate in Rheumatoid Arthritis Patients with Inadequate Response t
+Conventional DMARDs: A Network Meta-Analysis
+
+312
+Prevalence of symptoms of vaginal fistula in 19 sub-Saharan Africa countries:
+meta-analysis of national household survey data
+
+313
+Nonsteroidal Anti-inflammatory Drugs as Prophylaxis for Heterotopic Ossification
+after Total Hip Arthroplasty: A Systematic Review and Meta-Analysis
+
+314
+Comparative efficacy and tolerability of three treatments in old people wit
+osteoporotic vertebral compression fracture: a network meta-analysis an
+systematic review
+
+315
+Assessing the association between natural food folate intake and blood folat
+concentrations: a systematic review and Bayesian meta-analysis of trials an
+observational studies
+
+316
+Dynamic contrast-enhanced MRI for the detection of prostate cancer
+meta-analysis
+
+317
+Immunoenhancing enteral and parenteral nutrition for gastrointestinal surgery: a
+multiple-treatments meta-analysis
+
+318
+Meta-analysis of prognostic factors for amputation following surgical repair o
+lower extremity vascular trauma
+
+319
+Attachment in institutionalized children: a review and meta-analysis
+
+320
+Qualitative elastography can replace thyroid nodule fine-needle aspiration i
+patients with soft thyroid nodules. A systematic review and meta-analysis
+
+321
+The efficacy and safety of mechanical hemodynamic support in patients undergoing
+high-risk percutaneous coronary intervention with or without cardiogenic shock
+Bayesian approach network meta-analysis of 13 randomized controlled trials
+
+323
+Micronutrients in HIV: a Bayesian meta-analysis
+
+324
+Network meta-analysis of direct-acting antivirals in combination wit
+peginterferon-ribavirin for previously untreated patients with hepatitis
+genotype 1 infection
+
+325
+Mechanical ventilation modes for respiratory distress syndrome in infants:
+systematic review and network meta-analysis
+
+326
+Relative benefit-risk comparing diclofenac to other traditional non-steroida
+anti-inflammatory drugs and cyclooxygenase-2 inhibitors in patients wit
+osteoarthritis or rheumatoid arthritis: a network meta-analysis
+
+327
+Systematic review and mixed treatment comparison meta-analysis of randomize
+clinical trials of primary oral antifungal prophylaxis in allogenei
+hematopoietic cell transplant recipients
+
+328
+Glycaemic control efficacy of oral antidiabetic drugs in treating type
+diabetes: a protocol for network meta-analysis
+
+329
+Safety evaluation on low-molecular-weight hydroxyethyl starch for volum
+expansion therapy in pediatric patients: a meta-analysis of randomized controlle
+trials
+
+330
+Transcatheter reduction of paravalvular leaks: a systematic review an
+meta-analysis
+
+331
+Survival benefit of the primary prevention implantable cardioverter-defibrillato
+among older patients: does age matter? An analysis of pooled data from 5 clinica
+trials
+
+333
+Network meta-analysis shows commercialized subcutaneous and sublingual gras
+products have comparable efficacy
+
+334
+A meta-analysis platform methodology for determining the comparativ
+effectiveness of antihepatitis C virus regimens
+
+335
+Comparison among drug-eluting balloon, drug-eluting stent, and plain balloo
+angioplasty for the treatment of in-stent restenosis: a network meta-analysis of
+11 randomized, controlled trials
+
+336
+Interventions for treating displaced midshaft clavicular fractures: a Bayesia
+network meta-analysis of randomized controlled trials
+
+339
+The pharmacological and non-pharmacological treatment of attention defici
+hyperactivity disorder in children and adolescents: protocol for a systemati
+review and network meta-analysis of randomized controlled trials
+
+340
+Psychotherapy for depression in children and adolescents: study protocol for
+systematic review and network meta-analysis
+
+342
+Labour induction with prostaglandins: a systematic review and networ
+meta-analysis
+
+343
+
+344
+Diabetes and congenital heart defects: a systematic review, meta-analysis, an
+modeling project
+
+345
+A network meta-analysis of progression free survival and overall survival i
+first-line treatment of chronic lymphocytic leukemia
+
+346
+Comparative effectiveness of immunosuppressants and biologics for inducing an
+maintaining remission in Crohn's disease: a network meta-analysis
+
+347
+Gastrointestinal and renal side effects of bisphosphonates: differentiatin
+between no proof of difference and proof of no difference
+
+348
+Relatedness is a poor predictor of negative plant-soil feedbacks
+
+351
+A Bayesian network meta-analysis comparing concurrent chemoradiotherapy followed
+by adjuvant chemotherapy, concurrent chemoradiotherapy alone and radiotherap
+alone in patients with locoregionally advanced nasopharyngeal carcinoma
+
+352
+[Meta analysis of the use of Bayesian networks in breast cancer diagnosis]
+
+353
+
+354
+Gastrointestinal adverse events of glucagon-like peptide-1 receptor agonists i
+patients with type 2 diabetes: a systematic review and network meta-analysis
+
+355
+Safety and efficacy of non-vitamin K oral anticoagulants in non-valvular atria
+fibrillation: a Bayesian meta-analysis approach
+
+356
+First-line treatment in the management of advanced renal cell carcinoma
+systematic review and network meta-analysis
+
+357
+Economic resources consumption structure in severe hypoglycemia episodes:
+systematic review and meta-analysis
+
+358
+Comparative efficacy of pharmacologic interventions in preventing relapse o
+Crohn's disease after surgery: a systematic review and network meta-analysis
+
+359
+Effects of using different criteria for caries removal: a systematic review an
+network meta-analysis
+
+360
+Spatial and temporal distribution of soil-transmitted helminth infection i
+sub-Saharan Africa: a systematic review and geostatistical meta-analysis
+
+362
+Network meta-analysis: development of a three-level hierarchical modelin
+approach incorporating dose-related constraints

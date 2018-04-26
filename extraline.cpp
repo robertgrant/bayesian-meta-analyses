@@ -16,8 +16,8 @@ int main(int argc, char *argv[]) {
 	ifstream rfile;
     ofstream wfile;
     string line;
-    rfile.open("medline-MA.txt",ifstream::in);
-    wfile.open("medline-MA2.txt",ofstream::out);
+    rfile.open("medline-update-MA.txt",ifstream::in);
+    wfile.open("medline-update-MA2.txt",ofstream::out);
     wfile << endl;
     while(!rfile.eof()) {
         getline(rfile,line);

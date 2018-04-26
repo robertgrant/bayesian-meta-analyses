@@ -1,0 +1,1029 @@
+1
+TI- Systemic antibiotics in the treatment of aggressive periodontitis. A systematic review and a Bayesian Network meta-analysis.
+AU- Rabelo, Cleverton Correa
+AU- Feres, Magda
+AU- Gonçalves, Cristiane
+AU- Figueiredo, Luciene C.
+AU- Faveri, Marcelo
+AU- Tu, Yu-Kang
+AU- Chambrone, Leandro
+AF- Division of Periodontics, Federal University of Juiz de Fora (UFJF)
+AF- Dental Research Division, Department of Periodontology, Guarulhos University
+AF- Institute of Epidemiology & Preventive Medicine, College of Public Health, National Taiwan University
+AF- Department of Periodontics, College of Dentistry, The University of Iowa; Unit of Basic Oral Investigation (UIBO), School of Dentistry, El Bosque University
+SO- Journal of Clinical Periodontology (J CLIN PERIODONTOL), 647-657. Jul2015; 42 (7): (11p)
+PT- Journal Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Aggressive Periodontitis -- Drug Therapy
+MJ- Antibiotics -- Therapeutic Use
+MH- Human
+MH- Systematic Review
+MH- Meta Analysis
+MH- Medline
+MH- Embase
+MH- Databases
+MH- Funding Source
+MH- Root Planing
+AB- Aim The aim of this study was to assess the effect of systemic antibiotic therapy on the treatment of aggressive periodontitis (AgP). Methods This study was conducted and reported in accordance with the PRISMA statement. The MEDLINE, EMBASE and CENTRAL databases were searched up to June 2014 for randomized clinical trials comparing the treatment of subjects with AgP with either scaling and root planing ( SRP) alone or associated with systemic antibiotics. Bayesian network meta-analysis was prepared using the Bayesian random-effects hierarchical models and the outcomes reported at 6-month post-treatment. Results Out of 350 papers identified, 14 studies were eligible. Greater gain in clinical attachment ( CA) (mean difference [ MD]: 1.08 mm; p < 0.0001) and reduction in probing depth ( PD) ( MD: 1.05 mm; p < 0.00001) were observed for SRP + metronidazole (Mtz), and for SRP + Mtz + amoxicillin (Amx) ( MD: 0.45 mm, MD: 0.53 mm, respectively; p < 0.00001) than SRP alone/placebo. Bayesian network meta-analysis showed additional benefits in CA gain and PD reduction when SRP was associated with systemic antibiotics. Conclusions SRP plus systemic antibiotics led to an additional clinical effect compared with SRP alone in the treatment of AgP. Of the antibiotic protocols available for inclusion into the Bayesian network meta-analysis, Mtz and Mtz/Amx provided to the most beneficial outcomes.
+JS- Biomedical
+JS- Continental Europe
+JS- Europe
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+SC- Dental Care
+SC- Evidence-Based Practice
+IS- 0303-6979
+GI- The study was supported by the research grants 2012/09645-1 from Sao Paulo Research Foundation ~ (FAPESP, Brazil) and NSC101-2314- B-002-197-MY2 from the National Science Council in Taiwan.
+EM- 20150728
+RD- 20160630
+DO- 10.1111/jcpe.12427
+MD- PMID: 26087839 NLM UID: 0425123
+FT- N
+AN- 109820548
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=109820548&site=ehost-live
+
+2
+TI- Effects of Hazelnut Consumption on Blood Lipids and Body Weight: A Systematic Review and Bayesian Meta-Analysis.
+AU- Perna, Simone
+AU- Giacosa, Attilio
+AU- Bonitta, Gianluca
+AU- Bologna, Chiara
+AU- Isu, Antonio
+AU- Guido, Davide
+AU- Rondanelli, Mariangela
+AF- Department of Public Health, Experimental and Forensic Medicine, Endocrinology and Nutrition Unit, University of Pavia, Azienda di Servizi alla Persona di Pavia, Pavia 27100, Italy
+AF- Department of Gastroenterology, Policlinico di Monza, Monza 20097, Italy
+AF- Department of Biomedical Sciences for Health, Division of General Surgery, IRCCS Policlinico San Donato, University of Milan, Milan 20097, Italy
+AF- Department of Public Health, Experimental and Forensic Medicine, Biostatistics and Clinical Epidemiology Unit, University of Pavia, Pavia 27100, Italy
+SO- Nutrients (NUTRIENTS), 1-17. Dec2016; 8 (12): (17p)
+PT- Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Nuts
+MJ- Lipids -- Blood
+MJ- Body Weight
+MJ- Diet
+MH- Human
+MH- Systematic Review
+MH- Meta Analysis
+MH- Descriptive Statistics
+MH- Lipoproteins, LDL Cholesterol -- Analysis
+MH- Lipoproteins, HDL Cholesterol -- Analysis
+MH- Triglycerides -- Analysis
+MH- Body Mass Index
+MH- Cardiovascular Diseases -- Prevention and Control
+AB- Hazelnuts are rich in monounsaturated fatty acids and antioxidant bioactive substances: their consumption has been associated with a decreased risk of cardiovascular disease events. A systematic review and a meta-analysis was performed to combine the results from several trials and to estimate the pooled (overall) effect of hazelnuts on blood lipids and body weight outcomes. Specifically, a Bayesian random effect meta-analysis of mean differences of D-changes from baseline across treatment (MDΔ) (i.e., hazelnut-enriched diet vs. control diet) has been conducted. Nine studies representing 425 participants were included in the analysis. The intervention diet lasted 28-84 days with a dosage of hazelnuts ranging from 29 to 69 g/day. Out of nine studies, three randomized studies have been meta-analyzed showing a significant reduction in low-density lipoprotein (LDL) cholesterol (pooled MDΔ = -0.150 mmol/L; 95% highest posterior density interval (95%HPD) = -0.308; -0.003) in favor of a hazelnut-enriched diet. Total cholesterol showed a marked trend toward a decrease (pooled MDΔ = -0.127 mmol/L; 95%HPD = -0.284; 0.014) and high-density lipoprotein (HDL) cholesterol remained substantially stable (pooled MDΔ = 0.002 mmol/L; 95%HPD = -0.140; 0.147). No effects on triglycerides (pooled MDΔ = 0.045 mmol/L; 95%HPD = -0.195; 0.269) and body mass index (BMI) (pooled MDΔ = 0.062 kg/m²; 95%HPD = -0.293; 0.469) were found. Hazelnut-enriched diet is associated with a decrease of LDL and total cholesterol, while HDL cholesterol, triglycerides and BMI remain substantially unchanged.
+JS- Biomedical
+JS- Continental Europe
+JS- Europe
+SC- Evidence-Based Practice
+IS- 2072-6643
+EM- 20170112
+RD- 20170114
+DO- 10.3390/nu8120747
+MD- NLM UID: 101521595
+FT- N
+AN- 120544456
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=120544456&site=ehost-live
+
+3
+TI- Network meta-analysis of Chinese herb injections combined with FOLFOX chemotherapy in the treatment of advanced colorectal cancer.
+AU- Ge, L.
+AU- Wang, Y-f.
+AU- Tian, J-h.
+AU- Mao, L.
+AU- Zhang, J.
+AU- Zhang, J-h.
+AU- Shen, X-p.
+AU- Yang, K-h.
+AF- The First Clinical Medical College, Lanzhou University
+AF- Evidence-based Medicine Center, Lanzhou University
+AF- Key Laboratory of Evidence-based Medicine and Knowledge Translation of Gansu Province
+AF- School of Basic Medical Sciences, Gansu University of Traditional Chinese Medicine
+AF- The Second Clinical Medical College, Lanzhou University
+AF- School of Nursing, Gansu University of Traditional Chinese Medicine
+AF- Evidence-based Medicine Center, Tianjin University of Traditional Chinese Medicine
+AF- Department of Epidemiology and Biostatistics, School of Public Health Lanzhou University
+SO- Journal of Clinical Pharmacy & Therapeutics (J CLIN PHARM THER), 383-391. Aug2016; 41 (4): (9p)
+PT- Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Medicine, Herbal
+MJ- Medicine, Chinese Traditional
+MJ- Colorectal Neoplasms
+MJ- Neoplasm Metastasis -- Drug Therapy
+MJ- Drug Therapy, Combination
+MJ- Chemotherapy, Cancer
+MH- Human
+MH- Systematic Review
+MH- Meta Analysis
+MH- PubMed
+MH- Embase
+MH- Cochrane Library
+MH- Full-Text Databases, Health
+MH- Matched-Pair Analysis
+MH- Descriptive Statistics
+MH- Data Analysis Software
+AB- What is known and Objective Research has indicated that some Chinese herb injections ( CHIs) might be beneficial in combination with chemotherapy, including remedies that might be used as effective chemosensitizers and radiosensitizers, or as palliative therapy. Here, we carried out a network meta-analysis to assess the clinical efficacy and safety of CHIs combined with oxaliplatin, 5-fluorouracil and leucovorin ( FOLFOX) for advanced colorectal cancer ( CRC). Methods PubMed, EMBASE.com, the Cochrane Central Register of Controlled Trials ( CENTRAL), Chinese Biomedical Literature Database ( CBM), Wanfang Database and Chinese Journal Full-text Database were searched from inception to 31 December 2014, to identify relevant randomized controlled trails ( RCTs). The risk of bias in included RCTs was evaluated according to the Cochrane Handbook version 5.1.0. Standard pairwise meta-analysis and Bayesian network meta-analysis were performed to compare the efficacy and safety of different CHIs combined with FOLFOX. Data were analysed using STATA 12.0 and Win BUGS1.4 software. Results and discussion We identified 63 eligible studies (with 4837 patients in total), involving 9 CHIs. Pairwise meta-analysis showed that compared with FOLFOX alone, combinations with Aidi injection and compound matrine injection could significantly improve the overall response rate and quality of life and reduce the incidence of nausea and vomiting ( III- IV), diarrhoea ( III- IV), thrombocytopenia ( III- IV), leukopenia ( III- IV) and peripheral neurotoxicity ( III- IV). According to results of indirect comparison, there were no statistically significant differences for most of comparison groups. Aidi+ FOLFOX, shenqifuzheng+ FOLFOX and compound matrine+ FOLFOX had the greatest probability of being the best treatment in clinical efficacy and safety, considering the small sample size. What is new and Conclusions Most of the included studies were of low quality, and there was a scarcity of eligible trials and numbers of participants. Based on currently limited evidence, aidi, shenqifuzheng and compound matrine were superior to other CHIs in patients receiving FOLFOX chemotherapy for advanced CRC. More studies are required to confirm the efficacy of CHIs in combination with FOLFOX for advanced CRC.
+JS- Biomedical
+JS- Europe
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+SC- Oncologic Care
+IS- 0269-4727
+EM- 20160630
+RD- 20170801
+DO- 10.1111/jcpt.12410
+MD- NLM UID: 8704308
+FT- N
+AN- 116344175
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=116344175&site=ehost-live
+
+4
+TI- Root coverage procedures improve patient aesthetics. A systematic review and Bayesian network meta-analysis.
+AU- Cairo, Francesco
+AU- Pagliaro, Umberto
+AU- Buti, Jacopo
+AU- Baccini, Michela
+AU- Graziani, Filippo
+AU- Tonelli, Paolo
+AU- Pagavino, Gabriella
+AU- Tonetti, Maurizio S.
+AF- Section of Periodontology, Department of Surgery and Translational Medicine, University of Florence
+AF- Private Practice
+AF- School of Dentistry, University of Manchester
+AF- Department of Statistics, Informatics and Applications 'G. Parenti', University of Florence
+AF- Biostatistics Unit, ISPO Cancer Prevention and Research Institute
+AF- Department of Surgical, Medical, Molecular and Critical Area Pathology, University of Pisa
+AF- Section of Oral Surgery, Department of Surgery and Translational Medicine, University of Florence
+AF- Section of Endodontics, Department of Surgery and Translational Medicine, University of Florence
+AF- European Research Group on Periodontology (ERGOPERIO)
+SO- Journal of Clinical Periodontology (J CLIN PERIODONTOL), 965-975. Nov2016; 43 (11): (11p)
+PT- Article
+PT- meta analysis
+PT- pictorial
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Gingival Recession -- Surgery
+MJ- Surgery, Plastic
+MJ- Esthetics, Dental
+MJ- Treatment Outcomes
+MH- Systematic Review
+MH- Meta Analysis
+MH- Human
+MH- PubMed
+MH- Cochrane Library
+MH- Embase
+MH- Visual Analog Scaling
+MH- Funding Source
+AB- Background The aim of this study was to perform a systematic review ( SR) of randomized controlled trials ( RCTs) to explore if periodontal plastic surgery procedures for the treatment of single and multiple gingival recessions (Rec) may improve aesthetics at patient and professional levels. Material and Methods In order to combine evidence from direct and indirect comparisons by different trials a Bayesian network meta-analysis ( BNM) was planned. A literature search on PubMed, Cochrane libraries, EMBASE, and hand-searched journals until January 2016 was conducted to identify RCTs presenting aesthetic outcomes after root coverage using standardized evaluations at patient and professional level. Results A total of 16 RCTs were selected in the SR; three RTCs presenting professional aesthetic evaluation with Root coverage Aesthetic Score ( RES) and three showing final self-perception using the Visual Analogue Scale ( VAS Est) could be included in a BNM model. Coronally Advanced Flap plus Connective Tissue Graft ( CAF + CTG) and CAF + Acellular Dermal Matrix ( ADM) and Autologous Fibroblasts ( AF) were associated with the best RES outcomes (best probability = 24% and 64%, respectively), while CAF + CTG and CAF + CTG + Enamel matrix Derivatives ( EMD) obtained highest values of VAS Est score (best probability = 44% and 26%, respectively). Conclusions Periodontal Plastic Surgery ( PPS) techniques applying grafts underneath CAF with or without the adding of EMD are associated with improved aesthetics assessed by final patient perception and RES as professional evaluation system.
+JS- Biomedical
+JS- Continental Europe
+JS- Europe
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+SC- Evidence-Based Practice
+IS- 0303-6979
+GI- The study was self funded.
+EM- 20161018
+RD- 20171101
+DO- 10.1111/jcpe.12603
+MD- NLM UID: 0425123
+FT- N
+AN- 118730041
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=118730041&site=ehost-live
+
+5
+TI- Risk of serious infection in biological treatment of patients with rheumatoid arthritis: a systematic review and meta-analysis.
+AU- Singh, Jasvinder A
+AU- Cameron, Chris
+AU- Noorbaloochi, Shahrzad
+AU- Cullis, Tyler
+AU- Tucker, Matthew
+AU- Christensen, Robin
+AU- Ghogomu, Elizabeth Tanjong
+AU- Coyle, Doug
+AU- Clifford, Tammy
+AU- Tugwell, Peter
+AU- Wells, George A
+AF- Birmingham Veterans Affairs Medical Center, Birmingham, AL, USA; Division of Clinical Immunology and Rheumatology, University of Alabama at Birmingham, Birmingham, AL, USA; Department of Orthopedic Surgery, Mayo Clinic College of Medicine, Rochester, MN, USA. Electronic address: jasvinder.md@gmail.com.
+AF- School of Epidemiology, Public Health and Preventive Medicine, University of Ottawa, ON, Canada; University of Ottawa Heart Institute, Ottawa, ON, Canada.
+AF- American University, Washington, DC, USA.
+AF- Division of Clinical Immunology and Rheumatology, University of Alabama at Birmingham, Birmingham, AL, USA.
+AF- Musculoskeletal Statistics Unit, The Parker Institute, Department of Rheumatology, Copenhagen University Hospitals, Bispebjerg and Frederiksberg, Denmark.
+AF- School of Epidemiology, Public Health and Preventive Medicine, University of Ottawa, ON, Canada.
+SO- Lancet (LANCET), 258-265. 7/18/2015; 386 (9990): (8p)
+CM- Dixon William G. Rheumatoid arthritis: biological drugs and risk of infection. (LANCET) 7/18/2015; 386 (9990): 224-225; 109822251
+PT- journal article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- Academic Journal
+LA- English
+MJ- Antirheumatic Agents -- Adverse Effects
+MJ- Arthritis, Rheumatoid -- Drug Therapy
+MJ- Biological Factors -- Adverse Effects
+MJ- Opportunistic Infections -- Chemically Induced
+MH- Clinical Trials
+MH- Human
+MH- Meta Analysis
+MH- Professional Practice, Evidence-Based
+MH- Risk Factors
+MH- Systematic Review
+AB- Background: Serious infections are a major concern for patients considering treatments for rheumatoid arthritis. Evidence is inconsistent as to whether biological drugs are associated with an increased risk of serious infection compared with traditional disease-modifying antirheumatic drugs (DMARDs). We did a systematic review and meta-analysis of serious infections in patients treated with biological drugs compared with those treated with traditional DMARDs.Methods: We did a systematic literature search with Medline, Embase, Cochrane Central Register of Controlled Trials, and ClinicalTrials.gov from their inception to Feb 11, 2014. Search terms included "biologics", "rheumatoid arthritis" and their synonyms. Trials were eligible for inclusion if they included any of the approved biological drugs and reported serious infections. We assessed the risk of bias with the Cochrane Risk of Bias Tool. We did a Bayesian network meta-analysis of published trials using a binomial likelihood model to assess the risk of serious infections in patients with rheumatoid arthritis who were treated with biological drugs, compared with those treated with traditional DMARDs. The odds ratio (OR) of serious infection was the primary measure of treatment effect and calculated 95% credible intervals using Markov Chain Monte Carlo methods.Findings: The systematic review identified 106 trials that reported serious infections and included patients with rheumatoid arthritis who received biological drugs. Compared with traditional DMARDs, standard-dose biological drugs (OR 1.31, 95% credible interval [CrI] 1.09-1.58) and high-dose biological drugs (1.90, 1.50-2.39) were associated with an increased risk of serious infections, although low-dose biological drugs (0.93, 0.65-1.33) were not. The risk was lower in patients who were methotrexate naive compared with traditional DMARD-experienced or anti-tumour necrosis factor biological drug-experienced patients. The absolute increase in the number of serious infections per 1000 patients treated each year ranged from six for standard-dose biological drugs to 55 for combination biological therapy, compared with traditional DMARDs.Interpretation: Standard-dose and high-dose biological drugs (with or without traditional DMARDs) are associated with an increase in serious infections in rheumatoid arthritis compared with traditional DMARDs, although low-dose biological drugs are not. Clinicians should discuss the balance between benefit and harm with the individual patient before starting biological treatment for rheumatoid arthritis.Funding: Rheumatology Division at the University of Alabama at Birmingham.
+JS- Biomedical
+JS- Editorial Board Reviewed
+JS- Europe
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+IS- 0099-5355
+GI- VA999999//Intramural VA/United States
+GI- U10 CA149950/CA/NCI NIH HHS/United States
+GI- U19 HS021110/HS/AHRQ HHS/United States
+GI- U01 AG018947/AG/NIA NIH HHS/United States
+GI- CGV 121171//Canadian Institutes of Health Research/Canada
+GI- U34 AR062891/AR/NIAMS NIH HHS/United States
+GI- P50 AR060772/AR/NIAMS NIH HHS/United States
+GI- 116573//Canadian Institutes of Health Research/Canada
+EM- 20150923
+RD- 20180108
+DO- 10.1016/S0140-6736(14)61704-9
+MD- PMID: 25975452 NLM UID: 2985213R
+FT- N
+AN- 109822252
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=109822252&site=ehost-live
+
+6
+TI- Triptans in the Acute Treatment of Migraine: A Systematic Review and Network Meta-Analysis.
+AU- Cameron, Chris
+AU- Kelly, Shannon
+AU- Hsieh, Shu-Ching
+AU- Murphy, Meghan
+AU- Chen, Li
+AU- Kotb, Ahmed
+AU- Peterson, Joan
+AU- Coyle, Doug
+AU- Skidmore, Becky
+AU- Gomes, Tara
+AU- Clifford, Tammy
+AU- Wells, George
+AF- School of Epidemiology, Public Health and Preventive Medicine, University of Ottawa; University of Ottawa Heart Institute
+AF- University of Ottawa Heart Institute
+AF- School of Epidemiology, Public Health and Preventive Medicine, University of Ottawa
+AF- Keenan Research Centre of the Li Ka Shing Knowledge Institute, St. Michael's Hospital
+AF- School of Epidemiology, Public Health and Preventive Medicine, University of Ottawa; CADTH
+SO- Headache: The Journal of Head & Face Pain (HEADACHE), 221-235. Jul2015 Supplement; 55: (15p)
+PT- Journal Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Tryptamines -- Therapeutic Use
+MJ- Migraine -- Drug Therapy
+MH- Human
+MH- Systematic Review
+MH- Meta Analysis
+MH- Analgesics -- Therapeutic Use
+MH- Medline
+MH- Cochrane Library
+MH- Embase
+MH- Descriptive Statistics
+MH- Odds Ratio
+MH- Relative Risk
+MH- Data Analysis Software
+MH- Confidence Intervals
+MH- Time Factors
+MH- Female
+MH- Adolescence
+MH- Adult
+MH- Middle Age
+MH- Aged
+MH- Male
+MH- Funding Source
+AB- Background Although triptans are widely used in the acute management of migraine, there is uncertainty around the comparative efficacy of triptans among each other and vs non-triptan migraine treatments. We conducted systematic reviews and network meta-analyses to compare the relative efficacy of triptans (alone or in combination with other drugs) for acute treatment of migraines compared with other triptan agents, non-steroidal anti-inflammatory drugs ( NSAIDs), acetylsalicylic acid ( ASA), acetaminophen, ergots, opioids, or anti-emetics. Methods The Cochrane Library, MEDLINE, and EMBASE were searched for randomized controlled trials that compared triptans (alone or in combination with other drugs) with placebo-controlled or active migraine treatments. Study selection, data extraction, and quality assessment were completed independently by multiple reviewers. Outcome data were combined and analyzed using a Bayesian network meta-analysis. For each outcome, odds ratios, relative risks, and absolute probability of response were calculated. Results A total of 133 randomized controlled trials met the inclusion criteria. Standard dose triptans relieved headaches within 2 hours in 42 to 76% of patients, and 2-hour sustained freedom from pain was achieved for 18 to 50% of patients. Standard dose triptans provided sustained headache relief at 24 hours in 29 to 50% of patients, and sustained freedom from pain in 18 to 33% of patients. Use of rescue medications ranged from 20 to 34%. For 2-hour headache relief, standard dose triptan achieved better outcomes (42 to 76% response) than ergots (38%); equal or better outcomes than NSAIDs, ASA, and acetaminophen (46 to 52%); and equal or slightly worse outcomes than combination therapy (62 to 80%). Among individual triptans, sumatriptan subcutaneous injection, rizatriptan ODT, zolmitriptan ODT, and eletriptan tablets were associated with the most favorable outcomes. Interpretation/Conclusions Triptans are effective for migraine relief. Standard dose triptans are associated with better outcomes than ergots, and most triptans are associated with equal or better outcomes compared with NSAIDs, ASA, and acetaminophen. Use of triptans in combination with ASA or acetaminophen, or using alternative modes of administration such as injectables, may be associated with slightly better outcomes than standard dose triptan tablets.
+JS- Biomedical
+JS- Peer Reviewed
+JS- USA
+SC- Evidence-Based Practice
+SC- Pain and Pain Management
+IS- 0017-8748
+GI- This research was supported by the Ontario Drug Policy Research Network. CC is a recipient of a Vanier Canada Graduate Scholarship through CIHR (Funding reference number – CGV 121171) and a trainee on the CIHR Drug Safety and Effectiveness Network Meta-Analysis team grant (Funding reference number – 116573).
+EM- 20150911
+RD- 20160701
+DO- 10.1111/head.12601
+MD- PMID: 26178694 NLM UID: 2985091R
+FT- N
+AN- 109819323
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=109819323&site=ehost-live
+
+7
+TI- Comparative Efficacy and Safety of Selective Serotonin Reuptake Inhibitors and Serotonin-Norepinephrine Reuptake Inhibitors in Older Adults: A Network Meta-Analysis.
+AU- Thorlund, Kristian
+AU- Druyts, Eric
+AU- Wu, Ping
+AU- Balijepalli, Chakrapani
+AU- Keohane, Denis
+AU- Mills, Edward
+AF- Stanford Prevention Research Center, Stanford University; Department of Clinical Epidemiology and Biostatistics, McMaster University; Redwood Outcomes
+AF- Redwood Outcomes; Department of Medicine, University of British Columbia
+AF- Redwood Outcomes
+AF- Pfizer Inc.
+AF- Stanford Prevention Research Center, Stanford University; Redwood Outcomes
+SO- Journal of the American Geriatrics Society (J AM GERIATR SOC), 1002-1009. May2015; 63 (5): (8p)
+PT- Journal Article
+PT- meta analysis
+PT- pictorial
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Serotonin Uptake Inhibitors -- Therapeutic Use -- In Old Age
+MH- Human
+MH- Male
+MH- Female
+MH- Middle Age
+MH- Aged
+MH- Meta Analysis
+MH- Systematic Review
+MH- Medline
+MH- Embase
+MH- Cochrane Library
+MH- Psycinfo
+MH- Hamilton Rating Scale for Depression
+MH- Scales
+MH- Funding Source
+AB- Objectives To establish the comparative efficacy and safety of selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors in older adults using the network meta-analysis approach. Design Systematic review and network meta-analysis. Participants Individuals aged 60 and older. Measurements Data on partial response (defined as at least 50% reduction in depression score from baseline) and safety (dizziness, vertigo, syncope, falls, loss of consciousness) were extracted. A Bayesian network meta-analysis was performed on the efficacy and safety outcomes, and relative risks ( RRs) with 95% credible intervals (CrIs) were produced. Results Fifteen randomized controlled trials were eligible for inclusion in the analysis. Citalopram, escitalopram, paroxetine, duloxetine, venlafaxine, fluoxetine, and sertraline were represented. Reporting on partial response and dizziness was sufficient to conduct a network meta-analysis. Reporting on other outcomes was sparse. For partial response, sertraline ( RR = 1.28), paroxetine ( RR = 1.48), and duloxetine ( RR = 1.62) were significantly better than placebo. The remaining interventions yielded RRs lower than 1.20. For dizziness, duloxetine ( RR = 3.18) and venlafaxine ( RR = 2.94) were statistically significantly worse than placebo. Compared with placebo, sertraline had the lowest RR for dizziness (1.14) and fluoxetine the second lowest (1.31). Citalopram, escitalopram, and paroxetine all had RRs between 1.4 and 1.7. Conclusion There was clear evidence of the effectiveness of sertraline, paroxetine, and duloxetine. There also appears to be a hierarchy of safety associated with the different antidepressants, although there appears to be a dearth of reporting of safety outcomes.
+JS- Biomedical
+JS- Peer Reviewed
+JS- USA
+SC- Evidence-Based Practice
+SC- Gerontologic Care
+SC- Patient Safety
+IN- Montgomery-Asberg Depression Rating Scale (MADRS)
+IN- Hamilton Rating Scale for Depression (HRSD)
+IS- 0002-8614
+GI- This study received unrestricted funding from Pfizer Inc.
+EM- 20150520
+RD- 20160502
+DO- 10.1111/jgs.13395
+MD- PMID: 25945410 NLM UID: 7503062
+FT- N
+AN- 103803001
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=103803001&site=ehost-live
+
+8
+TI- Extended duration dual antiplatelet therapy and mortality: a systematic review and meta-analysis.
+AU- Elmariah, Sammy
+AU- Mauri, Laura
+AU- Doros, Gheorghe
+AU- Galper, Benjamin Z
+AU- O'Neill, Kelly E
+AU- Steg, Philippe Gabriel
+AU- Kereiakes, Dean J
+AU- Yeh, Robert W
+AF- Cardiology Division, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA; Harvard Clinical Research Institute, Boston, MA, USA.
+AF- Division of Cardiovascular Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA; Harvard Clinical Research Institute, Boston, MA, USA.
+AF- Harvard Clinical Research Institute, Boston, MA, USA; Department of Biostatistics, Boston University School of Public Health, Boston, MA, USA.
+AF- Division of Cardiovascular Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.
+AF- Université Paris-Diderot, Sorbonne Paris-Cité, Paris, France; Département Hospitalo-Universitaire FIRE (Fibrosis, Inflammation and Remodeling), INSERM U-1148 and Hôpital Bichat, Assistance Publique-Hôpitaux de Paris, Paris, France; National Heart Lung Institute, Imperial College, Royal Brompton Hospital, London, UK.
+AF- The Lindner Research Center, The Christ Hospital Heart and Vascular Center, Cincinnati, OH, USA.
+AF- Cardiology Division, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA; Harvard Clinical Research Institute, Boston, MA, USA. Electronic address: ryeh@mgh.harvard.edu.
+SO- Lancet (LANCET), 792-798. 2/28/2015; 385 (9970): (7p)
+CM- Lemesle Gilles. Dual antiplatelet therapy and non-cardiovascular mortality. (LANCET) 2/28/2015; 385 (9970): 756-757; 107777271
+CM- Huynh Karina. Antiplatelet therapy: risks and benefits of extended DAPT after stenting. (NATURE REV CARDIOL) Jan2015; 12 (1): 1-1; 107809008
+PT- journal article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- Academic Journal
+LA- English
+MJ- Cardiovascular Diseases -- Drug Therapy
+MJ- Neurotransmitter Agents -- Therapeutic Use
+MJ- Platelet Aggregation Inhibitors -- Therapeutic Use
+MH- Cardiovascular Diseases -- Mortality
+MH- Clinical Trials
+MH- Drug Therapy, Combination
+MH- Epidemiological Research
+MH- Human
+MH- Long Term Care
+MH- Meta Analysis
+MH- Professional Practice, Evidence-Based
+MH- Systematic Review
+MH- Treatment Outcomes
+AB- Background: Treatment with aspirin and a P2Y12 inhibitor is commonly used in patients with cardiovascular disorders. The overall effect of such treatment on all-cause mortality is unknown. In the Dual Antiplatelet Therapy (DAPT) Study, continuation of dual antiplatelet therapy beyond 12 months after coronary stenting was associated with an unexpected increase in non-cardiovascular death. In view of the potential public health importance of these findings, we aimed to assess the effect of extended duration dual antiplatelet therapy on mortality by doing a meta-analysis of all randomised, controlled trials of treatment duration in various cardiovascular disorders.Methods: We searched Medline, Embase, and Cochrane Central Register of Controlled Trials (CENTRAL) to identify randomised controlled trials assessing the effect of extended duration versus no or short duration dual antiplatelet therapy, published before Oct 1, 2014. We did a meta-analysis to pool results with a hierarchical Bayesian random-effects model. The primary outcomes were hazard ratios comparing rates of all-cause, cardiovascular, and non-cardiovascular death.Findings: Including the DAPT Study, we identified 14 eligible trials that randomly assigned 69,644 participants to different durations of dual antiplatelet therapy. Compared with aspirin alone or short duration dual antiplatelet therapy (≤6 months), continued treatment was not associated with a difference in all-cause mortality (hazard ratio [HR] 1·05, 95% credible interval [CrI] 0·96-1·19; p=0·33). Similarly, cardiovascular (1·01, 0·93-1·12; p=0·81) and non-cardiovascular mortality (1·04, 0·90-1·26; p=0·66) were no different with extended duration versus short duration dual antiplatelet therapy or aspirin alone.Interpretation: Extended duration dual antiplatelet therapy was not associated with a difference in the risk of all-cause, cardiovascular, or non-cardiovascular death compared with aspirin alone or short duration dual antiplatelet therapy.Funding: None.
+JS- Biomedical
+JS- Editorial Board Reviewed
+JS- Europe
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+IS- 0099-5355
+GI- K23 HL118138/HL/NHLBI NIH HHS/United States
+EM- 20150410
+RD- 20170831
+DO- 10.1016/S0140-6736(14)62052-3
+MD- PMID: 25467565 NLM UID: 2985213R
+FT- N
+AN- 107777272
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=107777272&site=ehost-live
+
+9
+TI- Electrical stimulation for pain relief in knee osteoarthritis: systematic review and network meta-analysis.
+AU- Zeng, C
+AU- Li, H
+AU- Yang, T
+AU- Deng, Z-H
+AU- Yang, Y
+AU- Zhang, Y
+AU- Lei, G-H
+SO- Osteoarthritis & Cartilage (OSTEOARTHRITIS CARTILAGE), 189-202. Feb2015; 23 (2): (14p)
+PT- journal article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- Academic Journal
+LA- English
+MJ- Analgesia -- Methods
+MJ- Arthralgia -- Etiology
+MJ- Arthralgia -- Therapy
+MJ- Osteoarthritis, Knee -- Complications
+MJ- Pain -- Therapy
+MJ- Transcutaneous Electric Nerve Stimulation
+MH- Clinical Trials
+MH- Human
+MH- Meta Analysis
+MH- Professional Practice, Evidence-Based
+MH- Systematic Review
+MH- Treatment Outcomes
+AB- Objective: To investigate the efficacy of different electrical stimulation (ES) therapies in pain relief of patients with knee osteoarthritis (OA).Method: Electronic databases including MEDLINE, Embase and Cochrane Library were searched through for randomized controlled trials (RCTs) comparing any ES therapies with control interventions (sham or blank) or with each other. Bayesian network meta-analysis was used to combine both the direct and indirect evidence on treatment effectiveness.Results: 27 trials and six kinds of ES therapies, including high-frequency transcutaneous electrical nerve stimulation (h-TENS), low-frequency transcutaneous electrical nerve stimulation (l-TENS), neuromuscular electrical stimulation (NMES), interferential current (IFC), pulsed electrical stimulation (PES), and noninvasive interactive neurostimulation (NIN), were included. IFC is the only significantly effective treatment in terms of both pain intensity and change pain score at last follow-up time point when compared with the control group. Meanwhile, IFC showed the greatest probability of being the best option among the six treatment methods in pain relief. These estimates barely changed in sensitivity analysis. However, the evidence of heterogeneity and the limitation in sample size of some studies could be a potential threat to the validity of results.Conclusion: IFC seems to be the most promising pain relief treatment for the management of knee OA. However, evidence was limited due to the heterogeneity and small number of included trials. Although the recommendation level of the other ES therapies is either uncertain (h-TENS) or not appropriate (l-TENS, NMES, PES and NIN) for pain relief, it is likely that none of the interventions is dangerous.Level Of Evidence: LevelⅡ, systematic review and network meta-analysis of RCTs.
+JS- Biomedical
+JS- Europe
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+IS- 1063-4584
+EM- 20150605
+RD- 20161113
+DO- 10.1016/j.joca.2014.11.014
+MD- PMID: 25497083 NLM UID: 9305697
+FT- N
+AN- 109775269
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=109775269&site=ehost-live
+
+10
+TI- Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis.
+AU- Bannuru, Raveendhara R
+AU- Schmid, Christopher H
+AU- Kent, David M
+AU- Vaysbrot, Elizaveta E
+AU- Wong, John B
+AU- McAlindon, Timothy E
+SO- Annals of Internal Medicine (ANN INTERN MED), 46-54. 1/6/2015; 162 (1): (9p)
+PT- journal article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- Academic Journal
+LA- English
+MJ- Adrenal Cortex Hormones -- Therapeutic Use
+MJ- Analgesics, Nonnarcotic -- Therapeutic Use
+MJ- Antiinflammatory Agents, Non-Steroidal -- Therapeutic Use
+MJ- Osteoarthritis, Knee -- Drug Therapy
+MJ- Solutions -- Therapeutic Use
+MH- Acetaminophen -- Therapeutic Use
+MH- Cochrane Library
+MH- Cox-2 Inhibitors -- Therapeutic Use
+MH- Diclofenac -- Therapeutic Use
+MH- Embase
+MH- Heterocyclic Compounds -- Therapeutic Use
+MH- Human
+MH- Hyaluronic Acid -- Therapeutic Use
+MH- Ibuprofen -- Therapeutic Use
+MH- Injections, Intraarticular
+MH- Medline
+MH- Meta Analysis
+MH- Naproxen -- Therapeutic Use
+MH- Osteoarthritis, Knee -- Complications
+MH- Pain -- Drug Therapy
+MH- Pain -- Etiology
+MH- Professional Practice, Evidence-Based
+MH- Sulfonamides -- Therapeutic Use
+MH- Systematic Review
+MH- Treatment Outcomes
+AB- Background: The relative efficacy of available treatments of knee osteoarthritis (OA) must be determined for rational treatment algorithms to be formulated.Purpose: To examine the efficacy of treatments of primary knee OA using a network meta-analysis design, which estimates relative effects of all treatments against each other.Data Sources: MEDLINE, EMBASE, Web of Science, Google Scholar, Cochrane Central Register of Controlled Trials from inception through 15 August 2014, and unpublished data.Study Selection: Randomized trials of adults with knee OA comparing 2 or more of the following: acetaminophen, diclofenac, ibuprofen, naproxen, celecoxib, intra-articular (IA) corticosteroids, IA hyaluronic acid, oral placebo, and IA placebo.Data Extraction: Two reviewers independently abstracted study data and assessed study quality. Standardized mean differences were calculated for pain, function, and stiffness at 3-month follow-up.Data Synthesis: Network meta-analysis was performed using a Bayesian random-effects model; 137 studies comprising 33,243 participants were identified. For pain, all interventions significantly outperformed oral placebo, with effect sizes from 0.63 (95% credible interval [CrI], 0.39 to 0.88) for the most efficacious treatment (hyaluronic acid) to 0.18 (CrI, 0.04 to 0.33) for the least efficacious treatment (acetaminophen). For function, all interventions except IA corticosteroids were significantly superior to oral placebo. For stiffness, most of the treatments did not significantly differ from one another.Limitation: Lack of long-term data, inadequate reporting of safety data, possible publication bias, and few head-to-head comparisons.Conclusion: This method allowed comparison of common treatments of knee OA according to their relative efficacy. Intra-articular treatments were superior to nonsteroidal anti-inflammatory drugs, possibly because of the integrated IA placebo effect. Small but robust differences were observed between active treatments. All treatments except acetaminophen showed clinically significant improvement from baseline pain. This information, along with the safety profiles and relative costs of included treatments, will be helpful for individualized patient care decisions.Primary Funding Source: Agency for Healthcare Research and Quality.
+JS- Biomedical
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+JS- USA
+SC- Evidence-Based Practice
+IS- 0003-4819
+GI- F32HS021396/HS/AHRQ HHS/United States
+GI- F32 HS021396/HS/AHRQ HHS/United States
+GI- R01 HS018574/HS/AHRQ HHS/United States
+EM- 20150403
+RD- 20161118
+DO- 10.7326/M14-1231
+MD- PMID: 25560713 NLM UID: 0372351
+FT- N
+AN- 103874340
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=103874340&site=ehost-live
+
+11
+TI- Effects of glucose-lowering and multifactorial interventions on cardiovascular and mortality outcomes: a meta-analysis of randomized control trials.
+AU- Seidu, S.
+AU- Davies, M. J.
+AU- Khunti, K.
+AU- Gray, L. J.
+AU- Achana, F. A.
+AF- Leicester Diabetes Centre, Leicester General Hospital
+AF- Diabetes Research Centre, University of Leicester
+AF- Department of Health Sciences, University of Leicester
+AF- Department of Cell Biology, New York University Medical Center, New York, New York, U.S.A
+SO- Diabetic Medicine (DIABETIC MED), 280-289. Mar2016; 33 (3): (10p)
+PT- Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Cardiovascular Diseases -- Mortality
+MJ- Blood Glucose -- Analysis
+MJ- Outcomes (Health Care)
+MH- Diabetes Mellitus
+MH- Meta Analysis
+MH- Human
+MH- Randomized Controlled Trials
+MH- Diabetes Mellitus, Type 2 -- Complications
+MH- Diabetes Mellitus, Type 2 -- Diagnosis
+MH- Treatment Outcomes
+MH- Databases
+MH- Medline
+MH- Embase
+MH- Cochrane Library
+MH- Myocardial Infarction -- Diagnosis
+MH- Data Analysis
+MH- Confidence Intervals
+MH- Mortality
+MH- Data Collection
+MH- Glycemic Control
+MH- Quality Assessment
+MH- Hemoglobin A, Glycosylated -- Blood
+MH- Lipids -- Analysis
+MH- Funding Source
+AB- Introduction The effect of intensive glycaemic control alone or as part of a multifactorial intervention on cardiovascular and mortality outcomes is not fully understood. In addition, the interaction of duration of diabetes diagnosis on cardiovascular and mortality outcomes is unclear. Aim To quantify the effect of intensive treatment (i.e. intensive glucose lowering either alone or as part of a multifactorial intervention) on non-fatal myocardial infarction ( MI), non-fatal stroke, cardiovascular disease ( CV) mortality and all-cause mortality in patients with Type 2 diabetes. A secondary objective was to investigate the association between the treatment effect and trial-level characteristics such as average age, duration of Type 2 diabetes, the percentage male and the baseline event rate. Methods We searched MEDLINE, Embase and the Cochrane Central Register of Controlled Trials without language restrictions from inception to 13 May 2015. We included randomized controlled trials ( RCTs) that evaluated intensive treatment in adult patients with Type 2 diabetes. The review was registered on PROSPERO (registration number 42014013860). We pooled rates across studies using random effects meta-analysis and investigated study-level covariate associations using Bayesian meta-regression. Results A total of 19 RCTs were included: 16 examined non-fatal MI ( n = 79 595), 14 non-fatal stroke ( n = 78 568), 18 cardiovascular mortality ( n = 83 938) and 18 all-cause mortality ( n = 84 266). There was evidence to suggest that compared with standard care, intensive treatment reduced the risk of non-fatal MI [risk ratio ( RR) 0.90, 95% confidence interval ( CI) 0.83-0.96], but not non-fatal stroke ( RR 0.96, 95% CI 0.86-1.07), CV mortality ( RR 1.00, 95% CI 0.90-1.11) or all-cause mortality ( RR 1.00, 95% CI 0.94-1.06). Compared with standard care, multifactorial interventions alone reduced non-fatal stroke ( RR 0.53, 95% CI 0.32-0.0.87) but not non-fatal MI ( RR 0.66, 95% CI 0.38-1.03), CV mortality ( RR 0.72, 95% CI 0.46-1.14) or all-cause mortality ( RR 0.82, 95% CI 0.64-1.05). There was no evidence to suggest that the effect of intensive treatment on cardiovascular and mortality outcomes was associated with mean age, mean duration of Type 2 diabetes and percentage of male patients across trials. There was evidence to suggest that the effectiveness of intensive treatment to reduce mortality outcomes increases as the baseline incidence of cardiovascular mortality [ratio of hazard = 0.82, 95% credible interval (CrI) 0.65-0.99] increased across trials, but not baseline incidence of non-fatal MI, non-fatal stroke and all-cause mortality. Intensive glucose-lowering and multifactorial interventions are predicted to have the desired beneficial effect of reducing CVD mortality in populations where the incidence rate is greater than about 6.3 CVD deaths per 1000 person-years or an average 10-year CVD risk of 6.3%. Conclusions Apart from non-fatal MIs, there was no evidence that intensive glucose-lowering and multifactorial interventions reduced or increased the risk of cardiovascular and mortality outcomes. Intensive glucose-lowering and multifactorial interventions are likely to be beneficial in populations with a higher baseline incidence of CV mortality, but there was no evidence of an association with the mean duration of Type 2 diabetes. Multifactorial interventions had a much greater impact on non-fatal MI and non-fatal strokes. ( PROSPERO registration no.: 42014013860)
+JS- Biomedical
+JS- Europe
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+IS- 0742-3071
+GI- SS, FA, LG, MJD and KK acknowledge support from theNational Institute for Health Research Collaboration forLeadership in Applied Health Research and Care–EastMidlands (NIHR CLAHRC–EM), the Leicester ClinicalTrials Unit and the NIHR Leicester-Loughborough Diet,Lifestyle and Physical Activity Biomedical Research Unit,which is a partnership between University Hospitals ofLeicester NHS Trust, Loughborough University and theUniversity of Leicester.
+EM- 20160217
+RD- 20170301
+DO- 10.1111/dme.12885
+MD- NLM UID: 8500858
+FT- N
+AN- 112902003
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=112902003&site=ehost-live
+
+12
+TI- Bayesian network meta-comparison of maintenance treatments for stage IIIb/IV non-small-cell lung cancer (NSCLC) patients with good performance status not progressing after first-line induction chemotherapy: Results by performance status, EGFR mutation, histology and response to previous induction
+AU- Tan, Pui San
+AU- Lopes, Gilberto
+AU- Acharyya, Sanchalika
+AU- Bilger, Marcel
+AU- Haaland, Benjamin
+AF- Health Services and Systems Research, Duke-NUS Graduate Medical School, Singapore
+AF- Hospital do Coração Cancer Center (HCor Onco), and Research Institute, Brazil
+AF- Centro Paulista de Oncologia, Brazil
+AF- Oncoclinicas do Brasil, Brazil
+AF- Johns Hopkins University, Baltimore, MD, USA
+AF- Centre for Quantitative Medicine, Office of Clinical Sciences, Duke-NUS Graduate Medical School, Singapore
+AF- H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology, USA
+SO- European Journal of Cancer (EUR J CANCER), 2330-2344. Nov2015; 51 (16): (15p)
+PT- Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Carcinoma, Non-Small-Cell Lung -- Drug Therapy
+MJ- Antineoplastic Agents -- Therapeutic Use
+MJ- Decision Making, Clinical
+MH- Medical Practice, Evidence-Based
+MH- Functional Status
+MH- Receptors, Cell Surface
+MH- Mutation
+MH- Carcinoma, Non-Small-Cell Lung -- Pathology
+MH- Survival Analysis
+MH- PubMed
+MH- Systematic Review
+MH- Meta Analysis
+MH- Human
+AB- Background Recent trials have suggested that maintenance treatments improve outcomes for patients not progressing after first-line therapy for advanced non-small-cell lung cancer (NSCLC). However, physicians have little guidance on selecting which patients benefit the most and what drug or regimen is optimal. Here, we report a systematic review and network meta-analysis of maintenance treatments in subgroups determined by performance status (PS), epidermal growth factor receptor (EGFR) mutation, histology and response to induction. Methods PubMed and conference proceedings were reviewed and individual study relative efficacy measures were meta-analysed in a Bayesian hierarchical model. The primary outcome, overall survival (OS), was evaluated in terms of (i) posterior surface under cumulative ranking curve (SUCRA), (ii) probability of being best treatment, (iii) probability of outperforming no maintenance, and (iv) posterior median hazard ratio (95% credible interval). Secondary outcomes were progression-free survival (PFS) and adverse events. Findings Twelve trials evaluating eight maintenance treatments in 3850 patients were meta-analysed. Selected maintenance treatments showed clinically meaningful benefits of ⩾20% reduction in hazards of death with ⩾90% probability of outperforming no maintenance in terms of OS: (i) switch to or continue pemetrexed (nonsquamous), continue gemcitabine, or switch to EGFR tyrosine kinase inhibitors (TKIs) for PS 0 patients, (ii) switch to pemetrexed (nonsquamous) for PS 1 patients, (iii) switch to EGFR TKI for EGFR mutation positive patients, (iv) switch to or continue pemetrexed or switch to EGFR TKI for nonsquamous patients, (v) continue gemcitabine for squamous patients, (vi) switch to docetaxel or continue gemcitabine for responders to induction, or (vii) switch to or continue pemetrexed (nonsquamous) or switch to EGFR TKI for patients with stable disease post-induction. Interpretation Maintenance treatments show clinically meaningful survival benefits in good performance status patients with advanced NSCLC not progressing after first-line chemotherapy. Benefits are optimised by targeting specific maintenance to individual patients guided by PS, EGFR mutation status, histology and response to induction.
+JS- Biomedical
+JS- Blind Peer Reviewed
+JS- Editorial Board Reviewed
+JS- Europe
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+IS- 0959-8049
+EM- 20170907
+RD- 20170907
+DO- 10.1016/j.ejca.2015.07.007
+MD- PMID: 26364517 NLM UID: 9005373
+FT- N
+AN- 110270832
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=110270832&site=ehost-live
+
+13
+TI- Chemoradiotherapy regimens for locoregionally advanced nasopharyngeal carcinoma: A Bayesian network meta-analysis.
+AU- Yan, Marie
+AU- Kumachev, Alexander
+AU- Siu, Lillian L.
+AU- Chan, Kelvin K.W.
+AF- Faculty of Medicine, University of Toronto, 1 King’s College Circle, Toronto, Ontario M5S 1A8, Canada
+AF- Faculty of Medicine, University of Toronto, 1 King’s College Circle, Toronto, Ontario M5S 1A8, Canada; Division of Medical Oncology, Princess Margaret Cancer Centre, 610 University Ave, Toronto, Ontario M5G 2M9, Canada
+AF- Faculty of Medicine, University of Toronto, 1 King’s College Circle, Toronto, Ontario M5S 1A8, Canada; Division of Medical Oncology, Sunnybrook Health Sciences Centre, 2075 Bayview Avenue, Toronto, Ontario M4N 3M5, Canada
+SO- European Journal of Cancer (EUR J CANCER), 1570-1579. Aug2015; 51 (12): (10p)
+PT- Journal Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Nasopharyngeal Neoplasms -- Therapy
+MJ- Antineoplastic Agents -- Therapeutic Use
+MJ- Radiotherapy -- Utilization
+MH- Human
+MH- Systematic Review
+MH- Meta Analysis
+MH- Head and Neck Neoplasms -- Therapy
+MH- Medline
+MH- Embase
+MH- Cochrane Library
+MH- Chemotherapy, Adjuvant
+MH- Neoadjuvant Therapy
+AB- Background Concurrent chemoradiotherapy followed by adjuvant chemotherapy (CRT-A) is often the regimen of choice in locoregionally advanced nasopharyngeal carcinoma (NPC). Many alternative regimens have been reported in the literature, however, it is unknown how effective these regimens are compared to each other due to the lack of direct comparisons. Our objective was to perform a network meta-analysis (NMA) to determine the relative survival benefits of these treatments for locoregionally advanced NPC. Methods We performed a systematic review following the Cochrane methodology, using MEDLINE, EMBASE and CENTRAL to identify all randomised controlled trials (RCTs) that compared different chemoradiotherapy regimens for locoregionally advanced NPC. Overall survival (OS) was the primary outcome of interest, and hazard ratios (HRs) were extracted using the Parmar method. Bayesian NMAs with random effects were conducted using WinBUGS. Results Twenty-five RCTs (5576 patients) were included in this review. All together, these trials compared seven different regimens: radiotherapy (RT), concurrent chemoradiotherapy (CRT), neoadjuvant followed by CRT (N-CRT), CRT-A, RT-A, N-RT and N-RT-A. All regimens that contained CRT performed significantly better than RT. CRT-A did not improve survival compared to CRT alone (0.98; 95% credible regions: 0.71–1.34). For N-CRT versus CRT, the HR was 1.03 (0.69–1.47). When CRT-A was compared against N-CRT, the resulting HR was 0.96 (0.64–1.48). Conclusions Adjuvant chemotherapy does not appear to improve survival following CRT. The efficacies of CRT, CRT-A and N-CRT all appeared to be similar. Further studies are warranted to determine the value of additional chemotherapy phases in specific patient subgroups.
+JS- Biomedical
+JS- Blind Peer Reviewed
+JS- Editorial Board Reviewed
+JS- Europe
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+SC- Oncologic Care
+IS- 0959-8049
+EM- 20150825
+RD- 20150923
+DO- 10.1016/j.ejca.2015.04.027
+MD- PMID: 26044925 NLM UID: 9005373
+FT- N
+AN- 109815620
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=109815620&site=ehost-live
+
+14
+TI- Systematic Literature Review and Network Meta-Analysis Comparing Bone-Targeted Agents for the Prevention of Skeletal-Related Events in Cancer Patients With Bone Metastasis.
+AU- Zhiyu Wang
+AU- Qiao, Dan
+AU- Yaohong Lu
+AU- Curtis, Dana
+AU- Xiaoting Wen
+AU- Yang Yao
+AU- Hui Zhao
+AF- Department of Internal Oncology, Shanghai JiaoTong University Affiliated Sixth People's Hospital, Shanghai, People's Republic of China
+AF- Radiation Oncology, Thomas Jefferson University, Philadelphia, Pennsylvania, USA
+AF- Department of Internal Oncology, Shanghai JiaoTong University Affiliated Sixth People's Hospital, Shanghai, People's Republic of China; Radiation Oncology, Thomas Jefferson University, Philadelphia, Pennsylvania, USA
+SO- Oncologist (ONCOLOGIST), 440-449. Apr2015; 20 (4): (10p)
+PT- Journal Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Bone Metastases -- Complications
+MJ- Cancer Patients
+MJ- Diphosphonates -- Therapeutic Use
+MJ- Antibodies, Monoclonal -- Therapeutic Use
+MJ- Bone Diseases -- Etiology
+MJ- Bone Diseases -- Prevention and Control
+MH- Human
+MH- Systematic Review
+MH- Meta Analysis
+MH- Medline
+MH- Embase
+MH- Cochrane Library
+MH- Descriptive Statistics
+MH- Confidence Intervals
+MH- Odds Ratio
+MH- Data Analysis Software
+MH- Male
+MH- Female
+MH- Adult
+MH- Middle Age
+MH- Aged
+MH- Aged, 80 and Over
+MH- Funding Source
+AB- Background. Complications from skeletal-related events (SREs) constitute a challenge in the care of cancer patients with bone metastasis (BM). Objectives. This study evaluated the comparative effectiveness of pamidronate, ibandronate, zoledronate, and denosumab in reducing the morbidity of SREs in cancer patients with BM. Methods. Medline (1948 to January 2014), Embase (1980 to January 2014), the Cochrane Library (2014 issue 1), and Web of Science with Conference Proceedings (1970 to January 2014) were searched. Only randomized controlled trials assessing denosumab, bisphosphonates, or placebo in cancer patients with BM were included. The primary outcomes were SREs and SREs by type. The network meta-analysis (NMA) was performed with a random-effects Bayesian model. Results. The NMA included 14 trials with 10,192 patients. Denosumab was superior to placebo in reducing the risk of SREs (odds ratio [OR]: 0.49; 95% confidence interval [CI]: 0.31-0.75), followed by zoledronate (OR: 0.57; 95% CI: 0.41-0.77) and pamidronate (OR: 0.55; 95% CI: 0.41-0.72). Ibandronate compared with placebo could not reduce the risk of SREs. Denosumab was superior to placebo in reducing the risk of pathologic fractures (OR: 0.50; 95% CI: 0.32-0.79), followed by zoledronate (OR: 0.61; 95% CI: 0.43-0.86). Denosumab was superior to placebo in reducing the risk of radiation (OR: 0.51; 95% CI: 0.35-0.75), followed by pamidronate (OR: 0.67; 95% CI: 0.52-0.86) and zoledronate (OR: 0.70; 95% CI: 0.52-0.96). Conclusion. This NMA showed that denosumab, zoledronate, and pamidronate were generally effective in preventing SREs in cancer patients with BM. Denosumab and zoledronate were also associated with reductions in the risk of pathologic fractures and radiation compared with placebo. Denosumab was shown to be the most effective of the bone-targeted agents.
+JS- Biomedical
+JS- Blind Peer Reviewed
+JS- Editorial Board Reviewed
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+JS- USA
+SC- Evidence-Based Practice
+SC- Oncologic Care
+IS- 1083-7159
+GI- This study was funded by Natural Science Foundation of China Grant No. 81201628.
+EM- 20150505
+RD- 20150710
+DO- 10.1634/theoncologist.2014-0328
+MD- PMID: 25732263 NLM UID: 9607837
+FT- N
+AN- 103795938
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=103795938&site=ehost-live
+
+15
+TI- A network meta-analysis on comparative efficacy and all-cause discontinuation of antimanic treatments in acute bipolar mania.
+AU- Yildiz, A.
+AU- Nikodem, M.
+AU- Vieta, E.
+AU- Correll, C. U.
+AU- Baldessarini, R. J.
+AF- Department of Psychiatry, Dokuz Eylül University, Izmir, Turkey; International Consortium for Bipolar Disorder Research & Psychopharmacology Program, McLean Division of Massachusetts General Hospital, Boston, MA, USA
+AF- Faculty of Applied Mathematics, AGH University of Science and Technology, Krakow, Poland
+AF- International Consortium for Bipolar Disorder Research & Psychopharmacology Program, McLean Division of Massachusetts General Hospital, Boston, MA, USA; Bipolar Disorders Program, Institute of Clinical Neuroscience, Hospital Clinic, University of Barcelona, IDIBAPS, CIBERSAM, Barcelona, Catalonia, Spain
+AF- Division of Psychiatry Research, Department of Psychiatry, Zucker Hillside Hospital, New York, NY, USA
+AF- International Consortium for Bipolar Disorder Research & Psychopharmacology Program, McLean Division of Massachusetts General Hospital, Boston, MA, USA; Department of Psychiatry, Harvard Medical School Boston, MA, USA
+SO- Psychological Medicine (PSYCHOL MED), 299-317. Jan2015; 45 (2): (19p)
+PT- Journal Article
+PT- equations & formulas
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Bipolar Disorder -- Drug Therapy
+MJ- Treatment Duration
+MJ- Treatment Outcomes
+MH- Human
+MH- Systematic Review
+MH- Meta Analysis
+MH- PubMed
+MH- Embase
+MH- Psycinfo
+MH- Cochrane Library
+MH- Databases
+MH- Bipolar Disorder -- Epidemiology
+MH- Randomized Controlled Trials
+AB- BackgroundEvidence synthesis methods enabling direct and indirect comparisons over the entire set of relevant clinical data produce quantitative point estimates for the treatments contrasts between competing interventions, and provide a hierarchical rank ordering between them. We aimed to provide evidence-based guidance on the efficacy and all-cause discontinuation of antimanic treatments.MethodWe conducted a network meta-analysis within a Bayesian framework. We searched all standard literature databases without language restrictions up to 15 January 2014 to identify reports of short-term, randomized, blinded trials of putative antimanic drugs as monotherapy for adults with bipolar-I mania.ResultsAltogether, 14256 manic patients randomized to one of 18 active treatments or placebo provided 95 direct comparisons on 128 data points. For the primary outcome, standardized mean difference as Hedges’ g (standardized mean difference; SMD), the hierarchies indicated by surface under the cumulative ranking (SUCRA) probabilities were in agreement with the point estimates for all antimanic drugs identified as effective. For the 12 effective antimanic drugs on clinical use, SMDs against placebo ranged from 0.32 to 0.66 without superiority of one over another, except for risperidone v. aripiprazole and valproate. Aripiprazole, olanzapine, quetiapine, risperidone, and valproate had less all-cause discontinuation rates than placebo. Sensitivity analysis by drug class indicated similar efficacy profiles for haloperidol, second-generation antipsychotics, and mood stabilizers.ConclusionsHierarchical rank ordering by comparative efficacy and risk of all-cause discontinuations should help to guide antimanic treatment choices by clinicians, healthcare policy makers, and guideline developers.
+JS- Biomedical
+JS- Europe
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+SC- Psychiatry/Psychology
+IS- 0033-2917
+EM- 20150312
+RD- 20150710
+DO- 10.1017/S0033291714001305
+MD- NLM UID: 1254142
+FT- N
+AN- 103766043
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=103766043&site=ehost-live
+
+16
+TI- Treatments for shoulder impingement syndrome: a PRISMA systematic review and network meta-analysis.
+AU- Dong, Wei
+AU- Goost, Hans
+AU- Lin, Xiang-Bo
+AU- Burger, Christof
+AU- Paul, Christian
+AU- Wang, Zeng-Li
+AU- Zhang, Tian-Yi
+AU- Jiang, Zhi-Chao
+AU- Welle, Kristian
+AU- Kabir, Koroush
+AF- From the Department of Orthopedic and Trauma Surgery (WD, Z-LW, T-YZ), Central Hospital of PetroChina, Langfang, Hebei, China; Department of Orthopedic and Trauma Surgery (WD, CB, KW, KK), University Hospital Bonn, Bonn; Department of Orthopedic and Trauma Surgery (HG), Hospital Wermelskirchen, Wermelskirchen, Germany; Department of Orthopedic and Trauma Surgery (X-BL), Rizhao People's Hospital, Rizhao, Shandong, China; Department of Orthopedic and Trauma Surgery (CP), Evangelic Wald-Krankenhaus, Bonn, Germany; and Department of Fundamental Science (Z-CJ), North China Institute of Aerospace Engineering, Langfang, Hebei, China.
+SO- Medicine (MEDICINE), e510-e510. Mar2015; 94 (11): (1p)
+CM- White Adrian, Langweiler Mark, Meinen Michael. Shoulder impingement. (ACUPUNCTURE MED) Jun2015; 33 (3): 244-244; 103624329
+PT- journal article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- Academic Journal
+LA- English
+MJ- Arthroscopy
+MJ- Shoulder Impingement Syndrome -- Therapy
+MJ- Therapeutic Exercise
+MH- Acupuncture
+MH- Adrenal Cortex Hormones -- Administration and Dosage
+MH- Combined Modality Therapy
+MH- Decompression, Surgical -- Methods
+MH- Human
+MH- Meta Analysis
+MH- Pain Measurement
+MH- Professional Practice, Evidence-Based
+MH- Shoulder Impingement Syndrome -- Surgery
+MH- Systematic Review
+MH- Treatment Outcomes
+MH- Ultrasonic Therapy
+AB- Many treatments for shoulder impingement syndrome (SIS) are available in clinical practice; some of which have already been compared with other treatments by various investigators. However, a comprehensive treatment comparison is lacking. Several widely used electronic databases were searched for eligible studies. The outcome measurements were the pain score and the Constant-Murley score (CMS). Direct comparisons were performed using the conventional pair-wise meta-analysis method, while a network meta-analysis based on the Bayesian model was used to calculate the results of all potentially possible comparisons and rank probabilities. Included in the meta-analysis procedure were 33 randomized controlled trials involving 2300 patients. Good agreement was demonstrated between the results of the pair-wise meta-analyses and the network meta-analyses. Regarding nonoperative treatments, with respect to the pain score, combined treatments composed of exercise and other therapies tended to yield better effects than single-intervention therapies. Localized drug injections that were combined with exercise showed better treatment effects than any other treatments, whereas worse effects were observed when such injections were used alone. Regarding the CMS, most combined treatments based on exercise also demonstrated better effects than exercise alone. Regarding surgical treatments, according to the pain score and the CMS, arthroscopic subacromial decompression (ASD) together with treatments derived from it, such as ASD combined with radiofrequency and arthroscopic bursectomy, showed better effects than open subacromial decompression (OSD) and OSD combined with the injection of platelet-leukocyte gel. Exercise therapy also demonstrated good performance. Results for inconsistency, sensitivity analysis, and meta-regression all supported the robustness and reliability of these network meta-analyses. Exercise and other exercise-based therapies, such as kinesio taping, specific exercises, and acupuncture, are ideal treatments for patients at an early stage of SIS. However, low-level laser therapy and the localized injection of nonsteroidal anti-inflammatory drugs are not recommended. For patients who have a long-term disease course, operative treatments may be considered, with standard ASD surgery preferred over arthroscopic bursectomy and the open surgical technique for subacromial decompression. Notwithstanding, the choice of surgery should be made cautiously because similar outcomes may also be achieved by the implementation of exercise therapy.
+JS- Biomedical
+JS- Editorial Board Reviewed
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+JS- USA
+SC- Evidence-Based Practice
+IS- 0025-7974
+EM- 20150522
+RD- 20151031
+DO- 10.1097/MD.0000000000000510
+MD- PMID: 25761173 NLM UID: 2985248R
+FT- N
+AN- 103769293
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=103769293&site=ehost-live
+
+17
+TI- Comparing the effectiveness of competing tests for reducing colorectal cancer mortality: a network meta-analysis.
+AU- Elmunzer, B. Joseph
+AU- Singal, Amit G.
+AU- Sussman, Jeremy B.
+AU- Deshpande, Amar R.
+AU- Sussman, Daniel A.
+AU- Conte, Marisa L.
+AU- Dwamena, Ben A.
+AU- Rogers, Mary A.M.
+AU- Schoenfeld, Philip S.
+AU- Inadomi, John M.
+AU- Saini, Sameer D.
+AU- Waljee, Akbar K.
+AF- Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan Health System, Ann Arbor, Michigan, USA
+AF- Department of Internal Medicine, Division of Digestive and Liver Diseases and the Harold C. Simmons Cancer Center, University of Texas Southwestern Medical Center, Dallas, Texas, USA
+AF- Center for Clinical Management Research, Ann Arbor Veterans Affairs Healthcare System, Ann Arbor, Michigan, USA; Department of Internal Medicine, Division of General Internal Medicine, University of Michigan Health System, Ann Arbor, Michigan, USA
+AF- Department of Internal Medicine, Division of Gastroenterology, University of Miami Miller School of Medicine, Miami, Florida, USA
+AF- University of Michigan School of Medicine, Ann Arbor, Michigan, USA
+AF- Department of Radiology, Division of Nuclear Medicine, University of Michigan Health System, Ann Arbor, Michigan, USA
+AF- Department of Internal Medicine, Division of General Internal Medicine, University of Michigan Health System, Ann Arbor, Michigan, USA
+AF- Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan Health System, Ann Arbor, Michigan, USA; Center for Clinical Management Research, Ann Arbor Veterans Affairs Healthcare System, Ann Arbor, Michigan, USA
+AF- Department of Medicine, Division of Gastroenterology, University of Washington School of Medicine, Seattle, Washington, USA
+SO- Gastrointestinal Endoscopy (GASTROINTEST ENDOSC), 700-709.e3. Mar2015; 81 (3): (1p)
+PT- Journal Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- tables/charts
+PT- Academic Journal
+LA- English
+MJ- Colorectal Neoplasms -- Mortality
+MH- Human
+MH- Systematic Review
+MH- Meta Analysis
+MH- Sensitivity and Specificity
+MH- Multivariate Analysis
+MH- Relative Risk
+MH- Confidence Intervals
+MH- Randomized Controlled Trials
+AB- Background Comparative effectiveness data pertaining to competing colorectal cancer (CRC) screening tests do not exist but are necessary to guide clinical decision making and policy. Objective To perform a comparative synthesis of clinical outcomes studies evaluating the effects of competing tests on CRC-related mortality. Design Traditional and network meta-analyses. Two reviewers identified studies evaluating the effect of guaiac-based fecal occult blood testing (gFOBT), flexible sigmoidoscopy (FS), or colonoscopy on CRC-related mortality. Interventions gFOBT, FS, colonoscopy. Main Outcome Measurements Traditional meta-analysis was performed to produce pooled estimates of the effect of each modality on CRC mortality. Bayesian network meta-analysis (NMA) was performed to indirectly compare the effectiveness of screening modalities. Multiple sensitivity analyses were performed. Results Traditional meta-analysis revealed that, compared with no intervention, colonoscopy reduced CRC-related mortality by 57% (relative risk [RR] 0.43; 95% confidence interval [CI], 0.33-0.58), whereas FS reduced CRC-related mortality by 40% (RR 0.60; 95% CI, 0.45-0.78), and gFOBT reduced CRC-related mortality by 18% (RR 0.82; 95% CI, 0.76-0.88). NMA demonstrated nonsignificant trends favoring colonoscopy over FS (RR 0.71; 95% CI, 0.45-1.11) and FS over gFOBT (RR 0.74; 95% CI, 0.51-1.09) for reducing CRC-related deaths. NMA-based simulations, however, revealed that colonoscopy has a 94% probability of being the most effective test for reducing CRC mortality and a 99% probability of being most effective when the analysis is restricted to screening studies. Limitations Randomized trials and observational studies were combined within the same analysis. Conclusion Clinical outcomes studies demonstrate that gFOBT, FS, and colonoscopy are all effective in reducing CRC-related mortality. Network meta-analysis suggests that colonoscopy is the most effective test.
+JS- Biomedical
+JS- Double Blind Peer Reviewed
+JS- Editorial Board Reviewed
+JS- Expert Peer Reviewed
+JS- Peer Reviewed
+JS- USA
+SC- Evidence-Based Practice
+SC- Oncologic Care
+SC- Perioperative Care
+IS- 0016-5107
+EM- 20150302
+RD- 20150710
+DO- 10.1016/j.gie.2014.10.033
+MD- PMID: 25708757 NLM UID: 0010505
+FT- N
+AN- 103761924
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=103761924&site=ehost-live
+
+18
+TI- Diagnostic accuracy of endoscopic ultrasonography (EUS) for the preoperative locoregional staging of primary gastric cancer.
+AU- Mocellin S
+AU- Pasquali S
+SO- Cochrane Database of Systematic Reviews (COCHRANE DATABASE SYST REV), N.PAG-N.PAG. 2015; (2): (1p)
+PT- Journal Article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- Database
+LA- English
+MJ- Endosonography
+MJ- Neoplasm Staging
+MJ- Stomach Neoplasms -- Diagnosis
+MH- Cochrane Library
+MH- Confidence Intervals
+MH- Embase
+MH- Human
+MH- Medline
+MH- Meta Analysis
+MH- Sensitivity and Specificity
+AB- Endoscopic ultrasound (EUS) is proposed as an accurate diagnostic device for the locoregional staging of gastric cancer, which is crucial to developing a correct therapeutic strategy and ultimately to providing patients with the best chance of cure. However, despite a number of studies addressing this issue, there is no consensus on the role of EUS in routine clinical practice. To provide both a comprehensive overview and a quantitative analysis of the published data regarding the ability of EUS to preoperatively define the locoregional disease spread (i.e., primary tumor depth (T-stage) and regional lymph node status (N-stage)) in people with primary gastric carcinoma. We performed a systematic search to identify articles that examined the diagnostic accuracy of EUS (the index test) in the evaluation of primary gastric cancer depth of invasion (T-stage, according to the AJCC/UICC TNM staging system categories T1, T2, T3 and T4) and regional lymph node status (N-stage, disease-free (N0) versus metastatic (N+)) using histopathology as the reference standard. To this end, we searched the following databases: the Cochrane Library (the Cochrane Central Register of Controlled Trials (CENTRAL)), MEDLINE, EMBASE, NIHR Prospero Register, MEDION, Aggressive Research Intelligence Facility (ARIF), ClinicalTrials.gov, Current Controlled Trials MetaRegister, and World Health Organization International Clinical Trials Registry Platform (WHO ICTRP), from 1988 to January 2015. We included studies that met the following main inclusion criteria: 1) a minimum sample size of 10 patients with histologically-proven primary carcinoma of the stomach (target condition); 2) comparison of EUS (index test) with pathology evaluation (reference standard) in terms of primary tumor (T-stage) and regional lymph nodes (N-stage). We excluded reports with possible overlap with the selected studies. For each study, two review authors extracted a standard set of data, using a dedicated data extraction form. We assessed data quality using a standard procedure according to the Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) criteria. We performed diagnostic accuracy meta-analysis using the hierarchical bivariate method. We identified 66 articles (published between 1988 and 2012) that were eligible according to the inclusion criteria. We collected the data on 7747 patients with gastric cancer who were staged with EUS. Overall the quality of the included studies was good: in particular, only five studies presented a high risk of index test interpretation bias and two studies presented a high risk of selection bias.For primary tumor (T) stage, results were stratified according to the depth of invasion of the gastric wall. The meta-analysis of 50 studies (n = 4397) showed that the summary sensitivity and specificity of EUS in discriminating T1 to T2 (superficial) versus T3 to T4 (advanced) gastric carcinomas were 0.86 (95% confidence interval (CI) 0.81 to 0.90) and 0.90 (95% CI 0.87 to 0.93) respectively. For the diagnostic capacity of EUS to distinguish T1 (early gastric cancer, EGC) versus T2 (muscle-infiltrating) tumors, the meta-analysis of 46 studies (n = 2742) showed that the summary sensitivity and specificity were 0.85 (95% CI 0.78 to 0.91) and 0.90 (95% CI 0.85 to 0.93) respectively. When we addressed the capacity of EUS to distinguish between T1a (mucosal) versus T1b (submucosal) cancers the meta-analysis of 20 studies (n = 3321) showed that the summary sensitivity and specificity were 0.87 (95% CI 0.81 to 0.92) and 0.75 (95% CI 0.62 to 0.84) respectively. Finally, for the metastatic involvement of lymph nodes (N-stage), the meta-analysis of 44 studies (n = 3573) showed that the summary sensitivity and specificity were 0.83 (95% CI 0.79 to 0.87) and 0.67 (95% CI 0.61 to 0.72), respectively.Overall, as demonstrated also by the Bayesian nomograms, which enable readers to calculate post-test probabilities for any target condition prevalence, the EUS accuracy can be considered clinically useful to guide physicians in the locoregional staging of people with gastric cancer. However, it should be noted that between-study heterogeneity was not negligible: unfortunately, we could not identify any consistent source of the observed heterogeneity. Therefore, all accuracy measures reported in the present work and summarizing the available evidence should be interpreted cautiously. Moreover, we must emphasize that the analysis of positive and negative likelihood values revealed that EUS diagnostic performance cannot be considered optimal either for disease confirmation or for exclusion, especially for the ability of EUS to distinguish T1a (mucosal) versus T1b (submucosal) cancers and positive versus negative lymph node status. By analyzing the data from the largest series ever considered, we found that the diagnostic accuracy of EUS might be considered clinically useful to guide physicians in the locoregional staging of people with gastric carcinoma. However, the heterogeneity of the results warrants special caution, as well as further investigation for the identification of factors influencing the outcome of this diagnostic tool. Moreover, physicians should be warned that EUS performance is lower in diagnosing superficial tumors (T1a versus T1b) and lymph node status (positive versus negative). Overall, we observed large heterogeneity and its source needs to be understood before any definitive conclusion can be drawn about the use of EUS can be proposed in routine clinical settings.[CINAHL Note: The Cochrane Collaboration systematic reviews contain interactive software that allows various calculations in the MetaView.]
+JS- Europe
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+SC- Oncologic Care
+SC- Perioperative Care
+IS- 1469-493X
+CH- CD009944
+EM- 20111014
+RD- 20150923
+MD- PMID: 25914908 NLM UID: 100909747
+FT- N
+AN- 109805501
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=109805501&site=ehost-live
+
+19
+TI- TNF-alpha inhibitors for ankylosing spondylitis.
+AU- Maxwell LJ
+AU- Zochling J
+AU- Boonen A
+AU- Singh JA
+AU- Veras MM
+AU- Tanjong Ghogomu E
+AU- Benkhalti Jandu M
+AU- Tugwell P
+AU- Wells GA
+AU- Maxwell, Lara J
+AU- Zochling, Jane
+AU- Boonen, Annelies
+AU- Singh, Jasvinder A
+AU- Veras, Mirella M S
+AU- Tanjong Ghogomu, Elizabeth
+AU- Benkhalti Jandu, Maria
+AU- Tugwell, Peter
+AU- Wells, George A
+AF- Centre for Practice-Changing Research (CPCR), Ottawa Hospital Research Institute (OHRI), The Ottawa Hospital - General Campus, 501 Smyth Road, Box 711, Ottawa, ON, Canada, K1H 8L6
+SO- Cochrane Database of Systematic Reviews (COCHRANE DATABASE SYST REV), N.PAG-N.PAG. 2015; (4): (1p)
+PT- journal article
+PT- meta analysis
+PT- research
+PT- systematic review
+PT- Database
+LA- English
+MJ- Adalimumab -- Administration and Dosage
+MJ- Etanercept -- Administration and Dosage
+MJ- Golimumab -- Administration and Dosage
+MJ- Infliximab -- Administration and Dosage
+MJ- Spondylitis, Ankylosing -- Drug Therapy
+MH- CINAHL Database
+MH- Cochrane Library
+MH- Confidence Intervals
+MH- Embase
+MH- Human
+MH- Medline
+MH- Odds Ratio
+MH- Relative Risk
+AB- Background: TNF (tumor necrosis factor)-alpha inhibitors block a key protein in the inflammatory chain reaction responsible for joint inflammation, pain, and damage in ankylosing spondylitis.Objectives: To assess the benefit and harms of adalimumab, etanercept, golimumab, and infliximab (TNF-alpha inhibitors) in people with ankylosing spondylitis.Search Methods: We searched the following databases to January 26, 2009: MEDLINE (from 1966); EMBASE (from 1980); the Cochrane Central Register of Controlled Trials (CENTRAL; 2008, Issue 4); ACP Journal Club; CINAHL (from 1982); and ISI Web of Knowledge (from 1900). We ran updated searches in May 2012, October 2013, and in June 2014 for McMaster PLUS. We searched major regulatory agencies for safety warnings and clinicaltrials.gov for registered trials.Selection Criteria: Randomized controlled trials (RCTs) comparing adalimumab, etanercept, golimumab and infliximab to placebo, other drugs or usual care in patients with ankylosing spondylitis, reported in abstract or full-text.Data Collection and Analysis: Two authors independently assessed search results, risk of bias, and extracted data. We conducted Bayesian mixed treatment comparison (MTC) meta-analyses using WinBUGS software. To investigate a class-effect of harms across biologics, we pooled harms data using Review Manager 5.Main Results: We included twenty-one, short-term (24 weeks or less) RCTs with a total of 3308 participants; 18 contributed data to the MTC analysis: adalimumab (4 studies), etanercept (8 studies), golimumab (2 studies), infliximab (3 studies), and one head-to-head study (etanercept versus infliximab) which was unblinded and considered at a higher risk of bias. The risk of selection and detection bias was low or unclear for most of the studies. The risk of selective outcome reporting was low for most studies as they reported on outcomes recommended by the Assessment of SpondyloArthritis international Society. We found little heterogeneity and no significant inconsistency in the MTC analyses. The majority of the studies were funded by pharmaceutical companies. Most studies permitted concomitant therapy of stable doses of disease-modifying anti-rheumatic drugs, non-steroidal anti-inflammatory drugs, or corticosteroids, but allowances varied across studies.Compared with placebo, there was high quality evidence that patients on an anti-TNF agent were three to four times more likely to achieve an ASAS40 response (assessing spinal pain, function, and inflammation, as measured by the mean of intensity and duration of morning stiffness, and patient global assessment) by six months (adalimumab: risk ratio (RR) 3.53, 95% credible interval (Crl) 2.49 to 4.91; etanercept: RR 3.31, 95% Crl 2.38 to 4.53; golimumab: RR 2.90, 95% Crl 1.90 to 4.23; infliximab: RR 4.07, 95% Crl 2.80 to 5.74, with a 25% to 40% absolute difference between treatment and placebo groups. The number needed to treat (NNT) to achieve an ASAS 40 response ranged from 3 to 5.There was high quality evidence of improvement in physical function on a 0 to 10 scale (adalimumab: mean difference (MD) -1.6, 95% Crl -2.2 to -0.9; etanercept: MD -1.1, 95% CrI -1.6 to -0.6; golimumab: MD -1.5, 95% Crl -2.3 to -0.7; infliximab: MD -2.1, 95% Crl -2.7 to -1.4, with an 11% to 21% absolute difference between treatment and placebo groups. The NNT to achieve the minimally clinically important difference of 0.7 points ranged from 2 to 4.Compared with placebo, there was moderate quality evidence (downgraded for imprecision) that patients on an anti-TNF agent were more likely to achieve an ASAS partial remission by six months (adalimumab: RR 6.28, 95% Crl 3.13 to 12.78; etanercept: RR 4.24, 95% Crl 2.31 to 8.09; golimumab: RR 5.18, 95% Crl 1.90 to 14.79; infliximab: RR 15.41, 95% Crl 5.09 to 47.98 with a 10% to 44% absolute difference between treatment and placebo groups. The NNT to achieve an ASAS partial remission response ranged from 3 to 11.There was low to moderate level evidence of a greater reduction in spinal inflammation as measured by magnetic resonance imaging though the absolute differences were small and the clinical relevance of the difference was unclear: adalimumab (1 trial; -6% (95% confidence interval (CI) -12% to 0.05%); 1 trial: 53.6% mean decrease from baseline versus 9.4% mean increase in the placebo group), golimumab (1 trial; -2.5%, (95% CI -5.6% to -0.7%)), and infliximab (1 trial; -3% (95% CI -4% to -2.4%)).Radiographic progression was measured in one trial (N = 60) of etanercept versus placebo and it found that radiologic changes were similar in both groups (detailed data not provided).There were few events of withdrawals due to adverse events leading to imprecision around the estimates. When all the anti-TNF agents were combined against placebo, there was moderate quality evidence from 16 studies of an increased risk of withdrawals due to adverse events in the anti-TNF group (Peto odds ratio (OR) 2.44, 95% CI 1.26 to 4.72; total events: 38/1637 in biologic group; 7/986 in placebo) though the absolute increase in harm was small (1%; 95% CI 0% to 2%).Due to low event rates, evidence of the effect of individual TNF-inhibitors against placebo or for all four biologics pooled together versus placebo on serious adverse events is inconclusive (moderate quality; downgraded for imprecision). For all anti-TNF pooled versus placebo based on 16 studies: Peto OR 1.45, 95% CI 0.85 to 2.48; 51/1530 in biologic group; 18/878 in placebo; absolute difference: 1% (95% CI 0% to 2%).Using indirect comparison methodology, and one head-to-head study of etanercept versus infliximab, wide confidence intervals meant that results were inconclusive for evidence of differences in the major outcomes between different anti-TNF agents. Regulatory agencies have published warnings about rare adverse events of serious infections, including tuberculosis, malignancies and lymphoma.Authors' Conclusions: There is moderate to high quality evidence that anti-TNF agents improve clinical symptoms in the treatment of ankylosing spondylitis. More participants withdrew due to adverse events when on an anti-TNF agent but we did not find evidence of an increase in serious adverse events, though event rates were low and trials had a short duration. The short-term toxicity profile appears acceptable. Based on indirect comparison methodology, we are uncertain whether there are differences between anti-TNF agents in terms of the key benefit or harm outcomes.
+JS- Europe
+JS- Peer Reviewed
+JS- UK & Ireland
+SC- Evidence-Based Practice
+IS- 1469-493X
+CH- CD005468
+EM- 20110107
+RD- 20151022
+DO- 10.1002/14651858.CD005468.pub2
+MD- PMID: 25887212 NLM UID: 100909747
+FT- N
+AN- 109805536
+UR- http://search.ebscohost.com/login.aspx?direct=true&db=jlh&AN=109805536&site=ehost-live
