@@ -1,6 +1,8 @@
 # bayesian-meta-analyses
 Material in the making of the paper "Not enough meta-analyses use Bayesian methods: a scoping review, 2005-2015"
 
+This page contains the programs used to conduct the analyses of the large number of search results in this study. I used R version 3.3.1 and C++11.
+
 Research questions
 -----------
 
